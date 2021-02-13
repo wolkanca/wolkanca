@@ -10,8 +10,8 @@
 - 📫 How to reach me: wolkanca@gmail.com
 
 ## Social
-Twitter: https://twitter.com/wolkanca
-Linkedin: https://www.linkedin.com/in/wolkanca/
+- Twitter: https://twitter.com/wolkanca
+- Linkedin: https://www.linkedin.com/in/wolkanca/
 
 
 
