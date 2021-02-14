@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notepad++’da Regex](https://wolkanca.com.tr/notepadda-regex/)
 - [Sevgililer gününe özel aşk filmleri](https://wolkanca.com.tr/sevgililer-gunune-ozel-ask-filmleri/)
 - [TR yazılımda kadın raporu](https://wolkanca.com.tr/tr-yazilimda-kadin-raporu/)
 - [Google arama koyu tema](https://wolkanca.com.tr/google-arama-koyu-tema/)
@@ -26,5 +27,4 @@
 - [error_log kullanımı [PHP]](https://wolkanca.com.tr/error_log-kullanimi-php/)
 - [2021 Golden Globes adayı filmler nereden izlenir?](https://wolkanca.com.tr/2021-golden-globes-adayi-filmler-nereden-izlenir/)
 - [Ölümünün 17. yılında Cem Karaca](https://wolkanca.com.tr/olumunun-17-yilinda-cem-karaca/)
-- [CSS’de size yardımcı olacak 8 araç](https://wolkanca.com.tr/cssde-size-yardimci-olacak-8-arac/)
 <!-- BLOG-POST-LIST:END -->
