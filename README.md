@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google görsel SEO](https://wolkanca.com.tr/google-gorsel-seo/)
 - [Dünyanın en değerli markaları [2020]](https://wolkanca.com.tr/dunyanin-en-degerli-markalari-2020/)
 - [Notepad++’da Regex](https://wolkanca.com.tr/notepadda-regex/)
 - [Sevgililer gününe özel aşk filmleri](https://wolkanca.com.tr/sevgililer-gunune-ozel-ask-filmleri/)
@@ -26,5 +27,4 @@
 - [Web developer için ücretsiz şeyler](https://wolkanca.com.tr/web-developer-icin-ucretsiz-seyler/)
 - [JavaScript kullanmadan lazy-loading](https://wolkanca.com.tr/javascript-kullanmadan-lazy-loading/)
 - [error_log kullanımı [PHP]](https://wolkanca.com.tr/error_log-kullanimi-php/)
-- [2021 Golden Globes adayı filmler nereden izlenir?](https://wolkanca.com.tr/2021-golden-globes-adayi-filmler-nereden-izlenir/)
 <!-- BLOG-POST-LIST:END -->
