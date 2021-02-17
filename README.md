@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sapları Sıklaştıralım](https://wolkanca.com.tr/saplari-siklastiralim/)
 - [Yorumlardan linkleri temizlemek [WordPress]](https://wolkanca.com.tr/yorumlardan-linkleri-temizlemek-wordpress/)
 - [Google görsel SEO](https://wolkanca.com.tr/google-gorsel-seo/)
 - [Dünyanın en değerli markaları [2020]](https://wolkanca.com.tr/dunyanin-en-degerli-markalari-2020/)
@@ -26,5 +27,4 @@
 - [Google arama koyu tema](https://wolkanca.com.tr/google-arama-koyu-tema/)
 - [En İyi [bana göre]](https://wolkanca.com.tr/en-iyi-bana-gore/)
 - [Web developer için ücretsiz şeyler](https://wolkanca.com.tr/web-developer-icin-ucretsiz-seyler/)
-- [JavaScript kullanmadan lazy-loading](https://wolkanca.com.tr/javascript-kullanmadan-lazy-loading/)
 <!-- BLOG-POST-LIST:END -->
