@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Netflix, Prime Video, BluTV vb. performans incelemesi (2020)](https://wolkanca.com.tr/netflix-prime-video-blutv-vb-performans-incelemesi-2020/)
 - [Sapları Sıklaştıralım](https://wolkanca.com.tr/saplari-siklastiralim/)
 - [Yorumlardan linkleri temizlemek [WordPress]](https://wolkanca.com.tr/yorumlardan-linkleri-temizlemek-wordpress/)
 - [Google görsel SEO](https://wolkanca.com.tr/google-gorsel-seo/)
@@ -26,5 +27,4 @@
 - [TR yazılımda kadın raporu](https://wolkanca.com.tr/tr-yazilimda-kadin-raporu/)
 - [Google arama koyu tema](https://wolkanca.com.tr/google-arama-koyu-tema/)
 - [En İyi [bana göre]](https://wolkanca.com.tr/en-iyi-bana-gore/)
-- [Web developer için ücretsiz şeyler](https://wolkanca.com.tr/web-developer-icin-ucretsiz-seyler/)
 <!-- BLOG-POST-LIST:END -->
