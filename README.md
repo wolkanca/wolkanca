@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Head Over Heels – kısa animasyon film](https://wolkanca.com.tr/head-over-heels-kisa-animasyon-film/)
 - [Mortal Kombat (2021)](https://wolkanca.com.tr/mortal-kombat-2021/)
 - [NASA’nın gezgini Mars’ta](https://wolkanca.com.tr/nasanin-gezgini-marsta/)
 - [Yalnızca CSS ile kar yağışı efekti](https://wolkanca.com.tr/yalnizca-css-ile-kar-yagisi-efekti/)
@@ -26,5 +27,4 @@
 - [Yorumlardan linkleri temizlemek [WordPress]](https://wolkanca.com.tr/yorumlardan-linkleri-temizlemek-wordpress/)
 - [Google görsel SEO](https://wolkanca.com.tr/google-gorsel-seo/)
 - [Dünyanın en değerli markaları [2020]](https://wolkanca.com.tr/dunyanin-en-degerli-markalari-2020/)
-- [Notepad++’da Regex](https://wolkanca.com.tr/notepadda-regex/)
 <!-- BLOG-POST-LIST:END -->
