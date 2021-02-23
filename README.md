@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrollbars gizlemek [CSS]](https://wolkanca.com.tr/scrollbars-gizlemek-css/)
 - [Paylaşımlı hostinglerde time zone değiştirmek](https://wolkanca.com.tr/paylasimli-hostinglerde-time-zone-degistirmek/)
 - [Dünyanın en popüler tüketici markaları](https://wolkanca.com.tr/dunyanin-en-populer-tuketici-markalari/)
 - [Animasyonlu paylaş butonu [HTML/CSS]](https://wolkanca.com.tr/animasyonlu-paylas-butonu-html-css/)
@@ -26,5 +27,4 @@
 - [NASA’nın gezgini Mars’ta](https://wolkanca.com.tr/nasanin-gezgini-marsta/)
 - [Yalnızca CSS ile kar yağışı efekti](https://wolkanca.com.tr/yalnizca-css-ile-kar-yagisi-efekti/)
 - [Localhost’ta HTML/PHP sitesi çalıştırmak](https://wolkanca.com.tr/localhostta-html-php-sitesi-calistirmak/)
-- [Netflix, Prime Video, BluTV vb. performans incelemesi (2020)](https://wolkanca.com.tr/netflix-prime-video-blutv-vb-performans-incelemesi-2020/)
 <!-- BLOG-POST-LIST:END -->
