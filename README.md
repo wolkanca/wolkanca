@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’dan ücretsiz site açmak](https://wolkanca.com.tr/microsoftdan-ucretsiz-site-acmak/)
+- [Twitter Super Follow “Süper Takip”](https://wolkanca.com.tr/twitter-super-follow-super-takip/)
 - [Scrollbars hover göster [CSS]](https://wolkanca.com.tr/scrollbars-hover-goster-css/)
 - [.htaccess ile WordPress girişini korumak](https://wolkanca.com.tr/htaccess-ile-wordpress-girisini-korumak/)
 - [WordPress wp-content hack](https://wolkanca.com.tr/wordpress-wp-content-hack/)
@@ -25,6 +27,4 @@
 - [Dünyanın en popüler tüketici markaları](https://wolkanca.com.tr/dunyanin-en-populer-tuketici-markalari/)
 - [Animasyonlu paylaş butonu [HTML/CSS]](https://wolkanca.com.tr/animasyonlu-paylas-butonu-html-css/)
 - [Kullanıcının IP adresini almak [JavaScript]](https://wolkanca.com.tr/kullanicinin-ip-adresini-almak-javascript/)
-- [Head Over Heels – kısa animasyon film](https://wolkanca.com.tr/head-over-heels-kisa-animasyon-film/)
-- [Mortal Kombat (2021)](https://wolkanca.com.tr/mortal-kombat-2021/)
 <!-- BLOG-POST-LIST:END -->
