@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrollbars hover göster [CSS]](https://wolkanca.com.tr/scrollbars-hover-goster-css/)
 - [.htaccess ile WordPress girişini korumak](https://wolkanca.com.tr/htaccess-ile-wordpress-girisini-korumak/)
 - [WordPress wp-content hack](https://wolkanca.com.tr/wordpress-wp-content-hack/)
 - [Scrollbars gizlemek [CSS]](https://wolkanca.com.tr/scrollbars-gizlemek-css/)
@@ -26,5 +27,4 @@
 - [Kullanıcının IP adresini almak [JavaScript]](https://wolkanca.com.tr/kullanicinin-ip-adresini-almak-javascript/)
 - [Head Over Heels – kısa animasyon film](https://wolkanca.com.tr/head-over-heels-kisa-animasyon-film/)
 - [Mortal Kombat (2021)](https://wolkanca.com.tr/mortal-kombat-2021/)
-- [NASA’nın gezgini Mars’ta](https://wolkanca.com.tr/nasanin-gezgini-marsta/)
 <!-- BLOG-POST-LIST:END -->
