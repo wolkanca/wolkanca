@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sadece CSS ile slideshow yapmak](https://wolkanca.com.tr/sadece-css-ile-slideshow-yapmak/)
 - [Microsoft’dan ücretsiz site açmak](https://wolkanca.com.tr/microsoftdan-ucretsiz-site-acmak/)
 - [Twitter Super Follow “Süper Takip”](https://wolkanca.com.tr/twitter-super-follow-super-takip/)
 - [Scrollbars hover göster [CSS]](https://wolkanca.com.tr/scrollbars-hover-goster-css/)
@@ -26,5 +27,4 @@
 - [Paylaşımlı hostinglerde time zone değiştirmek](https://wolkanca.com.tr/paylasimli-hostinglerde-time-zone-degistirmek/)
 - [Dünyanın en popüler tüketici markaları](https://wolkanca.com.tr/dunyanin-en-populer-tuketici-markalari/)
 - [Animasyonlu paylaş butonu [HTML/CSS]](https://wolkanca.com.tr/animasyonlu-paylas-butonu-html-css/)
-- [Kullanıcının IP adresini almak [JavaScript]](https://wolkanca.com.tr/kullanicinin-ip-adresini-almak-javascript/)
 <!-- BLOG-POST-LIST:END -->
