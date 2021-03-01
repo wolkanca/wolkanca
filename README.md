@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kaliteli teknik makaleler okumak için en iyi 5 kaynak](https://wolkanca.com.tr/kaliteli-teknik-makaleler-okumak-icin-en-iyi-5-kaynak/)
 - [SEO öğrenmek için yol haritası](https://wolkanca.com.tr/seo-ogrenmek-icin-yol-haritasi/)
 - [En iyi internet hız testi siteleri](https://wolkanca.com.tr/en-iyi-internet-hiz-testi-siteleri/)
 - [Sadece CSS ile slideshow yapmak](https://wolkanca.com.tr/sadece-css-ile-slideshow-yapmak/)
@@ -26,5 +27,4 @@
 - [.htaccess ile WordPress girişini korumak](https://wolkanca.com.tr/htaccess-ile-wordpress-girisini-korumak/)
 - [WordPress wp-content hack](https://wolkanca.com.tr/wordpress-wp-content-hack/)
 - [Scrollbars gizlemek [CSS]](https://wolkanca.com.tr/scrollbars-gizlemek-css/)
-- [Paylaşımlı hostinglerde time zone değiştirmek](https://wolkanca.com.tr/paylasimli-hostinglerde-time-zone-degistirmek/)
 <!-- BLOG-POST-LIST:END -->
