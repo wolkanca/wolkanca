@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress site haritasını özelleştirmek](https://wolkanca.com.tr/wordpress-site-haritasini-ozellestirmek/)
 - [Bulunmayan bozuk/broken resimlere CSS dokunuşu](https://wolkanca.com.tr/bulunmayan-bozuk-broken-resimlere-css-dokunusu/)
 - [Kaliteli teknik makaleler okumak için en iyi 5 kaynak](https://wolkanca.com.tr/kaliteli-teknik-makaleler-okumak-icin-en-iyi-5-kaynak/)
 - [SEO öğrenmek için yol haritası](https://wolkanca.com.tr/seo-ogrenmek-icin-yol-haritasi/)
@@ -26,5 +27,4 @@
 - [Twitter Super Follow “Süper Takip”](https://wolkanca.com.tr/twitter-super-follow-super-takip/)
 - [Scrollbars hover göster [CSS]](https://wolkanca.com.tr/scrollbars-hover-goster-css/)
 - [.htaccess ile WordPress girişini korumak](https://wolkanca.com.tr/htaccess-ile-wordpress-girisini-korumak/)
-- [WordPress wp-content hack](https://wolkanca.com.tr/wordpress-wp-content-hack/)
 <!-- BLOG-POST-LIST:END -->
