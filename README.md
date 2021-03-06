@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bir div’i ortalamanın tüm yolları](https://wolkanca.com.tr/bir-divi-ortalamanin-tum-yollari/)
 - [Front End ultimate Cheat sheets](https://wolkanca.com.tr/front-end-ultimate-cheat-sheets/)
 - [WordPress site haritasını özelleştirmek](https://wolkanca.com.tr/wordpress-site-haritasini-ozellestirmek/)
 - [Bulunmayan bozuk/broken resimlere CSS dokunuşu](https://wolkanca.com.tr/bulunmayan-bozuk-broken-resimlere-css-dokunusu/)
@@ -26,5 +27,4 @@
 - [Sadece CSS ile slideshow yapmak](https://wolkanca.com.tr/sadece-css-ile-slideshow-yapmak/)
 - [Microsoft’dan ücretsiz site açmak](https://wolkanca.com.tr/microsoftdan-ucretsiz-site-acmak/)
 - [Twitter Super Follow “Süper Takip”](https://wolkanca.com.tr/twitter-super-follow-super-takip/)
-- [Scrollbars hover göster [CSS]](https://wolkanca.com.tr/scrollbars-hover-goster-css/)
 <!-- BLOG-POST-LIST:END -->
