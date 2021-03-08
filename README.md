@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Belirsizliği Yönetmek — Yeni Çağın Yetkinlikleri](https://wolkanca.com.tr/belirsizligi-yonetmek-yeni-cagin-yetkinlikleri/)
 - [1998’den bu yana Google](https://wolkanca.com.tr/1998den-bu-yana-google/)
 - [Developerların kullandığı 50 kısaltma](https://wolkanca.com.tr/developerlarin-kullandigi-50-kisaltma/)
 - [Aç-kapa checkbox yapmak (HTML+CSS)](https://wolkanca.com.tr/ac-kapa-checkbox-yapmak-htmlcss/)
@@ -26,5 +27,4 @@
 - [Bulunmayan bozuk/broken resimlere CSS dokunuşu](https://wolkanca.com.tr/bulunmayan-bozuk-broken-resimlere-css-dokunusu/)
 - [Kaliteli teknik makaleler okumak için en iyi 5 kaynak](https://wolkanca.com.tr/kaliteli-teknik-makaleler-okumak-icin-en-iyi-5-kaynak/)
 - [SEO öğrenmek için yol haritası](https://wolkanca.com.tr/seo-ogrenmek-icin-yol-haritasi/)
-- [En iyi internet hız testi siteleri](https://wolkanca.com.tr/en-iyi-internet-hiz-testi-siteleri/)
 <!-- BLOG-POST-LIST:END -->
