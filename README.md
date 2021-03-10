@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 5.7 Robots API](https://wolkanca.com.tr/wordpress-5-7-robots-api/)
 - [UI ilhamı almak için 15 web sitesi](https://wolkanca.com.tr/ui-ilhami-almak-icin-15-web-sitesi/)
 - [Belirsizliği Yönetmek — Yeni Çağın Yetkinlikleri](https://wolkanca.com.tr/belirsizligi-yonetmek-yeni-cagin-yetkinlikleri/)
 - [1998’den bu yana Google](https://wolkanca.com.tr/1998den-bu-yana-google/)
@@ -26,5 +27,4 @@
 - [Front End ultimate Cheat sheets](https://wolkanca.com.tr/front-end-ultimate-cheat-sheets/)
 - [WordPress site haritasını özelleştirmek](https://wolkanca.com.tr/wordpress-site-haritasini-ozellestirmek/)
 - [Bulunmayan bozuk/broken resimlere CSS dokunuşu](https://wolkanca.com.tr/bulunmayan-bozuk-broken-resimlere-css-dokunusu/)
-- [Kaliteli teknik makaleler okumak için en iyi 5 kaynak](https://wolkanca.com.tr/kaliteli-teknik-makaleler-okumak-icin-en-iyi-5-kaynak/)
 <!-- BLOG-POST-LIST:END -->
