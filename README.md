@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Resimlere hover ile açıklayıcı metin eklemek](https://wolkanca.com.tr/resimlere-hover-ile-aciklayici-metin-eklemek/)
 - [WordPress 5.7 Robots API](https://wolkanca.com.tr/wordpress-5-7-robots-api/)
 - [UI ilhamı almak için 15 web sitesi](https://wolkanca.com.tr/ui-ilhami-almak-icin-15-web-sitesi/)
 - [Belirsizliği Yönetmek — Yeni Çağın Yetkinlikleri](https://wolkanca.com.tr/belirsizligi-yonetmek-yeni-cagin-yetkinlikleri/)
@@ -26,5 +27,4 @@
 - [Bir div’i ortalamanın tüm yolları](https://wolkanca.com.tr/bir-divi-ortalamanin-tum-yollari/)
 - [Front End ultimate Cheat sheets](https://wolkanca.com.tr/front-end-ultimate-cheat-sheets/)
 - [WordPress site haritasını özelleştirmek](https://wolkanca.com.tr/wordpress-site-haritasini-ozellestirmek/)
-- [Bulunmayan bozuk/broken resimlere CSS dokunuşu](https://wolkanca.com.tr/bulunmayan-bozuk-broken-resimlere-css-dokunusu/)
 <!-- BLOG-POST-LIST:END -->
