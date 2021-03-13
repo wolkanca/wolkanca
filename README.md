@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“NFT’ler” dünyasına hoş geldiniz](https://wolkanca.com.tr/nftler-dunyasina-hos-geldiniz/)
 - [WordPress wp_resource_hints() fonksiyonu](https://wolkanca.com.tr/wordpress-wp_resource_hints-fonksiyonu/)
 - [Resimlere hover ile açıklayıcı metin eklemek](https://wolkanca.com.tr/resimlere-hover-ile-aciklayici-metin-eklemek/)
 - [WordPress 5.7 Robots API](https://wolkanca.com.tr/wordpress-5-7-robots-api/)
@@ -26,5 +27,4 @@
 - [Developerların kullandığı 50 kısaltma](https://wolkanca.com.tr/developerlarin-kullandigi-50-kisaltma/)
 - [Aç-kapa checkbox yapmak (HTML+CSS)](https://wolkanca.com.tr/ac-kapa-checkbox-yapmak-htmlcss/)
 - [Bir div’i ortalamanın tüm yolları](https://wolkanca.com.tr/bir-divi-ortalamanin-tum-yollari/)
-- [Front End ultimate Cheat sheets](https://wolkanca.com.tr/front-end-ultimate-cheat-sheets/)
 <!-- BLOG-POST-LIST:END -->
