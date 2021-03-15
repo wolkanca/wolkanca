@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Sheets’i basit veritabanı olarak kullanmak](https://wolkanca.com.tr/google-sheetsi-basit-veritabani-olarak-kullanmak/)
 - [Google UX Playbooks](https://wolkanca.com.tr/google-ux-playbooks/)
 - [Mansur Yavaş Twitch’de](https://wolkanca.com.tr/mansur-yavas-twitchde/)
 - [WordPress lazy-loading iptal etmek](https://wolkanca.com.tr/wordpress-lazy-loading-iptal-etmek/)
@@ -26,5 +27,4 @@
 - [WordPress 5.7 Robots API](https://wolkanca.com.tr/wordpress-5-7-robots-api/)
 - [UI ilhamı almak için 15 web sitesi](https://wolkanca.com.tr/ui-ilhami-almak-icin-15-web-sitesi/)
 - [Belirsizliği Yönetmek — Yeni Çağın Yetkinlikleri](https://wolkanca.com.tr/belirsizligi-yonetmek-yeni-cagin-yetkinlikleri/)
-- [1998’den bu yana Google](https://wolkanca.com.tr/1998den-bu-yana-google/)
 <!-- BLOG-POST-LIST:END -->
