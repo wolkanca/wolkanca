@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google UX Playbooks](https://wolkanca.com.tr/google-ux-playbooks/)
 - [Mansur Yavaş Twitch’de](https://wolkanca.com.tr/mansur-yavas-twitchde/)
 - [WordPress lazy-loading iptal etmek](https://wolkanca.com.tr/wordpress-lazy-loading-iptal-etmek/)
 - [“NFT’ler” dünyasına hoş geldiniz](https://wolkanca.com.tr/nftler-dunyasina-hos-geldiniz/)
@@ -26,5 +27,4 @@
 - [UI ilhamı almak için 15 web sitesi](https://wolkanca.com.tr/ui-ilhami-almak-icin-15-web-sitesi/)
 - [Belirsizliği Yönetmek — Yeni Çağın Yetkinlikleri](https://wolkanca.com.tr/belirsizligi-yonetmek-yeni-cagin-yetkinlikleri/)
 - [1998’den bu yana Google](https://wolkanca.com.tr/1998den-bu-yana-google/)
-- [Developerların kullandığı 50 kısaltma](https://wolkanca.com.tr/developerlarin-kullandigi-50-kisaltma/)
 <!-- BLOG-POST-LIST:END -->
