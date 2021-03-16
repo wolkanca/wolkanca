@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [100+ adet Altçizgi CSS hover koleksiyonu](https://wolkanca.com.tr/100-adet-altcizgi-css-hover-koleksiyonu/)
 - [JavaScript tarayıcı tam ekran geçişi](https://wolkanca.com.tr/javascript-tarayici-tam-ekran-gecisi/)
 - [Google Sheets’i basit veritabanı olarak kullanmak](https://wolkanca.com.tr/google-sheetsi-basit-veritabani-olarak-kullanmak/)
 - [Google UX Playbooks](https://wolkanca.com.tr/google-ux-playbooks/)
@@ -26,5 +27,4 @@
 - [WordPress wp_resource_hints() fonksiyonu](https://wolkanca.com.tr/wordpress-wp_resource_hints-fonksiyonu/)
 - [Resimlere hover ile açıklayıcı metin eklemek](https://wolkanca.com.tr/resimlere-hover-ile-aciklayici-metin-eklemek/)
 - [WordPress 5.7 Robots API](https://wolkanca.com.tr/wordpress-5-7-robots-api/)
-- [UI ilhamı almak için 15 web sitesi](https://wolkanca.com.tr/ui-ilhami-almak-icin-15-web-sitesi/)
 <!-- BLOG-POST-LIST:END -->
