@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript tarayıcı tam ekran geçişi](https://wolkanca.com.tr/javascript-tarayici-tam-ekran-gecisi/)
 - [Google Sheets’i basit veritabanı olarak kullanmak](https://wolkanca.com.tr/google-sheetsi-basit-veritabani-olarak-kullanmak/)
 - [Google UX Playbooks](https://wolkanca.com.tr/google-ux-playbooks/)
 - [Mansur Yavaş Twitch’de](https://wolkanca.com.tr/mansur-yavas-twitchde/)
@@ -26,5 +27,4 @@
 - [Resimlere hover ile açıklayıcı metin eklemek](https://wolkanca.com.tr/resimlere-hover-ile-aciklayici-metin-eklemek/)
 - [WordPress 5.7 Robots API](https://wolkanca.com.tr/wordpress-5-7-robots-api/)
 - [UI ilhamı almak için 15 web sitesi](https://wolkanca.com.tr/ui-ilhami-almak-icin-15-web-sitesi/)
-- [Belirsizliği Yönetmek — Yeni Çağın Yetkinlikleri](https://wolkanca.com.tr/belirsizligi-yonetmek-yeni-cagin-yetkinlikleri/)
 <!-- BLOG-POST-LIST:END -->
