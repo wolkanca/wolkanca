@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML yazım denetimi özelliği](https://wolkanca.com.tr/html-yazim-denetimi-ozelligi/)
 - [100+ adet Altçizgi CSS hover koleksiyonu](https://wolkanca.com.tr/100-adet-altcizgi-css-hover-koleksiyonu/)
 - [JavaScript tarayıcı tam ekran geçişi](https://wolkanca.com.tr/javascript-tarayici-tam-ekran-gecisi/)
 - [Google Sheets’i basit veritabanı olarak kullanmak](https://wolkanca.com.tr/google-sheetsi-basit-veritabani-olarak-kullanmak/)
@@ -26,5 +27,4 @@
 - [“NFT’ler” dünyasına hoş geldiniz](https://wolkanca.com.tr/nftler-dunyasina-hos-geldiniz/)
 - [WordPress wp_resource_hints() fonksiyonu](https://wolkanca.com.tr/wordpress-wp_resource_hints-fonksiyonu/)
 - [Resimlere hover ile açıklayıcı metin eklemek](https://wolkanca.com.tr/resimlere-hover-ile-aciklayici-metin-eklemek/)
-- [WordPress 5.7 Robots API](https://wolkanca.com.tr/wordpress-5-7-robots-api/)
 <!-- BLOG-POST-LIST:END -->
