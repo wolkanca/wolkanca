@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Göz Açıp Kapayıncaya Kadar” Bir Kahve Belgeseli](https://wolkanca.com.tr/goz-acip-kapayincaya-kadar-bir-kahve-belgeseli/)
 - [HTML meter etiketi](https://wolkanca.com.tr/html-meter-etiketi/)
 - [Bilmediğiniz CSS medya sorguları](https://wolkanca.com.tr/bilmediginiz-css-medya-sorgulari/)
 - [HTML yazım denetimi özelliği](https://wolkanca.com.tr/html-yazim-denetimi-ozelligi/)
@@ -26,5 +27,4 @@
 - [Google UX Playbooks](https://wolkanca.com.tr/google-ux-playbooks/)
 - [Mansur Yavaş Twitch’de](https://wolkanca.com.tr/mansur-yavas-twitchde/)
 - [WordPress lazy-loading iptal etmek](https://wolkanca.com.tr/wordpress-lazy-loading-iptal-etmek/)
-- [“NFT’ler” dünyasına hoş geldiniz](https://wolkanca.com.tr/nftler-dunyasina-hos-geldiniz/)
 <!-- BLOG-POST-LIST:END -->
