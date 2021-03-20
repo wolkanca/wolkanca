@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML meter etiketi](https://wolkanca.com.tr/html-meter-etiketi/)
 - [Bilmediğiniz CSS medya sorguları](https://wolkanca.com.tr/bilmediginiz-css-medya-sorgulari/)
 - [HTML yazım denetimi özelliği](https://wolkanca.com.tr/html-yazim-denetimi-ozelligi/)
 - [100+ adet Altçizgi CSS hover koleksiyonu](https://wolkanca.com.tr/100-adet-altcizgi-css-hover-koleksiyonu/)
@@ -26,5 +27,4 @@
 - [Mansur Yavaş Twitch’de](https://wolkanca.com.tr/mansur-yavas-twitchde/)
 - [WordPress lazy-loading iptal etmek](https://wolkanca.com.tr/wordpress-lazy-loading-iptal-etmek/)
 - [“NFT’ler” dünyasına hoş geldiniz](https://wolkanca.com.tr/nftler-dunyasina-hos-geldiniz/)
-- [WordPress wp_resource_hints() fonksiyonu](https://wolkanca.com.tr/wordpress-wp_resource_hints-fonksiyonu/)
 <!-- BLOG-POST-LIST:END -->
