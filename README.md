@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Akışkan tipografi](https://wolkanca.com.tr/akiskan-tipografi/)
 - [Harvard’dan ücretsiz kurslar](https://wolkanca.com.tr/harvarddan-ucretsiz-kurslar/)
 - [“Göz Açıp Kapayıncaya Kadar” Bir Kahve Belgeseli](https://wolkanca.com.tr/goz-acip-kapayincaya-kadar-bir-kahve-belgeseli/)
 - [HTML meter etiketi](https://wolkanca.com.tr/html-meter-etiketi/)
@@ -26,5 +27,4 @@
 - [JavaScript tarayıcı tam ekran geçişi](https://wolkanca.com.tr/javascript-tarayici-tam-ekran-gecisi/)
 - [Google Sheets’i basit veritabanı olarak kullanmak](https://wolkanca.com.tr/google-sheetsi-basit-veritabani-olarak-kullanmak/)
 - [Google UX Playbooks](https://wolkanca.com.tr/google-ux-playbooks/)
-- [Mansur Yavaş Twitch’de](https://wolkanca.com.tr/mansur-yavas-twitchde/)
 <!-- BLOG-POST-LIST:END -->
