@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pratik ve becerikli olmak](https://wolkanca.com.tr/pratik-ve-becerikli-olmak/)
 - [Akışkan tipografi](https://wolkanca.com.tr/akiskan-tipografi/)
 - [Harvard’dan ücretsiz kurslar](https://wolkanca.com.tr/harvarddan-ucretsiz-kurslar/)
 - [“Göz Açıp Kapayıncaya Kadar” Bir Kahve Belgeseli](https://wolkanca.com.tr/goz-acip-kapayincaya-kadar-bir-kahve-belgeseli/)
@@ -26,5 +27,4 @@
 - [100+ adet Altçizgi CSS hover koleksiyonu](https://wolkanca.com.tr/100-adet-altcizgi-css-hover-koleksiyonu/)
 - [JavaScript tarayıcı tam ekran geçişi](https://wolkanca.com.tr/javascript-tarayici-tam-ekran-gecisi/)
 - [Google Sheets’i basit veritabanı olarak kullanmak](https://wolkanca.com.tr/google-sheetsi-basit-veritabani-olarak-kullanmak/)
-- [Google UX Playbooks](https://wolkanca.com.tr/google-ux-playbooks/)
 <!-- BLOG-POST-LIST:END -->
