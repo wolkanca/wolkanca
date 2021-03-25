@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS ile üçgen yapmak](https://wolkanca.com.tr/css-ile-ucgen-yapmak/)
 - [HUAWEI AppGallery’ye ilk uygulamamı ekledim](https://wolkanca.com.tr/huawei-appgalleryye-ilk-uygulamami-ekledim/)
 - [Pratik ve becerikli olmak](https://wolkanca.com.tr/pratik-ve-becerikli-olmak/)
 - [Akışkan tipografi](https://wolkanca.com.tr/akiskan-tipografi/)
@@ -26,5 +27,4 @@
 - [Bilmediğiniz CSS medya sorguları](https://wolkanca.com.tr/bilmediginiz-css-medya-sorgulari/)
 - [HTML yazım denetimi özelliği](https://wolkanca.com.tr/html-yazim-denetimi-ozelligi/)
 - [100+ adet Altçizgi CSS hover koleksiyonu](https://wolkanca.com.tr/100-adet-altcizgi-css-hover-koleksiyonu/)
-- [JavaScript tarayıcı tam ekran geçişi](https://wolkanca.com.tr/javascript-tarayici-tam-ekran-gecisi/)
 <!-- BLOG-POST-LIST:END -->
