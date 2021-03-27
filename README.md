@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Firefox’ta fare tekerleği sorunu](https://wolkanca.com.tr/firefoxta-fare-tekerlegi-sorunu/)
 - [CSS ile üçgen yapmak](https://wolkanca.com.tr/css-ile-ucgen-yapmak/)
 - [HUAWEI AppGallery’ye ilk uygulamamı ekledim](https://wolkanca.com.tr/huawei-appgalleryye-ilk-uygulamami-ekledim/)
 - [Pratik ve becerikli olmak](https://wolkanca.com.tr/pratik-ve-becerikli-olmak/)
@@ -26,5 +27,4 @@
 - [HTML meter etiketi](https://wolkanca.com.tr/html-meter-etiketi/)
 - [Bilmediğiniz CSS medya sorguları](https://wolkanca.com.tr/bilmediginiz-css-medya-sorgulari/)
 - [HTML yazım denetimi özelliği](https://wolkanca.com.tr/html-yazim-denetimi-ozelligi/)
-- [100+ adet Altçizgi CSS hover koleksiyonu](https://wolkanca.com.tr/100-adet-altcizgi-css-hover-koleksiyonu/)
 <!-- BLOG-POST-LIST:END -->
