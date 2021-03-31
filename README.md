@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getty Images Unsplash’ı satın aldı](https://wolkanca.com.tr/getty-images-unsplashi-satin-aldi/)
 - [Google Ads organik performansı etkiler mi?](https://wolkanca.com.tr/google-ads-organik-performansi-etkiler-mi/)
 - [Wallpaper/Duvar kağıdı koleksiyonum](https://wolkanca.com.tr/wallpaper-duvar-kagidi-koleksiyonum/)
 - [Firefox’ta fare tekerleği sorunu](https://wolkanca.com.tr/firefoxta-fare-tekerlegi-sorunu/)
@@ -26,5 +27,4 @@
 - [Akışkan tipografi](https://wolkanca.com.tr/akiskan-tipografi/)
 - [Harvard’dan ücretsiz kurslar](https://wolkanca.com.tr/harvarddan-ucretsiz-kurslar/)
 - [“Göz Açıp Kapayıncaya Kadar” Bir Kahve Belgeseli](https://wolkanca.com.tr/goz-acip-kapayincaya-kadar-bir-kahve-belgeseli/)
-- [HTML meter etiketi](https://wolkanca.com.tr/html-meter-etiketi/)
 <!-- BLOG-POST-LIST:END -->
