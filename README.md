@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WWDC 21 7/11 Haziran’da](https://wolkanca.com.tr/wwdc-21-7-11-haziranda/)
 - [Getty Images Unsplash’ı satın aldı](https://wolkanca.com.tr/getty-images-unsplashi-satin-aldi/)
 - [Google Ads organik performansı etkiler mi?](https://wolkanca.com.tr/google-ads-organik-performansi-etkiler-mi/)
 - [Wallpaper/Duvar kağıdı koleksiyonum](https://wolkanca.com.tr/wallpaper-duvar-kagidi-koleksiyonum/)
@@ -26,5 +27,4 @@
 - [Pratik ve becerikli olmak](https://wolkanca.com.tr/pratik-ve-becerikli-olmak/)
 - [Akışkan tipografi](https://wolkanca.com.tr/akiskan-tipografi/)
 - [Harvard’dan ücretsiz kurslar](https://wolkanca.com.tr/harvarddan-ucretsiz-kurslar/)
-- [“Göz Açıp Kapayıncaya Kadar” Bir Kahve Belgeseli](https://wolkanca.com.tr/goz-acip-kapayincaya-kadar-bir-kahve-belgeseli/)
 <!-- BLOG-POST-LIST:END -->
