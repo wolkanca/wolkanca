@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wrath of Man’in ilk fragmanı yayınlandı](https://wolkanca.com.tr/wrath-of-manin-ilk-fragmani-yayinlandi/)
 - [Yandex logosunu değiştirdi](https://wolkanca.com.tr/yandex-logosunu-degistirdi/)
 - [WWDC 21 7/11 Haziran’da](https://wolkanca.com.tr/wwdc-21-7-11-haziranda/)
 - [Getty Images Unsplash’ı satın aldı](https://wolkanca.com.tr/getty-images-unsplashi-satin-aldi/)
@@ -26,5 +27,4 @@
 - [CSS ile üçgen yapmak](https://wolkanca.com.tr/css-ile-ucgen-yapmak/)
 - [HUAWEI AppGallery’ye ilk uygulamamı ekledim](https://wolkanca.com.tr/huawei-appgalleryye-ilk-uygulamami-ekledim/)
 - [Pratik ve becerikli olmak](https://wolkanca.com.tr/pratik-ve-becerikli-olmak/)
-- [Akışkan tipografi](https://wolkanca.com.tr/akiskan-tipografi/)
 <!-- BLOG-POST-LIST:END -->
