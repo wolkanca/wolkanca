@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Influencers](https://wolkanca.com.tr/javascript-influencers/)
 - [Wrath of Man’in ilk fragmanı yayınlandı](https://wolkanca.com.tr/wrath-of-manin-ilk-fragmani-yayinlandi/)
 - [Yandex logosunu değiştirdi](https://wolkanca.com.tr/yandex-logosunu-degistirdi/)
 - [WWDC 21 7/11 Haziran’da](https://wolkanca.com.tr/wwdc-21-7-11-haziranda/)
@@ -26,5 +27,4 @@
 - [Firefox’ta fare tekerleği sorunu](https://wolkanca.com.tr/firefoxta-fare-tekerlegi-sorunu/)
 - [CSS ile üçgen yapmak](https://wolkanca.com.tr/css-ile-ucgen-yapmak/)
 - [HUAWEI AppGallery’ye ilk uygulamamı ekledim](https://wolkanca.com.tr/huawei-appgalleryye-ilk-uygulamami-ekledim/)
-- [Pratik ve becerikli olmak](https://wolkanca.com.tr/pratik-ve-becerikli-olmak/)
 <!-- BLOG-POST-LIST:END -->
