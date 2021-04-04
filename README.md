@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn profillerinde tanıtım videoları olacak](https://wolkanca.com.tr/linkedin-profillerinde-tanitim-videolari-olacak/)
 - [Klavye tuşlarının işlevini değiştirmek veya iptal etmek](https://wolkanca.com.tr/klavye-tuslarinin-islevini-degistirmek-veya-iptal-etmek/)
 - [JavaScript Influencers](https://wolkanca.com.tr/javascript-influencers/)
 - [Wrath of Man’in ilk fragmanı yayınlandı](https://wolkanca.com.tr/wrath-of-manin-ilk-fragmani-yayinlandi/)
@@ -26,5 +27,4 @@
 - [Google Ads organik performansı etkiler mi?](https://wolkanca.com.tr/google-ads-organik-performansi-etkiler-mi/)
 - [Wallpaper/Duvar kağıdı koleksiyonum](https://wolkanca.com.tr/wallpaper-duvar-kagidi-koleksiyonum/)
 - [Firefox’ta fare tekerleği sorunu](https://wolkanca.com.tr/firefoxta-fare-tekerlegi-sorunu/)
-- [CSS ile üçgen yapmak](https://wolkanca.com.tr/css-ile-ucgen-yapmak/)
 <!-- BLOG-POST-LIST:END -->
