@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Eğitim siteleri için yapılandırılmış veriler](https://wolkanca.com.tr/egitim-siteleri-icin-yapilandirilmis-veriler/)
 - [Yalnızca HTML ve CSS ile basit F&Q](https://wolkanca.com.tr/yalnizca-html-ve-css-ile-basit-fq/)
 - [LinkedIn profillerinde tanıtım videoları olacak](https://wolkanca.com.tr/linkedin-profillerinde-tanitim-videolari-olacak/)
 - [Klavye tuşlarının işlevini değiştirmek veya iptal etmek](https://wolkanca.com.tr/klavye-tuslarinin-islevini-degistirmek-veya-iptal-etmek/)
@@ -26,5 +27,4 @@
 - [WWDC 21 7/11 Haziran’da](https://wolkanca.com.tr/wwdc-21-7-11-haziranda/)
 - [Getty Images Unsplash’ı satın aldı](https://wolkanca.com.tr/getty-images-unsplashi-satin-aldi/)
 - [Google Ads organik performansı etkiler mi?](https://wolkanca.com.tr/google-ads-organik-performansi-etkiler-mi/)
-- [Wallpaper/Duvar kağıdı koleksiyonum](https://wolkanca.com.tr/wallpaper-duvar-kagidi-koleksiyonum/)
 <!-- BLOG-POST-LIST:END -->
