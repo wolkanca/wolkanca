@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS’de önce mobil mi desktop mı?](https://wolkanca.com.tr/cssde-once-mobil-mi-desktop-mi/)
 - [Windows CMD komut geçmişi](https://wolkanca.com.tr/windows-cmd-komut-gecmisi/)
 - [Eğitim siteleri için yapılandırılmış veriler](https://wolkanca.com.tr/egitim-siteleri-icin-yapilandirilmis-veriler/)
 - [Yalnızca HTML ve CSS ile basit F&Q](https://wolkanca.com.tr/yalnizca-html-ve-css-ile-basit-fq/)
@@ -26,5 +27,4 @@
 - [Wrath of Man’in ilk fragmanı yayınlandı](https://wolkanca.com.tr/wrath-of-manin-ilk-fragmani-yayinlandi/)
 - [Yandex logosunu değiştirdi](https://wolkanca.com.tr/yandex-logosunu-degistirdi/)
 - [WWDC 21 7/11 Haziran’da](https://wolkanca.com.tr/wwdc-21-7-11-haziranda/)
-- [Getty Images Unsplash’ı satın aldı](https://wolkanca.com.tr/getty-images-unsplashi-satin-aldi/)
 <!-- BLOG-POST-LIST:END -->
