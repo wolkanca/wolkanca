@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Neeva arama motoru](https://wolkanca.com.tr/neeva-arama-motoru/)
 - [Google logo history](https://wolkanca.com.tr/google-logo-history/)
 - [CSS’de önce mobil mi desktop mı?](https://wolkanca.com.tr/cssde-once-mobil-mi-desktop-mi/)
 - [Windows CMD komut geçmişi](https://wolkanca.com.tr/windows-cmd-komut-gecmisi/)
@@ -26,5 +27,4 @@
 - [Klavye tuşlarının işlevini değiştirmek veya iptal etmek](https://wolkanca.com.tr/klavye-tuslarinin-islevini-degistirmek-veya-iptal-etmek/)
 - [JavaScript Influencers](https://wolkanca.com.tr/javascript-influencers/)
 - [Wrath of Man’in ilk fragmanı yayınlandı](https://wolkanca.com.tr/wrath-of-manin-ilk-fragmani-yayinlandi/)
-- [Yandex logosunu değiştirdi](https://wolkanca.com.tr/yandex-logosunu-degistirdi/)
 <!-- BLOG-POST-LIST:END -->
