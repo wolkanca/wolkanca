@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [tarih tekerrür – 140journos](https://wolkanca.com.tr/tarih-tekerrur-140journos/)
 - [Neeva arama motoru](https://wolkanca.com.tr/neeva-arama-motoru/)
 - [Google logo history](https://wolkanca.com.tr/google-logo-history/)
 - [CSS’de önce mobil mi desktop mı?](https://wolkanca.com.tr/cssde-once-mobil-mi-desktop-mi/)
@@ -26,5 +27,4 @@
 - [LinkedIn profillerinde tanıtım videoları olacak](https://wolkanca.com.tr/linkedin-profillerinde-tanitim-videolari-olacak/)
 - [Klavye tuşlarının işlevini değiştirmek veya iptal etmek](https://wolkanca.com.tr/klavye-tuslarinin-islevini-degistirmek-veya-iptal-etmek/)
 - [JavaScript Influencers](https://wolkanca.com.tr/javascript-influencers/)
-- [Wrath of Man’in ilk fragmanı yayınlandı](https://wolkanca.com.tr/wrath-of-manin-ilk-fragmani-yayinlandi/)
 <!-- BLOG-POST-LIST:END -->
