@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hızlı ve Öfkeli 9 – Haziran 2021](https://wolkanca.com.tr/hizli-ve-ofkeli-9-haziran-2021/)
 - [CSS ile şifre üretici](https://wolkanca.com.tr/css-ile-sifre-uretici/)
 - [Ülke bayrakları için API](https://wolkanca.com.tr/ulke-bayraklari-icin-api/)
 - [Web siteleriniz için harika 404 temaları](https://wolkanca.com.tr/web-siteleriniz-icin-harika-404-temalari/)
@@ -26,5 +27,4 @@
 - [CSS’de önce mobil mi desktop mı?](https://wolkanca.com.tr/cssde-once-mobil-mi-desktop-mi/)
 - [Windows CMD komut geçmişi](https://wolkanca.com.tr/windows-cmd-komut-gecmisi/)
 - [Eğitim siteleri için yapılandırılmış veriler](https://wolkanca.com.tr/egitim-siteleri-icin-yapilandirilmis-veriler/)
-- [Yalnızca HTML ve CSS ile basit F&Q](https://wolkanca.com.tr/yalnizca-html-ve-css-ile-basit-fq/)
 <!-- BLOG-POST-LIST:END -->
