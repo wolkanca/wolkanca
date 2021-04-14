@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS ile şifre üretici](https://wolkanca.com.tr/css-ile-sifre-uretici/)
 - [Ülke bayrakları için API](https://wolkanca.com.tr/ulke-bayraklari-icin-api/)
 - [Web siteleriniz için harika 404 temaları](https://wolkanca.com.tr/web-siteleriniz-icin-harika-404-temalari/)
 - [tarih tekerrür – 140journos](https://wolkanca.com.tr/tarih-tekerrur-140journos/)
@@ -26,5 +27,4 @@
 - [Windows CMD komut geçmişi](https://wolkanca.com.tr/windows-cmd-komut-gecmisi/)
 - [Eğitim siteleri için yapılandırılmış veriler](https://wolkanca.com.tr/egitim-siteleri-icin-yapilandirilmis-veriler/)
 - [Yalnızca HTML ve CSS ile basit F&Q](https://wolkanca.com.tr/yalnizca-html-ve-css-ile-basit-fq/)
-- [LinkedIn profillerinde tanıtım videoları olacak](https://wolkanca.com.tr/linkedin-profillerinde-tanitim-videolari-olacak/)
 <!-- BLOG-POST-LIST:END -->
