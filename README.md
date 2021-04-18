@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5MB’dan küçük en iyi Android oyunları](https://wolkanca.com.tr/5mbdan-kucuk-en-iyi-android-oyunlari/)
 - [Fullpage.js ile tam sayfa kaydırma](https://wolkanca.com.tr/fullpage-js-ile-tam-sayfa-kaydirma/)
 - [FeedBurner’da yapılacak değişiklikler](https://wolkanca.com.tr/feedburnerda-yapilacak-degisiklikler/)
 - [Hızlı ve Öfkeli 9 – Haziran 2021](https://wolkanca.com.tr/hizli-ve-ofkeli-9-haziran-2021/)
@@ -26,5 +27,4 @@
 - [tarih tekerrür – 140journos](https://wolkanca.com.tr/tarih-tekerrur-140journos/)
 - [Neeva arama motoru](https://wolkanca.com.tr/neeva-arama-motoru/)
 - [Google logo history](https://wolkanca.com.tr/google-logo-history/)
-- [CSS’de önce mobil mi desktop mı?](https://wolkanca.com.tr/cssde-once-mobil-mi-desktop-mi/)
 <!-- BLOG-POST-LIST:END -->
