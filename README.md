@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bir iframe içerisine CSS eklemek](https://wolkanca.com.tr/bir-iframe-icerisine-css-eklemek/)
 - [Kitap okuyarak para kazanmak](https://wolkanca.com.tr/kitap-okuyarak-para-kazanmak/)
 - [5MB’dan küçük en iyi Android oyunları](https://wolkanca.com.tr/5mbdan-kucuk-en-iyi-android-oyunlari/)
 - [Fullpage.js ile tam sayfa kaydırma](https://wolkanca.com.tr/fullpage-js-ile-tam-sayfa-kaydirma/)
@@ -26,5 +27,4 @@
 - [Ülke bayrakları için API](https://wolkanca.com.tr/ulke-bayraklari-icin-api/)
 - [Web siteleriniz için harika 404 temaları](https://wolkanca.com.tr/web-siteleriniz-icin-harika-404-temalari/)
 - [tarih tekerrür – 140journos](https://wolkanca.com.tr/tarih-tekerrur-140journos/)
-- [Neeva arama motoru](https://wolkanca.com.tr/neeva-arama-motoru/)
 <!-- BLOG-POST-LIST:END -->
