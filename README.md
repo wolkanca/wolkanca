@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yeni iMac rengarenk](https://wolkanca.com.tr/yeni-imac-rengarenk/)
 - [Geri sayım uygulaması oluşturmak](https://wolkanca.com.tr/geri-sayim-uygulamasi-olusturmak/)
 - [Bir iframe içerisine CSS eklemek](https://wolkanca.com.tr/bir-iframe-icerisine-css-eklemek/)
 - [Kitap okuyarak para kazanmak](https://wolkanca.com.tr/kitap-okuyarak-para-kazanmak/)
@@ -26,5 +27,4 @@
 - [Hızlı ve Öfkeli 9 – Haziran 2021](https://wolkanca.com.tr/hizli-ve-ofkeli-9-haziran-2021/)
 - [CSS ile şifre üretici](https://wolkanca.com.tr/css-ile-sifre-uretici/)
 - [Ülke bayrakları için API](https://wolkanca.com.tr/ulke-bayraklari-icin-api/)
-- [Web siteleriniz için harika 404 temaları](https://wolkanca.com.tr/web-siteleriniz-icin-harika-404-temalari/)
 <!-- BLOG-POST-LIST:END -->
