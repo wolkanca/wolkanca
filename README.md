@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord kanalıma beklerim](https://wolkanca.com.tr/discord-kanalima-beklerim/)
 - [jQuery ile bir HTML elemanını başka bir yere kopyalamak](https://wolkanca.com.tr/jquery-ile-bir-html-elemanini-baska-bir-yere-kopyalamak/)
 - [23 Nisan 2021](https://wolkanca.com.tr/23-nisan-2021/)
 - [Dünya Kitap Günü](https://wolkanca.com.tr/dunya-kitap-gunu/)
@@ -26,5 +27,4 @@
 - [Kitap okuyarak para kazanmak](https://wolkanca.com.tr/kitap-okuyarak-para-kazanmak/)
 - [5MB’dan küçük en iyi Android oyunları](https://wolkanca.com.tr/5mbdan-kucuk-en-iyi-android-oyunlari/)
 - [Fullpage.js ile tam sayfa kaydırma](https://wolkanca.com.tr/fullpage-js-ile-tam-sayfa-kaydirma/)
-- [FeedBurner’da yapılacak değişiklikler](https://wolkanca.com.tr/feedburnerda-yapilacak-degisiklikler/)
 <!-- BLOG-POST-LIST:END -->
