@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [jQuery ile görüntülenen adres/domain sorgulama](https://wolkanca.com.tr/jquery-ile-goruntulenen-adres-domain-sorgulama/)
 - [JavaScript date gün sonra ayarlamak](https://wolkanca.com.tr/javascript-date-gun-sonra-ayarlamak/)
 - [Discord kanalıma beklerim](https://wolkanca.com.tr/discord-kanalima-beklerim/)
 - [jQuery ile bir HTML elemanını başka bir yere kopyalamak](https://wolkanca.com.tr/jquery-ile-bir-html-elemanini-baska-bir-yere-kopyalamak/)
@@ -26,5 +27,4 @@
 - [Geri sayım uygulaması oluşturmak](https://wolkanca.com.tr/geri-sayim-uygulamasi-olusturmak/)
 - [Bir iframe içerisine CSS eklemek](https://wolkanca.com.tr/bir-iframe-icerisine-css-eklemek/)
 - [Kitap okuyarak para kazanmak](https://wolkanca.com.tr/kitap-okuyarak-para-kazanmak/)
-- [5MB’dan küçük en iyi Android oyunları](https://wolkanca.com.tr/5mbdan-kucuk-en-iyi-android-oyunlari/)
 <!-- BLOG-POST-LIST:END -->
