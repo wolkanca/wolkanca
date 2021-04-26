@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tarih formatı JavaScript](https://wolkanca.com.tr/tarih-formati-javascript/)
 - [jQuery ile görüntülenen adres/domain sorgulama](https://wolkanca.com.tr/jquery-ile-goruntulenen-adres-domain-sorgulama/)
 - [JavaScript date gün sonra ayarlamak](https://wolkanca.com.tr/javascript-date-gun-sonra-ayarlamak/)
 - [Discord kanalıma beklerim](https://wolkanca.com.tr/discord-kanalima-beklerim/)
@@ -26,5 +27,4 @@
 - [Yeni iMac rengarenk](https://wolkanca.com.tr/yeni-imac-rengarenk/)
 - [Geri sayım uygulaması oluşturmak](https://wolkanca.com.tr/geri-sayim-uygulamasi-olusturmak/)
 - [Bir iframe içerisine CSS eklemek](https://wolkanca.com.tr/bir-iframe-icerisine-css-eklemek/)
-- [Kitap okuyarak para kazanmak](https://wolkanca.com.tr/kitap-okuyarak-para-kazanmak/)
 <!-- BLOG-POST-LIST:END -->
