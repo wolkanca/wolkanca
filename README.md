@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WooCommerce sepette maksimum ürün sayısını belirlemek](https://wolkanca.com.tr/woocommerce-sepette-maksimum-urun-sayisini-belirlemek/)
 - [WooCommerce ürün tipine göre body class eklemek](https://wolkanca.com.tr/woocommerce-urun-tipine-gore-body-class-eklemek/)
 - [Askıda Kod](https://wolkanca.com.tr/askida-kod/)
 - [Tarih formatı JavaScript](https://wolkanca.com.tr/tarih-formati-javascript/)
@@ -26,5 +27,4 @@
 - [jQuery ile bir HTML elemanını başka bir yere kopyalamak](https://wolkanca.com.tr/jquery-ile-bir-html-elemanini-baska-bir-yere-kopyalamak/)
 - [23 Nisan 2021](https://wolkanca.com.tr/23-nisan-2021/)
 - [Dünya Kitap Günü](https://wolkanca.com.tr/dunya-kitap-gunu/)
-- [Yeni iMac rengarenk](https://wolkanca.com.tr/yeni-imac-rengarenk/)
 <!-- BLOG-POST-LIST:END -->
