@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress kullanıcı rolüne göre fonksiyon](https://wolkanca.com.tr/wordpress-kullanici-rolune-gore-fonksiyon/)
 - [PHP readfile için User-Agent kullanmak](https://wolkanca.com.tr/php-readfile-icin-user-agent-kullanmak/)
 - [Geri sayım 2020 Chrome uzantısı çıktı](https://wolkanca.com.tr/geri-sayim-2020-chrome-uzantisi-cikti/)
 - [WordPress default title separator](https://wolkanca.com.tr/wordpress-default-title-separator/)
@@ -26,5 +27,4 @@
 - [Askıda Kod](https://wolkanca.com.tr/askida-kod/)
 - [Tarih formatı JavaScript](https://wolkanca.com.tr/tarih-formati-javascript/)
 - [jQuery ile görüntülenen adres/domain sorgulama](https://wolkanca.com.tr/jquery-ile-goruntulenen-adres-domain-sorgulama/)
-- [JavaScript date gün sonra ayarlamak](https://wolkanca.com.tr/javascript-date-gun-sonra-ayarlamak/)
 <!-- BLOG-POST-LIST:END -->
