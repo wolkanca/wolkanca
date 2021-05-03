@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dexter tanıtım videosu yayınlandı “Misunderstood”](https://wolkanca.com.tr/dexter-tanitim-videosu-yayinlandi-misunderstood/)
 - [WordPress kullanıcı rolüne göre fonksiyon](https://wolkanca.com.tr/wordpress-kullanici-rolune-gore-fonksiyon/)
 - [PHP readfile için User-Agent kullanmak](https://wolkanca.com.tr/php-readfile-icin-user-agent-kullanmak/)
 - [Geri sayım 2020 Chrome uzantısı çıktı](https://wolkanca.com.tr/geri-sayim-2020-chrome-uzantisi-cikti/)
@@ -26,5 +27,4 @@
 - [WooCommerce ürün tipine göre body class eklemek](https://wolkanca.com.tr/woocommerce-urun-tipine-gore-body-class-eklemek/)
 - [Askıda Kod](https://wolkanca.com.tr/askida-kod/)
 - [Tarih formatı JavaScript](https://wolkanca.com.tr/tarih-formati-javascript/)
-- [jQuery ile görüntülenen adres/domain sorgulama](https://wolkanca.com.tr/jquery-ile-goruntulenen-adres-domain-sorgulama/)
 <!-- BLOG-POST-LIST:END -->
