@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Türkçe Slugify URL](https://wolkanca.com.tr/turkce-slugify-url/)
 - [Dexter tanıtım videosu yayınlandı “Misunderstood”](https://wolkanca.com.tr/dexter-tanitim-videosu-yayinlandi-misunderstood/)
 - [WordPress kullanıcı rolüne göre fonksiyon](https://wolkanca.com.tr/wordpress-kullanici-rolune-gore-fonksiyon/)
 - [PHP readfile için User-Agent kullanmak](https://wolkanca.com.tr/php-readfile-icin-user-agent-kullanmak/)
@@ -26,5 +27,4 @@
 - [WooCommerce sepette maksimum ürün sayısını belirlemek](https://wolkanca.com.tr/woocommerce-sepette-maksimum-urun-sayisini-belirlemek/)
 - [WooCommerce ürün tipine göre body class eklemek](https://wolkanca.com.tr/woocommerce-urun-tipine-gore-body-class-eklemek/)
 - [Askıda Kod](https://wolkanca.com.tr/askida-kod/)
-- [Tarih formatı JavaScript](https://wolkanca.com.tr/tarih-formati-javascript/)
 <!-- BLOG-POST-LIST:END -->
