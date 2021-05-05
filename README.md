@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rastgele renk, JavaScript](https://wolkanca.com.tr/rastgele-renk-javascript/)
 - [DeLonghi ICM2.1B Filtre Kahve Makinesi deneyimlerim](https://wolkanca.com.tr/delonghi-icm2-1b-filtre-kahve-makinesi-deneyimlerim/)
 - [Türkçe Slugify URL](https://wolkanca.com.tr/turkce-slugify-url/)
 - [Dexter tanıtım videosu yayınlandı “Misunderstood”](https://wolkanca.com.tr/dexter-tanitim-videosu-yayinlandi-misunderstood/)
@@ -26,5 +27,4 @@
 - [WordPress default title separator](https://wolkanca.com.tr/wordpress-default-title-separator/)
 - [Adblock vb. için  bir hack](https://wolkanca.com.tr/adblock-vb-icin-bir-hack/)
 - [WooCommerce sepette maksimum ürün sayısını belirlemek](https://wolkanca.com.tr/woocommerce-sepette-maksimum-urun-sayisini-belirlemek/)
-- [WooCommerce ürün tipine göre body class eklemek](https://wolkanca.com.tr/woocommerce-urun-tipine-gore-body-class-eklemek/)
 <!-- BLOG-POST-LIST:END -->
