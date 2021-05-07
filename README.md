@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Tip Jar başlıyor](https://wolkanca.com.tr/twitter-tip-jar-basliyor/)
 - [Rastgele renk, JavaScript](https://wolkanca.com.tr/rastgele-renk-javascript/)
 - [DeLonghi ICM2.1B Filtre Kahve Makinesi deneyimlerim](https://wolkanca.com.tr/delonghi-icm2-1b-filtre-kahve-makinesi-deneyimlerim/)
 - [Türkçe Slugify URL](https://wolkanca.com.tr/turkce-slugify-url/)
@@ -26,5 +27,4 @@
 - [Geri sayım 2020 Chrome uzantısı çıktı](https://wolkanca.com.tr/geri-sayim-2020-chrome-uzantisi-cikti/)
 - [WordPress default title separator](https://wolkanca.com.tr/wordpress-default-title-separator/)
 - [Adblock vb. için  bir hack](https://wolkanca.com.tr/adblock-vb-icin-bir-hack/)
-- [WooCommerce sepette maksimum ürün sayısını belirlemek](https://wolkanca.com.tr/woocommerce-sepette-maksimum-urun-sayisini-belirlemek/)
 <!-- BLOG-POST-LIST:END -->
