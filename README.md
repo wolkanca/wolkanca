@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Türkiye’de Z kuşağı trendleri](https://wolkanca.com.tr/turkiyede-z-kusagi-trendleri/)
 - [HTML ve CSS ile Özel Onay Kutuları](https://wolkanca.com.tr/html-ve-css-ile-ozel-onay-kutulari/)
 - [Vibration API kullanımı](https://wolkanca.com.tr/vibration-api-kullanimi/)
 - [Twitter Tip Jar başlıyor](https://wolkanca.com.tr/twitter-tip-jar-basliyor/)
@@ -26,5 +27,4 @@
 - [Dexter tanıtım videosu yayınlandı “Misunderstood”](https://wolkanca.com.tr/dexter-tanitim-videosu-yayinlandi-misunderstood/)
 - [WordPress kullanıcı rolüne göre fonksiyon](https://wolkanca.com.tr/wordpress-kullanici-rolune-gore-fonksiyon/)
 - [PHP readfile için User-Agent kullanmak](https://wolkanca.com.tr/php-readfile-icin-user-agent-kullanmak/)
-- [Geri sayım 2020 Chrome uzantısı çıktı](https://wolkanca.com.tr/geri-sayim-2020-chrome-uzantisi-cikti/)
 <!-- BLOG-POST-LIST:END -->
