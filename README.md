@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML ve CSS ile Özel Onay Kutuları](https://wolkanca.com.tr/html-ve-css-ile-ozel-onay-kutulari/)
 - [Vibration API kullanımı](https://wolkanca.com.tr/vibration-api-kullanimi/)
 - [Twitter Tip Jar başlıyor](https://wolkanca.com.tr/twitter-tip-jar-basliyor/)
 - [Rastgele renk, JavaScript](https://wolkanca.com.tr/rastgele-renk-javascript/)
@@ -26,5 +27,4 @@
 - [WordPress kullanıcı rolüne göre fonksiyon](https://wolkanca.com.tr/wordpress-kullanici-rolune-gore-fonksiyon/)
 - [PHP readfile için User-Agent kullanmak](https://wolkanca.com.tr/php-readfile-icin-user-agent-kullanmak/)
 - [Geri sayım 2020 Chrome uzantısı çıktı](https://wolkanca.com.tr/geri-sayim-2020-chrome-uzantisi-cikti/)
-- [WordPress default title separator](https://wolkanca.com.tr/wordpress-default-title-separator/)
 <!-- BLOG-POST-LIST:END -->
