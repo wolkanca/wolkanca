@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript tarayıcı algılama](https://wolkanca.com.tr/javascript-tarayici-algilama/)
 - [Kılıçdaroğlu #KKHA olur gibi](https://wolkanca.com.tr/kilicdaroglu-kkha-olur-gibi/)
 - [Bir URL’e 404 atamak [.htaccess]](https://wolkanca.com.tr/bir-urle-404-atamak-htaccess/)
 - [Türkiye’de Z kuşağı trendleri](https://wolkanca.com.tr/turkiyede-z-kusagi-trendleri/)
@@ -26,5 +27,4 @@
 - [Rastgele renk, JavaScript](https://wolkanca.com.tr/rastgele-renk-javascript/)
 - [DeLonghi ICM2.1B Filtre Kahve Makinesi deneyimlerim](https://wolkanca.com.tr/delonghi-icm2-1b-filtre-kahve-makinesi-deneyimlerim/)
 - [Türkçe Slugify URL](https://wolkanca.com.tr/turkce-slugify-url/)
-- [Dexter tanıtım videosu yayınlandı “Misunderstood”](https://wolkanca.com.tr/dexter-tanitim-videosu-yayinlandi-misunderstood/)
 <!-- BLOG-POST-LIST:END -->
