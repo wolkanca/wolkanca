@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [100 adet CSS loading](https://wolkanca.com.tr/100-adet-css-loading/)
 - [CSS Content ve attr()](https://wolkanca.com.tr/css-content-ve-attr/)
 - [Twitter DM’de sesli mesajlaşma](https://wolkanca.com.tr/twitter-dmde-sesli-mesajlasma/)
 - [JavaScript tarayıcı algılama](https://wolkanca.com.tr/javascript-tarayici-algilama/)
@@ -26,5 +27,4 @@
 - [HTML ve CSS ile Özel Onay Kutuları](https://wolkanca.com.tr/html-ve-css-ile-ozel-onay-kutulari/)
 - [Vibration API kullanımı](https://wolkanca.com.tr/vibration-api-kullanimi/)
 - [Twitter Tip Jar başlıyor](https://wolkanca.com.tr/twitter-tip-jar-basliyor/)
-- [Rastgele renk, JavaScript](https://wolkanca.com.tr/rastgele-renk-javascript/)
 <!-- BLOG-POST-LIST:END -->
