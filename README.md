@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [1 pencere yüksekliği kaydırıldığında – JS](https://wolkanca.com.tr/1-pencere-yuksekligi-kaydirildiginda-js/)
 - [100 adet CSS loading](https://wolkanca.com.tr/100-adet-css-loading/)
 - [CSS Content ve attr()](https://wolkanca.com.tr/css-content-ve-attr/)
 - [Twitter DM’de sesli mesajlaşma](https://wolkanca.com.tr/twitter-dmde-sesli-mesajlasma/)
@@ -26,5 +27,4 @@
 - [Türkiye’de Z kuşağı trendleri](https://wolkanca.com.tr/turkiyede-z-kusagi-trendleri/)
 - [HTML ve CSS ile Özel Onay Kutuları](https://wolkanca.com.tr/html-ve-css-ile-ozel-onay-kutulari/)
 - [Vibration API kullanımı](https://wolkanca.com.tr/vibration-api-kullanimi/)
-- [Twitter Tip Jar başlıyor](https://wolkanca.com.tr/twitter-tip-jar-basliyor/)
 <!-- BLOG-POST-LIST:END -->
