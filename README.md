@@ -28,3 +28,6 @@
 - [Bir URL’e 404 atamak [.htaccess]](https://wolkanca.com.tr/bir-urle-404-atamak-htaccess/)
 - [Türkiye’de Z kuşağı trendleri](https://wolkanca.com.tr/turkiyede-z-kusagi-trendleri/)
 <!-- BLOG-POST-LIST:END -->
+
+
+[Volkan Yılmaz](https://volkanyilmaz.com.tr/) - [wolkanca](https://wolkanca.com.tr/)
