@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Görev zamanlayıcıda PowerShell](https://wolkanca.com.tr/windows-gorev-zamanlayicida-powershell/)
 - [Ekrem İmamoğlu da Twitch’de](https://wolkanca.com.tr/ekrem-imamoglu-da-twitchde/)
 - [1 pencere yüksekliği kaydırıldığında – JS](https://wolkanca.com.tr/1-pencere-yuksekligi-kaydirildiginda-js/)
 - [100 adet CSS loading](https://wolkanca.com.tr/100-adet-css-loading/)
@@ -26,5 +27,4 @@
 - [Kılıçdaroğlu #KKHA olur gibi](https://wolkanca.com.tr/kilicdaroglu-kkha-olur-gibi/)
 - [Bir URL’e 404 atamak [.htaccess]](https://wolkanca.com.tr/bir-urle-404-atamak-htaccess/)
 - [Türkiye’de Z kuşağı trendleri](https://wolkanca.com.tr/turkiyede-z-kusagi-trendleri/)
-- [HTML ve CSS ile Özel Onay Kutuları](https://wolkanca.com.tr/html-ve-css-ile-ozel-onay-kutulari/)
 <!-- BLOG-POST-LIST:END -->
