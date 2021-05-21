@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [cURL ile son konumu almak](https://wolkanca.com.tr/curl-ile-son-konumu-almak/)
 - [Windows PowerShell geçmişini temizlemek](https://wolkanca.com.tr/windows-powershell-gecmisini-temizlemek/)
 - [Windows Görev zamanlayıcıda PowerShell](https://wolkanca.com.tr/windows-gorev-zamanlayicida-powershell/)
 - [Ekrem İmamoğlu da Twitch’de](https://wolkanca.com.tr/ekrem-imamoglu-da-twitchde/)
@@ -26,7 +27,6 @@
 - [Twitter DM’de sesli mesajlaşma](https://wolkanca.com.tr/twitter-dmde-sesli-mesajlasma/)
 - [JavaScript tarayıcı algılama](https://wolkanca.com.tr/javascript-tarayici-algilama/)
 - [Kılıçdaroğlu #KKHA olur gibi](https://wolkanca.com.tr/kilicdaroglu-kkha-olur-gibi/)
-- [Bir URL’e 404 atamak [.htaccess]](https://wolkanca.com.tr/bir-urle-404-atamak-htaccess/)
 <!-- BLOG-POST-LIST:END -->
 
 
