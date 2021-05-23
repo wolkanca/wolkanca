@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İyi ki doğdun Pac-Man](https://wolkanca.com.tr/iyi-ki-dogdun-pac-man/)
 - [GoDaddy paylaşımlı hostinglerde PHP 8 kullanılabilir](https://wolkanca.com.tr/godaddy-paylasimli-hostinglerde-php-8-kullanilabilir/)
 - [cURL ile son konumu almak](https://wolkanca.com.tr/curl-ile-son-konumu-almak/)
 - [Windows PowerShell geçmişini temizlemek](https://wolkanca.com.tr/windows-powershell-gecmisini-temizlemek/)
@@ -26,7 +27,6 @@
 - [100 adet CSS loading](https://wolkanca.com.tr/100-adet-css-loading/)
 - [CSS Content ve attr()](https://wolkanca.com.tr/css-content-ve-attr/)
 - [Twitter DM’de sesli mesajlaşma](https://wolkanca.com.tr/twitter-dmde-sesli-mesajlasma/)
-- [JavaScript tarayıcı algılama](https://wolkanca.com.tr/javascript-tarayici-algilama/)
 <!-- BLOG-POST-LIST:END -->
 
 
