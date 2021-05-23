@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GoDaddy paylaşımlı hostinglerde PHP 8 kullanılabilir](https://wolkanca.com.tr/godaddy-paylasimli-hostinglerde-php-8-kullanilabilir/)
 - [cURL ile son konumu almak](https://wolkanca.com.tr/curl-ile-son-konumu-almak/)
 - [Windows PowerShell geçmişini temizlemek](https://wolkanca.com.tr/windows-powershell-gecmisini-temizlemek/)
 - [Windows Görev zamanlayıcıda PowerShell](https://wolkanca.com.tr/windows-gorev-zamanlayicida-powershell/)
@@ -26,7 +27,6 @@
 - [CSS Content ve attr()](https://wolkanca.com.tr/css-content-ve-attr/)
 - [Twitter DM’de sesli mesajlaşma](https://wolkanca.com.tr/twitter-dmde-sesli-mesajlasma/)
 - [JavaScript tarayıcı algılama](https://wolkanca.com.tr/javascript-tarayici-algilama/)
-- [Kılıçdaroğlu #KKHA olur gibi](https://wolkanca.com.tr/kilicdaroglu-kkha-olur-gibi/)
 <!-- BLOG-POST-LIST:END -->
 
 
