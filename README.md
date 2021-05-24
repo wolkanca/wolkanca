@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Developers Learn CSS](https://wolkanca.com.tr/google-developers-learn-css/)
 - [Sedat Peker – Sedatflix](https://wolkanca.com.tr/sedat-peker-sedatflix/)
 - [İyi ki doğdun Pac-Man](https://wolkanca.com.tr/iyi-ki-dogdun-pac-man/)
 - [GoDaddy paylaşımlı hostinglerde PHP 8 kullanılabilir](https://wolkanca.com.tr/godaddy-paylasimli-hostinglerde-php-8-kullanilabilir/)
@@ -26,7 +27,6 @@
 - [Ekrem İmamoğlu da Twitch’de](https://wolkanca.com.tr/ekrem-imamoglu-da-twitchde/)
 - [1 pencere yüksekliği kaydırıldığında – JS](https://wolkanca.com.tr/1-pencere-yuksekligi-kaydirildiginda-js/)
 - [100 adet CSS loading](https://wolkanca.com.tr/100-adet-css-loading/)
-- [CSS Content ve attr()](https://wolkanca.com.tr/css-content-ve-attr/)
 <!-- BLOG-POST-LIST:END -->
 
 
