@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript, CSS ve (X) HTML varlıkları numeric order](https://wolkanca.com.tr/javascript-css-ve-x-html-varliklari-numeric-order/)
 - [Sina Ateş Çizimleri](https://wolkanca.com.tr/sina-ates-cizimleri/)
 - [Google Developers Learn CSS](https://wolkanca.com.tr/google-developers-learn-css/)
 - [Sedat Peker – Sedatflix](https://wolkanca.com.tr/sedat-peker-sedatflix/)
@@ -26,7 +27,6 @@
 - [Windows PowerShell geçmişini temizlemek](https://wolkanca.com.tr/windows-powershell-gecmisini-temizlemek/)
 - [Windows Görev zamanlayıcıda PowerShell](https://wolkanca.com.tr/windows-gorev-zamanlayicida-powershell/)
 - [Ekrem İmamoğlu da Twitch’de](https://wolkanca.com.tr/ekrem-imamoglu-da-twitchde/)
-- [1 pencere yüksekliği kaydırıldığında – JS](https://wolkanca.com.tr/1-pencere-yuksekligi-kaydirildiginda-js/)
 <!-- BLOG-POST-LIST:END -->
 
 
