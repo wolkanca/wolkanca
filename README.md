@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sözlük: Dijital Terimler / Digital Terms](https://wolkanca.com.tr/sozluk-dijital-terimler-digital-terms/)
 - [JavaScript, CSS ve (X) HTML varlıkları numeric order](https://wolkanca.com.tr/javascript-css-ve-x-html-varliklari-numeric-order/)
 - [Sina Ateş Çizimleri](https://wolkanca.com.tr/sina-ates-cizimleri/)
 - [Google Developers Learn CSS](https://wolkanca.com.tr/google-developers-learn-css/)
@@ -26,7 +27,6 @@
 - [cURL ile son konumu almak](https://wolkanca.com.tr/curl-ile-son-konumu-almak/)
 - [Windows PowerShell geçmişini temizlemek](https://wolkanca.com.tr/windows-powershell-gecmisini-temizlemek/)
 - [Windows Görev zamanlayıcıda PowerShell](https://wolkanca.com.tr/windows-gorev-zamanlayicida-powershell/)
-- [Ekrem İmamoğlu da Twitch’de](https://wolkanca.com.tr/ekrem-imamoglu-da-twitchde/)
 <!-- BLOG-POST-LIST:END -->
 
 
