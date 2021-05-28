@@ -17,8 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [28 Mayıs 2013 Gezi Parkı tecrübelerim](https://wolkanca.com.tr/28-mayis-2013-gezi-parki-tecrubelerim/)
 - [Yoast SEO eklentisi Schema – API örnekler](https://wolkanca.com.tr/yoast-seo-eklentisi-schema-api-ornekler/)
+- [28 Mayıs 2013 Gezi Parkı](https://wolkanca.com.tr/28-mayis-2013-gezi-parki/)
 - [Happy birthday WordPress](https://wolkanca.com.tr/happy-birthday-wordpress/)
 - [Sözlük: Dijital Terimler / Digital Terms](https://wolkanca.com.tr/sozluk-dijital-terimler-digital-terms/)
 - [JavaScript, CSS ve (X) HTML varlıkları numeric order](https://wolkanca.com.tr/javascript-css-ve-x-html-varliklari-numeric-order/)
