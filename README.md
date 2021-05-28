@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [28 Mayıs 2013 Gezi Parkı tecrübelerim](https://wolkanca.com.tr/28-mayis-2013-gezi-parki-tecrubelerim/)
 - [Yoast SEO eklentisi Schema – API örnekler](https://wolkanca.com.tr/yoast-seo-eklentisi-schema-api-ornekler/)
 - [Happy birthday WordPress](https://wolkanca.com.tr/happy-birthday-wordpress/)
 - [Sözlük: Dijital Terimler / Digital Terms](https://wolkanca.com.tr/sozluk-dijital-terimler-digital-terms/)
@@ -26,7 +27,6 @@
 - [Sedat Peker – Sedatflix](https://wolkanca.com.tr/sedat-peker-sedatflix/)
 - [İyi ki doğdun Pac-Man](https://wolkanca.com.tr/iyi-ki-dogdun-pac-man/)
 - [GoDaddy paylaşımlı hostinglerde PHP 8 kullanılabilir](https://wolkanca.com.tr/godaddy-paylasimli-hostinglerde-php-8-kullanilabilir/)
-- [cURL ile son konumu almak](https://wolkanca.com.tr/curl-ile-son-konumu-almak/)
 <!-- BLOG-POST-LIST:END -->
 
 
