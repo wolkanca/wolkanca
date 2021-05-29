@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS custom properties fallback(yedek)](https://wolkanca.com.tr/css-custom-properties-fallbackyedek/)
 - [.htaccess ile slash(-/-eğik çizgi) kontrolü](https://wolkanca.com.tr/htaccess-ile-slash-egik-cizgi-kontrolu/)
 - [Yoast SEO eklentisi Schema – API örnekler](https://wolkanca.com.tr/yoast-seo-eklentisi-schema-api-ornekler/)
 - [28 Mayıs 2013 Gezi Parkı](https://wolkanca.com.tr/28-mayis-2013-gezi-parki/)
@@ -26,7 +27,6 @@
 - [Sina Ateş Çizimleri](https://wolkanca.com.tr/sina-ates-cizimleri/)
 - [Google Developers Learn CSS](https://wolkanca.com.tr/google-developers-learn-css/)
 - [Sedat Peker – Sedatflix](https://wolkanca.com.tr/sedat-peker-sedatflix/)
-- [İyi ki doğdun Pac-Man](https://wolkanca.com.tr/iyi-ki-dogdun-pac-man/)
 <!-- BLOG-POST-LIST:END -->
 
 
