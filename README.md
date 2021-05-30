@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ali Babacan #KKHA](https://wolkanca.com.tr/ali-babacan-kkha/)
+- [Github ile ücretsiz barındırma](https://wolkanca.com.tr/github-ile-ucretsiz-barindirma/)
 - [CSS custom properties fallback(yedek)](https://wolkanca.com.tr/css-custom-properties-fallbackyedek/)
 - [.htaccess ile slash(-/-eğik çizgi) kontrolü](https://wolkanca.com.tr/htaccess-ile-slash-egik-cizgi-kontrolu/)
 - [Yoast SEO eklentisi Schema – API örnekler](https://wolkanca.com.tr/yoast-seo-eklentisi-schema-api-ornekler/)
@@ -25,8 +27,6 @@
 - [Sözlük: Dijital Terimler / Digital Terms](https://wolkanca.com.tr/sozluk-dijital-terimler-digital-terms/)
 - [JavaScript, CSS ve (X) HTML varlıkları numeric order](https://wolkanca.com.tr/javascript-css-ve-x-html-varliklari-numeric-order/)
 - [Sina Ateş Çizimleri](https://wolkanca.com.tr/sina-ates-cizimleri/)
-- [Google Developers Learn CSS](https://wolkanca.com.tr/google-developers-learn-css/)
-- [Sedat Peker – Sedatflix](https://wolkanca.com.tr/sedat-peker-sedatflix/)
 <!-- BLOG-POST-LIST:END -->
 
 
