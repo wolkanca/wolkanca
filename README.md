@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hırsıza hırsız diyememek](https://wolkanca.com.tr/hirsiza-hirsiz-diyememek/)
 - [Ücretsiz programlama kitapları](https://wolkanca.com.tr/ucretsiz-programlama-kitaplari/)
 - [Atiye 3. sezon fragman yayınlandı](https://wolkanca.com.tr/atiye-3-sezon-fragman-yayinlandi/)
 - [Chrome Experiments Copy Link To Text](https://wolkanca.com.tr/chrome-experiments-copy-link-to-text/)
@@ -26,7 +27,6 @@
 - [.htaccess ile slash(-/-eğik çizgi) kontrolü](https://wolkanca.com.tr/htaccess-ile-slash-egik-cizgi-kontrolu/)
 - [Yoast SEO eklentisi Schema – API örnekler](https://wolkanca.com.tr/yoast-seo-eklentisi-schema-api-ornekler/)
 - [28 Mayıs 2013 Gezi Parkı](https://wolkanca.com.tr/28-mayis-2013-gezi-parki/)
-- [Happy birthday WordPress](https://wolkanca.com.tr/happy-birthday-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 
