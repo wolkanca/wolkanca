@@ -18,6 +18,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Hırsıza hırsız diyememek](https://wolkanca.com.tr/hirsiza-hirsiz-diyememek/)
+- [Twitter Blue başlıyor](https://wolkanca.com.tr/twitter-blue-basliyor/)
 - [Dünya Bisiklet Günü](https://wolkanca.com.tr/dunya-bisiklet-gunu/)
 - [Ücretsiz programlama kitapları](https://wolkanca.com.tr/ucretsiz-programlama-kitaplari/)
 - [Atiye 3. sezon fragman yayınlandı](https://wolkanca.com.tr/atiye-3-sezon-fragman-yayinlandi/)
@@ -26,7 +27,6 @@
 - [Ali Babacan #KKHA](https://wolkanca.com.tr/ali-babacan-kkha/)
 - [CSS custom properties fallback(yedek)](https://wolkanca.com.tr/css-custom-properties-fallbackyedek/)
 - [.htaccess ile slash(-/-eğik çizgi) kontrolü](https://wolkanca.com.tr/htaccess-ile-slash-egik-cizgi-kontrolu/)
-- [Yoast SEO eklentisi Schema – API örnekler](https://wolkanca.com.tr/yoast-seo-eklentisi-schema-api-ornekler/)
 <!-- BLOG-POST-LIST:END -->
 
 
