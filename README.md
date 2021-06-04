@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Spaces tarayıcı üzerinden çalışıyor](https://wolkanca.com.tr/twitter-spaces-tarayici-uzerinden-calisiyor/)
 - [Hırsıza hırsız diyememek](https://wolkanca.com.tr/hirsiza-hirsiz-diyememek/)
 - [Twitter Blue başlıyor](https://wolkanca.com.tr/twitter-blue-basliyor/)
 - [Dünya Bisiklet Günü](https://wolkanca.com.tr/dunya-bisiklet-gunu/)
@@ -26,7 +27,6 @@
 - [Github ile ücretsiz barındırma](https://wolkanca.com.tr/github-ile-ucretsiz-barindirma/)
 - [Ali Babacan #KKHA](https://wolkanca.com.tr/ali-babacan-kkha/)
 - [CSS custom properties fallback(yedek)](https://wolkanca.com.tr/css-custom-properties-fallbackyedek/)
-- [.htaccess ile slash(-/-eğik çizgi) kontrolü](https://wolkanca.com.tr/htaccess-ile-slash-egik-cizgi-kontrolu/)
 <!-- BLOG-POST-LIST:END -->
 
 
