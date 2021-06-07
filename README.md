@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Demokrasi nedir?](https://wolkanca.com.tr/demokrasi-nedir/)
 - [Cep telefonu yenileme merkezi yetkisi](https://wolkanca.com.tr/cep-telefonu-yenileme-merkezi-yetkisi/)
 - [Twitter Spaces tarayıcı üzerinden çalışıyor](https://wolkanca.com.tr/twitter-spaces-tarayici-uzerinden-calisiyor/)
 - [Hırsıza hırsız diyememek](https://wolkanca.com.tr/hirsiza-hirsiz-diyememek/)
@@ -26,7 +27,6 @@
 - [Atiye 3. sezon fragman yayınlandı](https://wolkanca.com.tr/atiye-3-sezon-fragman-yayinlandi/)
 - [Chrome Experiments Copy Link To Text](https://wolkanca.com.tr/chrome-experiments-copy-link-to-text/)
 - [Github ile ücretsiz barındırma](https://wolkanca.com.tr/github-ile-ucretsiz-barindirma/)
-- [Ali Babacan #KKHA](https://wolkanca.com.tr/ali-babacan-kkha/)
 <!-- BLOG-POST-LIST:END -->
 
 
