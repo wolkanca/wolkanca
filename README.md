@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Front-End Checklist](https://wolkanca.com.tr/front-end-checklist/)
 - [iOS 15 tanıtıldı – WWDC21](https://wolkanca.com.tr/ios-15-tanitildi-wwdc21/)
 - [Demokrasi nedir?](https://wolkanca.com.tr/demokrasi-nedir/)
 - [Cep telefonu yenileme merkezi yetkisi](https://wolkanca.com.tr/cep-telefonu-yenileme-merkezi-yetkisi/)
@@ -26,7 +27,6 @@
 - [Dünya Bisiklet Günü](https://wolkanca.com.tr/dunya-bisiklet-gunu/)
 - [Ücretsiz programlama kitapları](https://wolkanca.com.tr/ucretsiz-programlama-kitaplari/)
 - [Atiye 3. sezon fragman yayınlandı](https://wolkanca.com.tr/atiye-3-sezon-fragman-yayinlandi/)
-- [Chrome Experiments Copy Link To Text](https://wolkanca.com.tr/chrome-experiments-copy-link-to-text/)
 <!-- BLOG-POST-LIST:END -->
 
 
