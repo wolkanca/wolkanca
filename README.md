@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Güç Netflix’de artık!](https://wolkanca.com.tr/guc-netflixde-artik/)
 - [Jean Jullien modern toplum üzerine çizimler](https://wolkanca.com.tr/jean-jullien-modern-toplum-uzerine-cizimler/)
 - [Front-End Checklist](https://wolkanca.com.tr/front-end-checklist/)
 - [Allah’ın imtiyazlı kulları](https://wolkanca.com.tr/allahin-imtiyazli-kullari/)
@@ -26,7 +27,6 @@
 - [Twitter Spaces tarayıcı üzerinden çalışıyor](https://wolkanca.com.tr/twitter-spaces-tarayici-uzerinden-calisiyor/)
 - [Hırsıza hırsız diyememek](https://wolkanca.com.tr/hirsiza-hirsiz-diyememek/)
 - [Twitter Blue başlıyor](https://wolkanca.com.tr/twitter-blue-basliyor/)
-- [Dünya Bisiklet Günü](https://wolkanca.com.tr/dunya-bisiklet-gunu/)
 <!-- BLOG-POST-LIST:END -->
 
 
