@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript ile URL kontrolü](https://wolkanca.com.tr/javascript-ile-url-kontrolu/)
 - [Bir URL’in durum kodunu sorgulamak (PHP)](https://wolkanca.com.tr/bir-urlin-durum-kodunu-sorgulamak-php/)
 - [Güç Netflix’de artık!](https://wolkanca.com.tr/guc-netflixde-artik/)
 - [Jean Jullien modern toplum üzerine çizimler](https://wolkanca.com.tr/jean-jullien-modern-toplum-uzerine-cizimler/)
@@ -26,7 +27,6 @@
 - [Demokrasi nedir?](https://wolkanca.com.tr/demokrasi-nedir/)
 - [Cep telefonu yenileme merkezi yetkisi](https://wolkanca.com.tr/cep-telefonu-yenileme-merkezi-yetkisi/)
 - [Twitter Spaces tarayıcı üzerinden çalışıyor](https://wolkanca.com.tr/twitter-spaces-tarayici-uzerinden-calisiyor/)
-- [Hırsıza hırsız diyememek](https://wolkanca.com.tr/hirsiza-hirsiz-diyememek/)
 <!-- BLOG-POST-LIST:END -->
 
 
