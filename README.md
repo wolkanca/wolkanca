@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript ile pano kullanımı](https://wolkanca.com.tr/javascript-ile-pano-kullanimi/)
 - [Instagram algoritması nasıl çalışıyor](https://wolkanca.com.tr/instagram-algoritmasi-nasil-calisiyor/)
 - [JavaScript ile URL kontrolü](https://wolkanca.com.tr/javascript-ile-url-kontrolu/)
 - [Bir URL’in durum kodunu sorgulamak (PHP)](https://wolkanca.com.tr/bir-urlin-durum-kodunu-sorgulamak-php/)
@@ -26,7 +27,6 @@
 - [Allah’ın imtiyazlı kulları](https://wolkanca.com.tr/allahin-imtiyazli-kullari/)
 - [iOS 15 tanıtıldı – WWDC21](https://wolkanca.com.tr/ios-15-tanitildi-wwdc21/)
 - [Demokrasi nedir?](https://wolkanca.com.tr/demokrasi-nedir/)
-- [Cep telefonu yenileme merkezi yetkisi](https://wolkanca.com.tr/cep-telefonu-yenileme-merkezi-yetkisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
