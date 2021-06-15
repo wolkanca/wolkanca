@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 internete sızdırıldı](https://wolkanca.com.tr/windows-11-internete-sizdirildi/)
 - [JavaScript ile pano kullanımı](https://wolkanca.com.tr/javascript-ile-pano-kullanimi/)
 - [Instagram algoritması nasıl çalışıyor](https://wolkanca.com.tr/instagram-algoritmasi-nasil-calisiyor/)
 - [JavaScript ile URL kontrolü](https://wolkanca.com.tr/javascript-ile-url-kontrolu/)
@@ -26,7 +27,6 @@
 - [Front-End Checklist](https://wolkanca.com.tr/front-end-checklist/)
 - [Allah’ın imtiyazlı kulları](https://wolkanca.com.tr/allahin-imtiyazli-kullari/)
 - [iOS 15 tanıtıldı – WWDC21](https://wolkanca.com.tr/ios-15-tanitildi-wwdc21/)
-- [Demokrasi nedir?](https://wolkanca.com.tr/demokrasi-nedir/)
 <!-- BLOG-POST-LIST:END -->
 
 
