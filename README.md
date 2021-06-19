@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Geliştirici olarak işinize yarayabilecek online araçlar](https://wolkanca.com.tr/gelistirici-olarak-isinize-yarayabilecek-online-araclar/)
 - [Khan Academy](https://wolkanca.com.tr/khan-academy/)
 - [Atiye 3. sezon çıktı](https://wolkanca.com.tr/atiye-3-sezon-cikti/)
 - [Windows 11 internete sızdırıldı](https://wolkanca.com.tr/windows-11-internete-sizdirildi/)
@@ -26,7 +27,6 @@
 - [Bir URL’in durum kodunu sorgulamak (PHP)](https://wolkanca.com.tr/bir-urlin-durum-kodunu-sorgulamak-php/)
 - [Güç Netflix’de artık!](https://wolkanca.com.tr/guc-netflixde-artik/)
 - [Jean Jullien modern toplum üzerine çizimler](https://wolkanca.com.tr/jean-jullien-modern-toplum-uzerine-cizimler/)
-- [Front-End Checklist](https://wolkanca.com.tr/front-end-checklist/)
 <!-- BLOG-POST-LIST:END -->
 
 
