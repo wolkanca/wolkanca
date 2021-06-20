@@ -18,6 +18,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [WordPress bellek ayarları](https://wolkanca.com.tr/wordpress-bellek-ayarlari/)
+- [2021 yazılım geliştirici maaş raporu](https://wolkanca.com.tr/2021-yazilim-gelistirici-maas-raporu/)
 - [Geliştirici olarak işinize yarayabilecek online araçlar](https://wolkanca.com.tr/gelistirici-olarak-isinize-yarayabilecek-online-araclar/)
 - [Khan Academy](https://wolkanca.com.tr/khan-academy/)
 - [Atiye 3. sezon çıktı](https://wolkanca.com.tr/atiye-3-sezon-cikti/)
@@ -26,7 +27,6 @@
 - [Instagram algoritması nasıl çalışıyor](https://wolkanca.com.tr/instagram-algoritmasi-nasil-calisiyor/)
 - [JavaScript ile URL kontrolü](https://wolkanca.com.tr/javascript-ile-url-kontrolu/)
 - [Bir URL’in durum kodunu sorgulamak (PHP)](https://wolkanca.com.tr/bir-urlin-durum-kodunu-sorgulamak-php/)
-- [Güç Netflix’de artık!](https://wolkanca.com.tr/guc-netflixde-artik/)
 <!-- BLOG-POST-LIST:END -->
 
 
