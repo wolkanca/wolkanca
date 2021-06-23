@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [cPanel cron wget ile bir URL’i ziyaret etmek](https://wolkanca.com.tr/cpanel-cron-wget-ile-bir-urli-ziyaret-etmek/)
 - [WordPress bellek ayarları](https://wolkanca.com.tr/wordpress-bellek-ayarlari/)
 - [2021 yazılım geliştirici maaş raporu](https://wolkanca.com.tr/2021-yazilim-gelistirici-maas-raporu/)
 - [Geliştirici olarak işinize yarayabilecek online araçlar](https://wolkanca.com.tr/gelistirici-olarak-isinize-yarayabilecek-online-araclar/)
@@ -26,7 +27,6 @@
 - [JavaScript ile pano kullanımı](https://wolkanca.com.tr/javascript-ile-pano-kullanimi/)
 - [Instagram algoritması nasıl çalışıyor](https://wolkanca.com.tr/instagram-algoritmasi-nasil-calisiyor/)
 - [JavaScript ile URL kontrolü](https://wolkanca.com.tr/javascript-ile-url-kontrolu/)
-- [Bir URL’in durum kodunu sorgulamak (PHP)](https://wolkanca.com.tr/bir-urlin-durum-kodunu-sorgulamak-php/)
 <!-- BLOG-POST-LIST:END -->
 
 
