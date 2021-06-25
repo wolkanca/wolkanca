@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fare tuşlarının işlevlerini değiştirmek](https://wolkanca.com.tr/fare-tuslarinin-islevlerini-degistirmek/)
 - [Windows 11 çıktı](https://wolkanca.com.tr/windows-11-cikti/)
 - [Search Console Insights](https://wolkanca.com.tr/search-console-insights/)
 - [cPanel cron wget ile bir URL’i ziyaret etmek](https://wolkanca.com.tr/cpanel-cron-wget-ile-bir-urli-ziyaret-etmek/)
@@ -26,7 +27,6 @@
 - [Khan Academy](https://wolkanca.com.tr/khan-academy/)
 - [Atiye 3. sezon çıktı](https://wolkanca.com.tr/atiye-3-sezon-cikti/)
 - [Windows 11 internete sızdırıldı](https://wolkanca.com.tr/windows-11-internete-sizdirildi/)
-- [JavaScript ile pano kullanımı](https://wolkanca.com.tr/javascript-ile-pano-kullanimi/)
 <!-- BLOG-POST-LIST:END -->
 
 
