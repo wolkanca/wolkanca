@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2021 en çok tıklanan siteler](https://wolkanca.com.tr/2021-en-cok-tiklanan-siteler/)
 - [Mobil cihazlar ekran boyutları](https://wolkanca.com.tr/mobil-cihazlar-ekran-boyutlari/)
 - [HTTP Durum Kodları ve SEO](https://wolkanca.com.tr/http-durum-kodlari-ve-seo/)
 - [Son gönderi ise fonksiyonu](https://wolkanca.com.tr/son-gonderi-ise-fonksiyonu/)
@@ -26,7 +27,6 @@
 - [Windows 11 çıktı](https://wolkanca.com.tr/windows-11-cikti/)
 - [Search Console Insights](https://wolkanca.com.tr/search-console-insights/)
 - [cPanel cron wget ile bir URL’i ziyaret etmek](https://wolkanca.com.tr/cpanel-cron-wget-ile-bir-urli-ziyaret-etmek/)
-- [WordPress bellek ayarları](https://wolkanca.com.tr/wordpress-bellek-ayarlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
