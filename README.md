@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [get_the_post_thumbnail() srcset kontrolü](https://wolkanca.com.tr/get_the_post_thumbnail-srcset-kontrolu/)
 - [2021 en çok tıklanan siteler](https://wolkanca.com.tr/2021-en-cok-tiklanan-siteler/)
 - [Mobil cihazlar ekran boyutları](https://wolkanca.com.tr/mobil-cihazlar-ekran-boyutlari/)
 - [HTTP Durum Kodları ve SEO](https://wolkanca.com.tr/http-durum-kodlari-ve-seo/)
@@ -26,7 +27,6 @@
 - [6 ay sosyal medyadan uzak kalmak](https://wolkanca.com.tr/6-ay-sosyal-medyadan-uzak-kalmak/)
 - [Windows 11 çıktı](https://wolkanca.com.tr/windows-11-cikti/)
 - [Search Console Insights](https://wolkanca.com.tr/search-console-insights/)
-- [cPanel cron wget ile bir URL’i ziyaret etmek](https://wolkanca.com.tr/cpanel-cron-wget-ile-bir-urli-ziyaret-etmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
