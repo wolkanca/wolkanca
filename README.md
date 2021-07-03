@@ -17,7 +17,6 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kendi Netflix’inizi yapın: Fakeflix](https://wolkanca.com.tr/kendi-netflixinizi-yapin-fakeflix/)
 - [get_the_post_thumbnail() srcset kontrolü](https://wolkanca.com.tr/get_the_post_thumbnail-srcset-kontrolu/)
 - [2021 en çok tıklanan siteler](https://wolkanca.com.tr/2021-en-cok-tiklanan-siteler/)
 - [Mobil cihazlar ekran boyutları](https://wolkanca.com.tr/mobil-cihazlar-ekran-boyutlari/)
@@ -27,6 +26,7 @@
 - [Fare tuşlarının işlevlerini değiştirmek](https://wolkanca.com.tr/fare-tuslarinin-islevlerini-degistirmek/)
 - [6 ay sosyal medyadan uzak kalmak](https://wolkanca.com.tr/6-ay-sosyal-medyadan-uzak-kalmak/)
 - [Windows 11 çıktı](https://wolkanca.com.tr/windows-11-cikti/)
+- [Search Console Insights](https://wolkanca.com.tr/search-console-insights/)
 <!-- BLOG-POST-LIST:END -->
 
 
