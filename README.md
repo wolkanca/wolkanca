@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chrome DevTools ile ekran görüntüsü almak](https://wolkanca.com.tr/chrome-devtools-ile-ekran-goruntusu-almak/)
 - [Bazı JavaScript hackleri](https://wolkanca.com.tr/bazi-javascript-hackleri/)
 - [Kendi Netflix’inizi yapın: Fakeflix](https://wolkanca.com.tr/kendi-netflixinizi-yapin-fakeflix/)
 - [get_the_post_thumbnail() srcset kontrolü](https://wolkanca.com.tr/get_the_post_thumbnail-srcset-kontrolu/)
@@ -26,7 +27,6 @@
 - [Son gönderi ise fonksiyonu](https://wolkanca.com.tr/son-gonderi-ise-fonksiyonu/)
 - [Japonca, Çince ve Korece harfleri tespit etmek](https://wolkanca.com.tr/japonca-cince-ve-korece-harfleri-tespit-etmek/)
 - [Fare tuşlarının işlevlerini değiştirmek](https://wolkanca.com.tr/fare-tuslarinin-islevlerini-degistirmek/)
-- [6 ay sosyal medyadan uzak kalmak](https://wolkanca.com.tr/6-ay-sosyal-medyadan-uzak-kalmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
