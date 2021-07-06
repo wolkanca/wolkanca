@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 nasıl yüklenir](https://wolkanca.com.tr/windows-11-nasil-yuklenir/)
 - [Chrome DevTools ile ekran görüntüsü almak](https://wolkanca.com.tr/chrome-devtools-ile-ekran-goruntusu-almak/)
 - [Bazı JavaScript hackleri](https://wolkanca.com.tr/bazi-javascript-hackleri/)
 - [Kendi Netflix’inizi yapın: Fakeflix](https://wolkanca.com.tr/kendi-netflixinizi-yapin-fakeflix/)
@@ -26,7 +27,6 @@
 - [HTTP Durum Kodları ve SEO](https://wolkanca.com.tr/http-durum-kodlari-ve-seo/)
 - [Son gönderi ise fonksiyonu](https://wolkanca.com.tr/son-gonderi-ise-fonksiyonu/)
 - [Japonca, Çince ve Korece harfleri tespit etmek](https://wolkanca.com.tr/japonca-cince-ve-korece-harfleri-tespit-etmek/)
-- [Fare tuşlarının işlevlerini değiştirmek](https://wolkanca.com.tr/fare-tuslarinin-islevlerini-degistirmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
