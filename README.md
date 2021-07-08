@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [rest_url_prefix değiştirmek veya gizlemek](https://wolkanca.com.tr/rest_url_prefix-degistirmek-veya-gizlemek/)
 - [2009’dan 2021’e ₺200](https://wolkanca.com.tr/2009dan-2021e-%e2%82%ba200/)
 - [Windows 11 nasıl yüklenir](https://wolkanca.com.tr/windows-11-nasil-yuklenir/)
 - [Chrome DevTools ile ekran görüntüsü almak](https://wolkanca.com.tr/chrome-devtools-ile-ekran-goruntusu-almak/)
@@ -26,7 +27,6 @@
 - [2021 en çok tıklanan siteler](https://wolkanca.com.tr/2021-en-cok-tiklanan-siteler/)
 - [Mobil cihazlar ekran boyutları](https://wolkanca.com.tr/mobil-cihazlar-ekran-boyutlari/)
 - [HTTP Durum Kodları ve SEO](https://wolkanca.com.tr/http-durum-kodlari-ve-seo/)
-- [Son gönderi ise fonksiyonu](https://wolkanca.com.tr/son-gonderi-ise-fonksiyonu/)
 <!-- BLOG-POST-LIST:END -->
 
 
