@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Witcher 2. sezon 17 Aralık’ta](https://wolkanca.com.tr/the-witcher-2-sezon-17-aralikta/)
 - [Hover yetenekli cihazları algılama](https://wolkanca.com.tr/hover-yetenekli-cihazlari-algilama/)
 - [rest_url_prefix değiştirmek veya gizlemek](https://wolkanca.com.tr/rest_url_prefix-degistirmek-veya-gizlemek/)
 - [2009’dan 2021’e ₺200](https://wolkanca.com.tr/2009dan-2021e-%e2%82%ba200/)
@@ -26,7 +27,6 @@
 - [Kendi Netflix’inizi yapın: Fakeflix](https://wolkanca.com.tr/kendi-netflixinizi-yapin-fakeflix/)
 - [get_the_post_thumbnail() srcset kontrolü](https://wolkanca.com.tr/get_the_post_thumbnail-srcset-kontrolu/)
 - [2021 en çok tıklanan siteler](https://wolkanca.com.tr/2021-en-cok-tiklanan-siteler/)
-- [Mobil cihazlar ekran boyutları](https://wolkanca.com.tr/mobil-cihazlar-ekran-boyutlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
