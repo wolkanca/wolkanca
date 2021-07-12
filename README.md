@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress admin paneli bypass](https://wolkanca.com.tr/wordpress-admin-paneli-bypass/)
 - [Kaymakam vs Elon Musk](https://wolkanca.com.tr/kaymakam-vs-elon-musk/)
 - [The Witcher 2. sezon 17 Aralık’ta](https://wolkanca.com.tr/the-witcher-2-sezon-17-aralikta/)
 - [Hover yetenekli cihazları algılama](https://wolkanca.com.tr/hover-yetenekli-cihazlari-algilama/)
@@ -26,7 +27,6 @@
 - [Chrome DevTools ile ekran görüntüsü almak](https://wolkanca.com.tr/chrome-devtools-ile-ekran-goruntusu-almak/)
 - [Bazı JavaScript hackleri](https://wolkanca.com.tr/bazi-javascript-hackleri/)
 - [Kendi Netflix’inizi yapın: Fakeflix](https://wolkanca.com.tr/kendi-netflixinizi-yapin-fakeflix/)
-- [get_the_post_thumbnail() srcset kontrolü](https://wolkanca.com.tr/get_the_post_thumbnail-srcset-kontrolu/)
 <!-- BLOG-POST-LIST:END -->
 
 
