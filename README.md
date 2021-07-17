@@ -17,7 +17,6 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Apple piyasa değeri](https://wolkanca.com.tr/apple-piyasa-degeri/)
 - [Melih Bulu geldiği gibi gitti](https://wolkanca.com.tr/melih-bulu-geldigi-gibi-gitti/)
 - [Online Windows 11 deneyimlemek](https://wolkanca.com.tr/online-windows-11-deneyimlemek/)
 - [Vanilla JS ile bir Chatbot](https://wolkanca.com.tr/vanilla-js-ile-bir-chatbot/)
@@ -27,6 +26,7 @@
 - [Hover yetenekli cihazları algılama](https://wolkanca.com.tr/hover-yetenekli-cihazlari-algilama/)
 - [rest_url_prefix değiştirmek veya gizlemek](https://wolkanca.com.tr/rest_url_prefix-degistirmek-veya-gizlemek/)
 - [2009’dan 2021’e ₺200](https://wolkanca.com.tr/2009dan-2021e-%e2%82%ba200/)
+- [Windows 11 nasıl yüklenir](https://wolkanca.com.tr/windows-11-nasil-yuklenir/)
 <!-- BLOG-POST-LIST:END -->
 
 
