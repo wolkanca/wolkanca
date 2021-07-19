@@ -17,8 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MacOS’de disk clonlama](https://wolkanca.com.tr/macosde-disk-clonlama/)
+- [Google Temmuz 2021 Çekirdek Algoritma güncellemesi üzerine](https://wolkanca.com.tr/google-temmuz-2021-cekirdek-algoritma-guncellemesi-uzerine/)
 - [Çerezler nedir?](https://wolkanca.com.tr/cerezler-nedir/)
+- [MacOS’de disk clonlama](https://wolkanca.com.tr/macosde-disk-clonlama/)
 - [Apple piyasa değeri](https://wolkanca.com.tr/apple-piyasa-degeri/)
 - [Melih Bulu geldiği gibi gitti](https://wolkanca.com.tr/melih-bulu-geldigi-gibi-gitti/)
 - [Online Windows 11 deneyimlemek](https://wolkanca.com.tr/online-windows-11-deneyimlemek/)
@@ -26,7 +27,6 @@
 - [WordPress admin paneli bypass](https://wolkanca.com.tr/wordpress-admin-paneli-bypass/)
 - [Kaymakam vs Elon Musk](https://wolkanca.com.tr/kaymakam-vs-elon-musk/)
 - [The Witcher 2. sezon 17 Aralık’ta](https://wolkanca.com.tr/the-witcher-2-sezon-17-aralikta/)
-- [Hover yetenekli cihazları algılama](https://wolkanca.com.tr/hover-yetenekli-cihazlari-algilama/)
 <!-- BLOG-POST-LIST:END -->
 
 
