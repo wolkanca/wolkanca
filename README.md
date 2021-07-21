@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [En iyi sahte adres üretici siteler](https://wolkanca.com.tr/en-iyi-sahte-adres-uretici-siteler/)
 - [Google Temmuz 2021 Çekirdek Algoritma güncellemesi üzerine](https://wolkanca.com.tr/google-temmuz-2021-cekirdek-algoritma-guncellemesi-uzerine/)
 - [Çerezler nedir?](https://wolkanca.com.tr/cerezler-nedir/)
 - [MacOS’de disk clonlama](https://wolkanca.com.tr/macosde-disk-clonlama/)
@@ -26,7 +27,6 @@
 - [Vanilla JS ile bir Chatbot](https://wolkanca.com.tr/vanilla-js-ile-bir-chatbot/)
 - [WordPress admin paneli bypass](https://wolkanca.com.tr/wordpress-admin-paneli-bypass/)
 - [Kaymakam vs Elon Musk](https://wolkanca.com.tr/kaymakam-vs-elon-musk/)
-- [The Witcher 2. sezon 17 Aralık’ta](https://wolkanca.com.tr/the-witcher-2-sezon-17-aralikta/)
 <!-- BLOG-POST-LIST:END -->
 
 
