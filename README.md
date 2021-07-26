@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iTunes olmadan iPhone yedeklemek](https://wolkanca.com.tr/itunes-olmadan-iphone-yedeklemek/)
 - [macOS için Rectangle uygulaması](https://wolkanca.com.tr/macos-icin-rectangle-uygulamasi/)
 - [uBlock Origin ile CSS kontrolü](https://wolkanca.com.tr/ublock-origin-ile-css-kontrolu/)
 - [GitHub deneyiminizi geliştirmek için Chrome uzantıları](https://wolkanca.com.tr/github-deneyiminizi-gelistirmek-icin-chrome-uzantilari/)
@@ -26,7 +27,6 @@
 - [Google Temmuz 2021 Çekirdek Algoritma güncellemesi üzerine](https://wolkanca.com.tr/google-temmuz-2021-cekirdek-algoritma-guncellemesi-uzerine/)
 - [MacOS’de disk clonlama](https://wolkanca.com.tr/macosde-disk-clonlama/)
 - [Çerezler nedir?](https://wolkanca.com.tr/cerezler-nedir/)
-- [Apple piyasa değeri](https://wolkanca.com.tr/apple-piyasa-degeri/)
 <!-- BLOG-POST-LIST:END -->
 
 
