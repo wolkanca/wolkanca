@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [macOS için Rectangle uygulaması](https://wolkanca.com.tr/macos-icin-rectangle-uygulamasi/)
 - [uBlock Origin ile CSS kontrolü](https://wolkanca.com.tr/ublock-origin-ile-css-kontrolu/)
 - [GitHub deneyiminizi geliştirmek için Chrome uzantıları](https://wolkanca.com.tr/github-deneyiminizi-gelistirmek-icin-chrome-uzantilari/)
 - [Neden Windows’ta bir dosyaya “CON” ismi verilmez?](https://wolkanca.com.tr/neden-windowsta-bir-dosyaya-con-ismi-verilmez/)
@@ -26,7 +27,6 @@
 - [MacOS’de disk clonlama](https://wolkanca.com.tr/macosde-disk-clonlama/)
 - [Çerezler nedir?](https://wolkanca.com.tr/cerezler-nedir/)
 - [Apple piyasa değeri](https://wolkanca.com.tr/apple-piyasa-degeri/)
-- [Melih Bulu geldiği gibi gitti](https://wolkanca.com.tr/melih-bulu-geldigi-gibi-gitti/)
 <!-- BLOG-POST-LIST:END -->
 
 
