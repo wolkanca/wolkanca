@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vanilla JS nedir?](https://wolkanca.com.tr/vanilla-js-nedir/)
 - [Lucifer final sezonu 10 Eylül’de](https://wolkanca.com.tr/lucifer-final-sezonu-10-eylulde/)
 - [iTunes olmadan iPhone yedeklemek](https://wolkanca.com.tr/itunes-olmadan-iphone-yedeklemek/)
 - [macOS için Rectangle uygulaması](https://wolkanca.com.tr/macos-icin-rectangle-uygulamasi/)
@@ -26,7 +27,6 @@
 - [Dünyayı canlı izleyin: SkylineWebcams](https://wolkanca.com.tr/dunyayi-canli-izleyin-skylinewebcams/)
 - [En iyi sahte adres üretici siteler](https://wolkanca.com.tr/en-iyi-sahte-adres-uretici-siteler/)
 - [Google Temmuz 2021 Çekirdek Algoritma güncellemesi üzerine](https://wolkanca.com.tr/google-temmuz-2021-cekirdek-algoritma-guncellemesi-uzerine/)
-- [MacOS’de disk clonlama](https://wolkanca.com.tr/macosde-disk-clonlama/)
 <!-- BLOG-POST-LIST:END -->
 
 
