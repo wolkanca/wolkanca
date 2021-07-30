@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yangın var!](https://wolkanca.com.tr/yangin-var/)
 - [Vanilla JS nedir?](https://wolkanca.com.tr/vanilla-js-nedir/)
 - [Lucifer final sezonu 10 Eylül’de](https://wolkanca.com.tr/lucifer-final-sezonu-10-eylulde/)
 - [iTunes olmadan iPhone yedeklemek](https://wolkanca.com.tr/itunes-olmadan-iphone-yedeklemek/)
@@ -26,7 +27,6 @@
 - [Neden Windows’ta bir dosyaya “CON” ismi verilmez?](https://wolkanca.com.tr/neden-windowsta-bir-dosyaya-con-ismi-verilmez/)
 - [Dünyayı canlı izleyin: SkylineWebcams](https://wolkanca.com.tr/dunyayi-canli-izleyin-skylinewebcams/)
 - [En iyi sahte adres üretici siteler](https://wolkanca.com.tr/en-iyi-sahte-adres-uretici-siteler/)
-- [Google Temmuz 2021 Çekirdek Algoritma güncellemesi üzerine](https://wolkanca.com.tr/google-temmuz-2021-cekirdek-algoritma-guncellemesi-uzerine/)
 <!-- BLOG-POST-LIST:END -->
 
 
