@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Üretkenliğinizi güçlendirecek 14 VS Code kısayolu](https://wolkanca.com.tr/uretkenliginizi-guclendirecek-14-vs-code-kisayolu/)
 - [Tokyo 2020 Olympics](https://wolkanca.com.tr/tokyo-2020-olympics/)
 - [Reis-i Çay](https://wolkanca.com.tr/reis-i-cay/)
 - [Yangın var!](https://wolkanca.com.tr/yangin-var/)
@@ -26,7 +27,6 @@
 - [macOS için Rectangle uygulaması](https://wolkanca.com.tr/macos-icin-rectangle-uygulamasi/)
 - [uBlock Origin ile CSS kontrolü](https://wolkanca.com.tr/ublock-origin-ile-css-kontrolu/)
 - [GitHub deneyiminizi geliştirmek için Chrome uzantıları](https://wolkanca.com.tr/github-deneyiminizi-gelistirmek-icin-chrome-uzantilari/)
-- [Neden Windows’ta bir dosyaya “CON” ismi verilmez?](https://wolkanca.com.tr/neden-windowsta-bir-dosyaya-con-ismi-verilmez/)
 <!-- BLOG-POST-LIST:END -->
 
 
