@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP’de include, require, _once farkları](https://wolkanca.com.tr/phpde-include-require-_once-farklari/)
 - [Üretkenliğinizi güçlendirecek 14 VS Code kısayolu](https://wolkanca.com.tr/uretkenliginizi-guclendirecek-14-vs-code-kisayolu/)
 - [Tokyo 2020 Olympics](https://wolkanca.com.tr/tokyo-2020-olympics/)
 - [Reis-i Çay](https://wolkanca.com.tr/reis-i-cay/)
@@ -26,7 +27,6 @@
 - [iTunes olmadan iPhone yedeklemek](https://wolkanca.com.tr/itunes-olmadan-iphone-yedeklemek/)
 - [macOS için Rectangle uygulaması](https://wolkanca.com.tr/macos-icin-rectangle-uygulamasi/)
 - [uBlock Origin ile CSS kontrolü](https://wolkanca.com.tr/ublock-origin-ile-css-kontrolu/)
-- [GitHub deneyiminizi geliştirmek için Chrome uzantıları](https://wolkanca.com.tr/github-deneyiminizi-gelistirmek-icin-chrome-uzantilari/)
 <!-- BLOG-POST-LIST:END -->
 
 
