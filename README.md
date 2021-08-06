@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Seçim 2023 gif durdur](https://wolkanca.com.tr/secim-2023-gif-durdur/)
 - [React.js öğrenmeli misiniz?](https://wolkanca.com.tr/react-js-ogrenmeli-misiniz/)
 - [Cehalet yakar!](https://wolkanca.com.tr/cehalet-yakar/)
 - [PHP’de include, require, _once farkları](https://wolkanca.com.tr/phpde-include-require-_once-farklari/)
@@ -26,7 +27,6 @@
 - [Yangın var!](https://wolkanca.com.tr/yangin-var/)
 - [Vanilla JS nedir?](https://wolkanca.com.tr/vanilla-js-nedir/)
 - [Lucifer final sezonu 10 Eylül’de](https://wolkanca.com.tr/lucifer-final-sezonu-10-eylulde/)
-- [iTunes olmadan iPhone yedeklemek](https://wolkanca.com.tr/itunes-olmadan-iphone-yedeklemek/)
 <!-- BLOG-POST-LIST:END -->
 
 
