@@ -17,7 +17,6 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vekil](https://wolkanca.com.tr/vekil/)
 - [WordPress hooks/actions çalışma sırası](https://wolkanca.com.tr/wordpress-hooks-actions-calisma-sirasi/)
 - [Seçim 2023 gif durdur](https://wolkanca.com.tr/secim-2023-gif-durdur/)
 - [React.js öğrenmeli misiniz?](https://wolkanca.com.tr/react-js-ogrenmeli-misiniz/)
@@ -27,6 +26,7 @@
 - [Tokyo 2020 Olympics](https://wolkanca.com.tr/tokyo-2020-olympics/)
 - [Reis-i Çay](https://wolkanca.com.tr/reis-i-cay/)
 - [Yangın var!](https://wolkanca.com.tr/yangin-var/)
+- [Vanilla JS nedir?](https://wolkanca.com.tr/vanilla-js-nedir/)
 <!-- BLOG-POST-LIST:END -->
 
 
