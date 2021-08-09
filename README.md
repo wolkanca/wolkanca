@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SHTML(Server Side Includes) içerisinde PHP kodu çalıştırmak](https://wolkanca.com.tr/shtmlserver-side-includes-icerisinde-php-kodu-calistirmak/)
 - [Vekil](https://wolkanca.com.tr/vekil/)
 - [WordPress hooks/actions çalışma sırası](https://wolkanca.com.tr/wordpress-hooks-actions-calisma-sirasi/)
 - [Seçim 2023 gif durdur](https://wolkanca.com.tr/secim-2023-gif-durdur/)
@@ -26,7 +27,6 @@
 - [Üretkenliğinizi güçlendirecek 14 VS Code kısayolu](https://wolkanca.com.tr/uretkenliginizi-guclendirecek-14-vs-code-kisayolu/)
 - [Tokyo 2020 Olympics](https://wolkanca.com.tr/tokyo-2020-olympics/)
 - [Reis-i Çay](https://wolkanca.com.tr/reis-i-cay/)
-- [Yangın var!](https://wolkanca.com.tr/yangin-var/)
 <!-- BLOG-POST-LIST:END -->
 
 
