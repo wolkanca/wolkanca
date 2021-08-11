@@ -17,7 +17,6 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Yazılımcıların işe alımcılara bakışı](https://wolkanca.com.tr/yazilimcilarin-ise-alimcilara-bakisi/)
 - [SHTML(Server Side Includes) içerisinde PHP kodu çalıştırmak](https://wolkanca.com.tr/shtmlserver-side-includes-icerisinde-php-kodu-calistirmak/)
 - [Vekil](https://wolkanca.com.tr/vekil/)
 - [WordPress hooks/actions çalışma sırası](https://wolkanca.com.tr/wordpress-hooks-actions-calisma-sirasi/)
@@ -27,6 +26,7 @@
 - [PHP’de include, require, _once farkları](https://wolkanca.com.tr/phpde-include-require-_once-farklari/)
 - [Üretkenliğinizi güçlendirecek 14 VS Code kısayolu](https://wolkanca.com.tr/uretkenliginizi-guclendirecek-14-vs-code-kisayolu/)
 - [Tokyo 2020 Olympics](https://wolkanca.com.tr/tokyo-2020-olympics/)
+- [Reis-i Çay](https://wolkanca.com.tr/reis-i-cay/)
 <!-- BLOG-POST-LIST:END -->
 
 
