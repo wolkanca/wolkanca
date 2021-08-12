@@ -18,6 +18,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Farkhunda Malikzada](https://wolkanca.com.tr/farkhunda-malikzada/)
+- [Lucifer final sezon fragmanı](https://wolkanca.com.tr/lucifer-final-sezon-fragmani/)
 - [Yazılımcıların işe alımcılara bakışı](https://wolkanca.com.tr/yazilimcilarin-ise-alimcilara-bakisi/)
 - [SHTML(Server Side Includes) içerisinde PHP kodu çalıştırmak](https://wolkanca.com.tr/shtmlserver-side-includes-icerisinde-php-kodu-calistirmak/)
 - [Vekil](https://wolkanca.com.tr/vekil/)
@@ -26,7 +27,6 @@
 - [React.js öğrenmeli misiniz?](https://wolkanca.com.tr/react-js-ogrenmeli-misiniz/)
 - [Cehalet yakar!](https://wolkanca.com.tr/cehalet-yakar/)
 - [PHP’de include, require, _once farkları](https://wolkanca.com.tr/phpde-include-require-_once-farklari/)
-- [Üretkenliğinizi güçlendirecek 14 VS Code kısayolu](https://wolkanca.com.tr/uretkenliginizi-guclendirecek-14-vs-code-kisayolu/)
 <!-- BLOG-POST-LIST:END -->
 
 
