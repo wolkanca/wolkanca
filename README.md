@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FluZ, hiç otantik olmayan içerikler](https://wolkanca.com.tr/fluz-hic-otantik-olmayan-icerikler/)
 - [WhatsApp iOS – Android arası aktarım](https://wolkanca.com.tr/whatsapp-ios-android-arasi-aktarim/)
 - [Farkhunda Malikzada](https://wolkanca.com.tr/farkhunda-malikzada/)
 - [Lucifer final sezon fragmanı](https://wolkanca.com.tr/lucifer-final-sezon-fragmani/)
@@ -26,7 +27,6 @@
 - [WordPress hooks/actions çalışma sırası](https://wolkanca.com.tr/wordpress-hooks-actions-calisma-sirasi/)
 - [Seçim 2023 gif durdur](https://wolkanca.com.tr/secim-2023-gif-durdur/)
 - [React.js öğrenmeli misiniz?](https://wolkanca.com.tr/react-js-ogrenmeli-misiniz/)
-- [Cehalet yakar!](https://wolkanca.com.tr/cehalet-yakar/)
 <!-- BLOG-POST-LIST:END -->
 
 
