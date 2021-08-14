@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rainmeter, masaüstü kişiselleştirme aracı](https://wolkanca.com.tr/rainmeter-masaustu-kisisellestirme-araci/)
 - [FluZ, hiç otantik olmayan içerikler](https://wolkanca.com.tr/fluz-hic-otantik-olmayan-icerikler/)
 - [WhatsApp iOS – Android arası aktarım](https://wolkanca.com.tr/whatsapp-ios-android-arasi-aktarim/)
 - [Farkhunda Malikzada](https://wolkanca.com.tr/farkhunda-malikzada/)
@@ -26,7 +27,6 @@
 - [Vekil](https://wolkanca.com.tr/vekil/)
 - [WordPress hooks/actions çalışma sırası](https://wolkanca.com.tr/wordpress-hooks-actions-calisma-sirasi/)
 - [Seçim 2023 gif durdur](https://wolkanca.com.tr/secim-2023-gif-durdur/)
-- [React.js öğrenmeli misiniz?](https://wolkanca.com.tr/react-js-ogrenmeli-misiniz/)
 <!-- BLOG-POST-LIST:END -->
 
 
