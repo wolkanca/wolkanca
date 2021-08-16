@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bilmeniz gereken 5 Google Docs özelliği](https://wolkanca.com.tr/bilmeniz-gereken-5-google-docs-ozelligi/)
 - [Rainmeter, masaüstü kişiselleştirme aracı](https://wolkanca.com.tr/rainmeter-masaustu-kisisellestirme-araci/)
 - [FluZ, hiç otantik olmayan içerikler](https://wolkanca.com.tr/fluz-hic-otantik-olmayan-icerikler/)
 - [WhatsApp iOS – Android arası aktarım](https://wolkanca.com.tr/whatsapp-ios-android-arasi-aktarim/)
@@ -26,7 +27,6 @@
 - [SHTML(Server Side Includes) içerisinde PHP kodu çalıştırmak](https://wolkanca.com.tr/shtmlserver-side-includes-icerisinde-php-kodu-calistirmak/)
 - [Vekil](https://wolkanca.com.tr/vekil/)
 - [WordPress hooks/actions çalışma sırası](https://wolkanca.com.tr/wordpress-hooks-actions-calisma-sirasi/)
-- [Seçim 2023 gif durdur](https://wolkanca.com.tr/secim-2023-gif-durdur/)
 <!-- BLOG-POST-LIST:END -->
 
 
