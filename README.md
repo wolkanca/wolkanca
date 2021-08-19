@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Youtube arama sonuçlarında yeni geliştirmeler](https://wolkanca.com.tr/youtube-arama-sonuclarinda-yeni-gelistirmeler/)
 - [İngiliz kadınlar, Türk kadınından daha mı değersiz?](https://wolkanca.com.tr/ingiliz-kadinlar-turk-kadinindan-daha-mi-degersiz/)
 - [17 Ağustos Salı](https://wolkanca.com.tr/17-agustos-sali/)
 - [Bilmeniz gereken 5 Google Docs özelliği](https://wolkanca.com.tr/bilmeniz-gereken-5-google-docs-ozelligi/)
@@ -26,7 +27,6 @@
 - [Farkhunda Malikzada](https://wolkanca.com.tr/farkhunda-malikzada/)
 - [Lucifer final sezon fragmanı](https://wolkanca.com.tr/lucifer-final-sezon-fragmani/)
 - [Yazılımcıların işe alımcılara bakışı](https://wolkanca.com.tr/yazilimcilarin-ise-alimcilara-bakisi/)
-- [SHTML(Server Side Includes) içerisinde PHP kodu çalıştırmak](https://wolkanca.com.tr/shtmlserver-side-includes-icerisinde-php-kodu-calistirmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
