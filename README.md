@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tarihten ünlü karakterler bugün neye benzerdi?](https://wolkanca.com.tr/tarihten-unlu-karakterler-bugun-neye-benzerdi/)
 - [Youtube arama sonuçlarında yeni geliştirmeler](https://wolkanca.com.tr/youtube-arama-sonuclarinda-yeni-gelistirmeler/)
 - [İngiliz kadınlar, Türk kadınından daha mı değersiz?](https://wolkanca.com.tr/ingiliz-kadinlar-turk-kadinindan-daha-mi-degersiz/)
 - [17 Ağustos Salı](https://wolkanca.com.tr/17-agustos-sali/)
@@ -26,7 +27,6 @@
 - [WhatsApp iOS – Android arası aktarım](https://wolkanca.com.tr/whatsapp-ios-android-arasi-aktarim/)
 - [Farkhunda Malikzada](https://wolkanca.com.tr/farkhunda-malikzada/)
 - [Lucifer final sezon fragmanı](https://wolkanca.com.tr/lucifer-final-sezon-fragmani/)
-- [Yazılımcıların işe alımcılara bakışı](https://wolkanca.com.tr/yazilimcilarin-ise-alimcilara-bakisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
