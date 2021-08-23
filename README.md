@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML, CSS ve JavaScript ile dairesel progress bar](https://wolkanca.com.tr/html-css-ve-javascript-ile-dairesel-progress-bar/)
+- [HTML, CSS ve JavaScript ile analog saat](https://wolkanca.com.tr/html-css-ve-javascript-ile-analog-saat/)
 - [Skip to main content – İçeriğe atla bağlantısı](https://wolkanca.com.tr/skip-to-main-content-icerige-atla-baglantisi/)
 - [Tarihten ünlü karakterler bugün neye benzerdi?](https://wolkanca.com.tr/tarihten-unlu-karakterler-bugun-neye-benzerdi/)
 - [Youtube arama sonuçlarında yeni geliştirmeler](https://wolkanca.com.tr/youtube-arama-sonuclarinda-yeni-gelistirmeler/)
@@ -25,8 +27,6 @@
 - [Bilmeniz gereken 5 Google Docs özelliği](https://wolkanca.com.tr/bilmeniz-gereken-5-google-docs-ozelligi/)
 - [Rainmeter, masaüstü kişiselleştirme aracı](https://wolkanca.com.tr/rainmeter-masaustu-kisisellestirme-araci/)
 - [FluZ, hiç otantik olmayan içerikler](https://wolkanca.com.tr/fluz-hic-otantik-olmayan-icerikler/)
-- [WhatsApp iOS – Android arası aktarım](https://wolkanca.com.tr/whatsapp-ios-android-arasi-aktarim/)
-- [Farkhunda Malikzada](https://wolkanca.com.tr/farkhunda-malikzada/)
 <!-- BLOG-POST-LIST:END -->
 
 
