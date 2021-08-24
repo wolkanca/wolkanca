@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 nedir?](https://wolkanca.com.tr/2023-nedir/)
 - [Небо/Gökyüzü 2021](https://wolkanca.com.tr/%d0%bd%d0%b5%d0%b1%d0%be-gokyuzu-2021/)
 - [HTML, CSS ve JavaScript ile dairesel progress bar](https://wolkanca.com.tr/html-css-ve-javascript-ile-dairesel-progress-bar/)
 - [HTML, CSS ve JavaScript ile analog saat](https://wolkanca.com.tr/html-css-ve-javascript-ile-analog-saat/)
@@ -26,7 +27,6 @@
 - [İngiliz kadınlar, Türk kadınından daha mı değersiz?](https://wolkanca.com.tr/ingiliz-kadinlar-turk-kadinindan-daha-mi-degersiz/)
 - [17 Ağustos Salı](https://wolkanca.com.tr/17-agustos-sali/)
 - [Bilmeniz gereken 5 Google Docs özelliği](https://wolkanca.com.tr/bilmeniz-gereken-5-google-docs-ozelligi/)
-- [Rainmeter, masaüstü kişiselleştirme aracı](https://wolkanca.com.tr/rainmeter-masaustu-kisisellestirme-araci/)
 <!-- BLOG-POST-LIST:END -->
 
 
