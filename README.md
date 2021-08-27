@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript temel if.. else yapı](https://wolkanca.com.tr/javascript-temel-if-else-yapi/)
 - [#SosyalMedyamaDokunma 💪🏻](https://wolkanca.com.tr/sosyalmedyamadokunma-%f0%9f%92%aa%f0%9f%8f%bb/)
 - [2023 nedir?](https://wolkanca.com.tr/2023-nedir/)
 - [Небо/Gökyüzü 2021](https://wolkanca.com.tr/%d0%bd%d0%b5%d0%b1%d0%be-gokyuzu-2021/)
@@ -26,7 +27,6 @@
 - [Tarihten ünlü karakterler bugün neye benzerdi?](https://wolkanca.com.tr/tarihten-unlu-karakterler-bugun-neye-benzerdi/)
 - [Youtube arama sonuçlarında yeni geliştirmeler](https://wolkanca.com.tr/youtube-arama-sonuclarinda-yeni-gelistirmeler/)
 - [İngiliz kadınlar, Türk kadınından daha mı değersiz?](https://wolkanca.com.tr/ingiliz-kadinlar-turk-kadinindan-daha-mi-degersiz/)
-- [17 Ağustos Salı](https://wolkanca.com.tr/17-agustos-sali/)
 <!-- BLOG-POST-LIST:END -->
 
 
