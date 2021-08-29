@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IsThereAnyDeal](https://wolkanca.com.tr/isthereanydeal/)
 - [Revue ile Twitter kullanın](https://wolkanca.com.tr/revue-ile-twitter-kullanin/)
 - [JavaScript temel if.. else yapı](https://wolkanca.com.tr/javascript-temel-if-else-yapi/)
 - [#SosyalMedyamaDokunma 💪🏻](https://wolkanca.com.tr/sosyalmedyamadokunma-%f0%9f%92%aa%f0%9f%8f%bb/)
@@ -26,7 +27,6 @@
 - [HTML, CSS ve JavaScript ile analog saat](https://wolkanca.com.tr/html-css-ve-javascript-ile-analog-saat/)
 - [Skip to main content – İçeriğe atla bağlantısı](https://wolkanca.com.tr/skip-to-main-content-icerige-atla-baglantisi/)
 - [Tarihten ünlü karakterler bugün neye benzerdi?](https://wolkanca.com.tr/tarihten-unlu-karakterler-bugun-neye-benzerdi/)
-- [Youtube arama sonuçlarında yeni geliştirmeler](https://wolkanca.com.tr/youtube-arama-sonuclarinda-yeni-gelistirmeler/)
 <!-- BLOG-POST-LIST:END -->
 
 
