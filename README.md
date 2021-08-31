@@ -18,6 +18,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Git ve Github basit klavuz](https://wolkanca.com.tr/git-ve-github-basit-klavuz/)
+- [Ferhangi bir şey](https://wolkanca.com.tr/ferhangi-bir-sey/)
 - [Google, ‘Arama Nasıl Çalışır’  sayfası yenilendi](https://wolkanca.com.tr/google-arama-nasil-calisir-sayfasi-yenilendi/)
 - [array_rand kullanımı – PHP](https://wolkanca.com.tr/array_rand-kullanimi-php/)
 - [IsThereAnyDeal](https://wolkanca.com.tr/isthereanydeal/)
@@ -26,7 +27,6 @@
 - [#SosyalMedyamaDokunma 💪🏻](https://wolkanca.com.tr/sosyalmedyamadokunma-%f0%9f%92%aa%f0%9f%8f%bb/)
 - [2023 nedir?](https://wolkanca.com.tr/2023-nedir/)
 - [Небо/Gökyüzü 2021](https://wolkanca.com.tr/%d0%bd%d0%b5%d0%b1%d0%be-gokyuzu-2021/)
-- [HTML, CSS ve JavaScript ile dairesel progress bar](https://wolkanca.com.tr/html-css-ve-javascript-ile-dairesel-progress-bar/)
 <!-- BLOG-POST-LIST:END -->
 
 
