@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google AI – görüntü iyileştirme](https://wolkanca.com.tr/google-ai-goruntu-iyilestirme/)
 - [Git ve Github basit klavuz](https://wolkanca.com.tr/git-ve-github-basit-klavuz/)
 - [Ferhangi bir şey](https://wolkanca.com.tr/ferhangi-bir-sey/)
 - [Google, ‘Arama Nasıl Çalışır’  sayfası yenilendi](https://wolkanca.com.tr/google-arama-nasil-calisir-sayfasi-yenilendi/)
@@ -26,7 +27,6 @@
 - [JavaScript temel if.. else yapı](https://wolkanca.com.tr/javascript-temel-if-else-yapi/)
 - [#SosyalMedyamaDokunma 💪🏻](https://wolkanca.com.tr/sosyalmedyamadokunma-%f0%9f%92%aa%f0%9f%8f%bb/)
 - [2023 nedir?](https://wolkanca.com.tr/2023-nedir/)
-- [Небо/Gökyüzü 2021](https://wolkanca.com.tr/%d0%bd%d0%b5%d0%b1%d0%be-gokyuzu-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 
