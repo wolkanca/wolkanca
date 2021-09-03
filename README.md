@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress gizli özel alanları göster](https://wolkanca.com.tr/wordpress-gizli-ozel-alanlari-goster/)
+- [follow.it kullanımı](https://wolkanca.com.tr/follow-it-kullanimi/)
 - [Google AI – görüntü iyileştirme](https://wolkanca.com.tr/google-ai-goruntu-iyilestirme/)
 - [Git ve Github basit klavuz](https://wolkanca.com.tr/git-ve-github-basit-klavuz/)
 - [Ferhangi bir şey](https://wolkanca.com.tr/ferhangi-bir-sey/)
@@ -25,8 +27,6 @@
 - [IsThereAnyDeal](https://wolkanca.com.tr/isthereanydeal/)
 - [Revue ile Twitter kullanın](https://wolkanca.com.tr/revue-ile-twitter-kullanin/)
 - [JavaScript temel if.. else yapı](https://wolkanca.com.tr/javascript-temel-if-else-yapi/)
-- [#SosyalMedyamaDokunma 💪🏻](https://wolkanca.com.tr/sosyalmedyamadokunma-%f0%9f%92%aa%f0%9f%8f%bb/)
-- [2023 nedir?](https://wolkanca.com.tr/2023-nedir/)
 <!-- BLOG-POST-LIST:END -->
 
 
