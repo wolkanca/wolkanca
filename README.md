@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angela Merkel](https://wolkanca.com.tr/angela-merkel/)
 - [WordPress gizli özel alanları göster](https://wolkanca.com.tr/wordpress-gizli-ozel-alanlari-goster/)
 - [follow.it kullanımı](https://wolkanca.com.tr/follow-it-kullanimi/)
 - [Google AI – görüntü iyileştirme](https://wolkanca.com.tr/google-ai-goruntu-iyilestirme/)
@@ -26,7 +27,6 @@
 - [array_rand kullanımı – PHP](https://wolkanca.com.tr/array_rand-kullanimi-php/)
 - [IsThereAnyDeal](https://wolkanca.com.tr/isthereanydeal/)
 - [Revue ile Twitter kullanın](https://wolkanca.com.tr/revue-ile-twitter-kullanin/)
-- [JavaScript temel if.. else yapı](https://wolkanca.com.tr/javascript-temel-if-else-yapi/)
 <!-- BLOG-POST-LIST:END -->
 
 
