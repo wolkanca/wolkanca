@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter sosyal gizlilik paketi ve safety modu](https://wolkanca.com.tr/twitter-sosyal-gizlilik-paketi-ve-safety-modu/)
 - [Angela Merkel](https://wolkanca.com.tr/angela-merkel/)
 - [WordPress gizli özel alanları göster](https://wolkanca.com.tr/wordpress-gizli-ozel-alanlari-goster/)
 - [follow.it kullanımı](https://wolkanca.com.tr/follow-it-kullanimi/)
@@ -26,7 +27,6 @@
 - [Google, ‘Arama Nasıl Çalışır’  sayfası yenilendi](https://wolkanca.com.tr/google-arama-nasil-calisir-sayfasi-yenilendi/)
 - [array_rand kullanımı – PHP](https://wolkanca.com.tr/array_rand-kullanimi-php/)
 - [IsThereAnyDeal](https://wolkanca.com.tr/isthereanydeal/)
-- [Revue ile Twitter kullanın](https://wolkanca.com.tr/revue-ile-twitter-kullanin/)
 <!-- BLOG-POST-LIST:END -->
 
 
