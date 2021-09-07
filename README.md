@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Convertworld, her şeyi birbirine çevirin](https://wolkanca.com.tr/convertworld-her-seyi-birbirine-cevirin/)
 - [Twitter sosyal gizlilik paketi ve safety modu](https://wolkanca.com.tr/twitter-sosyal-gizlilik-paketi-ve-safety-modu/)
 - [Angela Merkel](https://wolkanca.com.tr/angela-merkel/)
 - [WordPress gizli özel alanları göster](https://wolkanca.com.tr/wordpress-gizli-ozel-alanlari-goster/)
@@ -26,7 +27,6 @@
 - [Ferhangi bir şey](https://wolkanca.com.tr/ferhangi-bir-sey/)
 - [Google, ‘Arama Nasıl Çalışır’  sayfası yenilendi](https://wolkanca.com.tr/google-arama-nasil-calisir-sayfasi-yenilendi/)
 - [array_rand kullanımı – PHP](https://wolkanca.com.tr/array_rand-kullanimi-php/)
-- [IsThereAnyDeal](https://wolkanca.com.tr/isthereanydeal/)
 <!-- BLOG-POST-LIST:END -->
 
 
