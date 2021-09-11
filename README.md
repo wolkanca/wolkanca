@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome Desktop Sharing Hub in Omnibox](https://wolkanca.com.tr/google-chrome-desktop-sharing-hub-in-omnibox/)
 - [jQuery ihtiyacınız olmayabilir](https://wolkanca.com.tr/jquery-ihtiyaciniz-olmayabilir/)
 - [SEO için sayfa içeriğinde HTML tablolarını kullanmak](https://wolkanca.com.tr/seo-icin-sayfa-iceriginde-html-tablolarini-kullanmak/)
 - [Convertworld, her şeyi birbirine çevirin](https://wolkanca.com.tr/convertworld-her-seyi-birbirine-cevirin/)
@@ -26,7 +27,6 @@
 - [follow.it kullanımı](https://wolkanca.com.tr/follow-it-kullanimi/)
 - [Google AI – görüntü iyileştirme](https://wolkanca.com.tr/google-ai-goruntu-iyilestirme/)
 - [Git ve Github basit klavuz](https://wolkanca.com.tr/git-ve-github-basit-klavuz/)
-- [Ferhangi bir şey](https://wolkanca.com.tr/ferhangi-bir-sey/)
 <!-- BLOG-POST-LIST:END -->
 
 
