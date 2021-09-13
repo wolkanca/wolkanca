@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP array_map örneği](https://wolkanca.com.tr/php-array_map-ornegi/)
+- [WordPress body_class eklemek](https://wolkanca.com.tr/wordpress-body_class-eklemek/)
 - [Google Chrome Desktop Sharing Hub in Omnibox](https://wolkanca.com.tr/google-chrome-desktop-sharing-hub-in-omnibox/)
 - [jQuery ihtiyacınız olmayabilir](https://wolkanca.com.tr/jquery-ihtiyaciniz-olmayabilir/)
 - [SEO için sayfa içeriğinde HTML tablolarını kullanmak](https://wolkanca.com.tr/seo-icin-sayfa-iceriginde-html-tablolarini-kullanmak/)
@@ -25,8 +27,6 @@
 - [Angela Merkel](https://wolkanca.com.tr/angela-merkel/)
 - [WordPress gizli özel alanları göster](https://wolkanca.com.tr/wordpress-gizli-ozel-alanlari-goster/)
 - [follow.it kullanımı](https://wolkanca.com.tr/follow-it-kullanimi/)
-- [Google AI – görüntü iyileştirme](https://wolkanca.com.tr/google-ai-goruntu-iyilestirme/)
-- [Git ve Github basit klavuz](https://wolkanca.com.tr/git-ve-github-basit-klavuz/)
 <!-- BLOG-POST-LIST:END -->
 
 
