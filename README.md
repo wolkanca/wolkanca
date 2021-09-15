@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML Typewriter text – daktilo efekti yapmak](https://wolkanca.com.tr/html-typewriter-text-daktilo-efekti-yapmak/)
 - [WhatsApp sesli mesajları yazıya dönüştürmek](https://wolkanca.com.tr/whatsapp-sesli-mesajlari-yaziya-donusturmek/)
 - [PHP array_map örneği](https://wolkanca.com.tr/php-array_map-ornegi/)
 - [WordPress body_class eklemek](https://wolkanca.com.tr/wordpress-body_class-eklemek/)
@@ -26,7 +27,6 @@
 - [Convertworld, her şeyi birbirine çevirin](https://wolkanca.com.tr/convertworld-her-seyi-birbirine-cevirin/)
 - [Twitter sosyal gizlilik paketi ve safety modu](https://wolkanca.com.tr/twitter-sosyal-gizlilik-paketi-ve-safety-modu/)
 - [Angela Merkel](https://wolkanca.com.tr/angela-merkel/)
-- [WordPress gizli özel alanları göster](https://wolkanca.com.tr/wordpress-gizli-ozel-alanlari-goster/)
 <!-- BLOG-POST-LIST:END -->
 
 
