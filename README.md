@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Metni panoya kopyalama – JS](https://wolkanca.com.tr/metni-panoya-kopyalama-js/)
 - [Windows Başlangıçta Store App çalıştırmak](https://wolkanca.com.tr/windows-baslangicta-store-app-calistirmak/)
 - [Detaylı MailChimp kullanımı 2021](https://wolkanca.com.tr/detayli-mailchimp-kullanimi-2021/)
 - [HTML Typewriter text – daktilo efekti yapmak](https://wolkanca.com.tr/html-typewriter-text-daktilo-efekti-yapmak/)
@@ -26,7 +27,6 @@
 - [Google Chrome Desktop Sharing Hub in Omnibox](https://wolkanca.com.tr/google-chrome-desktop-sharing-hub-in-omnibox/)
 - [jQuery ihtiyacınız olmayabilir](https://wolkanca.com.tr/jquery-ihtiyaciniz-olmayabilir/)
 - [SEO için sayfa içeriğinde HTML tablolarını kullanmak](https://wolkanca.com.tr/seo-icin-sayfa-iceriginde-html-tablolarini-kullanmak/)
-- [Convertworld, her şeyi birbirine çevirin](https://wolkanca.com.tr/convertworld-her-seyi-birbirine-cevirin/)
 <!-- BLOG-POST-LIST:END -->
 
 
