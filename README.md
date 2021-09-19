@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Matrix 4](https://wolkanca.com.tr/the-matrix-4/)
 - [Girişiminizi ücretsiz yayınlayacağınız yerler](https://wolkanca.com.tr/girisiminizi-ucretsiz-yayinlayacaginiz-yerler/)
 - [Metni panoya kopyalama – JS](https://wolkanca.com.tr/metni-panoya-kopyalama-js/)
 - [Windows Başlangıçta Store App çalıştırmak](https://wolkanca.com.tr/windows-baslangicta-store-app-calistirmak/)
@@ -26,7 +27,6 @@
 - [PHP array_map örneği](https://wolkanca.com.tr/php-array_map-ornegi/)
 - [WordPress body_class eklemek](https://wolkanca.com.tr/wordpress-body_class-eklemek/)
 - [Google Chrome Desktop Sharing Hub in Omnibox](https://wolkanca.com.tr/google-chrome-desktop-sharing-hub-in-omnibox/)
-- [jQuery ihtiyacınız olmayabilir](https://wolkanca.com.tr/jquery-ihtiyaciniz-olmayabilir/)
 <!-- BLOG-POST-LIST:END -->
 
 
