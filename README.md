@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows’da bir programı kapatmaya zamanlamak](https://wolkanca.com.tr/windowsda-bir-programi-kapatmaya-zamanlamak/)
 - [Saraylar yapıyoruz, niye yurt yapmıyoruz?](https://wolkanca.com.tr/saraylar-yapiyoruz-niye-yurt-yapmiyoruz/)
 - [The Matrix 4](https://wolkanca.com.tr/the-matrix-4/)
 - [Girişiminizi ücretsiz yayınlayacağınız yerler](https://wolkanca.com.tr/girisiminizi-ucretsiz-yayinlayacaginiz-yerler/)
@@ -26,7 +27,6 @@
 - [HTML Typewriter text – daktilo efekti yapmak](https://wolkanca.com.tr/html-typewriter-text-daktilo-efekti-yapmak/)
 - [WhatsApp sesli mesajları yazıya dönüştürmek](https://wolkanca.com.tr/whatsapp-sesli-mesajlari-yaziya-donusturmek/)
 - [PHP array_map örneği](https://wolkanca.com.tr/php-array_map-ornegi/)
-- [WordPress body_class eklemek](https://wolkanca.com.tr/wordpress-body_class-eklemek/)
 <!-- BLOG-POST-LIST:END -->
 
 
