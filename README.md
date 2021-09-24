@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube video indirme özelliği](https://wolkanca.com.tr/youtube-video-indirme-ozelligi/)
 - [github.dev İle eğlenceli şeyler](https://wolkanca.com.tr/github-dev-ile-eglenceli-seyler/)
 - [Windows’da bir programı kapatmaya zamanlamak](https://wolkanca.com.tr/windowsda-bir-programi-kapatmaya-zamanlamak/)
 - [Saraylar yapıyoruz, niye yurt yapmıyoruz?](https://wolkanca.com.tr/saraylar-yapiyoruz-niye-yurt-yapmiyoruz/)
@@ -26,7 +27,6 @@
 - [Windows Başlangıçta Store App çalıştırmak](https://wolkanca.com.tr/windows-baslangicta-store-app-calistirmak/)
 - [Detaylı MailChimp kullanımı 2021](https://wolkanca.com.tr/detayli-mailchimp-kullanimi-2021/)
 - [HTML Typewriter text – daktilo efekti yapmak](https://wolkanca.com.tr/html-typewriter-text-daktilo-efekti-yapmak/)
-- [WhatsApp sesli mesajları yazıya dönüştürmek](https://wolkanca.com.tr/whatsapp-sesli-mesajlari-yaziya-donusturmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
