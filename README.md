@@ -18,7 +18,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [YouTube video indirme özelliği](https://wolkanca.com.tr/youtube-video-indirme-ozelligi/)
-- [github.dev İle eğlenceli şeyler](https://wolkanca.com.tr/github-dev-ile-eglenceli-seyler/)
+- [github.dev ile eğlenceli şeyler](https://wolkanca.com.tr/github-dev-ile-eglenceli-seyler/)
 - [Windows’da bir programı kapatmaya zamanlamak](https://wolkanca.com.tr/windowsda-bir-programi-kapatmaya-zamanlamak/)
 - [Saraylar yapıyoruz, niye yurt yapmıyoruz?](https://wolkanca.com.tr/saraylar-yapiyoruz-niye-yurt-yapmiyoruz/)
 - [The Matrix 4](https://wolkanca.com.tr/the-matrix-4/)
