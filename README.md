@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SEO sertifikaları: işe yarar mı?](https://wolkanca.com.tr/seo-sertifikalari-ise-yarar-mi/)
 - [Opera’da Google Translate](https://wolkanca.com.tr/operada-google-translate/)
 - [20 Killer JavaScript one liner](https://wolkanca.com.tr/20-killer-javascript-one-liner/)
 - [YouTube video indirme özelliği](https://wolkanca.com.tr/youtube-video-indirme-ozelligi/)
@@ -26,7 +27,6 @@
 - [The Matrix 4](https://wolkanca.com.tr/the-matrix-4/)
 - [Girişiminizi ücretsiz yayınlayacağınız yerler](https://wolkanca.com.tr/girisiminizi-ucretsiz-yayinlayacaginiz-yerler/)
 - [Metni panoya kopyalama – JS](https://wolkanca.com.tr/metni-panoya-kopyalama-js/)
-- [Windows Başlangıçta Store App çalıştırmak](https://wolkanca.com.tr/windows-baslangicta-store-app-calistirmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
