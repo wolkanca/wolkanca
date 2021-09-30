@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kodunuzu basitleştirin](https://wolkanca.com.tr/kodunuzu-basitlestirin/)
 - [iPhone iOS reklamlardan kurtulmak](https://wolkanca.com.tr/iphone-ios-reklamlardan-kurtulmak/)
 - [Google Chrome’da cihazları taklit etmek](https://wolkanca.com.tr/google-chromeda-cihazlari-taklit-etmek/)
 - [SEO sertifikaları: işe yarar mı?](https://wolkanca.com.tr/seo-sertifikalari-ise-yarar-mi/)
@@ -26,7 +27,6 @@
 - [github.dev ile eğlenceli şeyler](https://wolkanca.com.tr/github-dev-ile-eglenceli-seyler/)
 - [Windows’da bir programı kapatmaya zamanlamak](https://wolkanca.com.tr/windowsda-bir-programi-kapatmaya-zamanlamak/)
 - [Saraylar yapıyoruz, niye yurt yapmıyoruz?](https://wolkanca.com.tr/saraylar-yapiyoruz-niye-yurt-yapmiyoruz/)
-- [The Matrix 4](https://wolkanca.com.tr/the-matrix-4/)
 <!-- BLOG-POST-LIST:END -->
 
 
