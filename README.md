@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dünya Kahve Günü](https://wolkanca.com.tr/dunya-kahve-gunu/)
 - [Kodunuzu basitleştirin](https://wolkanca.com.tr/kodunuzu-basitlestirin/)
 - [iPhone iOS reklamlardan kurtulmak](https://wolkanca.com.tr/iphone-ios-reklamlardan-kurtulmak/)
 - [Google Chrome’da cihazları taklit etmek](https://wolkanca.com.tr/google-chromeda-cihazlari-taklit-etmek/)
@@ -26,7 +27,6 @@
 - [YouTube video indirme özelliği](https://wolkanca.com.tr/youtube-video-indirme-ozelligi/)
 - [github.dev ile eğlenceli şeyler](https://wolkanca.com.tr/github-dev-ile-eglenceli-seyler/)
 - [Windows’da bir programı kapatmaya zamanlamak](https://wolkanca.com.tr/windowsda-bir-programi-kapatmaya-zamanlamak/)
-- [Saraylar yapıyoruz, niye yurt yapmıyoruz?](https://wolkanca.com.tr/saraylar-yapiyoruz-niye-yurt-yapmiyoruz/)
 <!-- BLOG-POST-LIST:END -->
 
 
