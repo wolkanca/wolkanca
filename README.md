@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows için dosya öznitelik değiştirici](https://wolkanca.com.tr/windows-icin-dosya-oznitelik-degistirici/)
 - [Dünya Kahve Günü](https://wolkanca.com.tr/dunya-kahve-gunu/)
 - [Kodunuzu basitleştirin](https://wolkanca.com.tr/kodunuzu-basitlestirin/)
 - [iPhone iOS reklamlardan kurtulmak](https://wolkanca.com.tr/iphone-ios-reklamlardan-kurtulmak/)
@@ -26,7 +27,6 @@
 - [20 Killer JavaScript one liner](https://wolkanca.com.tr/20-killer-javascript-one-liner/)
 - [YouTube video indirme özelliği](https://wolkanca.com.tr/youtube-video-indirme-ozelligi/)
 - [github.dev ile eğlenceli şeyler](https://wolkanca.com.tr/github-dev-ile-eglenceli-seyler/)
-- [Windows’da bir programı kapatmaya zamanlamak](https://wolkanca.com.tr/windowsda-bir-programi-kapatmaya-zamanlamak/)
 <!-- BLOG-POST-LIST:END -->
 
 
