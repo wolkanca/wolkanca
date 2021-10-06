@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İskelet ekranı yükleme animasyonu HTML/CSS](https://wolkanca.com.tr/iskelet-ekrani-yukleme-animasyonu-html-css/)
 - [Pandora Papers](https://wolkanca.com.tr/pandora-papers/)
 - [Google Arama’da e-ticaret için en iyi uygulamalar](https://wolkanca.com.tr/google-aramada-e-ticaret-icin-en-iyi-uygulamalar/)
 - [Project Taara lazer teknolojisi](https://wolkanca.com.tr/project-taara-lazer-teknolojisi/)
@@ -26,7 +27,6 @@
 - [iPhone iOS reklamlardan kurtulmak](https://wolkanca.com.tr/iphone-ios-reklamlardan-kurtulmak/)
 - [Google Chrome’da cihazları taklit etmek](https://wolkanca.com.tr/google-chromeda-cihazlari-taklit-etmek/)
 - [SEO sertifikaları: işe yarar mı?](https://wolkanca.com.tr/seo-sertifikalari-ise-yarar-mi/)
-- [Opera’da Google Translate](https://wolkanca.com.tr/operada-google-translate/)
 <!-- BLOG-POST-LIST:END -->
 
 
