@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Paralel evrende bugün](https://wolkanca.com.tr/paralel-evrende-bugun/)
 - [Google Arama temalı websitesi](https://wolkanca.com.tr/google-arama-temali-websitesi/)
 - [Bölücü kebapçılar](https://wolkanca.com.tr/bolucu-kebapcilar/)
 - [İskelet ekranı yükleme animasyonu HTML/CSS](https://wolkanca.com.tr/iskelet-ekrani-yukleme-animasyonu-html-css/)
@@ -26,7 +27,6 @@
 - [Windows için dosya öznitelik değiştirici](https://wolkanca.com.tr/windows-icin-dosya-oznitelik-degistirici/)
 - [Dünya Kahve Günü](https://wolkanca.com.tr/dunya-kahve-gunu/)
 - [Kodunuzu basitleştirin](https://wolkanca.com.tr/kodunuzu-basitlestirin/)
-- [iPhone iOS reklamlardan kurtulmak](https://wolkanca.com.tr/iphone-ios-reklamlardan-kurtulmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
