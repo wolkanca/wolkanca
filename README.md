@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bugün yarından daha zenginiz](https://wolkanca.com.tr/bugun-yarindan-daha-zenginiz/)
 - [Google arama sonuçlarında gitar akort aracı](https://wolkanca.com.tr/google-arama-sonuclarinda-gitar-akort-araci/)
 - [Paralel evrende bugün](https://wolkanca.com.tr/paralel-evrende-bugun/)
 - [Google Arama temalı websitesi](https://wolkanca.com.tr/google-arama-temali-websitesi/)
@@ -26,7 +27,6 @@
 - [Google Arama’da e-ticaret için en iyi uygulamalar](https://wolkanca.com.tr/google-aramada-e-ticaret-icin-en-iyi-uygulamalar/)
 - [Project Taara lazer teknolojisi](https://wolkanca.com.tr/project-taara-lazer-teknolojisi/)
 - [Windows için dosya öznitelik değiştirici](https://wolkanca.com.tr/windows-icin-dosya-oznitelik-degistirici/)
-- [Dünya Kahve Günü](https://wolkanca.com.tr/dunya-kahve-gunu/)
 <!-- BLOG-POST-LIST:END -->
 
 
