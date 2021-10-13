@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My wergi](https://wolkanca.com.tr/my-wergi/)
 - [Ağzına sağlık @nevsinmengu](https://wolkanca.com.tr/agzina-saglik-nevsinmengu/)
 - [Bugün yarından daha zenginiz](https://wolkanca.com.tr/bugun-yarindan-daha-zenginiz/)
 - [Google arama sonuçlarında gitar akort aracı](https://wolkanca.com.tr/google-arama-sonuclarinda-gitar-akort-araci/)
@@ -26,7 +27,6 @@
 - [İskelet ekranı yükleme animasyonu HTML/CSS](https://wolkanca.com.tr/iskelet-ekrani-yukleme-animasyonu-html-css/)
 - [Pandora Papers](https://wolkanca.com.tr/pandora-papers/)
 - [Google Arama’da e-ticaret için en iyi uygulamalar](https://wolkanca.com.tr/google-aramada-e-ticaret-icin-en-iyi-uygulamalar/)
-- [Project Taara lazer teknolojisi](https://wolkanca.com.tr/project-taara-lazer-teknolojisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
