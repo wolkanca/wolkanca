@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google mobil sonuçlarda sürekli kaydırmaya geçiyor](https://wolkanca.com.tr/google-mobil-sonuclarda-surekli-kaydirmaya-geciyor/)
 - [12 basit HTML kodu](https://wolkanca.com.tr/12-basit-html-kodu/)
 - [My wergi](https://wolkanca.com.tr/my-wergi/)
 - [Ağzına sağlık @nevsinmengu](https://wolkanca.com.tr/agzina-saglik-nevsinmengu/)
@@ -26,7 +27,6 @@
 - [Google Arama temalı websitesi](https://wolkanca.com.tr/google-arama-temali-websitesi/)
 - [Bölücü kebapçılar](https://wolkanca.com.tr/bolucu-kebapcilar/)
 - [İskelet ekranı yükleme animasyonu HTML/CSS](https://wolkanca.com.tr/iskelet-ekrani-yukleme-animasyonu-html-css/)
-- [Pandora Papers](https://wolkanca.com.tr/pandora-papers/)
 <!-- BLOG-POST-LIST:END -->
 
 
