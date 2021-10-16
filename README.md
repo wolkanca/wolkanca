@@ -18,6 +18,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Luna Display](https://wolkanca.com.tr/luna-display/)
+- [Metrolara internet geldi](https://wolkanca.com.tr/metrolara-internet-geldi/)
 - [Google mobil sonuçlarda sürekli kaydırmaya geçiyor](https://wolkanca.com.tr/google-mobil-sonuclarda-surekli-kaydirmaya-geciyor/)
 - [12 basit HTML kodu](https://wolkanca.com.tr/12-basit-html-kodu/)
 - [My wergi](https://wolkanca.com.tr/my-wergi/)
@@ -26,7 +27,6 @@
 - [Google arama sonuçlarında gitar akort aracı](https://wolkanca.com.tr/google-arama-sonuclarinda-gitar-akort-araci/)
 - [Paralel evrende bugün](https://wolkanca.com.tr/paralel-evrende-bugun/)
 - [Google Arama temalı websitesi](https://wolkanca.com.tr/google-arama-temali-websitesi/)
-- [Bölücü kebapçılar](https://wolkanca.com.tr/bolucu-kebapcilar/)
 <!-- BLOG-POST-LIST:END -->
 
 
