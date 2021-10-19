@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare ile DigitalOcean ASN engellemek](https://wolkanca.com.tr/cloudflare-ile-digitalocean-asn-engellemek/)
 - [Landing pages için ücretsiz HTML temalar](https://wolkanca.com.tr/landing-pages-icin-ucretsiz-html-temalar/)
 - [Luna Display](https://wolkanca.com.tr/luna-display/)
 - [Metrolara internet geldi](https://wolkanca.com.tr/metrolara-internet-geldi/)
@@ -26,7 +27,6 @@
 - [Ağzına sağlık @nevsinmengu](https://wolkanca.com.tr/agzina-saglik-nevsinmengu/)
 - [Bugün yarından daha zenginiz](https://wolkanca.com.tr/bugun-yarindan-daha-zenginiz/)
 - [Google arama sonuçlarında gitar akort aracı](https://wolkanca.com.tr/google-arama-sonuclarinda-gitar-akort-araci/)
-- [Paralel evrende bugün](https://wolkanca.com.tr/paralel-evrende-bugun/)
 <!-- BLOG-POST-LIST:END -->
 
 
