@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter, grup sohbet uygulaması Sphere’i satın aldı](https://wolkanca.com.tr/twitter-grup-sohbet-uygulamasi-spherei-satin-aldi/)
 - [LinkedIn anketlerinden kurtulmak](https://wolkanca.com.tr/linkedin-anketlerinden-kurtulmak/)
 - [Cloudflare ile DigitalOcean ASN engellemek](https://wolkanca.com.tr/cloudflare-ile-digitalocean-asn-engellemek/)
 - [Landing pages için ücretsiz HTML temalar](https://wolkanca.com.tr/landing-pages-icin-ucretsiz-html-temalar/)
@@ -26,7 +27,6 @@
 - [12 basit HTML kodu](https://wolkanca.com.tr/12-basit-html-kodu/)
 - [My wergi](https://wolkanca.com.tr/my-wergi/)
 - [Ağzına sağlık @nevsinmengu](https://wolkanca.com.tr/agzina-saglik-nevsinmengu/)
-- [Bugün yarından daha zenginiz](https://wolkanca.com.tr/bugun-yarindan-daha-zenginiz/)
 <!-- BLOG-POST-LIST:END -->
 
 
