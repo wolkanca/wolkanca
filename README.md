@@ -18,7 +18,6 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Sorununuz ekonomi mi?](https://wolkanca.com.tr/sorununuz-ekonomi-mi/)
-- [Sorununuz ekonomi mi?](https://wolkanca.com.tr/sorununuz-ekonomi-mi/)
 - [Instagram Türkiye’de web fotoğraf / video yükleme açıldı](https://wolkanca.com.tr/instagram-turkiyede-web-fotograf-video-yukleme-acildi/)
 - [MacBook Pro 2021](https://wolkanca.com.tr/macbook-pro-2021/)
 - [Twitter, grup sohbet uygulaması Sphere’i satın aldı](https://wolkanca.com.tr/twitter-grup-sohbet-uygulamasi-spherei-satin-aldi/)
@@ -27,6 +26,7 @@
 - [Landing pages için ücretsiz HTML temalar](https://wolkanca.com.tr/landing-pages-icin-ucretsiz-html-temalar/)
 - [Luna Display](https://wolkanca.com.tr/luna-display/)
 - [Metrolara internet geldi](https://wolkanca.com.tr/metrolara-internet-geldi/)
+- [Google mobil sonuçlarda sürekli kaydırmaya geçiyor](https://wolkanca.com.tr/google-mobil-sonuclarda-surekli-kaydirmaya-geciyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
