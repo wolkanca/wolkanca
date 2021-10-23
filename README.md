@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MacBook Pro 2021](https://wolkanca.com.tr/macbook-pro-2021/)
 - [Twitter, grup sohbet uygulaması Sphere’i satın aldı](https://wolkanca.com.tr/twitter-grup-sohbet-uygulamasi-spherei-satin-aldi/)
 - [LinkedIn anketlerinden kurtulmak](https://wolkanca.com.tr/linkedin-anketlerinden-kurtulmak/)
 - [Cloudflare ile DigitalOcean ASN engellemek](https://wolkanca.com.tr/cloudflare-ile-digitalocean-asn-engellemek/)
@@ -26,7 +27,6 @@
 - [Google mobil sonuçlarda sürekli kaydırmaya geçiyor](https://wolkanca.com.tr/google-mobil-sonuclarda-surekli-kaydirmaya-geciyor/)
 - [12 basit HTML kodu](https://wolkanca.com.tr/12-basit-html-kodu/)
 - [My wergi](https://wolkanca.com.tr/my-wergi/)
-- [Ağzına sağlık @nevsinmengu](https://wolkanca.com.tr/agzina-saglik-nevsinmengu/)
 <!-- BLOG-POST-LIST:END -->
 
 
