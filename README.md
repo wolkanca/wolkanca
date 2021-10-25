@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zaman kazandıran Cheat Sheets sayfaları](https://wolkanca.com.tr/zaman-kazandiran-cheat-sheets-sayfalari/)
 - [Sorununuz ekonomi mi?](https://wolkanca.com.tr/sorununuz-ekonomi-mi/)
 - [Instagram Türkiye’de web fotoğraf / video yükleme açıldı](https://wolkanca.com.tr/instagram-turkiyede-web-fotograf-video-yukleme-acildi/)
 - [MacBook Pro 2021](https://wolkanca.com.tr/macbook-pro-2021/)
@@ -26,7 +27,6 @@
 - [Landing pages için ücretsiz HTML temalar](https://wolkanca.com.tr/landing-pages-icin-ucretsiz-html-temalar/)
 - [Luna Display](https://wolkanca.com.tr/luna-display/)
 - [Metrolara internet geldi](https://wolkanca.com.tr/metrolara-internet-geldi/)
-- [Google mobil sonuçlarda sürekli kaydırmaya geçiyor](https://wolkanca.com.tr/google-mobil-sonuclarda-surekli-kaydirmaya-geciyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
