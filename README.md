@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10 için Windows 11 başlat menüsü](https://wolkanca.com.tr/windows-10-icin-windows-11-baslat-menusu/)
 - [Zaman kazandıran Cheat Sheets sayfaları](https://wolkanca.com.tr/zaman-kazandiran-cheat-sheets-sayfalari/)
 - [Sorununuz ekonomi mi?](https://wolkanca.com.tr/sorununuz-ekonomi-mi/)
 - [Instagram Türkiye’de web fotoğraf / video yükleme açıldı](https://wolkanca.com.tr/instagram-turkiyede-web-fotograf-video-yukleme-acildi/)
@@ -26,7 +27,6 @@
 - [Cloudflare ile DigitalOcean ASN engellemek](https://wolkanca.com.tr/cloudflare-ile-digitalocean-asn-engellemek/)
 - [Landing pages için ücretsiz HTML temalar](https://wolkanca.com.tr/landing-pages-icin-ucretsiz-html-temalar/)
 - [Luna Display](https://wolkanca.com.tr/luna-display/)
-- [Metrolara internet geldi](https://wolkanca.com.tr/metrolara-internet-geldi/)
 <!-- BLOG-POST-LIST:END -->
 
 
