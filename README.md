@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cumhuriyet Bayramı reklam filmleri [2021]](https://wolkanca.com.tr/cumhuriyet-bayrami-reklam-filmleri-2021/)
 - [Instagram story link paylaşımı herkes için açık](https://wolkanca.com.tr/instagram-story-link-paylasimi-herkes-icin-acik/)
 - [Sümerlerde kadın mı?](https://wolkanca.com.tr/sumerlerde-kadin-mi/)
 - [Windows 10 için Windows 11 başlat menüsü](https://wolkanca.com.tr/windows-10-icin-windows-11-baslat-menusu/)
@@ -26,7 +27,6 @@
 - [MacBook Pro 2021](https://wolkanca.com.tr/macbook-pro-2021/)
 - [Twitter, grup sohbet uygulaması Sphere’i satın aldı](https://wolkanca.com.tr/twitter-grup-sohbet-uygulamasi-spherei-satin-aldi/)
 - [LinkedIn anketlerinden kurtulmak](https://wolkanca.com.tr/linkedin-anketlerinden-kurtulmak/)
-- [Cloudflare ile DigitalOcean ASN engellemek](https://wolkanca.com.tr/cloudflare-ile-digitalocean-asn-engellemek/)
 <!-- BLOG-POST-LIST:END -->
 
 
