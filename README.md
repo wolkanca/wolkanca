@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [O geldi, Twitch](https://wolkanca.com.tr/o-geldi-twitch/)
 - [Cumhuriyet Bayramı reklam filmleri [2021]](https://wolkanca.com.tr/cumhuriyet-bayrami-reklam-filmleri-2021/)
 - [Instagram story link paylaşımı herkes için açık](https://wolkanca.com.tr/instagram-story-link-paylasimi-herkes-icin-acik/)
 - [Sümerlerde kadın mı?](https://wolkanca.com.tr/sumerlerde-kadin-mi/)
@@ -26,7 +27,6 @@
 - [Instagram Türkiye’de web fotoğraf / video yükleme açıldı](https://wolkanca.com.tr/instagram-turkiyede-web-fotograf-video-yukleme-acildi/)
 - [MacBook Pro 2021](https://wolkanca.com.tr/macbook-pro-2021/)
 - [Twitter, grup sohbet uygulaması Sphere’i satın aldı](https://wolkanca.com.tr/twitter-grup-sohbet-uygulamasi-spherei-satin-aldi/)
-- [LinkedIn anketlerinden kurtulmak](https://wolkanca.com.tr/linkedin-anketlerinden-kurtulmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
