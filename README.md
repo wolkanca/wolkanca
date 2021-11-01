@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kısa vs Uzun URL SEO farkı nedir?](https://wolkanca.com.tr/kisa-vs-uzun-url-seo-farki-nedir/)
 - [Kendi VPN’inizi yapın](https://wolkanca.com.tr/kendi-vpninizi-yapin/)
 - [O geldi, Twitch](https://wolkanca.com.tr/o-geldi-twitch/)
 - [Cumhuriyet Bayramı reklam filmleri [2021]](https://wolkanca.com.tr/cumhuriyet-bayrami-reklam-filmleri-2021/)
@@ -26,7 +27,6 @@
 - [Zaman kazandıran Cheat Sheets sayfaları](https://wolkanca.com.tr/zaman-kazandiran-cheat-sheets-sayfalari/)
 - [Sorununuz ekonomi mi?](https://wolkanca.com.tr/sorununuz-ekonomi-mi/)
 - [Instagram Türkiye’de web fotoğraf / video yükleme açıldı](https://wolkanca.com.tr/instagram-turkiyede-web-fotograf-video-yukleme-acildi/)
-- [MacBook Pro 2021](https://wolkanca.com.tr/macbook-pro-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 
