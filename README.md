@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jahrein ve ekibi Twitch’i bırakıyor](https://wolkanca.com.tr/jahrein-ve-ekibi-twitchi-birakiyor/)
 - [Barış Akarsu’nun annesi hayatını kaybetti](https://wolkanca.com.tr/baris-akarsunun-annesi-hayatini-kaybetti/)
 - [Email 50 yaşında](https://wolkanca.com.tr/email-50-yasinda/)
 - [Bir Masalda İki Kral Olmaz](https://wolkanca.com.tr/bir-masalda-iki-kral-olmaz/)
@@ -26,7 +27,6 @@
 - [Cumhuriyet Bayramı reklam filmleri (2021)](https://wolkanca.com.tr/cumhuriyet-bayrami-reklam-filmleri-2021/)
 - [Instagram story link paylaşımı herkes için açık](https://wolkanca.com.tr/instagram-story-link-paylasimi-herkes-icin-acik/)
 - [Sümerlerde kadın mı?](https://wolkanca.com.tr/sumerlerde-kadin-mi/)
-- [Windows 10 için Windows 11 başlat menüsü](https://wolkanca.com.tr/windows-10-icin-windows-11-baslat-menusu/)
 <!-- BLOG-POST-LIST:END -->
 
 
