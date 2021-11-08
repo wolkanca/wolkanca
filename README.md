@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 harika CSS hamburger menü](https://wolkanca.com.tr/10-harika-css-hamburger-menu/)
 - [PayPal pazar payı](https://wolkanca.com.tr/paypal-pazar-payi/)
 - [WhatsApp Desktop](https://wolkanca.com.tr/whatsapp-desktop/)
 - [Jahrein ve ekibi Twitch’i bırakıyor](https://wolkanca.com.tr/jahrein-ve-ekibi-twitchi-birakiyor/)
@@ -26,7 +27,6 @@
 - [Kısa vs Uzun URL SEO farkı nedir?](https://wolkanca.com.tr/kisa-vs-uzun-url-seo-farki-nedir/)
 - [Kendi VPN’inizi yapın](https://wolkanca.com.tr/kendi-vpninizi-yapin/)
 - [O geldi, Twitch](https://wolkanca.com.tr/o-geldi-twitch/)
-- [Cumhuriyet Bayramı reklam filmleri &lpar;2021&rpar;](https://wolkanca.com.tr/cumhuriyet-bayrami-reklam-filmleri-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 
