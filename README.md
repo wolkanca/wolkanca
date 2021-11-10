@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tüm korkunç Türklerin en korkuncu](https://wolkanca.com.tr/tum-korkunc-turklerin-en-korkuncu/)
 - [Atatürk’ün hazırlattığı hutbeler](https://wolkanca.com.tr/ataturkun-hazirlattigi-hutbeler/)
 - [10 harika CSS hamburger menü](https://wolkanca.com.tr/10-harika-css-hamburger-menu/)
 - [PayPal pazar payı](https://wolkanca.com.tr/paypal-pazar-payi/)
@@ -26,7 +27,6 @@
 - [Email 50 yaşında](https://wolkanca.com.tr/email-50-yasinda/)
 - [Bir Masalda İki Kral Olmaz](https://wolkanca.com.tr/bir-masalda-iki-kral-olmaz/)
 - [Kısa vs Uzun URL SEO farkı nedir?](https://wolkanca.com.tr/kisa-vs-uzun-url-seo-farki-nedir/)
-- [Kendi VPN’inizi yapın](https://wolkanca.com.tr/kendi-vpninizi-yapin/)
 <!-- BLOG-POST-LIST:END -->
 
 
