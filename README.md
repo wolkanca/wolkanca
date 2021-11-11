@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter web sürümünde resimler artık tam boyut](https://wolkanca.com.tr/twitter-web-surumunde-resimler-artik-tam-boyut/)
 - [Yazım kuralları – Türkçe](https://wolkanca.com.tr/yazim-kurallari-turkce/)
 - [Tüm korkunç Türklerin en korkuncu](https://wolkanca.com.tr/tum-korkunc-turklerin-en-korkuncu/)
 - [Atatürk’ün hazırlattığı hutbeler](https://wolkanca.com.tr/ataturkun-hazirlattigi-hutbeler/)
@@ -26,7 +27,6 @@
 - [Jahrein ve ekibi Twitch’i bırakıyor](https://wolkanca.com.tr/jahrein-ve-ekibi-twitchi-birakiyor/)
 - [Barış Akarsu’nun annesi hayatını kaybetti](https://wolkanca.com.tr/baris-akarsunun-annesi-hayatini-kaybetti/)
 - [Email 50 yaşında](https://wolkanca.com.tr/email-50-yasinda/)
-- [Bir Masalda İki Kral Olmaz](https://wolkanca.com.tr/bir-masalda-iki-kral-olmaz/)
 <!-- BLOG-POST-LIST:END -->
 
 
