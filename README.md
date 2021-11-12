@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [John Wick: Hagakure](https://wolkanca.com.tr/john-wick-hagakure/)
 - [Twitter web sürümünde resimler artık tam boyut](https://wolkanca.com.tr/twitter-web-surumunde-resimler-artik-tam-boyut/)
 - [Yazım kuralları – Türkçe](https://wolkanca.com.tr/yazim-kurallari-turkce/)
 - [Tüm korkunç Türklerin en korkuncu](https://wolkanca.com.tr/tum-korkunc-turklerin-en-korkuncu/)
@@ -26,7 +27,6 @@
 - [WhatsApp Desktop](https://wolkanca.com.tr/whatsapp-desktop/)
 - [Jahrein ve ekibi Twitch’i bırakıyor](https://wolkanca.com.tr/jahrein-ve-ekibi-twitchi-birakiyor/)
 - [Barış Akarsu’nun annesi hayatını kaybetti](https://wolkanca.com.tr/baris-akarsunun-annesi-hayatini-kaybetti/)
-- [Email 50 yaşında](https://wolkanca.com.tr/email-50-yasinda/)
 <!-- BLOG-POST-LIST:END -->
 
 
