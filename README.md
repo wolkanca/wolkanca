@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İnsaf et kombi](https://wolkanca.com.tr/insaf-et-kombi/)
 - [You Don’t Know JS Yet &lpar;kitap serisi&rpar;](https://wolkanca.com.tr/you-dont-know-js-yet-kitap-serisi/)
 - [John Wick: Hagakure](https://wolkanca.com.tr/john-wick-hagakure/)
 - [Twitter web sürümünde resimler artık tam boyut](https://wolkanca.com.tr/twitter-web-surumunde-resimler-artik-tam-boyut/)
@@ -26,7 +27,6 @@
 - [10 harika CSS hamburger menü](https://wolkanca.com.tr/10-harika-css-hamburger-menu/)
 - [PayPal pazar payı](https://wolkanca.com.tr/paypal-pazar-payi/)
 - [WhatsApp Desktop](https://wolkanca.com.tr/whatsapp-desktop/)
-- [Jahrein ve ekibi Twitch’i bırakıyor](https://wolkanca.com.tr/jahrein-ve-ekibi-twitchi-birakiyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
