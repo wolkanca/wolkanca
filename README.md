@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You Don’t Know JS Yet &lpar;kitap serisi&rpar;](https://wolkanca.com.tr/you-dont-know-js-yet-kitap-serisi/)
 - [John Wick: Hagakure](https://wolkanca.com.tr/john-wick-hagakure/)
 - [Twitter web sürümünde resimler artık tam boyut](https://wolkanca.com.tr/twitter-web-surumunde-resimler-artik-tam-boyut/)
 - [Yazım kuralları – Türkçe](https://wolkanca.com.tr/yazim-kurallari-turkce/)
@@ -26,7 +27,6 @@
 - [PayPal pazar payı](https://wolkanca.com.tr/paypal-pazar-payi/)
 - [WhatsApp Desktop](https://wolkanca.com.tr/whatsapp-desktop/)
 - [Jahrein ve ekibi Twitch’i bırakıyor](https://wolkanca.com.tr/jahrein-ve-ekibi-twitchi-birakiyor/)
-- [Barış Akarsu’nun annesi hayatını kaybetti](https://wolkanca.com.tr/baris-akarsunun-annesi-hayatini-kaybetti/)
 <!-- BLOG-POST-LIST:END -->
 
 
