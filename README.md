@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Videolar için önemli anlar snippet](https://wolkanca.com.tr/videolar-icin-onemli-anlar-snippet/)
 - [İnsaf et kombi](https://wolkanca.com.tr/insaf-et-kombi/)
 - [You Don’t Know JS Yet &lpar;kitap serisi&rpar;](https://wolkanca.com.tr/you-dont-know-js-yet-kitap-serisi/)
 - [John Wick: Hagakure](https://wolkanca.com.tr/john-wick-hagakure/)
@@ -26,7 +27,6 @@
 - [Atatürk’ün hazırlattığı hutbeler](https://wolkanca.com.tr/ataturkun-hazirlattigi-hutbeler/)
 - [10 harika CSS hamburger menü](https://wolkanca.com.tr/10-harika-css-hamburger-menu/)
 - [PayPal pazar payı](https://wolkanca.com.tr/paypal-pazar-payi/)
-- [WhatsApp Desktop](https://wolkanca.com.tr/whatsapp-desktop/)
 <!-- BLOG-POST-LIST:END -->
 
 
