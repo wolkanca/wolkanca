@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nass](https://wolkanca.com.tr/nass/)
 - [Terminal tarzı bir web sitesi](https://wolkanca.com.tr/terminal-tarzi-bir-web-sitesi/)
 - [The Matrix Resurrections ilk afiş yayınlandı](https://wolkanca.com.tr/the-matrix-resurrections-ilk-afis-yayinlandi/)
 - [Soylent Green &lpar;1973&rpar;](https://wolkanca.com.tr/soylent-green-1973/)
@@ -26,7 +27,6 @@
 - [John Wick: Hagakure](https://wolkanca.com.tr/john-wick-hagakure/)
 - [Twitter web sürümünde resimler artık tam boyut](https://wolkanca.com.tr/twitter-web-surumunde-resimler-artik-tam-boyut/)
 - [Yazım kuralları – Türkçe](https://wolkanca.com.tr/yazim-kurallari-turkce/)
-- [Tüm korkunç Türklerin en korkuncu](https://wolkanca.com.tr/tum-korkunc-turklerin-en-korkuncu/)
 <!-- BLOG-POST-LIST:END -->
 
 
