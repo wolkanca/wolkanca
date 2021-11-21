@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Patronunuzu açık kaynak için nasıl ikna edersin?](https://wolkanca.com.tr/patronunuzu-acik-kaynak-icin-nasil-ikna-edersin/)
 - [Nass](https://wolkanca.com.tr/nass/)
 - [Terminal tarzı bir web sitesi](https://wolkanca.com.tr/terminal-tarzi-bir-web-sitesi/)
 - [The Matrix Resurrections ilk afiş yayınlandı](https://wolkanca.com.tr/the-matrix-resurrections-ilk-afis-yayinlandi/)
@@ -26,7 +27,6 @@
 - [You Don’t Know JS Yet &lpar;kitap serisi&rpar;](https://wolkanca.com.tr/you-dont-know-js-yet-kitap-serisi/)
 - [John Wick: Hagakure](https://wolkanca.com.tr/john-wick-hagakure/)
 - [Twitter web sürümünde resimler artık tam boyut](https://wolkanca.com.tr/twitter-web-surumunde-resimler-artik-tam-boyut/)
-- [Yazım kuralları – Türkçe](https://wolkanca.com.tr/yazim-kurallari-turkce/)
 <!-- BLOG-POST-LIST:END -->
 
 
