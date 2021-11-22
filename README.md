@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Taylan Yıldız 8 Kasım İBB Meclis](https://wolkanca.com.tr/taylan-yildiz-8-kasim-ibb-meclis/)
 - [Patronunuzu açık kaynak için nasıl ikna edersin?](https://wolkanca.com.tr/patronunuzu-acik-kaynak-icin-nasil-ikna-edersin/)
 - [Nass](https://wolkanca.com.tr/nass/)
 - [Terminal tarzı bir web sitesi](https://wolkanca.com.tr/terminal-tarzi-bir-web-sitesi/)
@@ -26,7 +27,6 @@
 - [İnsaf et kombi](https://wolkanca.com.tr/insaf-et-kombi/)
 - [You Don’t Know JS Yet &lpar;kitap serisi&rpar;](https://wolkanca.com.tr/you-dont-know-js-yet-kitap-serisi/)
 - [John Wick: Hagakure](https://wolkanca.com.tr/john-wick-hagakure/)
-- [Twitter web sürümünde resimler artık tam boyut](https://wolkanca.com.tr/twitter-web-surumunde-resimler-artik-tam-boyut/)
 <!-- BLOG-POST-LIST:END -->
 
 
