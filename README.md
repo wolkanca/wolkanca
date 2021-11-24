@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Akın var güneşe akın!](https://wolkanca.com.tr/akin-var-gunese-akin/)
 - [Lighthouse 9.0 çıktı](https://wolkanca.com.tr/lighthouse-9-0-cikti/)
 - [Taylan Yıldız 8 Kasım İBB Meclis](https://wolkanca.com.tr/taylan-yildiz-8-kasim-ibb-meclis/)
 - [Patronunuzu açık kaynak için nasıl ikna edersin?](https://wolkanca.com.tr/patronunuzu-acik-kaynak-icin-nasil-ikna-edersin/)
@@ -26,7 +27,6 @@
 - [Soylent Green &lpar;1973&rpar;](https://wolkanca.com.tr/soylent-green-1973/)
 - [Videolar için önemli anlar snippet](https://wolkanca.com.tr/videolar-icin-onemli-anlar-snippet/)
 - [İnsaf et kombi](https://wolkanca.com.tr/insaf-et-kombi/)
-- [You Don’t Know JS Yet &lpar;kitap serisi&rpar;](https://wolkanca.com.tr/you-dont-know-js-yet-kitap-serisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
