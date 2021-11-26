@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kullanışlı 18 Python kodu](https://wolkanca.com.tr/kullanisli-18-python-kodu/)
 - [phpMyAdmin WordPress post_modified](https://wolkanca.com.tr/phpmyadmin-wordpress-post_modified/)
 - [Akın var güneşe akın!](https://wolkanca.com.tr/akin-var-gunese-akin/)
 - [Lighthouse 9.0 çıktı](https://wolkanca.com.tr/lighthouse-9-0-cikti/)
@@ -26,7 +27,6 @@
 - [Terminal tarzı bir web sitesi](https://wolkanca.com.tr/terminal-tarzi-bir-web-sitesi/)
 - [The Matrix Resurrections ilk afiş yayınlandı](https://wolkanca.com.tr/the-matrix-resurrections-ilk-afis-yayinlandi/)
 - [Soylent Green &lpar;1973&rpar;](https://wolkanca.com.tr/soylent-green-1973/)
-- [Videolar için önemli anlar snippet](https://wolkanca.com.tr/videolar-icin-onemli-anlar-snippet/)
 <!-- BLOG-POST-LIST:END -->
 
 
