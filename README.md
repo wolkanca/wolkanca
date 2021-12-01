@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ons Amsterdam](https://wolkanca.com.tr/ons-amsterdam/)
 - [Mobil öncelikli tarama tarihi iptal](https://wolkanca.com.tr/mobil-oncelikli-tarama-tarihi-iptal/)
 - [Bir Software Developer olarak ruh sağlığı](https://wolkanca.com.tr/bir-software-developer-olarak-ruh-sagligi/)
 - [JS mülakat soruları &lpar;cevaplarıyla&rpar;](https://wolkanca.com.tr/js-mulakat-sorulari-cevaplariyla/)
@@ -26,7 +27,6 @@
 - [Lighthouse 9.0 çıktı](https://wolkanca.com.tr/lighthouse-9-0-cikti/)
 - [Taylan Yıldız 8 Kasım İBB Meclis](https://wolkanca.com.tr/taylan-yildiz-8-kasim-ibb-meclis/)
 - [Patronunuzu açık kaynak için nasıl ikna edersin?](https://wolkanca.com.tr/patronunuzu-acik-kaynak-icin-nasil-ikna-edersin/)
-- [Nass](https://wolkanca.com.tr/nass/)
 <!-- BLOG-POST-LIST:END -->
 
 
