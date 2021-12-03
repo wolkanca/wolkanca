@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dünya Engelliler Günü](https://wolkanca.com.tr/dunya-engelliler-gunu/)
+- [Est modus in rebus](https://wolkanca.com.tr/est-modus-in-rebus/)
 - [Ons Amsterdam](https://wolkanca.com.tr/ons-amsterdam/)
 - [Mobil öncelikli tarama tarihi iptal](https://wolkanca.com.tr/mobil-oncelikli-tarama-tarihi-iptal/)
 - [Bir Software Developer olarak ruh sağlığı](https://wolkanca.com.tr/bir-software-developer-olarak-ruh-sagligi/)
@@ -25,8 +27,6 @@
 - [phpMyAdmin WordPress post_modified](https://wolkanca.com.tr/phpmyadmin-wordpress-post_modified/)
 - [Akın var güneşe akın!](https://wolkanca.com.tr/akin-var-gunese-akin/)
 - [Lighthouse 9.0 çıktı](https://wolkanca.com.tr/lighthouse-9-0-cikti/)
-- [Taylan Yıldız 8 Kasım İBB Meclis](https://wolkanca.com.tr/taylan-yildiz-8-kasim-ibb-meclis/)
-- [Patronunuzu açık kaynak için nasıl ikna edersin?](https://wolkanca.com.tr/patronunuzu-acik-kaynak-icin-nasil-ikna-edersin/)
 <!-- BLOG-POST-LIST:END -->
 
 
