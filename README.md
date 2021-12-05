@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hava durumu uygulaması nasıl yapılır?](https://wolkanca.com.tr/hava-durumu-uygulamasi-nasil-yapilir/)
 - [Web geliştirici olmak için ihtiyacınız “olmayan” şeyler](https://wolkanca.com.tr/web-gelistirici-olmak-icin-ihtiyaciniz-olmayan-seyler/)
 - [Dünya Engelliler Günü](https://wolkanca.com.tr/dunya-engelliler-gunu/)
 - [Est modus in rebus](https://wolkanca.com.tr/est-modus-in-rebus/)
@@ -26,7 +27,6 @@
 - [JS mülakat soruları &lpar;cevaplarıyla&rpar;](https://wolkanca.com.tr/js-mulakat-sorulari-cevaplariyla/)
 - [Kullanışlı 18 Python kodu](https://wolkanca.com.tr/kullanisli-18-python-kodu/)
 - [phpMyAdmin WordPress post_modified](https://wolkanca.com.tr/phpmyadmin-wordpress-post_modified/)
-- [Akın var güneşe akın!](https://wolkanca.com.tr/akin-var-gunese-akin/)
 <!-- BLOG-POST-LIST:END -->
 
 
