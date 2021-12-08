@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML ve CSS ile ilerleme çubuğu](https://wolkanca.com.tr/html-ve-css-ile-ilerleme-cubugu/)
+- [HTML Image Maps kullanımı](https://wolkanca.com.tr/html-image-maps-kullanimi/)
 - [Hava durumu uygulaması nasıl yapılır?](https://wolkanca.com.tr/hava-durumu-uygulamasi-nasil-yapilir/)
 - [Dünya üzerinde gördüğümüz her şey kadının eseridir.](https://wolkanca.com.tr/dunya-uzerinde-gordugumuz-her-sey-kadinin-eseridir/)
 - [Web geliştirici olmak için ihtiyacınız “olmayan” şeyler](https://wolkanca.com.tr/web-gelistirici-olmak-icin-ihtiyaciniz-olmayan-seyler/)
@@ -25,8 +27,6 @@
 - [Ons Amsterdam](https://wolkanca.com.tr/ons-amsterdam/)
 - [Mobil öncelikli tarama tarihi iptal](https://wolkanca.com.tr/mobil-oncelikli-tarama-tarihi-iptal/)
 - [Bir Software Developer olarak ruh sağlığı](https://wolkanca.com.tr/bir-software-developer-olarak-ruh-sagligi/)
-- [JS mülakat soruları &lpar;cevaplarıyla&rpar;](https://wolkanca.com.tr/js-mulakat-sorulari-cevaplariyla/)
-- [Kullanışlı 18 Python kodu](https://wolkanca.com.tr/kullanisli-18-python-kodu/)
 <!-- BLOG-POST-LIST:END -->
 
 
