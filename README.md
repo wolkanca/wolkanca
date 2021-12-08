@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2021 Kasım Çekirdek Algoritma Güncellemesi](https://wolkanca.com.tr/2021-kasim-cekirdek-algoritma-guncellemesi/)
 - [HTML ve CSS ile ilerleme çubuğu](https://wolkanca.com.tr/html-ve-css-ile-ilerleme-cubugu/)
 - [HTML Image Maps kullanımı](https://wolkanca.com.tr/html-image-maps-kullanimi/)
 - [Hava durumu uygulaması nasıl yapılır?](https://wolkanca.com.tr/hava-durumu-uygulamasi-nasil-yapilir/)
@@ -26,7 +27,6 @@
 - [Est modus in rebus](https://wolkanca.com.tr/est-modus-in-rebus/)
 - [Ons Amsterdam](https://wolkanca.com.tr/ons-amsterdam/)
 - [Mobil öncelikli tarama tarihi iptal](https://wolkanca.com.tr/mobil-oncelikli-tarama-tarihi-iptal/)
-- [Bir Software Developer olarak ruh sağlığı](https://wolkanca.com.tr/bir-software-developer-olarak-ruh-sagligi/)
 <!-- BLOG-POST-LIST:END -->
 
 
