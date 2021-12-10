@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cem Özdemir Almanya Gıda ve Tarım Bakanı oldu](https://wolkanca.com.tr/cem-ozdemir-almanya-gida-ve-tarim-bakani-oldu/)
 - [2022 Yılının Rengi: 17-3938 Very Peri 💜](https://wolkanca.com.tr/2022-yilinin-rengi-17-3938-very-peri-%f0%9f%92%9c/)
 - [2021 Kasım Çekirdek Algoritma Güncellemesi](https://wolkanca.com.tr/2021-kasim-cekirdek-algoritma-guncellemesi/)
 - [HTML ve CSS ile ilerleme çubuğu](https://wolkanca.com.tr/html-ve-css-ile-ilerleme-cubugu/)
@@ -26,7 +27,6 @@
 - [Web geliştirici olmak için ihtiyacınız “olmayan” şeyler](https://wolkanca.com.tr/web-gelistirici-olmak-icin-ihtiyaciniz-olmayan-seyler/)
 - [Dünya Engelliler Günü](https://wolkanca.com.tr/dunya-engelliler-gunu/)
 - [Est modus in rebus](https://wolkanca.com.tr/est-modus-in-rebus/)
-- [Ons Amsterdam](https://wolkanca.com.tr/ons-amsterdam/)
 <!-- BLOG-POST-LIST:END -->
 
 
