@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp CRM app](https://wolkanca.com.tr/whatsapp-crm-app/)
+- [The Wheel Of Time](https://wolkanca.com.tr/the-wheel-of-time/)
 - [Cem Özdemir Almanya Gıda ve Tarım Bakanı oldu](https://wolkanca.com.tr/cem-ozdemir-almanya-gida-ve-tarim-bakani-oldu/)
 - [2022 Yılının Rengi: 17-3938 Very Peri 💜](https://wolkanca.com.tr/2022-yilinin-rengi-17-3938-very-peri-%f0%9f%92%9c/)
 - [2021 Kasım Çekirdek Algoritma Güncellemesi](https://wolkanca.com.tr/2021-kasim-cekirdek-algoritma-guncellemesi/)
@@ -25,8 +27,6 @@
 - [Hava durumu uygulaması nasıl yapılır?](https://wolkanca.com.tr/hava-durumu-uygulamasi-nasil-yapilir/)
 - [Dünya üzerinde gördüğümüz her şey kadının eseridir.](https://wolkanca.com.tr/dunya-uzerinde-gordugumuz-her-sey-kadinin-eseridir/)
 - [Web geliştirici olmak için ihtiyacınız “olmayan” şeyler](https://wolkanca.com.tr/web-gelistirici-olmak-icin-ihtiyaciniz-olmayan-seyler/)
-- [Dünya Engelliler Günü](https://wolkanca.com.tr/dunya-engelliler-gunu/)
-- [Est modus in rebus](https://wolkanca.com.tr/est-modus-in-rebus/)
 <!-- BLOG-POST-LIST:END -->
 
 
