@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dijital detoksun teknik tarafı](https://wolkanca.com.tr/dijital-detoksun-teknik-tarafi/)
 - [WhatsApp CRM app](https://wolkanca.com.tr/whatsapp-crm-app/)
 - [The Wheel Of Time](https://wolkanca.com.tr/the-wheel-of-time/)
 - [Cem Özdemir Almanya Gıda ve Tarım Bakanı oldu](https://wolkanca.com.tr/cem-ozdemir-almanya-gida-ve-tarim-bakani-oldu/)
@@ -26,7 +27,6 @@
 - [HTML Image Maps kullanımı](https://wolkanca.com.tr/html-image-maps-kullanimi/)
 - [Hava durumu uygulaması nasıl yapılır?](https://wolkanca.com.tr/hava-durumu-uygulamasi-nasil-yapilir/)
 - [Dünya üzerinde gördüğümüz her şey kadının eseridir.](https://wolkanca.com.tr/dunya-uzerinde-gordugumuz-her-sey-kadinin-eseridir/)
-- [Web geliştirici olmak için ihtiyacınız “olmayan” şeyler](https://wolkanca.com.tr/web-gelistirici-olmak-icin-ihtiyaciniz-olmayan-seyler/)
 <!-- BLOG-POST-LIST:END -->
 
 
