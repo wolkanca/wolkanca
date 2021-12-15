@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yaşıyorum bu hayatı](https://wolkanca.com.tr/yasiyorum-bu-hayati/)
 - [Dijital detoksun teknik tarafı](https://wolkanca.com.tr/dijital-detoksun-teknik-tarafi/)
 - [WhatsApp CRM app](https://wolkanca.com.tr/whatsapp-crm-app/)
 - [The Wheel Of Time](https://wolkanca.com.tr/the-wheel-of-time/)
@@ -26,7 +27,6 @@
 - [HTML ve CSS ile ilerleme çubuğu](https://wolkanca.com.tr/html-ve-css-ile-ilerleme-cubugu/)
 - [HTML Image Maps kullanımı](https://wolkanca.com.tr/html-image-maps-kullanimi/)
 - [Hava durumu uygulaması nasıl yapılır?](https://wolkanca.com.tr/hava-durumu-uygulamasi-nasil-yapilir/)
-- [Dünya üzerinde gördüğümüz her şey kadının eseridir.](https://wolkanca.com.tr/dunya-uzerinde-gordugumuz-her-sey-kadinin-eseridir/)
 <!-- BLOG-POST-LIST:END -->
 
 
