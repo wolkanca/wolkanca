@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kobilerde veri güvenliği](https://wolkanca.com.tr/kobilerde-veri-guvenligi/)
 - [Osmanlı torunları?](https://wolkanca.com.tr/osmanli-torunlari/)
 - [Yaşıyorum bu hayatı](https://wolkanca.com.tr/yasiyorum-bu-hayati/)
 - [Dijital detoksun teknik tarafı](https://wolkanca.com.tr/dijital-detoksun-teknik-tarafi/)
@@ -26,7 +27,6 @@
 - [2022 Yılının Rengi: 17-3938 Very Peri 💜](https://wolkanca.com.tr/2022-yilinin-rengi-17-3938-very-peri-%f0%9f%92%9c/)
 - [2021 Kasım Çekirdek Algoritma Güncellemesi](https://wolkanca.com.tr/2021-kasim-cekirdek-algoritma-guncellemesi/)
 - [HTML ve CSS ile ilerleme çubuğu](https://wolkanca.com.tr/html-ve-css-ile-ilerleme-cubugu/)
-- [HTML Image Maps kullanımı](https://wolkanca.com.tr/html-image-maps-kullanimi/)
 <!-- BLOG-POST-LIST:END -->
 
 
