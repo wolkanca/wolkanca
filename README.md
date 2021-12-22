@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress DB tabloda belirli alanları toplu olarak almak](https://wolkanca.com.tr/wordpress-db-tabloda-belirli-alanlari-toplu-olarak-almak/)
 - [Başka bir WordPress veritabanına bağlanmak](https://wolkanca.com.tr/baska-bir-wordpress-veritabanina-baglanmak/)
 - [Gerçek enflasyonu görmek isteyenlere: akakce.com](https://wolkanca.com.tr/gercek-enflasyonu-gormek-isteyenlere-akakce-com/)
 - [Dexter New Blood](https://wolkanca.com.tr/dexter-new-blood/)
@@ -26,7 +27,6 @@
 - [Dijital detoksun teknik tarafı](https://wolkanca.com.tr/dijital-detoksun-teknik-tarafi/)
 - [WhatsApp CRM app](https://wolkanca.com.tr/whatsapp-crm-app/)
 - [The Wheel Of Time](https://wolkanca.com.tr/the-wheel-of-time/)
-- [Cem Özdemir Almanya Gıda ve Tarım Bakanı oldu](https://wolkanca.com.tr/cem-ozdemir-almanya-gida-ve-tarim-bakani-oldu/)
 <!-- BLOG-POST-LIST:END -->
 
 
