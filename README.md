@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vanilla JavaScript ile QR kod generator](https://wolkanca.com.tr/vanilla-javascript-ile-qr-kod-generator/)
 - [Hızlı ve sağlıklı kilo vermek](https://wolkanca.com.tr/hizli-ve-saglikli-kilo-vermek/)
 - [“wolkanca” ekşisözlük maddesi](https://wolkanca.com.tr/wolkanca-eksisozluk-maddesi/)
 - [WordPress DB tabloda belirli alanları toplu olarak almak](https://wolkanca.com.tr/wordpress-db-tabloda-belirli-alanlari-toplu-olarak-almak/)
@@ -26,7 +27,6 @@
 - [Dexter New Blood](https://wolkanca.com.tr/dexter-new-blood/)
 - [Kobilerde veri güvenliği](https://wolkanca.com.tr/kobilerde-veri-guvenligi/)
 - [Osmanlı torunları?](https://wolkanca.com.tr/osmanli-torunlari/)
-- [Yaşıyorum bu hayatı](https://wolkanca.com.tr/yasiyorum-bu-hayati/)
 <!-- BLOG-POST-LIST:END -->
 
 
