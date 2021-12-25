@@ -17,16 +17,16 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vanilla JavaScript ile QR kod generator](https://wolkanca.com.tr/vanilla-javascript-ile-qr-kod-generator/)
-- [Hızlı ve sağlıklı kilo vermek](https://wolkanca.com.tr/hizli-ve-saglikli-kilo-vermek/)
-- [“wolkanca” ekşisözlük maddesi](https://wolkanca.com.tr/wolkanca-eksisozluk-maddesi/)
-- [WordPress DB tabloda belirli alanları toplu olarak almak](https://wolkanca.com.tr/wordpress-db-tabloda-belirli-alanlari-toplu-olarak-almak/)
-- [LinkedIn para iadesi](https://wolkanca.com.tr/linkedin-para-iadesi/)
-- [Başka bir WordPress veritabanına bağlanmak](https://wolkanca.com.tr/baska-bir-wordpress-veritabanina-baglanmak/)
-- [Gerçek enflasyonu görmek isteyenlere: akakce.com](https://wolkanca.com.tr/gercek-enflasyonu-gormek-isteyenlere-akakce-com/)
-- [Dexter New Blood](https://wolkanca.com.tr/dexter-new-blood/)
-- [Kobilerde veri güvenliği](https://wolkanca.com.tr/kobilerde-veri-guvenligi/)
-- [Osmanlı torunları?](https://wolkanca.com.tr/osmanli-torunlari/)
+- [Vanilla JavaScript ile QR kod generator](https://wolkanca.com/vanilla-javascript-ile-qr-kod-generator/)
+- [Hızlı ve sağlıklı kilo vermek](https://wolkanca.com/hizli-ve-saglikli-kilo-vermek/)
+- [“wolkanca” ekşisözlük maddesi](https://wolkanca.com/wolkanca-eksisozluk-maddesi/)
+- [WordPress DB tabloda belirli alanları toplu olarak almak](https://wolkanca.com/wordpress-db-tabloda-belirli-alanlari-toplu-olarak-almak/)
+- [LinkedIn para iadesi](https://wolkanca.com/linkedin-para-iadesi/)
+- [Başka bir WordPress veritabanına bağlanmak](https://wolkanca.com/baska-bir-wordpress-veritabanina-baglanmak/)
+- [Gerçek enflasyonu görmek isteyenlere: akakce.com](https://wolkanca.com/gercek-enflasyonu-gormek-isteyenlere-akakce-com/)
+- [Dexter New Blood](https://wolkanca.com/dexter-new-blood/)
+- [Kobilerde veri güvenliği](https://wolkanca.com/kobilerde-veri-guvenligi/)
+- [Osmanlı torunları?](https://wolkanca.com/osmanli-torunlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
