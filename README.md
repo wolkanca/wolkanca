@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [1000+ Web development kaynakları](https://wolkanca.com/1000-web-development-kaynaklari/)
 - [CSS’i savunmak](https://wolkanca.com/cssi-savunmak/)
 - [Vanilla JavaScript ile QR kod generator](https://wolkanca.com/vanilla-javascript-ile-qr-kod-generator/)
 - [Hızlı ve sağlıklı kilo vermek](https://wolkanca.com/hizli-ve-saglikli-kilo-vermek/)
@@ -26,7 +27,6 @@
 - [Başka bir WordPress veritabanına bağlanmak](https://wolkanca.com/baska-bir-wordpress-veritabanina-baglanmak/)
 - [Gerçek enflasyonu görmek isteyenlere: akakce.com](https://wolkanca.com/gercek-enflasyonu-gormek-isteyenlere-akakce-com/)
 - [Dexter New Blood](https://wolkanca.com/dexter-new-blood/)
-- [Kobilerde veri güvenliği](https://wolkanca.com/kobilerde-veri-guvenligi/)
 <!-- BLOG-POST-LIST:END -->
 
 
