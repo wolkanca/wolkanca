@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ücretsiz React kursları](https://wolkanca.com/ucretsiz-react-kurslari/)
 - [Redirectinator: URL Yönlendirmeleri takip aracı](https://wolkanca.com/redirectinator-url-yonlendirmeleri-takip-araci/)
 - [1000+ Web development kaynakları](https://wolkanca.com/1000-web-development-kaynaklari/)
 - [CSS’i savunmak](https://wolkanca.com/cssi-savunmak/)
@@ -26,7 +27,6 @@
 - [WordPress DB tabloda belirli alanları toplu olarak almak](https://wolkanca.com/wordpress-db-tabloda-belirli-alanlari-toplu-olarak-almak/)
 - [LinkedIn para iadesi](https://wolkanca.com/linkedin-para-iadesi/)
 - [Başka bir WordPress veritabanına bağlanmak](https://wolkanca.com/baska-bir-wordpress-veritabanina-baglanmak/)
-- [Gerçek enflasyonu görmek isteyenlere: akakce.com](https://wolkanca.com/gercek-enflasyonu-gormek-isteyenlere-akakce-com/)
 <!-- BLOG-POST-LIST:END -->
 
 
