@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [siteinspire](https://wolkanca.com/siteinspire/)
+- [Test: Ne kadar yaratıcısın?](https://wolkanca.com/test-ne-kadar-yaraticisin/)
 - [Ücretsiz React kursları](https://wolkanca.com/ucretsiz-react-kurslari/)
 - [Redirectinator: URL Yönlendirmeleri takip aracı](https://wolkanca.com/redirectinator-url-yonlendirmeleri-takip-araci/)
 - [1000+ Web development kaynakları](https://wolkanca.com/1000-web-development-kaynaklari/)
@@ -25,8 +27,6 @@
 - [Hızlı ve sağlıklı kilo vermek](https://wolkanca.com/hizli-ve-saglikli-kilo-vermek/)
 - [“wolkanca” ekşisözlük maddesi](https://wolkanca.com/wolkanca-eksisozluk-maddesi/)
 - [WordPress DB tabloda belirli alanları toplu olarak almak](https://wolkanca.com/wordpress-db-tabloda-belirli-alanlari-toplu-olarak-almak/)
-- [LinkedIn para iadesi](https://wolkanca.com/linkedin-para-iadesi/)
-- [Başka bir WordPress veritabanına bağlanmak](https://wolkanca.com/baska-bir-wordpress-veritabanina-baglanmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
