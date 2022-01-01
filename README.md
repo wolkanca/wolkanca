@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI [Tomorrow Summit] # GeleceğeGeçKalma](https://wolkanca.com/ai-tomorrow-summit-gelecegegeckalma/)
 - [siteinspire](https://wolkanca.com/siteinspire/)
 - [Test: Ne kadar yaratıcısın?](https://wolkanca.com/test-ne-kadar-yaraticisin/)
 - [Ücretsiz React kursları](https://wolkanca.com/ucretsiz-react-kurslari/)
@@ -26,7 +27,6 @@
 - [Vanilla JavaScript ile QR kod generator](https://wolkanca.com/vanilla-javascript-ile-qr-kod-generator/)
 - [Hızlı ve sağlıklı kilo vermek](https://wolkanca.com/hizli-ve-saglikli-kilo-vermek/)
 - [“wolkanca” ekşisözlük maddesi](https://wolkanca.com/wolkanca-eksisozluk-maddesi/)
-- [WordPress DB tabloda belirli alanları toplu olarak almak](https://wolkanca.com/wordpress-db-tabloda-belirli-alanlari-toplu-olarak-almak/)
 <!-- BLOG-POST-LIST:END -->
 
 
