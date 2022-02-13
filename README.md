@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alaylı olmak, nedir, avantajları ve dezavantajları nelerdir?](https://wolkanca.com/alayli-olmak-nedir-avantajlari-ve-dezavantajlari-nelerdir/)
 - [LinkedIn anketleri 2](https://wolkanca.com/linkedin-anketleri-2/)
 - [AI [Tomorrow Summit] # GeleceğeGeçKalma](https://wolkanca.com/ai-tomorrow-summit-gelecegegeckalma/)
 - [siteinspire](https://wolkanca.com/siteinspire/)
@@ -26,7 +27,6 @@
 - [1000+ Web development kaynakları](https://wolkanca.com/1000-web-development-kaynaklari/)
 - [CSS’i savunmak](https://wolkanca.com/cssi-savunmak/)
 - [Vanilla JavaScript ile QR kod generator](https://wolkanca.com/vanilla-javascript-ile-qr-kod-generator/)
-- [Hızlı ve sağlıklı kilo vermek](https://wolkanca.com/hizli-ve-saglikli-kilo-vermek/)
 <!-- BLOG-POST-LIST:END -->
 
 
