@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on WordPress.
 - 🤔 I’m looking for help with SEO.
-- 💬 Ask me about https://wolkanca.com.tr/
+- 💬 Ask me about https://wolkanca.com/
 - 📫 How to reach me: wolkanca@gmail.com
 
 ## Social
@@ -30,4 +30,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[Volkan Yılmaz](https://volkanyilmaz.com.tr/) - [wolkanca](https://wolkanca.com.tr/)
+[Volkan Yılmaz](https://volkanyilmaz.com.tr/) - [wolkanca](https://wolkanca.com/)
