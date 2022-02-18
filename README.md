@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Loki 2. sezon onaylandı](https://wolkanca.com/loki-2-sezon-onaylandi/)
 - [The Book of Boba Fett, izlenir](https://wolkanca.com/the-book-of-boba-fett-izlenir/)
 - [Metaverse Derneği kuruldu](https://wolkanca.com/metaverse-dernegi-kuruldu/)
 - [Alaylı olmak, nedir, avantajları ve dezavantajları nelerdir?](https://wolkanca.com/alayli-olmak-nedir-avantajlari-ve-dezavantajlari-nelerdir/)
@@ -26,7 +27,6 @@
 - [Test: Ne kadar yaratıcısın?](https://wolkanca.com/test-ne-kadar-yaraticisin/)
 - [Ücretsiz React kursları](https://wolkanca.com/ucretsiz-react-kurslari/)
 - [Redirectinator: URL Yönlendirmeleri takip aracı](https://wolkanca.com/redirectinator-url-yonlendirmeleri-takip-araci/)
-- [1000+ Web development kaynakları](https://wolkanca.com/1000-web-development-kaynaklari/)
 <!-- BLOG-POST-LIST:END -->
 
 
