@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reacher olur gibi](https://wolkanca.com/reacher-olur-gibi/)
 - [Loki 2. sezon onaylandı](https://wolkanca.com/loki-2-sezon-onaylandi/)
 - [The Book of Boba Fett, izlenir](https://wolkanca.com/the-book-of-boba-fett-izlenir/)
 - [Metaverse Derneği kuruldu](https://wolkanca.com/metaverse-dernegi-kuruldu/)
@@ -26,7 +27,6 @@
 - [siteinspire](https://wolkanca.com/siteinspire/)
 - [Test: Ne kadar yaratıcısın?](https://wolkanca.com/test-ne-kadar-yaraticisin/)
 - [Ücretsiz React kursları](https://wolkanca.com/ucretsiz-react-kurslari/)
-- [Redirectinator: URL Yönlendirmeleri takip aracı](https://wolkanca.com/redirectinator-url-yonlendirmeleri-takip-araci/)
 <!-- BLOG-POST-LIST:END -->
 
 
