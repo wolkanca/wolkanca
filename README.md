@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Upload / Yükleme](https://wolkanca.com/upload-yukleme/)
 - [Wordle hack](https://wolkanca.com/wordle-hack/)
 - [WordPress Block Editor SVG çıktısından kurtulmak](https://wolkanca.com/wordpress-block-editor-svg-ciktisindan-kurtulmak/)
 - [Reacher olur gibi](https://wolkanca.com/reacher-olur-gibi/)
@@ -26,7 +27,6 @@
 - [Alaylı olmak, nedir, avantajları ve dezavantajları nelerdir?](https://wolkanca.com/alayli-olmak-nedir-avantajlari-ve-dezavantajlari-nelerdir/)
 - [LinkedIn anketleri 2](https://wolkanca.com/linkedin-anketleri-2/)
 - [AI [Tomorrow Summit] # GeleceğeGeçKalma](https://wolkanca.com/ai-tomorrow-summit-gelecegegeckalma/)
-- [siteinspire](https://wolkanca.com/siteinspire/)
 <!-- BLOG-POST-LIST:END -->
 
 
