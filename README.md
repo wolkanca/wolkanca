@@ -19,6 +19,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Google Domains artık beta değil](https://wolkanca.com/google-domains-artik-beta-degil/)
 - [MetaMask güvenli mi?](https://wolkanca.com/metamask-guvenli-mi/)
+- [Hayatımdaki en büyük yatırımlar](https://wolkanca.com/hayatimdaki-en-buyuk-yatirimlar/)
 - [İzledim: La casa de papel](https://wolkanca.com/izledim-la-casa-de-papel/)
 - [Cloudflare toplu yönlendirmeler / Bulk Redirects](https://wolkanca.com/cloudflare-toplu-yonlendirmeler-bulk-redirects/)
 - [Upload / Yükleme](https://wolkanca.com/upload-yukleme/)
@@ -26,7 +27,6 @@
 - [WordPress Block Editor SVG çıktısından kurtulmak](https://wolkanca.com/wordpress-block-editor-svg-ciktisindan-kurtulmak/)
 - [Reacher olur gibi](https://wolkanca.com/reacher-olur-gibi/)
 - [Loki 2. sezon onaylandı](https://wolkanca.com/loki-2-sezon-onaylandi/)
-- [The Book of Boba Fett, izlenir](https://wolkanca.com/the-book-of-boba-fett-izlenir/)
 <!-- BLOG-POST-LIST:END -->
 
 
