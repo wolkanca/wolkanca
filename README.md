@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Domains artık beta değil](https://wolkanca.com/google-domains-artik-beta-degil/)
 - [MetaMask güvenli mi?](https://wolkanca.com/metamask-guvenli-mi/)
 - [İzledim: La casa de papel](https://wolkanca.com/izledim-la-casa-de-papel/)
 - [Cloudflare toplu yönlendirmeler / Bulk Redirects](https://wolkanca.com/cloudflare-toplu-yonlendirmeler-bulk-redirects/)
@@ -26,7 +27,6 @@
 - [Reacher olur gibi](https://wolkanca.com/reacher-olur-gibi/)
 - [Loki 2. sezon onaylandı](https://wolkanca.com/loki-2-sezon-onaylandi/)
 - [The Book of Boba Fett, izlenir](https://wolkanca.com/the-book-of-boba-fett-izlenir/)
-- [Metaverse Derneği kuruldu](https://wolkanca.com/metaverse-dernegi-kuruldu/)
 <!-- BLOG-POST-LIST:END -->
 
 
