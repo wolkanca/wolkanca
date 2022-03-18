@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sorare NFT oyunu nasıl oynanır?](https://wolkanca.com/sorare-nft-oyunu-nasil-oynanir/)
 - [Google Domains artık beta değil](https://wolkanca.com/google-domains-artik-beta-degil/)
 - [MetaMask güvenli mi?](https://wolkanca.com/metamask-guvenli-mi/)
 - [Hayatımdaki en büyük yatırımlar](https://wolkanca.com/hayatimdaki-en-buyuk-yatirimlar/)
@@ -26,7 +27,6 @@
 - [Wordle hack](https://wolkanca.com/wordle-hack/)
 - [WordPress Block Editor SVG çıktısından kurtulmak](https://wolkanca.com/wordpress-block-editor-svg-ciktisindan-kurtulmak/)
 - [Reacher olur gibi](https://wolkanca.com/reacher-olur-gibi/)
-- [Loki 2. sezon onaylandı](https://wolkanca.com/loki-2-sezon-onaylandi/)
 <!-- BLOG-POST-LIST:END -->
 
 
