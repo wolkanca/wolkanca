@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GoDaddy 84 bin TL indirim olayı](https://wolkanca.com/godaddy-84-bin-tl-indirim-olayi/)
 - [WordPress varsayılan User Agent değiştirmek](https://wolkanca.com/wordpress-varsayilan-user-agent-degistirmek/)
 - [Sorare NFT oyunu nasıl oynanır?](https://wolkanca.com/sorare-nft-oyunu-nasil-oynanir/)
 - [Google Domains artık beta değil](https://wolkanca.com/google-domains-artik-beta-degil/)
@@ -26,7 +27,6 @@
 - [Cloudflare toplu yönlendirmeler / Bulk Redirects](https://wolkanca.com/cloudflare-toplu-yonlendirmeler-bulk-redirects/)
 - [Upload / Yükleme](https://wolkanca.com/upload-yukleme/)
 - [Wordle hack](https://wolkanca.com/wordle-hack/)
-- [WordPress Block Editor SVG çıktısından kurtulmak](https://wolkanca.com/wordpress-block-editor-svg-ciktisindan-kurtulmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
