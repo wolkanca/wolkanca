@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk Twitter’ı istiyor](https://wolkanca.com/elon-musk-twitteri-istiyor/)
 - [GoDaddy 84 bin TL indirim olayı](https://wolkanca.com/godaddy-84-bin-tl-indirim-olayi/)
 - [WordPress varsayılan User Agent değiştirmek](https://wolkanca.com/wordpress-varsayilan-user-agent-degistirmek/)
 - [Sorare NFT oyunu nasıl oynanır?](https://wolkanca.com/sorare-nft-oyunu-nasil-oynanir/)
@@ -26,7 +27,6 @@
 - [İzledim: La casa de papel](https://wolkanca.com/izledim-la-casa-de-papel/)
 - [Cloudflare toplu yönlendirmeler / Bulk Redirects](https://wolkanca.com/cloudflare-toplu-yonlendirmeler-bulk-redirects/)
 - [Upload / Yükleme](https://wolkanca.com/upload-yukleme/)
-- [Wordle hack](https://wolkanca.com/wordle-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 
