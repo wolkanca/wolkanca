@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Batman &lpar;2022&rpar; izlenir](https://wolkanca.com/the-batman-2022-izlenir/)
 - [Kurumsal E-mail Yazarken Dikkat Etmeniz Gerekenler](https://wolkanca.com/kurumsal-e-mail-yazarken-dikkat-etmeniz-gerekenler/)
 - [Elon Musk Twitter’ı istiyor](https://wolkanca.com/elon-musk-twitteri-istiyor/)
 - [GoDaddy 84 bin TL indirim olayı](https://wolkanca.com/godaddy-84-bin-tl-indirim-olayi/)
@@ -26,7 +27,6 @@
 - [MetaMask güvenli mi?](https://wolkanca.com/metamask-guvenli-mi/)
 - [Hayatımdaki en büyük yatırımlar](https://wolkanca.com/hayatimdaki-en-buyuk-yatirimlar/)
 - [İzledim: La casa de papel](https://wolkanca.com/izledim-la-casa-de-papel/)
-- [Cloudflare toplu yönlendirmeler / Bulk Redirects](https://wolkanca.com/cloudflare-toplu-yonlendirmeler-bulk-redirects/)
 <!-- BLOG-POST-LIST:END -->
 
 
