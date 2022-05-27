@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yeni Domain Uzantıları Nelerdir, Nasıl Seçilir?](https://wolkanca.com/yeni-domain-uzantilari-nelerdir-nasil-secilir/)
 - [The Batman &lpar;2022&rpar; izlenir](https://wolkanca.com/the-batman-2022-izlenir/)
 - [Kurumsal E-mail Yazarken Dikkat Etmeniz Gerekenler](https://wolkanca.com/kurumsal-e-mail-yazarken-dikkat-etmeniz-gerekenler/)
 - [Elon Musk Twitter’ı istiyor](https://wolkanca.com/elon-musk-twitteri-istiyor/)
@@ -26,7 +27,6 @@
 - [Google Domains artık beta değil](https://wolkanca.com/google-domains-artik-beta-degil/)
 - [MetaMask güvenli mi?](https://wolkanca.com/metamask-guvenli-mi/)
 - [Hayatımdaki en büyük yatırımlar](https://wolkanca.com/hayatimdaki-en-buyuk-yatirimlar/)
-- [İzledim: La casa de papel](https://wolkanca.com/izledim-la-casa-de-papel/)
 <!-- BLOG-POST-LIST:END -->
 
 
