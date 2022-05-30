@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kripto ticaretinin geleceği vadeli işlemlerdir](https://wolkanca.com/kripto-ticaretinin-gelecegi-vadeli-islemlerdir/)
 - [Yeni Domain Uzantıları Nelerdir, Nasıl Seçilir?](https://wolkanca.com/yeni-domain-uzantilari-nelerdir-nasil-secilir/)
 - [The Batman &lpar;2022&rpar; izlenir](https://wolkanca.com/the-batman-2022-izlenir/)
 - [Kurumsal E-mail Yazarken Dikkat Etmeniz Gerekenler](https://wolkanca.com/kurumsal-e-mail-yazarken-dikkat-etmeniz-gerekenler/)
@@ -26,7 +27,6 @@
 - [Sorare NFT oyunu nasıl oynanır?](https://wolkanca.com/sorare-nft-oyunu-nasil-oynanir/)
 - [Google Domains artık beta değil](https://wolkanca.com/google-domains-artik-beta-degil/)
 - [MetaMask güvenli mi?](https://wolkanca.com/metamask-guvenli-mi/)
-- [Hayatımdaki en büyük yatırımlar](https://wolkanca.com/hayatimdaki-en-buyuk-yatirimlar/)
 <!-- BLOG-POST-LIST:END -->
 
 
