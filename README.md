@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Geçerli post için kategori id almak](https://wolkanca.com/gecerli-post-icin-kategori-id-almak/)
 - [Evernote’da notları toplu olarak silmek](https://wolkanca.com/evernoteda-notlari-toplu-olarak-silmek/)
 - [Kripto ticaretinin geleceği vadeli işlemlerdir](https://wolkanca.com/kripto-ticaretinin-gelecegi-vadeli-islemlerdir/)
 - [Yeni Domain Uzantıları Nelerdir, Nasıl Seçilir?](https://wolkanca.com/yeni-domain-uzantilari-nelerdir-nasil-secilir/)
@@ -26,7 +27,6 @@
 - [GoDaddy 84 bin TL indirim olayı](https://wolkanca.com/godaddy-84-bin-tl-indirim-olayi/)
 - [WordPress varsayılan User Agent değiştirmek](https://wolkanca.com/wordpress-varsayilan-user-agent-degistirmek/)
 - [Sorare NFT oyunu nasıl oynanır?](https://wolkanca.com/sorare-nft-oyunu-nasil-oynanir/)
-- [Google Domains artık beta değil](https://wolkanca.com/google-domains-artik-beta-degil/)
 <!-- BLOG-POST-LIST:END -->
 
 
