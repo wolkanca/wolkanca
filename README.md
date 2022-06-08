@@ -17,7 +17,6 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Evernote’da notları toplu olarak silmek](https://wolkanca.com/evernoteda-notlari-toplu-olarak-silmek/)
 - [Kripto ticaretinin geleceği vadeli işlemlerdir](https://wolkanca.com/kripto-ticaretinin-gelecegi-vadeli-islemlerdir/)
 - [Yeni Domain Uzantıları Nelerdir, Nasıl Seçilir?](https://wolkanca.com/yeni-domain-uzantilari-nelerdir-nasil-secilir/)
 - [The Batman &lpar;2022&rpar; izlenir](https://wolkanca.com/the-batman-2022-izlenir/)
@@ -27,6 +26,7 @@
 - [WordPress varsayılan User Agent değiştirmek](https://wolkanca.com/wordpress-varsayilan-user-agent-degistirmek/)
 - [Sorare NFT oyunu nasıl oynanır?](https://wolkanca.com/sorare-nft-oyunu-nasil-oynanir/)
 - [Google Domains artık beta değil](https://wolkanca.com/google-domains-artik-beta-degil/)
+- [MetaMask güvenli mi?](https://wolkanca.com/metamask-guvenli-mi/)
 <!-- BLOG-POST-LIST:END -->
 
 
