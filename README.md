@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [hacker-laws](https://wolkanca.com/hacker-laws/)
 - [Geçerli post için kategori id almak](https://wolkanca.com/gecerli-post-icin-kategori-id-almak/)
 - [Evernote’da notları toplu olarak silmek](https://wolkanca.com/evernoteda-notlari-toplu-olarak-silmek/)
 - [Kripto ticaretinin geleceği vadeli işlemlerdir](https://wolkanca.com/kripto-ticaretinin-gelecegi-vadeli-islemlerdir/)
@@ -26,7 +27,6 @@
 - [Elon Musk Twitter’ı istiyor](https://wolkanca.com/elon-musk-twitteri-istiyor/)
 - [GoDaddy 84 bin TL indirim olayı](https://wolkanca.com/godaddy-84-bin-tl-indirim-olayi/)
 - [WordPress varsayılan User Agent değiştirmek](https://wolkanca.com/wordpress-varsayilan-user-agent-degistirmek/)
-- [Sorare NFT oyunu nasıl oynanır?](https://wolkanca.com/sorare-nft-oyunu-nasil-oynanir/)
 <!-- BLOG-POST-LIST:END -->
 
 
