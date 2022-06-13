@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spigen iPhone 13 ekran koruyucu](https://wolkanca.com/spigen-iphone-13-ekran-koruyucu/)
 - [hacker-laws](https://wolkanca.com/hacker-laws/)
 - [Geçerli post için kategori id almak](https://wolkanca.com/gecerli-post-icin-kategori-id-almak/)
 - [Evernote’da notları toplu olarak silmek](https://wolkanca.com/evernoteda-notlari-toplu-olarak-silmek/)
@@ -26,7 +27,6 @@
 - [Kurumsal E-mail Yazarken Dikkat Etmeniz Gerekenler](https://wolkanca.com/kurumsal-e-mail-yazarken-dikkat-etmeniz-gerekenler/)
 - [Elon Musk Twitter’ı istiyor](https://wolkanca.com/elon-musk-twitteri-istiyor/)
 - [GoDaddy 84 bin TL indirim olayı](https://wolkanca.com/godaddy-84-bin-tl-indirim-olayi/)
-- [WordPress varsayılan User Agent değiştirmek](https://wolkanca.com/wordpress-varsayilan-user-agent-degistirmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
