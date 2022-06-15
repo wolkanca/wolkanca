@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Disney Plus platformunda neler var?](https://wolkanca.com/disney-plus-platformunda-neler-var/)
 - [Spigen iPhone 13 ekran koruyucu](https://wolkanca.com/spigen-iphone-13-ekran-koruyucu/)
 - [hacker-laws](https://wolkanca.com/hacker-laws/)
 - [Geçerli post için kategori id almak](https://wolkanca.com/gecerli-post-icin-kategori-id-almak/)
@@ -26,7 +27,6 @@
 - [The Batman &lpar;2022&rpar; izlenir](https://wolkanca.com/the-batman-2022-izlenir/)
 - [Kurumsal E-mail Yazarken Dikkat Etmeniz Gerekenler](https://wolkanca.com/kurumsal-e-mail-yazarken-dikkat-etmeniz-gerekenler/)
 - [Elon Musk Twitter’ı istiyor](https://wolkanca.com/elon-musk-twitteri-istiyor/)
-- [GoDaddy 84 bin TL indirim olayı](https://wolkanca.com/godaddy-84-bin-tl-indirim-olayi/)
 <!-- BLOG-POST-LIST:END -->
 
 
