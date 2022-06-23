@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [1993 yılından bu yana en popüler web siteleri](https://wolkanca.com/1993-yilindan-bu-yana-en-populer-web-siteleri-2/)
 - [Disney Plus platformunda neler var?](https://wolkanca.com/disney-plus-platformunda-neler-var/)
 - [Spigen iPhone 13 ekran koruyucu](https://wolkanca.com/spigen-iphone-13-ekran-koruyucu/)
 - [hacker-laws](https://wolkanca.com/hacker-laws/)
@@ -26,7 +27,6 @@
 - [Yeni Domain Uzantıları Nelerdir, Nasıl Seçilir?](https://wolkanca.com/yeni-domain-uzantilari-nelerdir-nasil-secilir/)
 - [The Batman &lpar;2022&rpar; izlenir](https://wolkanca.com/the-batman-2022-izlenir/)
 - [Kurumsal E-mail Yazarken Dikkat Etmeniz Gerekenler](https://wolkanca.com/kurumsal-e-mail-yazarken-dikkat-etmeniz-gerekenler/)
-- [Elon Musk Twitter’ı istiyor](https://wolkanca.com/elon-musk-twitteri-istiyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
