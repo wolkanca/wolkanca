@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress Sanal POS Entegrasyonu Nasıl Yapılır?](https://wolkanca.com/wordpress-sanal-pos-entegrasyonu-nasil-yapilir/)
 - [Netflix reklam katmanı ekliyor](https://wolkanca.com/netflix-reklam-katmani-ekliyor/)
 - [1993 yılından bu yana en popüler web siteleri](https://wolkanca.com/1993-yilindan-bu-yana-en-populer-web-siteleri-2/)
 - [Disney Plus platformunda neler var?](https://wolkanca.com/disney-plus-platformunda-neler-var/)
@@ -26,7 +27,6 @@
 - [Evernote’da notları toplu olarak silmek](https://wolkanca.com/evernoteda-notlari-toplu-olarak-silmek/)
 - [Kripto ticaretinin geleceği vadeli işlemlerdir](https://wolkanca.com/kripto-ticaretinin-gelecegi-vadeli-islemlerdir/)
 - [Yeni Domain Uzantıları Nelerdir, Nasıl Seçilir?](https://wolkanca.com/yeni-domain-uzantilari-nelerdir-nasil-secilir/)
-- [The Batman &lpar;2022&rpar; izlenir](https://wolkanca.com/the-batman-2022-izlenir/)
 <!-- BLOG-POST-LIST:END -->
 
 
