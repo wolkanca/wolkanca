@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Office, artık Microsoft 365 haline dönüşüyor](https://wolkanca.com/microsoft-office-artik-microsoft-365-haline-donusuyor/)
 - [Aynı isimde Tag ve Category kullanımı](https://wolkanca.com/ayni-isimde-tag-ve-category-kullanimi/)
 - [Yoast SEO breadcrumbs](https://wolkanca.com/yoast-seo-breadcrumbs/)
 - [WordPress Sanal POS Entegrasyonu Nasıl Yapılır?](https://wolkanca.com/wordpress-sanal-pos-entegrasyonu-nasil-yapilir/)
@@ -26,7 +27,6 @@
 - [Spigen iPhone 13 ekran koruyucu](https://wolkanca.com/spigen-iphone-13-ekran-koruyucu/)
 - [hacker-laws](https://wolkanca.com/hacker-laws/)
 - [Geçerli post için kategori id almak](https://wolkanca.com/gecerli-post-icin-kategori-id-almak/)
-- [Evernote’da notları toplu olarak silmek](https://wolkanca.com/evernoteda-notlari-toplu-olarak-silmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
