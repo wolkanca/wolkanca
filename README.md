@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Herkese Açık Kullanıcı Adları](https://wolkanca.com/youtube-herkese-acik-kullanici-adlari/)
 - [Windows için WhatsApp güncellendi](https://wolkanca.com/windows-icin-whatsapp-guncellendi/)
 - [Microsoft Office, artık Microsoft 365 haline dönüşüyor](https://wolkanca.com/microsoft-office-artik-microsoft-365-haline-donusuyor/)
 - [Windows Defender koruma geçmişini silmek](https://wolkanca.com/windows-defender-koruma-gecmisini-silmek/)
@@ -26,7 +27,6 @@
 - [Netflix reklam katmanı ekliyor](https://wolkanca.com/netflix-reklam-katmani-ekliyor/)
 - [1993 yılından bu yana en popüler web siteleri](https://wolkanca.com/1993-yilindan-bu-yana-en-populer-web-siteleri-2/)
 - [Disney Plus platformunda neler var?](https://wolkanca.com/disney-plus-platformunda-neler-var/)
-- [Spigen iPhone 13 ekran koruyucu](https://wolkanca.com/spigen-iphone-13-ekran-koruyucu/)
 <!-- BLOG-POST-LIST:END -->
 
 
