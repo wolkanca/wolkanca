@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yaratılış Sütunları’ndaki yıldız oluşumları](https://wolkanca.com/yaratilis-sutunlarindaki-yildiz-olusumlari/)
 - [YouTube Herkese Açık Kullanıcı Adları](https://wolkanca.com/youtube-herkese-acik-kullanici-adlari/)
 - [Windows için WhatsApp güncellendi](https://wolkanca.com/windows-icin-whatsapp-guncellendi/)
 - [Microsoft Office, artık Microsoft 365 haline dönüşüyor](https://wolkanca.com/microsoft-office-artik-microsoft-365-haline-donusuyor/)
@@ -26,7 +27,6 @@
 - [WordPress Sanal POS Entegrasyonu Nasıl Yapılır?](https://wolkanca.com/wordpress-sanal-pos-entegrasyonu-nasil-yapilir/)
 - [Netflix reklam katmanı ekliyor](https://wolkanca.com/netflix-reklam-katmani-ekliyor/)
 - [1993 yılından bu yana en popüler web siteleri](https://wolkanca.com/1993-yilindan-bu-yana-en-populer-web-siteleri-2/)
-- [Disney Plus platformunda neler var?](https://wolkanca.com/disney-plus-platformunda-neler-var/)
 <!-- BLOG-POST-LIST:END -->
 
 
