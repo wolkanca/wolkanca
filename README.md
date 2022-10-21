@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [INTERPOL Metaverse dünyasında](https://wolkanca.com/interpol-metaverse-dunyasinda/)
 - [Yaratılış Sütunları’ndaki yıldız oluşumları](https://wolkanca.com/yaratilis-sutunlarindaki-yildiz-olusumlari/)
 - [YouTube Herkese Açık Kullanıcı Adları](https://wolkanca.com/youtube-herkese-acik-kullanici-adlari/)
 - [Windows için WhatsApp güncellendi](https://wolkanca.com/windows-icin-whatsapp-guncellendi/)
@@ -26,7 +27,6 @@
 - [Yoast SEO breadcrumbs](https://wolkanca.com/yoast-seo-breadcrumbs/)
 - [WordPress Sanal POS Entegrasyonu Nasıl Yapılır?](https://wolkanca.com/wordpress-sanal-pos-entegrasyonu-nasil-yapilir/)
 - [Netflix reklam katmanı ekliyor](https://wolkanca.com/netflix-reklam-katmani-ekliyor/)
-- [1993 yılından bu yana en popüler web siteleri](https://wolkanca.com/1993-yilindan-bu-yana-en-populer-web-siteleri-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
