@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Metinden görüntüye Microsoft Image Creator](https://wolkanca.com/metinden-goruntuye-microsoft-image-creator/)
 - [Dünyanın en çok sevilen ve nefret edilen milyarderleri](https://wolkanca.com/dunyanin-en-cok-sevilen-ve-nefret-edilen-milyarderleri/)
 - [Google Fiber hızlı geniş bant hizmetlerini başlatıyor](https://wolkanca.com/google-fiber-hizli-genis-bant-hizmetlerini-baslatiyor/)
 - [SJW nedir?](https://wolkanca.com/sjw-nedir/)
@@ -26,7 +27,6 @@
 - [YouTube Herkese Açık Kullanıcı Adları](https://wolkanca.com/youtube-herkese-acik-kullanici-adlari/)
 - [Windows için WhatsApp güncellendi](https://wolkanca.com/windows-icin-whatsapp-guncellendi/)
 - [Microsoft Office, artık Microsoft 365 haline dönüşüyor](https://wolkanca.com/microsoft-office-artik-microsoft-365-haline-donusuyor/)
-- [Windows Defender koruma geçmişini silmek](https://wolkanca.com/windows-defender-koruma-gecmisini-silmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
