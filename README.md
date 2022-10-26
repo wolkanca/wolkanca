@@ -17,16 +17,16 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Halit Kıvanç’ı kaybettik](https://wolkanca.com/halit-kivanci-kaybettik/)
+- [Google Fiber hızlı geniş bant hizmetlerini başlatıyor](https://wolkanca.com/google-fiber-hizli-genis-bant-hizmetlerini-baslatiyor/)
 - [Cloudflare Cache Rules](https://wolkanca.com/cloudflare-cache-rules/)
 - [Google SPAM Algoritma Güncellemesi Yayımladı](https://wolkanca.com/google-spam-algoritma-guncellemesi-yayimladi/)
 - [Metinden görüntüye Microsoft Image Creator](https://wolkanca.com/metinden-goruntuye-microsoft-image-creator/)
 - [Dünyanın en çok sevilen ve nefret edilen milyarderleri](https://wolkanca.com/dunyanin-en-cok-sevilen-ve-nefret-edilen-milyarderleri/)
-- [Google Fiber hızlı geniş bant hizmetlerini başlatıyor](https://wolkanca.com/google-fiber-hizli-genis-bant-hizmetlerini-baslatiyor/)
 - [SJW nedir?](https://wolkanca.com/sjw-nedir/)
 - [OnlyFans’in en çok kazananları 2022](https://wolkanca.com/onlyfansin-en-cok-kazananlari-2022/)
 - [INTERPOL Metaverse dünyasında](https://wolkanca.com/interpol-metaverse-dunyasinda/)
 - [Yaratılış Sütunları’ndaki yıldız oluşumları](https://wolkanca.com/yaratilis-sutunlarindaki-yildiz-olusumlari/)
-- [YouTube Herkese Açık Kullanıcı Adları](https://wolkanca.com/youtube-herkese-acik-kullanici-adlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
