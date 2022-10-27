@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IMDB’de en iyi 25 Türk dizisi](https://wolkanca.com/imdbde-en-iyi-25-turk-dizisi/)
 - [Halit Kıvanç’ı kaybettik](https://wolkanca.com/halit-kivanci-kaybettik/)
 - [Google Fiber hızlı geniş bant hizmetlerini başlatıyor](https://wolkanca.com/google-fiber-hizli-genis-bant-hizmetlerini-baslatiyor/)
 - [Cloudflare Cache Rules](https://wolkanca.com/cloudflare-cache-rules/)
@@ -26,7 +27,6 @@
 - [SJW nedir?](https://wolkanca.com/sjw-nedir/)
 - [OnlyFans’in en çok kazananları 2022](https://wolkanca.com/onlyfansin-en-cok-kazananlari-2022/)
 - [INTERPOL Metaverse dünyasında](https://wolkanca.com/interpol-metaverse-dunyasinda/)
-- [Yaratılış Sütunları’ndaki yıldız oluşumları](https://wolkanca.com/yaratilis-sutunlarindaki-yildiz-olusumlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
