@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Elon Mush Twitter’ı aldı](https://wolkanca.com/elon-mush-twitteri-aldi/)
 - [IMDB’de en iyi 25 Türk dizisi](https://wolkanca.com/imdbde-en-iyi-25-turk-dizisi/)
 - [Halit Kıvanç’ı kaybettik](https://wolkanca.com/halit-kivanci-kaybettik/)
 - [Google Fiber hızlı geniş bant hizmetlerini başlatıyor](https://wolkanca.com/google-fiber-hizli-genis-bant-hizmetlerini-baslatiyor/)
@@ -26,7 +27,6 @@
 - [Dünyanın en çok sevilen ve nefret edilen milyarderleri](https://wolkanca.com/dunyanin-en-cok-sevilen-ve-nefret-edilen-milyarderleri/)
 - [SJW nedir?](https://wolkanca.com/sjw-nedir/)
 - [OnlyFans’in en çok kazananları 2022](https://wolkanca.com/onlyfansin-en-cok-kazananlari-2022/)
-- [INTERPOL Metaverse dünyasında](https://wolkanca.com/interpol-metaverse-dunyasinda/)
 <!-- BLOG-POST-LIST:END -->
 
 
