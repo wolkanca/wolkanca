@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TOGG ile ilgili detaylar](https://wolkanca.com/togg-ile-ilgili-detaylar/)
 - [Elon Musk Twitter’ı aldı](https://wolkanca.com/elon-musk-twitteri-aldi/)
 - [IMDB’de en iyi 25 Türk dizisi](https://wolkanca.com/imdbde-en-iyi-25-turk-dizisi/)
 - [Halit Kıvanç’ı kaybettik](https://wolkanca.com/halit-kivanci-kaybettik/)
@@ -26,7 +27,6 @@
 - [Metinden görüntüye Microsoft Image Creator](https://wolkanca.com/metinden-goruntuye-microsoft-image-creator/)
 - [Dünyanın en çok sevilen ve nefret edilen milyarderleri](https://wolkanca.com/dunyanin-en-cok-sevilen-ve-nefret-edilen-milyarderleri/)
 - [SJW nedir?](https://wolkanca.com/sjw-nedir/)
-- [OnlyFans’in en çok kazananları 2022](https://wolkanca.com/onlyfansin-en-cok-kazananlari-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 
