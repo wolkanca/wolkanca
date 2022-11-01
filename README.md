@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp kendine mesaj gönder özelliği](https://wolkanca.com/whatsapp-kendine-mesaj-gonder-ozelligi/)
 - [TOGG ile ilgili detaylar](https://wolkanca.com/togg-ile-ilgili-detaylar/)
 - [Windows 11 Görev Yöneticisi nerede?](https://wolkanca.com/windows-11-gorev-yoneticisi-nerede/)
 - [Elon Musk Twitter’ı aldı](https://wolkanca.com/elon-musk-twitteri-aldi/)
@@ -26,7 +27,6 @@
 - [Cloudflare Cache Rules](https://wolkanca.com/cloudflare-cache-rules/)
 - [Google SPAM Algoritma Güncellemesi Yayımladı](https://wolkanca.com/google-spam-algoritma-guncellemesi-yayimladi/)
 - [Metinden görüntüye Microsoft Image Creator](https://wolkanca.com/metinden-goruntuye-microsoft-image-creator/)
-- [Dünyanın en çok sevilen ve nefret edilen milyarderleri](https://wolkanca.com/dunyanin-en-cok-sevilen-ve-nefret-edilen-milyarderleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
