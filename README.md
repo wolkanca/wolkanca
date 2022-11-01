@@ -18,6 +18,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [TOGG ile ilgili detaylar](https://wolkanca.com/togg-ile-ilgili-detaylar/)
+- [Windows 11 Görev Yöneticisi nerede?](https://wolkanca.com/windows-11-gorev-yoneticisi-nerede/)
 - [Elon Musk Twitter’ı aldı](https://wolkanca.com/elon-musk-twitteri-aldi/)
 - [IMDB’de en iyi 25 Türk dizisi](https://wolkanca.com/imdbde-en-iyi-25-turk-dizisi/)
 - [Halit Kıvanç’ı kaybettik](https://wolkanca.com/halit-kivanci-kaybettik/)
@@ -26,7 +27,6 @@
 - [Google SPAM Algoritma Güncellemesi Yayımladı](https://wolkanca.com/google-spam-algoritma-guncellemesi-yayimladi/)
 - [Metinden görüntüye Microsoft Image Creator](https://wolkanca.com/metinden-goruntuye-microsoft-image-creator/)
 - [Dünyanın en çok sevilen ve nefret edilen milyarderleri](https://wolkanca.com/dunyanin-en-cok-sevilen-ve-nefret-edilen-milyarderleri/)
-- [SJW nedir?](https://wolkanca.com/sjw-nedir/)
 <!-- BLOG-POST-LIST:END -->
 
 
