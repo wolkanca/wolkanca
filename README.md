@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mustafa Kemal Atatürk’ün bilinen ilk fotoğrafı](https://wolkanca.com/mustafa-kemal-ataturkun-bilinen-ilk-fotografi/)
 - [Yeni Twitter Blue 8 dolar](https://wolkanca.com/yeni-twitter-blue-8-dolar/)
 - [WhatsApp kendine mesaj gönder özelliği](https://wolkanca.com/whatsapp-kendine-mesaj-gonder-ozelligi/)
 - [TOGG ile ilgili detaylar](https://wolkanca.com/togg-ile-ilgili-detaylar/)
@@ -26,7 +27,6 @@
 - [Halit Kıvanç’ı kaybettik](https://wolkanca.com/halit-kivanci-kaybettik/)
 - [Google Fiber hızlı geniş bant hizmetlerini başlatıyor](https://wolkanca.com/google-fiber-hizli-genis-bant-hizmetlerini-baslatiyor/)
 - [Cloudflare Cache Rules](https://wolkanca.com/cloudflare-cache-rules/)
-- [Google SPAM Algoritma Güncellemesi Yayımladı](https://wolkanca.com/google-spam-algoritma-guncellemesi-yayimladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
