@@ -27,6 +27,11 @@
 - [Windows 11 Görev Yöneticisi nerede?](https://wolkanca.com/windows-11-gorev-yoneticisi-nerede/)
 - [Elon Musk Twitter’ı aldı](https://wolkanca.com/elon-musk-twitteri-aldi/)
 - [IMDB’de en iyi 25 Türk dizisi](https://wolkanca.com/imdbde-en-iyi-25-turk-dizisi/)
+- [Halit Kıvanç’ı kaybettik](https://wolkanca.com/halit-kivanci-kaybettik/)
+- [Google Fiber hızlı geniş bant hizmetlerini başlatıyor](https://wolkanca.com/google-fiber-hizli-genis-bant-hizmetlerini-baslatiyor/)
+- [Cloudflare Cache Rules](https://wolkanca.com/cloudflare-cache-rules/)
+- [Google SPAM Algoritma Güncellemesi Yayımladı](https://wolkanca.com/google-spam-algoritma-guncellemesi-yayimladi/)
+- [Metinden görüntüye Microsoft Image Creator](https://wolkanca.com/metinden-goruntuye-microsoft-image-creator/)
 <!-- BLOG-POST-LIST:END -->
 
 
