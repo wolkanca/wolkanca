@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter’ın potansiyel çöküşü yakın insanlık tarihinin geniş bir kaydını silebilir](https://wolkanca.com/twitterin-potansiyel-cokusu-yakin-insanlik-tarihinin-genis-bir-kaydini-silebilir/)
 - [İşte Çalıntı Fotoğraflarınızı Çevrimiçi Bulmanın Yolları](https://wolkanca.com/iste-calinti-fotograflarinizi-cevrimici-bulmanin-yollari/)
 - [Twitter’da resmi hesaplar için gri tik](https://wolkanca.com/twitterda-resmi-hesaplar-icin-gri-tik/)
 - [WordPress için eklentisiz sitemap.txt](https://wolkanca.com/wordpress-icin-eklentisiz-sitemap-txt/)
@@ -31,7 +32,6 @@
 - [Halit Kıvanç’ı kaybettik](https://wolkanca.com/halit-kivanci-kaybettik/)
 - [Google Fiber hızlı geniş bant hizmetlerini başlatıyor](https://wolkanca.com/google-fiber-hizli-genis-bant-hizmetlerini-baslatiyor/)
 - [Cloudflare Cache Rules](https://wolkanca.com/cloudflare-cache-rules/)
-- [Google SPAM Algoritma Güncellemesi Yayımladı](https://wolkanca.com/google-spam-algoritma-guncellemesi-yayimladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
