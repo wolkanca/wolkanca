@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2022’nin En Çok İzlenen Dizi ve Filmleri](https://wolkanca.com/2022nin-en-cok-izlenen-dizi-ve-filmleri/)
 - [Twitter’ın potansiyel çöküşü yakın insanlık tarihinin geniş bir kaydını silebilir](https://wolkanca.com/twitterin-potansiyel-cokusu-yakin-insanlik-tarihinin-genis-bir-kaydini-silebilir/)
 - [İşte Çalıntı Fotoğraflarınızı Çevrimiçi Bulmanın Yolları](https://wolkanca.com/iste-calinti-fotograflarinizi-cevrimici-bulmanin-yollari/)
 - [Twitter’da resmi hesaplar için gri tik](https://wolkanca.com/twitterda-resmi-hesaplar-icin-gri-tik/)
@@ -31,7 +32,6 @@
 - [IMDB’de en iyi 25 Türk dizisi](https://wolkanca.com/imdbde-en-iyi-25-turk-dizisi/)
 - [Halit Kıvanç’ı kaybettik](https://wolkanca.com/halit-kivanci-kaybettik/)
 - [Google Fiber hızlı geniş bant hizmetlerini başlatıyor](https://wolkanca.com/google-fiber-hizli-genis-bant-hizmetlerini-baslatiyor/)
-- [Cloudflare Cache Rules](https://wolkanca.com/cloudflare-cache-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 
