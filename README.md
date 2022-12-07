@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google sürekli kaydırma](https://wolkanca.com/google-surekli-kaydirma/)
 - [Google One VPN](https://wolkanca.com/google-one-vpn/)
 - [2022’nin En Çok İzlenen Dizi ve Filmleri](https://wolkanca.com/2022nin-en-cok-izlenen-dizi-ve-filmleri/)
 - [Twitter’ın potansiyel çöküşü yakın insanlık tarihinin geniş bir kaydını silebilir](https://wolkanca.com/twitterin-potansiyel-cokusu-yakin-insanlik-tarihinin-genis-bir-kaydini-silebilir/)
@@ -31,7 +32,6 @@
 - [Windows 11 Görev Yöneticisi nerede?](https://wolkanca.com/windows-11-gorev-yoneticisi-nerede/)
 - [Elon Musk Twitter’ı aldı](https://wolkanca.com/elon-musk-twitteri-aldi/)
 - [IMDB’de en iyi 25 Türk dizisi](https://wolkanca.com/imdbde-en-iyi-25-turk-dizisi/)
-- [Halit Kıvanç’ı kaybettik](https://wolkanca.com/halit-kivanci-kaybettik/)
 <!-- BLOG-POST-LIST:END -->
 
 
