@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk Twitter’da temizlik yapıyor](https://wolkanca.com/elon-musk-twitterda-temizlik-yapiyor/)
 - [2022 Google’da en çok neler arandı?](https://wolkanca.com/2022-googleda-en-cok-neler-arandi/)
 - [Google arama konu başlıkları](https://wolkanca.com/google-arama-konu-basliklari/)
 - [Google sürekli kaydırma](https://wolkanca.com/google-surekli-kaydirma/)
@@ -31,7 +32,6 @@
 - [Yeni Twitter Blue 8 dolar](https://wolkanca.com/yeni-twitter-blue-8-dolar/)
 - [WhatsApp kendine mesaj gönder özelliği](https://wolkanca.com/whatsapp-kendine-mesaj-gonder-ozelligi/)
 - [TOGG ile ilgili detaylar](https://wolkanca.com/togg-ile-ilgili-detaylar/)
-- [Windows 11 Görev Yöneticisi nerede?](https://wolkanca.com/windows-11-gorev-yoneticisi-nerede/)
 <!-- BLOG-POST-LIST:END -->
 
 
