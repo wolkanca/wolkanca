@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sanal Telefon Numarası Sağlayıcı Seçmeden Önce Sorulacak Sorular](https://wolkanca.com/sanal-telefon-numarasi-saglayici-secmeden-once-sorulacak-sorular/)
 - [Elon Musk Twitter’da temizlik yapıyor](https://wolkanca.com/elon-musk-twitterda-temizlik-yapiyor/)
 - [2022 Google’da en çok neler arandı?](https://wolkanca.com/2022-googleda-en-cok-neler-arandi/)
 - [Google arama konu başlıkları](https://wolkanca.com/google-arama-konu-basliklari/)
@@ -31,7 +32,6 @@
 - [Mustafa Kemal Atatürk’ün bilinen ilk fotoğrafı](https://wolkanca.com/mustafa-kemal-ataturkun-bilinen-ilk-fotografi/)
 - [Yeni Twitter Blue 8 dolar](https://wolkanca.com/yeni-twitter-blue-8-dolar/)
 - [WhatsApp kendine mesaj gönder özelliği](https://wolkanca.com/whatsapp-kendine-mesaj-gonder-ozelligi/)
-- [TOGG ile ilgili detaylar](https://wolkanca.com/togg-ile-ilgili-detaylar/)
 <!-- BLOG-POST-LIST:END -->
 
 
