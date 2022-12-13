@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter’da sarı tik/gold checkmark uygulaması başladı](https://wolkanca.com/twitterda-sari-tik-gold-checkmark-uygulamasi-basladi/)
 - [Sanal Telefon Numarası Sağlayıcı Seçmeden Önce Sorulacak Sorular](https://wolkanca.com/sanal-telefon-numarasi-saglayici-secmeden-once-sorulacak-sorular/)
 - [Elon Musk Twitter’da temizlik yapıyor](https://wolkanca.com/elon-musk-twitterda-temizlik-yapiyor/)
 - [2022 Google’da en çok neler arandı?](https://wolkanca.com/2022-googleda-en-cok-neler-arandi/)
@@ -31,7 +32,6 @@
 - [Google indexing API kurulumu](https://wolkanca.com/google-indexing-api-kurulumu/)
 - [Mustafa Kemal Atatürk’ün bilinen ilk fotoğrafı](https://wolkanca.com/mustafa-kemal-ataturkun-bilinen-ilk-fotografi/)
 - [Yeni Twitter Blue 8 dolar](https://wolkanca.com/yeni-twitter-blue-8-dolar/)
-- [WhatsApp kendine mesaj gönder özelliği](https://wolkanca.com/whatsapp-kendine-mesaj-gonder-ozelligi/)
 <!-- BLOG-POST-LIST:END -->
 
 
