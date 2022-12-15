@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter’ın uygulaması Revue kapandı](https://wolkanca.com/twitterin-uygulamasi-revue-kapandi/)
 - [Google Arama Durum Gösterge Tablosu](https://wolkanca.com/google-arama-durum-gosterge-tablosu/)
 - [Twitter’da sarı tik/gold checkmark uygulaması başladı](https://wolkanca.com/twitterda-sari-tik-gold-checkmark-uygulamasi-basladi/)
 - [Sanal Telefon Numarası Sağlayıcı Seçmeden Önce Sorulacak Sorular](https://wolkanca.com/sanal-telefon-numarasi-saglayici-secmeden-once-sorulacak-sorular/)
@@ -31,7 +32,6 @@
 - [Twitter’da resmi hesaplar için gri tik](https://wolkanca.com/twitterda-resmi-hesaplar-icin-gri-tik/)
 - [WordPress için eklentisiz sitemap.txt](https://wolkanca.com/wordpress-icin-eklentisiz-sitemap-txt/)
 - [Google indexing API kurulumu](https://wolkanca.com/google-indexing-api-kurulumu/)
-- [Mustafa Kemal Atatürk’ün bilinen ilk fotoğrafı](https://wolkanca.com/mustafa-kemal-ataturkun-bilinen-ilk-fotografi/)
 <!-- BLOG-POST-LIST:END -->
 
 
