@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iPhone 15 Ultra](https://wolkanca.com/iphone-15-ultra/)
 - [Diş beyazlatmak zararlı mıdır?](https://wolkanca.com/dis-beyazlatmak-zararli-midir/)
 - [Google Arama sonuçları sayfasının yapı taşları](https://wolkanca.com/google-arama-sonuclari-sayfasinin-yapi-taslari/)
 - [Twitter’ın uygulaması Revue kapandı](https://wolkanca.com/twitterin-uygulamasi-revue-kapandi/)
@@ -31,7 +32,6 @@
 - [2022’nin En Çok İzlenen Dizi ve Filmleri](https://wolkanca.com/2022nin-en-cok-izlenen-dizi-ve-filmleri/)
 - [Twitter’ın potansiyel çöküşü yakın insanlık tarihinin geniş bir kaydını silebilir](https://wolkanca.com/twitterin-potansiyel-cokusu-yakin-insanlik-tarihinin-genis-bir-kaydini-silebilir/)
 - [İşte Çalıntı Fotoğraflarınızı Çevrimiçi Bulmanın Yolları](https://wolkanca.com/iste-calinti-fotograflarinizi-cevrimici-bulmanin-yollari/)
-- [Twitter’da resmi hesaplar için gri tik](https://wolkanca.com/twitterda-resmi-hesaplar-icin-gri-tik/)
 <!-- BLOG-POST-LIST:END -->
 
 
