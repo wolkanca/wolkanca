@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LastPass kullananlar tehlikede](https://wolkanca.com/lastpass-kullananlar-tehlikede/)
 - [Tweet görüntülenme sayıları herkese açık](https://wolkanca.com/tweet-goruntulenme-sayilari-herkese-acik/)
 - [İllegal Hayatlar 13 Ocak’ta](https://wolkanca.com/illegal-hayatlar-13-ocakta/)
 - [İntihal için ücretsiz kontrol](https://wolkanca.com/intihal-icin-ucretsiz-kontrol/)
@@ -31,7 +32,6 @@
 - [2022 Google’da en çok neler arandı?](https://wolkanca.com/2022-googleda-en-cok-neler-arandi/)
 - [Google arama konu başlıkları](https://wolkanca.com/google-arama-konu-basliklari/)
 - [Google sürekli kaydırma](https://wolkanca.com/google-surekli-kaydirma/)
-- [Google One VPN](https://wolkanca.com/google-one-vpn/)
 <!-- BLOG-POST-LIST:END -->
 
 
