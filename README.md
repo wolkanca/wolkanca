@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Html ve CSS ile responsive navbar](https://wolkanca.com/html-ve-css-ile-responsive-navbar/)
 - [Yüzünüzü göstermeden Youtube’dan para kazanmak](https://wolkanca.com/yuzunuzu-gostermeden-youtubedan-para-kazanmak/)
 - [LastPass kullananlar tehlikede](https://wolkanca.com/lastpass-kullananlar-tehlikede/)
 - [Tweet görüntülenme sayıları herkese açık](https://wolkanca.com/tweet-goruntulenme-sayilari-herkese-acik/)
@@ -31,7 +32,6 @@
 - [Sanal Telefon Numarası Sağlayıcı Seçmeden Önce Sorulacak Sorular](https://wolkanca.com/sanal-telefon-numarasi-saglayici-secmeden-once-sorulacak-sorular/)
 - [Elon Musk Twitter’da temizlik yapıyor](https://wolkanca.com/elon-musk-twitterda-temizlik-yapiyor/)
 - [2022 Google’da en çok neler arandı?](https://wolkanca.com/2022-googleda-en-cok-neler-arandi/)
-- [Google arama konu başlıkları](https://wolkanca.com/google-arama-konu-basliklari/)
 <!-- BLOG-POST-LIST:END -->
 
 
