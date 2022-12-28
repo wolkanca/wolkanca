@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reklamverenlerin Google reklam geçmişi](https://wolkanca.com/reklamverenlerin-google-reklam-gecmisi/)
 - [You.com yapay zeka destekli arama motoru](https://wolkanca.com/you-com-yapay-zeka-destekli-arama-motoru/)
 - [Kullanılmış eşya ithalatı başlıyor](https://wolkanca.com/kullanilmis-esya-ithalati-basliyor/)
 - [Html ve CSS ile responsive navbar](https://wolkanca.com/html-ve-css-ile-responsive-navbar/)
@@ -31,7 +32,6 @@
 - [Twitter’ın uygulaması Revue kapandı](https://wolkanca.com/twitterin-uygulamasi-revue-kapandi/)
 - [Google Arama Durum Gösterge Tablosu](https://wolkanca.com/google-arama-durum-gosterge-tablosu/)
 - [Twitter’da sarı tik/gold checkmark uygulaması başladı](https://wolkanca.com/twitterda-sari-tik-gold-checkmark-uygulamasi-basladi/)
-- [Sanal Telefon Numarası Sağlayıcı Seçmeden Önce Sorulacak Sorular](https://wolkanca.com/sanal-telefon-numarasi-saglayici-secmeden-once-sorulacak-sorular/)
 <!-- BLOG-POST-LIST:END -->
 
 
