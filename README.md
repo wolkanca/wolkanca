@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adeus Pelé](https://wolkanca.com/adeus-pele/)
 - [YouTube’un Bir Yılı, 2022](https://wolkanca.com/youtubeun-bir-yili-2022/)
 - [Reklamverenlerin Google reklam geçmişi](https://wolkanca.com/reklamverenlerin-google-reklam-gecmisi/)
 - [You.com yapay zeka destekli arama motoru](https://wolkanca.com/you-com-yapay-zeka-destekli-arama-motoru/)
@@ -31,7 +32,6 @@
 - [Diş beyazlatmak zararlı mıdır?](https://wolkanca.com/dis-beyazlatmak-zararli-midir/)
 - [Google Arama sonuçları sayfasının yapı taşları](https://wolkanca.com/google-arama-sonuclari-sayfasinin-yapi-taslari/)
 - [Twitter’ın uygulaması Revue kapandı](https://wolkanca.com/twitterin-uygulamasi-revue-kapandi/)
-- [Google Arama Durum Gösterge Tablosu](https://wolkanca.com/google-arama-durum-gosterge-tablosu/)
 <!-- BLOG-POST-LIST:END -->
 
 
