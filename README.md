@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Office 365 Ücretsiz olarak nasıl indirilir ve kurulur](https://wolkanca.com/office-365-ucretsiz-olarak-nasil-indirilir-ve-kurulur/)
 - [Adeus Pelé](https://wolkanca.com/adeus-pele/)
 - [YouTube’un Bir Yılı, 2022](https://wolkanca.com/youtubeun-bir-yili-2022/)
 - [Reklamverenlerin Google reklam geçmişi](https://wolkanca.com/reklamverenlerin-google-reklam-gecmisi/)
@@ -31,7 +32,6 @@
 - [iPhone 15 Ultra](https://wolkanca.com/iphone-15-ultra/)
 - [Diş beyazlatmak zararlı mıdır?](https://wolkanca.com/dis-beyazlatmak-zararli-midir/)
 - [Google Arama sonuçları sayfasının yapı taşları](https://wolkanca.com/google-arama-sonuclari-sayfasinin-yapi-taslari/)
-- [Twitter’ın uygulaması Revue kapandı](https://wolkanca.com/twitterin-uygulamasi-revue-kapandi/)
 <!-- BLOG-POST-LIST:END -->
 
 
