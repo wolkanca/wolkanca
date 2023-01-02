@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [En yeni ve önemli 17 teknoloji trendi 2023](https://wolkanca.com/en-yeni-ve-onemli-17-teknoloji-trendi-2023/)
 - [Google için ChatGPT](https://wolkanca.com/google-icin-chatgpt/)
 - [Office 365 Ücretsiz olarak nasıl indirilir ve kurulur](https://wolkanca.com/office-365-ucretsiz-olarak-nasil-indirilir-ve-kurulur/)
 - [Adeus Pelé](https://wolkanca.com/adeus-pele/)
@@ -31,7 +32,6 @@
 - [İllegal Hayatlar 13 Ocak’ta](https://wolkanca.com/illegal-hayatlar-13-ocakta/)
 - [İntihal için ücretsiz kontrol](https://wolkanca.com/intihal-icin-ucretsiz-kontrol/)
 - [iPhone 15 Ultra](https://wolkanca.com/iphone-15-ultra/)
-- [Diş beyazlatmak zararlı mıdır?](https://wolkanca.com/dis-beyazlatmak-zararli-midir/)
 <!-- BLOG-POST-LIST:END -->
 
 
