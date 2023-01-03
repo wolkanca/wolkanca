@@ -19,6 +19,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [ChatGPT işinizi elinizden alacak mı?](https://wolkanca.com/chatgpt-isinizi-elinizden-alacak-mi/)
 - [En yeni ve önemli 17 teknoloji trendi 2023](https://wolkanca.com/en-yeni-ve-onemli-17-teknoloji-trendi-2023/)
+- [Nice senelere Bitcoin!](https://wolkanca.com/nice-senelere-bitcoin/)
 - [Google için ChatGPT](https://wolkanca.com/google-icin-chatgpt/)
 - [Office 365 Ücretsiz olarak nasıl indirilir ve kurulur](https://wolkanca.com/office-365-ucretsiz-olarak-nasil-indirilir-ve-kurulur/)
 - [Adeus Pelé](https://wolkanca.com/adeus-pele/)
@@ -31,7 +32,6 @@
 - [LastPass kullananlar tehlikede](https://wolkanca.com/lastpass-kullananlar-tehlikede/)
 - [Tweet görüntülenme sayıları herkese açık](https://wolkanca.com/tweet-goruntulenme-sayilari-herkese-acik/)
 - [İllegal Hayatlar 13 Ocak’ta](https://wolkanca.com/illegal-hayatlar-13-ocakta/)
-- [İntihal için ücretsiz kontrol](https://wolkanca.com/intihal-icin-ucretsiz-kontrol/)
 <!-- BLOG-POST-LIST:END -->
 
 
