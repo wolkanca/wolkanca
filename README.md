@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI tarafından oluşturulan metin nasıl tespit edilir?](https://wolkanca.com/ai-tarafindan-olusturulan-metin-nasil-tespit-edilir/)
 - [ChatGPT işinizi elinizden alacak mı?](https://wolkanca.com/chatgpt-isinizi-elinizden-alacak-mi/)
 - [En yeni ve önemli 17 teknoloji trendi 2023](https://wolkanca.com/en-yeni-ve-onemli-17-teknoloji-trendi-2023/)
 - [Nice senelere Bitcoin!](https://wolkanca.com/nice-senelere-bitcoin/)
@@ -31,7 +32,6 @@
 - [Yüzünüzü göstermeden Youtube’dan para kazanmak](https://wolkanca.com/yuzunuzu-gostermeden-youtubedan-para-kazanmak/)
 - [LastPass kullananlar tehlikede](https://wolkanca.com/lastpass-kullananlar-tehlikede/)
 - [Tweet görüntülenme sayıları herkese açık](https://wolkanca.com/tweet-goruntulenme-sayilari-herkese-acik/)
-- [İllegal Hayatlar 13 Ocak’ta](https://wolkanca.com/illegal-hayatlar-13-ocakta/)
 <!-- BLOG-POST-LIST:END -->
 
 
