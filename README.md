@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday 2. sezon](https://wolkanca.com/wednesday-2-sezon/)
 - [YapayZeka ChatGPT nasıl kullanılır?](https://wolkanca.com/yapayzeka-chatgpt-nasil-kullanilir/)
 - [Markanızın Görünürlüğünü ve Güvenilirliğini Oluşturmanın Kesin Yolu](https://wolkanca.com/markanizin-gorunurlugunu-ve-guvenilirligini-olusturmanin-kesin-yolu/)
 - [Youtuberlar için en iyi laptop seçimleri](https://wolkanca.com/youtuberlar-icin-en-iyi-laptop-secimleri/)
@@ -31,7 +32,6 @@
 - [YouTube’un Bir Yılı, 2022](https://wolkanca.com/youtubeun-bir-yili-2022/)
 - [Reklamverenlerin Google reklam geçmişi](https://wolkanca.com/reklamverenlerin-google-reklam-gecmisi/)
 - [You.com yapay zeka destekli arama motoru](https://wolkanca.com/you-com-yapay-zeka-destekli-arama-motoru/)
-- [Kullanılmış eşya ithalatı başlıyor](https://wolkanca.com/kullanilmis-esya-ithalati-basliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
