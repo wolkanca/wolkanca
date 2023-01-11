@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dünyanın en çok para kaybeden insanı](https://wolkanca.com/dunyanin-en-cok-para-kaybeden-insani/)
 - [LastPass kullanıcı verileri hackerların elinde](https://wolkanca.com/lastpass-kullanici-verileri-hackerlarin-elinde/)
 - [Wednesday 2. sezon](https://wolkanca.com/wednesday-2-sezon/)
 - [YapayZeka ChatGPT nasıl kullanılır?](https://wolkanca.com/yapayzeka-chatgpt-nasil-kullanilir/)
@@ -31,7 +32,6 @@
 - [Office 365 Ücretsiz olarak nasıl indirilir ve kurulur](https://wolkanca.com/office-365-ucretsiz-olarak-nasil-indirilir-ve-kurulur/)
 - [Adeus Pelé](https://wolkanca.com/adeus-pele/)
 - [YouTube’un Bir Yılı, 2022](https://wolkanca.com/youtubeun-bir-yili-2022/)
-- [Reklamverenlerin Google reklam geçmişi](https://wolkanca.com/reklamverenlerin-google-reklam-gecmisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
