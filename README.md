@@ -18,7 +18,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [2023’ün en çok beklenen ilk 10 filmi](https://wolkanca.com/2023un-en-cok-beklenen-ilk-10-filmi/)
-- [ChatGPT’ye WordPress eklentisi üretebilir](https://wolkanca.com/chatgptye-wordpress-eklentisi-uretebilir/)
+- [ChatGPT WordPress eklentisi üretebilir](https://wolkanca.com/chatgpt-wordpress-eklentisi-uretebilir/)
 - [Apple Business Connect](https://wolkanca.com/apple-business-connect/)
 - [Dünyanın en çok para kaybeden insanı](https://wolkanca.com/dunyanin-en-cok-para-kaybeden-insani/)
 - [LastPass kullanıcı verileri hackerların elinde](https://wolkanca.com/lastpass-kullanici-verileri-hackerlarin-elinde/)
