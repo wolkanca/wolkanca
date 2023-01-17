@@ -17,7 +17,6 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI, ChatGPT’nin Ücretli Pro Sürümü yakında](https://wolkanca.com/openai-chatgptnin-ucretli-pro-surumu-yakinda/)
 - [2023’ün en çok beklenen ilk 10 filmi](https://wolkanca.com/2023un-en-cok-beklenen-ilk-10-filmi/)
 - [ChatGPT WordPress eklentisi üretebilir](https://wolkanca.com/chatgpt-wordpress-eklentisi-uretebilir/)
 - [Apple Business Connect](https://wolkanca.com/apple-business-connect/)
@@ -32,6 +31,7 @@
 - [ChatGPT işinizi elinizden alacak mı?](https://wolkanca.com/chatgpt-isinizi-elinizden-alacak-mi/)
 - [En yeni ve önemli 17 teknoloji trendi 2023](https://wolkanca.com/en-yeni-ve-onemli-17-teknoloji-trendi-2023/)
 - [Nice senelere Bitcoin!](https://wolkanca.com/nice-senelere-bitcoin/)
+- [Google için ChatGPT](https://wolkanca.com/google-icin-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 
