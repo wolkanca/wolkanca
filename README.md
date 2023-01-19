@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jacinda Ardern istifa etti](https://wolkanca.com/jacinda-ardern-istifa-etti/)
 - [Netflix’ten Sedat Peker’e teklif](https://wolkanca.com/netflixten-sedat-pekere-teklif/)
 - [LinkedIn şirket sayfası çalışan gizleme](https://wolkanca.com/linkedin-sirket-sayfasi-calisan-gizleme/)
 - [OpenAI, ChatGPT’nin Ücretli Pro Sürümü yakında](https://wolkanca.com/openai-chatgptnin-ucretli-pro-surumu-yakinda/)
@@ -31,7 +32,6 @@
 - [Youtuberlar için en iyi laptop seçimleri](https://wolkanca.com/youtuberlar-icin-en-iyi-laptop-secimleri/)
 - [Google Analytics GA4 Migrator](https://wolkanca.com/google-analytics-ga4-migrator/)
 - [AI tarafından oluşturulan metin nasıl tespit edilir?](https://wolkanca.com/ai-tarafindan-olusturulan-metin-nasil-tespit-edilir/)
-- [ChatGPT işinizi elinizden alacak mı?](https://wolkanca.com/chatgpt-isinizi-elinizden-alacak-mi/)
 <!-- BLOG-POST-LIST:END -->
 
 
