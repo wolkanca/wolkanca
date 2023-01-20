@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Film Mirasım KTB](https://wolkanca.com/film-mirasim-ktb/)
 - [Jacinda Ardern istifa etti](https://wolkanca.com/jacinda-ardern-istifa-etti/)
 - [Netflix’ten Sedat Peker’e teklif](https://wolkanca.com/netflixten-sedat-pekere-teklif/)
 - [LinkedIn şirket sayfası çalışan gizleme](https://wolkanca.com/linkedin-sirket-sayfasi-calisan-gizleme/)
@@ -31,7 +32,6 @@
 - [Markanızın Görünürlüğünü ve Güvenilirliğini Oluşturmanın Kesin Yolu](https://wolkanca.com/markanizin-gorunurlugunu-ve-guvenilirligini-olusturmanin-kesin-yolu/)
 - [Youtuberlar için en iyi laptop seçimleri](https://wolkanca.com/youtuberlar-icin-en-iyi-laptop-secimleri/)
 - [Google Analytics GA4 Migrator](https://wolkanca.com/google-analytics-ga4-migrator/)
-- [AI tarafından oluşturulan metin nasıl tespit edilir?](https://wolkanca.com/ai-tarafindan-olusturulan-metin-nasil-tespit-edilir/)
 <!-- BLOG-POST-LIST:END -->
 
 
