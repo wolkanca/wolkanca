@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter 3. parti uygulamaları askıya aldı](https://wolkanca.com/twitter-3-parti-uygulamalari-askiya-aldi/)
 - [Teknoloji şirketlerinin işten çıkarmaları](https://wolkanca.com/teknoloji-sirketlerinin-isten-cikarmalari/)
 - [Film Mirasım KTB](https://wolkanca.com/film-mirasim-ktb/)
 - [Jacinda Ardern istifa etti](https://wolkanca.com/jacinda-ardern-istifa-etti/)
@@ -31,7 +32,6 @@
 - [Wednesday 2. sezon](https://wolkanca.com/wednesday-2-sezon/)
 - [YapayZeka ChatGPT nasıl kullanılır?](https://wolkanca.com/yapayzeka-chatgpt-nasil-kullanilir/)
 - [Markanızın Görünürlüğünü ve Güvenilirliğini Oluşturmanın Kesin Yolu](https://wolkanca.com/markanizin-gorunurlugunu-ve-guvenilirligini-olusturmanin-kesin-yolu/)
-- [Youtuberlar için en iyi laptop seçimleri](https://wolkanca.com/youtuberlar-icin-en-iyi-laptop-secimleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
