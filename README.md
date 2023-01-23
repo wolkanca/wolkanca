@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google chatbot özelliklerini kullanıma sunacak](https://wolkanca.com/google-chatbot-ozelliklerini-kullanima-sunacak/)
 - [Twitter 3. parti uygulamaları askıya aldı](https://wolkanca.com/twitter-3-parti-uygulamalari-askiya-aldi/)
 - [Teknoloji şirketlerinin işten çıkarmaları](https://wolkanca.com/teknoloji-sirketlerinin-isten-cikarmalari/)
 - [Film Mirasım KTB](https://wolkanca.com/film-mirasim-ktb/)
@@ -31,7 +32,6 @@
 - [LastPass kullanıcı verileri hackerların elinde](https://wolkanca.com/lastpass-kullanici-verileri-hackerlarin-elinde/)
 - [Wednesday 2. sezon](https://wolkanca.com/wednesday-2-sezon/)
 - [YapayZeka ChatGPT nasıl kullanılır?](https://wolkanca.com/yapayzeka-chatgpt-nasil-kullanilir/)
-- [Markanızın Görünürlüğünü ve Güvenilirliğini Oluşturmanın Kesin Yolu](https://wolkanca.com/markanizin-gorunurlugunu-ve-guvenilirligini-olusturmanin-kesin-yolu/)
 <!-- BLOG-POST-LIST:END -->
 
 
