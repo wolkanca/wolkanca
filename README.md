@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Türkiye’den PayPal hesabı açmak](https://wolkanca.com/turkiyeden-paypal-hesabi-acmak/)
 - [2023 Oscar Aday Listesi](https://wolkanca.com/2023-oscar-aday-listesi/)
 - [Google chatbot özelliklerini kullanıma sunacak](https://wolkanca.com/google-chatbot-ozelliklerini-kullanima-sunacak/)
 - [Twitter 3. parti uygulamaları askıya aldı](https://wolkanca.com/twitter-3-parti-uygulamalari-askiya-aldi/)
@@ -31,7 +32,6 @@
 - [Apple Business Connect](https://wolkanca.com/apple-business-connect/)
 - [Dünyanın en çok para kaybeden insanı](https://wolkanca.com/dunyanin-en-cok-para-kaybeden-insani/)
 - [LastPass kullanıcı verileri hackerların elinde](https://wolkanca.com/lastpass-kullanici-verileri-hackerlarin-elinde/)
-- [Wednesday 2. sezon](https://wolkanca.com/wednesday-2-sezon/)
 <!-- BLOG-POST-LIST:END -->
 
 
