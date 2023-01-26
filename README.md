@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows’da WiFi önceliğini değiştirmek](https://wolkanca.com/windowsda-wifi-onceligini-degistirmek/)
 - [Google Search Console: İçerik Fikirleri](https://wolkanca.com/google-search-console-icerik-fikirleri/)
 - [Türkiye’den PayPal hesabı açmak](https://wolkanca.com/turkiyeden-paypal-hesabi-acmak/)
 - [2023 Oscar Aday Listesi](https://wolkanca.com/2023-oscar-aday-listesi/)
@@ -31,7 +32,6 @@
 - [2023’ün en çok beklenen ilk 10 filmi](https://wolkanca.com/2023un-en-cok-beklenen-ilk-10-filmi/)
 - [ChatGPT WordPress eklentisi üretebilir](https://wolkanca.com/chatgpt-wordpress-eklentisi-uretebilir/)
 - [Apple Business Connect](https://wolkanca.com/apple-business-connect/)
-- [Dünyanın en çok para kaybeden insanı](https://wolkanca.com/dunyanin-en-cok-para-kaybeden-insani/)
 <!-- BLOG-POST-LIST:END -->
 
 
