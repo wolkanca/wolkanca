@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turhost bot engelleme modülü](https://wolkanca.com/turhost-bot-engelleme-modulu/)
 - [Windows’da WiFi önceliğini değiştirmek](https://wolkanca.com/windowsda-wifi-onceligini-degistirmek/)
 - [Google Search Console: İçerik Fikirleri](https://wolkanca.com/google-search-console-icerik-fikirleri/)
 - [Türkiye’den PayPal hesabı açmak](https://wolkanca.com/turkiyeden-paypal-hesabi-acmak/)
@@ -31,7 +32,6 @@
 - [OpenAI, ChatGPT’nin Ücretli Pro Sürümü yakında](https://wolkanca.com/openai-chatgptnin-ucretli-pro-surumu-yakinda/)
 - [2023’ün en çok beklenen ilk 10 filmi](https://wolkanca.com/2023un-en-cok-beklenen-ilk-10-filmi/)
 - [ChatGPT WordPress eklentisi üretebilir](https://wolkanca.com/chatgpt-wordpress-eklentisi-uretebilir/)
-- [Apple Business Connect](https://wolkanca.com/apple-business-connect/)
 <!-- BLOG-POST-LIST:END -->
 
 
