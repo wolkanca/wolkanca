@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ölü İnternet Teorisi](https://wolkanca.com/olu-internet-teorisi/)
 - [MusicLM metinlerden müzik oluşturabiliyor](https://wolkanca.com/musiclm-metinlerden-muzik-olusturabiliyor/)
 - [Turhost bot engelleme modülü](https://wolkanca.com/turhost-bot-engelleme-modulu/)
 - [Windows’da WiFi önceliğini değiştirmek](https://wolkanca.com/windowsda-wifi-onceligini-degistirmek/)
@@ -31,7 +32,6 @@
 - [Netflix’ten Sedat Peker’e teklif](https://wolkanca.com/netflixten-sedat-pekere-teklif/)
 - [LinkedIn şirket sayfası çalışan gizleme](https://wolkanca.com/linkedin-sirket-sayfasi-calisan-gizleme/)
 - [OpenAI, ChatGPT’nin Ücretli Pro Sürümü yakında](https://wolkanca.com/openai-chatgptnin-ucretli-pro-surumu-yakinda/)
-- [2023’ün en çok beklenen ilk 10 filmi](https://wolkanca.com/2023un-en-cok-beklenen-ilk-10-filmi/)
 <!-- BLOG-POST-LIST:END -->
 
 
