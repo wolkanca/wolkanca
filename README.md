@@ -17,7 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dünyanın En Çok Ziyaret Edilen 50 Web Sitesi 2022](https://wolkanca.com/dunyanin-en-cok-ziyaret-edilen-50-web-sitesi-2022/)
+- [İlk kez yayınlanan post hook](https://wolkanca.com/ilk-kez-yayinlanan-post-hook/)
+- [Dünyanın en çok ziyaret edilen 50 web sitesi 2022](https://wolkanca.com/dunyanin-en-cok-ziyaret-edilen-50-web-sitesi-2022/)
 - [Ölü İnternet Teorisi](https://wolkanca.com/olu-internet-teorisi/)
 - [MusicLM metinlerden müzik oluşturabiliyor](https://wolkanca.com/musiclm-metinlerden-muzik-olusturabiliyor/)
 - [Turhost bot engelleme modülü](https://wolkanca.com/turhost-bot-engelleme-modulu/)
@@ -31,7 +32,6 @@
 - [Film Mirasım KTB](https://wolkanca.com/film-mirasim-ktb/)
 - [Jacinda Ardern istifa etti](https://wolkanca.com/jacinda-ardern-istifa-etti/)
 - [Netflix’ten Sedat Peker’e teklif](https://wolkanca.com/netflixten-sedat-pekere-teklif/)
-- [LinkedIn şirket sayfası çalışan gizleme](https://wolkanca.com/linkedin-sirket-sayfasi-calisan-gizleme/)
 <!-- BLOG-POST-LIST:END -->
 
 
