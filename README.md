@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Bing arama motoruna ekleniyor](https://wolkanca.com/chatgpt-bing-arama-motoruna-ekleniyor/)
 - [İlk kez yayınlanan post hook](https://wolkanca.com/ilk-kez-yayinlanan-post-hook/)
 - [Dünyanın en çok ziyaret edilen 50 web sitesi 2022](https://wolkanca.com/dunyanin-en-cok-ziyaret-edilen-50-web-sitesi-2022/)
 - [Ölü İnternet Teorisi](https://wolkanca.com/olu-internet-teorisi/)
@@ -31,7 +32,6 @@
 - [Teknoloji şirketlerinin işten çıkarmaları](https://wolkanca.com/teknoloji-sirketlerinin-isten-cikarmalari/)
 - [Film Mirasım KTB](https://wolkanca.com/film-mirasim-ktb/)
 - [Jacinda Ardern istifa etti](https://wolkanca.com/jacinda-ardern-istifa-etti/)
-- [Netflix’ten Sedat Peker’e teklif](https://wolkanca.com/netflixten-sedat-pekere-teklif/)
 <!-- BLOG-POST-LIST:END -->
 
 
