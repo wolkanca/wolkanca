@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter reklam gelirlerini paylaşacak](https://wolkanca.com/twitter-reklam-gelirlerini-paylasacak/)
 - [Kuantum bilgisayar devrimi](https://wolkanca.com/kuantum-bilgisayarlar-sayisiz-sorunu-cozebilir-ve-pek-cok-yeni-sorun-yaratabilir/)
 - [ChatGPT Bing arama motoruna ekleniyor](https://wolkanca.com/chatgpt-bing-arama-motoruna-ekleniyor/)
 - [İlk kez yayınlanan post hook](https://wolkanca.com/ilk-kez-yayinlanan-post-hook/)
@@ -31,7 +32,6 @@
 - [Google chatbot özelliklerini kullanıma sunacak](https://wolkanca.com/google-chatbot-ozelliklerini-kullanima-sunacak/)
 - [Twitter 3. parti uygulamaları askıya aldı](https://wolkanca.com/twitter-3-parti-uygulamalari-askiya-aldi/)
 - [Teknoloji şirketlerinin işten çıkarmaları](https://wolkanca.com/teknoloji-sirketlerinin-isten-cikarmalari/)
-- [Film Mirasım KTB](https://wolkanca.com/film-mirasim-ktb/)
 <!-- BLOG-POST-LIST:END -->
 
 
