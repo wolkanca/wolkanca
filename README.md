@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Instagram kurucularından yeni TikTok alternatifi uygulama](https://wolkanca.com/instagram-kurucularindan-yeni-tiktok-alternatifi-uygulama/)
 - [İlet bitiyorsa {PHP}](https://wolkanca.com/ilet-bitiyorsa-php/)
 - [Twitter reklam gelirlerini paylaşacak](https://wolkanca.com/twitter-reklam-gelirlerini-paylasacak/)
 - [Kuantum bilgisayar devrimi](https://wolkanca.com/kuantum-bilgisayarlar-sayisiz-sorunu-cozebilir-ve-pek-cok-yeni-sorun-yaratabilir/)
@@ -31,7 +32,6 @@
 - [Türkiye’den PayPal hesabı açmak](https://wolkanca.com/turkiyeden-paypal-hesabi-acmak/)
 - [2023 Oscar Aday Listesi](https://wolkanca.com/2023-oscar-aday-listesi/)
 - [Google chatbot özelliklerini kullanıma sunacak](https://wolkanca.com/google-chatbot-ozelliklerini-kullanima-sunacak/)
-- [Twitter 3. parti uygulamaları askıya aldı](https://wolkanca.com/twitter-3-parti-uygulamalari-askiya-aldi/)
 <!-- BLOG-POST-LIST:END -->
 
 
