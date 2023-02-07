@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT, Google’ın yazılımcı mülakatını geçti](https://wolkanca.com/chatgpt-googlein-yazilimci-mulakatini-gecti/)
 - [Instagram kurucularından yeni TikTok alternatifi uygulama](https://wolkanca.com/instagram-kurucularindan-yeni-tiktok-alternatifi-uygulama/)
 - [Bob Marley Day – 6 Şubat](https://wolkanca.com/bob-marley-day-6-subat/)
 - [İle bitiyorsa {PHP}](https://wolkanca.com/ile-bitiyorsa-php/)
@@ -31,7 +32,6 @@
 - [Windows’da WiFi önceliğini değiştirmek](https://wolkanca.com/windowsda-wifi-onceligini-degistirmek/)
 - [Google Search Console: İçerik Fikirleri](https://wolkanca.com/google-search-console-icerik-fikirleri/)
 - [Türkiye’den PayPal hesabı açmak](https://wolkanca.com/turkiyeden-paypal-hesabi-acmak/)
-- [2023 Oscar Aday Listesi](https://wolkanca.com/2023-oscar-aday-listesi/)
 <!-- BLOG-POST-LIST:END -->
 
 
