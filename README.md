@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp gruplarda kişi limitini kaldırmak](https://wolkanca.com/whatsapp-gruplarda-kisi-limitini-kaldirmak/)
 - [2023’de PHP](https://wolkanca.com/2023de-php/)
 - [VPN nedir, nasıl kullanılır?](https://wolkanca.com/vpn-nedir-nasil-kullanilir/)
 - [ChatGPT, Google’ın yazılımcı mülakatını geçti](https://wolkanca.com/chatgpt-googlein-yazilimci-mulakatini-gecti/)
@@ -31,7 +32,6 @@
 - [Ölü İnternet Teorisi](https://wolkanca.com/olu-internet-teorisi/)
 - [MusicLM metinlerden müzik oluşturabiliyor](https://wolkanca.com/musiclm-metinlerden-muzik-olusturabiliyor/)
 - [Turhost bot engelleme modülü](https://wolkanca.com/turhost-bot-engelleme-modulu/)
-- [Windows’da WiFi önceliğini değiştirmek](https://wolkanca.com/windowsda-wifi-onceligini-degistirmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
