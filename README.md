@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [nth-child nasıl çalışıyor?](https://wolkanca.com/nth-child-nasil-calisiyor/)
 - [Çimlerin rengi](https://wolkanca.com/cimlerin-rengi/)
 - [WhatsApp gruplarda kişi limitini kaldırmak](https://wolkanca.com/whatsapp-gruplarda-kisi-limitini-kaldirmak/)
 - [2023’de PHP](https://wolkanca.com/2023de-php/)
@@ -31,7 +32,6 @@
 - [İlk kez yayınlanan post hook](https://wolkanca.com/ilk-kez-yayinlanan-post-hook/)
 - [Dünyanın en çok ziyaret edilen 50 web sitesi 2022](https://wolkanca.com/dunyanin-en-cok-ziyaret-edilen-50-web-sitesi-2022/)
 - [Ölü İnternet Teorisi](https://wolkanca.com/olu-internet-teorisi/)
-- [MusicLM metinlerden müzik oluşturabiliyor](https://wolkanca.com/musiclm-metinlerden-muzik-olusturabiliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
