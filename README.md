@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’un yeni yapay zekası konuşmanızı taklit ediyor](https://wolkanca.com/microsoftun-yeni-yapay-zekasi-konusmanizi-taklit-ediyor/)
 - [Joker: Folie à Deux](https://wolkanca.com/joker-folie-a-deux/)
 - [Google, deprem ile ilgili](https://wolkanca.com/google-deprem-ile-ilgili/)
 - [El hareketleri ile kontrol edilebilen drone](https://wolkanca.com/el-hareketleri-ile-kontrol-edilebilen-drone/)
@@ -31,7 +32,6 @@
 - [İle bitiyorsa {PHP}](https://wolkanca.com/ile-bitiyorsa-php/)
 - [Twitter reklam gelirlerini paylaşacak](https://wolkanca.com/twitter-reklam-gelirlerini-paylasacak/)
 - [Kuantum bilgisayar devrimi](https://wolkanca.com/kuantum-bilgisayarlar-sayisiz-sorunu-cozebilir-ve-pek-cok-yeni-sorun-yaratabilir/)
-- [ChatGPT Bing arama motoruna ekleniyor](https://wolkanca.com/chatgpt-bing-arama-motoruna-ekleniyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
