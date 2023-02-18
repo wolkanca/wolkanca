@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter 2 faktörlü doğrulama değişikliği](https://wolkanca.com/twitter-2-faktorlu-dogrulama-degisikligi/)
 - [Microsoft’un yeni yapay zekası konuşmanızı taklit ediyor](https://wolkanca.com/microsoftun-yeni-yapay-zekasi-konusmanizi-taklit-ediyor/)
 - [Joker: Folie à Deux](https://wolkanca.com/joker-folie-a-deux/)
 - [Google, deprem ile ilgili](https://wolkanca.com/google-deprem-ile-ilgili/)
@@ -31,7 +32,6 @@
 - [Bob Marley Day – 6 Şubat](https://wolkanca.com/bob-marley-day-6-subat/)
 - [İle bitiyorsa {PHP}](https://wolkanca.com/ile-bitiyorsa-php/)
 - [Twitter reklam gelirlerini paylaşacak](https://wolkanca.com/twitter-reklam-gelirlerini-paylasacak/)
-- [Kuantum bilgisayar devrimi](https://wolkanca.com/kuantum-bilgisayarlar-sayisiz-sorunu-cozebilir-ve-pek-cok-yeni-sorun-yaratabilir/)
 <!-- BLOG-POST-LIST:END -->
 
 
