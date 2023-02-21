@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2024 Renault Clio görüntülendi](https://wolkanca.com/2024-renault-clio-goruntulendi/)
 - [Google’ın yapay zeka ile oluşturulan içerikle ilgili rehberi](https://wolkanca.com/googlein-yapay-zeka-ile-olusturulan-icerikle-ilgili-rehberi/)
 - [Twitter 2 faktörlü doğrulama değişikliği](https://wolkanca.com/twitter-2-faktorlu-dogrulama-degisikligi/)
 - [Microsoft’un yeni yapay zekası konuşmanızı taklit ediyor](https://wolkanca.com/microsoftun-yeni-yapay-zekasi-konusmanizi-taklit-ediyor/)
@@ -31,7 +32,6 @@
 - [ChatGPT, Google’ın yazılımcı mülakatını geçti](https://wolkanca.com/chatgpt-googlein-yazilimci-mulakatini-gecti/)
 - [Instagram kurucularından yeni TikTok alternatifi uygulama](https://wolkanca.com/instagram-kurucularindan-yeni-tiktok-alternatifi-uygulama/)
 - [Bob Marley Day – 6 Şubat](https://wolkanca.com/bob-marley-day-6-subat/)
-- [İle bitiyorsa {PHP}](https://wolkanca.com/ile-bitiyorsa-php/)
 <!-- BLOG-POST-LIST:END -->
 
 
