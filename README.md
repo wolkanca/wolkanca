@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge yerleşik VPN ekledi](https://wolkanca.com/microsoft-edge-yerlesik-vpn-ekledi/)
 - [Bing AI konuşmaları neden sınırlanıyor?](https://wolkanca.com/bing-ai-konusmalari-neden-sinirlaniyor/)
 - [2024 Renault Clio görüntülendi](https://wolkanca.com/2024-renault-clio-goruntulendi/)
 - [Google’ın yapay zeka ile oluşturulan içerikle ilgili rehberi](https://wolkanca.com/googlein-yapay-zeka-ile-olusturulan-icerikle-ilgili-rehberi/)
@@ -31,7 +32,6 @@
 - [2023’de PHP](https://wolkanca.com/2023de-php/)
 - [VPN nedir, nasıl kullanılır?](https://wolkanca.com/vpn-nedir-nasil-kullanilir/)
 - [ChatGPT, Google’ın yazılımcı mülakatını geçti](https://wolkanca.com/chatgpt-googlein-yazilimci-mulakatini-gecti/)
-- [Instagram kurucularından yeni TikTok alternatifi uygulama](https://wolkanca.com/instagram-kurucularindan-yeni-tiktok-alternatifi-uygulama/)
 <!-- BLOG-POST-LIST:END -->
 
 
