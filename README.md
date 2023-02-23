@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Bing AI Prometheus ve ChatGPT](https://wolkanca.com/microsoft-bing-ai-prometheus-ve-chatgpt/)
 - [Microsoft Edge yerleşik VPN ekledi](https://wolkanca.com/microsoft-edge-yerlesik-vpn-ekledi/)
 - [Bing AI konuşmaları neden sınırlanıyor?](https://wolkanca.com/bing-ai-konusmalari-neden-sinirlaniyor/)
 - [2024 Renault Clio görüntülendi](https://wolkanca.com/2024-renault-clio-goruntulendi/)
@@ -31,7 +32,6 @@
 - [WhatsApp gruplarda kişi limitini kaldırmak](https://wolkanca.com/whatsapp-gruplarda-kisi-limitini-kaldirmak/)
 - [2023’de PHP](https://wolkanca.com/2023de-php/)
 - [VPN nedir, nasıl kullanılır?](https://wolkanca.com/vpn-nedir-nasil-kullanilir/)
-- [ChatGPT, Google’ın yazılımcı mülakatını geçti](https://wolkanca.com/chatgpt-googlein-yazilimci-mulakatini-gecti/)
 <!-- BLOG-POST-LIST:END -->
 
 
