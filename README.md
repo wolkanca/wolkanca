@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Music’e podcast eklendi](https://wolkanca.com/youtube-musice-podcast-eklendi/)
 - [Spotify, yapay zeka destekli DJ özelliği](https://wolkanca.com/spotify-yapay-zeka-destekli-dj-ozelligi/)
 - [Microsoft Bing AI Prometheus ve ChatGPT](https://wolkanca.com/microsoft-bing-ai-prometheus-ve-chatgpt/)
 - [Microsoft Edge yerleşik VPN ekledi](https://wolkanca.com/microsoft-edge-yerlesik-vpn-ekledi/)
@@ -31,7 +32,6 @@
 - [nth-child nasıl çalışıyor?](https://wolkanca.com/nth-child-nasil-calisiyor/)
 - [Çimlerin rengi](https://wolkanca.com/cimlerin-rengi/)
 - [WhatsApp gruplarda kişi limitini kaldırmak](https://wolkanca.com/whatsapp-gruplarda-kisi-limitini-kaldirmak/)
-- [2023’de PHP](https://wolkanca.com/2023de-php/)
 <!-- BLOG-POST-LIST:END -->
 
 
