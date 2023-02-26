@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Workspace tasarımı değişiyor](https://wolkanca.com/google-workspace-tasarimi-degisiyor/)
 - [Yüzüklerin Efendisi film serisine devam](https://wolkanca.com/yuzuklerin-efendisi-film-serisine-devam/)
 - [YouTube Music’e podcast eklendi](https://wolkanca.com/youtube-musice-podcast-eklendi/)
 - [Spotify, yapay zeka destekli DJ özelliği](https://wolkanca.com/spotify-yapay-zeka-destekli-dj-ozelligi/)
@@ -31,7 +32,6 @@
 - [Google, deprem ile ilgili](https://wolkanca.com/google-deprem-ile-ilgili/)
 - [El hareketleri ile kontrol edilebilen drone](https://wolkanca.com/el-hareketleri-ile-kontrol-edilebilen-drone/)
 - [nth-child nasıl çalışıyor?](https://wolkanca.com/nth-child-nasil-calisiyor/)
-- [Çimlerin rengi](https://wolkanca.com/cimlerin-rengi/)
 <!-- BLOG-POST-LIST:END -->
 
 
