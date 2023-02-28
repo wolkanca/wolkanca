@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chrome tarayıcıda şifreleri görmek](https://wolkanca.com/chrome-tarayicida-sifreleri-gormek/)
 - [Google site taşıma belgeleri güncellendi](https://wolkanca.com/google-site-tasima-belgeleri-guncellendi/)
 - [Google Workspace tasarımı değişiyor](https://wolkanca.com/google-workspace-tasarimi-degisiyor/)
 - [Yüzüklerin Efendisi film serisine devam](https://wolkanca.com/yuzuklerin-efendisi-film-serisine-devam/)
@@ -31,7 +32,6 @@
 - [Microsoft’un yeni yapay zekası konuşmanızı taklit ediyor](https://wolkanca.com/microsoftun-yeni-yapay-zekasi-konusmanizi-taklit-ediyor/)
 - [Joker: Folie à Deux](https://wolkanca.com/joker-folie-a-deux/)
 - [Google, deprem ile ilgili](https://wolkanca.com/google-deprem-ile-ilgili/)
-- [El hareketleri ile kontrol edilebilen drone](https://wolkanca.com/el-hareketleri-ile-kontrol-edilebilen-drone/)
 <!-- BLOG-POST-LIST:END -->
 
 
