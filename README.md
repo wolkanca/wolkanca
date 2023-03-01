@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Telefon uygulamasına iPhone’u ekledi](https://wolkanca.com/microsoft-telefon-uygulamasina-iphoneu-ekledi/)
 - [Chrome tarayıcıda şifreleri görmek](https://wolkanca.com/chrome-tarayicida-sifreleri-gormek/)
 - [Google site taşıma belgeleri güncellendi](https://wolkanca.com/google-site-tasima-belgeleri-guncellendi/)
 - [Google Workspace tasarımı değişiyor](https://wolkanca.com/google-workspace-tasarimi-degisiyor/)
@@ -31,7 +32,6 @@
 - [Twitter 2 faktörlü doğrulama değişikliği](https://wolkanca.com/twitter-2-faktorlu-dogrulama-degisikligi/)
 - [Microsoft’un yeni yapay zekası konuşmanızı taklit ediyor](https://wolkanca.com/microsoftun-yeni-yapay-zekasi-konusmanizi-taklit-ediyor/)
 - [Joker: Folie à Deux](https://wolkanca.com/joker-folie-a-deux/)
-- [Google, deprem ile ilgili](https://wolkanca.com/google-deprem-ile-ilgili/)
 <!-- BLOG-POST-LIST:END -->
 
 
