@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter benzeri uygulama Bluesky App Store’da](https://wolkanca.com/twitter-benzeri-uygulama-bluesky-app-storeda/)
 - [Daha uzun uyumak ister misin? Arnavutluk’a taşın](https://wolkanca.com/daha-uzun-uyumak-ister-misin-arnavutluka-tasin/)
 - [Microsoft Telefon uygulamasına iPhone’u ekledi](https://wolkanca.com/microsoft-telefon-uygulamasina-iphoneu-ekledi/)
 - [Chrome tarayıcıda şifreleri görmek](https://wolkanca.com/chrome-tarayicida-sifreleri-gormek/)
@@ -31,7 +32,6 @@
 - [2024 Renault Clio görüntülendi](https://wolkanca.com/2024-renault-clio-goruntulendi/)
 - [Google’ın yapay zeka ile oluşturulan içerikle ilgili rehberi](https://wolkanca.com/googlein-yapay-zeka-ile-olusturulan-icerikle-ilgili-rehberi/)
 - [Twitter 2 faktörlü doğrulama değişikliği](https://wolkanca.com/twitter-2-faktorlu-dogrulama-degisikligi/)
-- [Microsoft’un yeni yapay zekası konuşmanızı taklit ediyor](https://wolkanca.com/microsoftun-yeni-yapay-zekasi-konusmanizi-taklit-ediyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
