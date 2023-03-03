@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Daha uzun uyumak ister misin? Arnavutluk’a taşın](https://wolkanca.com/daha-uzun-uyumak-ister-misin-arnavutluka-tasin/)
 - [Microsoft Telefon uygulamasına iPhone’u ekledi](https://wolkanca.com/microsoft-telefon-uygulamasina-iphoneu-ekledi/)
 - [Chrome tarayıcıda şifreleri görmek](https://wolkanca.com/chrome-tarayicida-sifreleri-gormek/)
 - [Google site taşıma belgeleri güncellendi](https://wolkanca.com/google-site-tasima-belgeleri-guncellendi/)
@@ -31,7 +32,6 @@
 - [Google’ın yapay zeka ile oluşturulan içerikle ilgili rehberi](https://wolkanca.com/googlein-yapay-zeka-ile-olusturulan-icerikle-ilgili-rehberi/)
 - [Twitter 2 faktörlü doğrulama değişikliği](https://wolkanca.com/twitter-2-faktorlu-dogrulama-degisikligi/)
 - [Microsoft’un yeni yapay zekası konuşmanızı taklit ediyor](https://wolkanca.com/microsoftun-yeni-yapay-zekasi-konusmanizi-taklit-ediyor/)
-- [Joker: Folie à Deux](https://wolkanca.com/joker-folie-a-deux/)
 <!-- BLOG-POST-LIST:END -->
 
 
