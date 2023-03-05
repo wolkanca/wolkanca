@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tamir edilebilir Nokia G22](https://wolkanca.com/tamir-edilebilir-nokia-g22/)
 - [Sansür sonrası Ekşi Sözlük’ün trafiği](https://wolkanca.com/sansur-sonrasi-eksi-sozlukun-trafigi/)
 - [Twitter benzeri uygulama Bluesky App Store’da](https://wolkanca.com/twitter-benzeri-uygulama-bluesky-app-storeda/)
 - [Daha uzun uyumak ister misin? Arnavutluk’a taşın](https://wolkanca.com/daha-uzun-uyumak-ister-misin-arnavutluka-tasin/)
@@ -31,7 +32,6 @@
 - [Microsoft Edge yerleşik VPN ekledi](https://wolkanca.com/microsoft-edge-yerlesik-vpn-ekledi/)
 - [Bing AI konuşmaları neden sınırlanıyor?](https://wolkanca.com/bing-ai-konusmalari-neden-sinirlaniyor/)
 - [2024 Renault Clio görüntülendi](https://wolkanca.com/2024-renault-clio-goruntulendi/)
-- [Google’ın yapay zeka ile oluşturulan içerikle ilgili rehberi](https://wolkanca.com/googlein-yapay-zeka-ile-olusturulan-icerikle-ilgili-rehberi/)
 <!-- BLOG-POST-LIST:END -->
 
 
