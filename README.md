@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google One VPN hizmeti herkese açık](https://wolkanca.com/google-one-vpn-hizmeti-herkese-acik/)
+- [WhatsApp’da bilinmeyen numaraları sessize almak mümkün oluyor](https://wolkanca.com/whatsappda-bilinmeyen-numaralari-sessize-almak-mumkun-oluyor/)
 - [Google Arama 2 yıl içinde bitebilir](https://wolkanca.com/google-arama-2-yil-icinde-bitebilir/)
 - [Tamir edilebilir Nokia G22](https://wolkanca.com/tamir-edilebilir-nokia-g22/)
 - [Sansür sonrası Ekşi Sözlük’ün trafiği](https://wolkanca.com/sansur-sonrasi-eksi-sozlukun-trafigi/)
@@ -30,8 +32,6 @@
 - [YouTube Music’e podcast eklendi](https://wolkanca.com/youtube-musice-podcast-eklendi/)
 - [Spotify, yapay zeka destekli DJ özelliği](https://wolkanca.com/spotify-yapay-zeka-destekli-dj-ozelligi/)
 - [Microsoft Bing AI Prometheus ve ChatGPT](https://wolkanca.com/microsoft-bing-ai-prometheus-ve-chatgpt/)
-- [Microsoft Edge yerleşik VPN ekledi](https://wolkanca.com/microsoft-edge-yerlesik-vpn-ekledi/)
-- [Bing AI konuşmaları neden sınırlanıyor?](https://wolkanca.com/bing-ai-konusmalari-neden-sinirlaniyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
