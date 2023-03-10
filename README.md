@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Blue Türkiye’de açıldı](https://wolkanca.com/twitter-blue-turkiyede-acildi/)
 - [Google One VPN hizmeti herkese açık](https://wolkanca.com/google-one-vpn-hizmeti-herkese-acik/)
 - [WhatsApp’da bilinmeyen numaraları sessize almak mümkün oluyor](https://wolkanca.com/whatsappda-bilinmeyen-numaralari-sessize-almak-mumkun-oluyor/)
 - [Google Arama 2 yıl içinde bitebilir](https://wolkanca.com/google-arama-2-yil-icinde-bitebilir/)
@@ -31,7 +32,6 @@
 - [Yüzüklerin Efendisi film serisine devam](https://wolkanca.com/yuzuklerin-efendisi-film-serisine-devam/)
 - [YouTube Music’e podcast eklendi](https://wolkanca.com/youtube-musice-podcast-eklendi/)
 - [Spotify, yapay zeka destekli DJ özelliği](https://wolkanca.com/spotify-yapay-zeka-destekli-dj-ozelligi/)
-- [Microsoft Bing AI Prometheus ve ChatGPT](https://wolkanca.com/microsoft-bing-ai-prometheus-ve-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 
