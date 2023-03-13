@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google: ‘Bard arama değildir’](https://wolkanca.com/google-bard-arama-degildir/)
 - [Apple’ın bilim kurgu dizisi Silo](https://wolkanca.com/applein-bilim-kurgu-dizisi-silo/)
 - [Sosyal medya uygulamaları görsel boyutları](https://wolkanca.com/sosyal-medya-uygulamalari-gorsel-boyutlari/)
 - [Twitter Blue Türkiye’de açıldı](https://wolkanca.com/twitter-blue-turkiyede-acildi/)
@@ -31,7 +32,6 @@
 - [Chrome tarayıcıda şifreleri görmek](https://wolkanca.com/chrome-tarayicida-sifreleri-gormek/)
 - [Google site taşıma belgeleri güncellendi](https://wolkanca.com/google-site-tasima-belgeleri-guncellendi/)
 - [Google Workspace tasarımı değişiyor](https://wolkanca.com/google-workspace-tasarimi-degisiyor/)
-- [Yüzüklerin Efendisi film serisine devam](https://wolkanca.com/yuzuklerin-efendisi-film-serisine-devam/)
 <!-- BLOG-POST-LIST:END -->
 
 
