@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4 duyuruldu](https://wolkanca.com/gpt-4-duyuruldu/)
 - [MyHeritage Deep Nostalgia](https://wolkanca.com/myheritage-deep-nostalgia/)
 - [Google: ‘Bard arama değildir’](https://wolkanca.com/google-bard-arama-degildir/)
 - [Apple’ın bilim kurgu dizisi Silo](https://wolkanca.com/applein-bilim-kurgu-dizisi-silo/)
@@ -31,7 +32,6 @@
 - [Daha uzun uyumak ister misin? Arnavutluk’a taşın](https://wolkanca.com/daha-uzun-uyumak-ister-misin-arnavutluka-tasin/)
 - [Microsoft Telefon uygulamasına iPhone’u ekledi](https://wolkanca.com/microsoft-telefon-uygulamasina-iphoneu-ekledi/)
 - [Chrome tarayıcıda şifreleri görmek](https://wolkanca.com/chrome-tarayicida-sifreleri-gormek/)
-- [Google site taşıma belgeleri güncellendi](https://wolkanca.com/google-site-tasima-belgeleri-guncellendi/)
 <!-- BLOG-POST-LIST:END -->
 
 
