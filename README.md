@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Last of Us izlenme sayısı](https://wolkanca.com/the-last-of-us-izlenme-sayisi/)
 - [GPT-4 duyuruldu](https://wolkanca.com/gpt-4-duyuruldu/)
 - [MyHeritage Deep Nostalgia](https://wolkanca.com/myheritage-deep-nostalgia/)
 - [Google: ‘Bard arama değildir’](https://wolkanca.com/google-bard-arama-degildir/)
@@ -31,7 +32,6 @@
 - [Twitter benzeri uygulama Bluesky App Store’da](https://wolkanca.com/twitter-benzeri-uygulama-bluesky-app-storeda/)
 - [Daha uzun uyumak ister misin? Arnavutluk’a taşın](https://wolkanca.com/daha-uzun-uyumak-ister-misin-arnavutluka-tasin/)
 - [Microsoft Telefon uygulamasına iPhone’u ekledi](https://wolkanca.com/microsoft-telefon-uygulamasina-iphoneu-ekledi/)
-- [Chrome tarayıcıda şifreleri görmek](https://wolkanca.com/chrome-tarayicida-sifreleri-gormek/)
 <!-- BLOG-POST-LIST:END -->
 
 
