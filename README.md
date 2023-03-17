@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta ücretli onay işareti başladı](https://wolkanca.com/meta-ucretli-onay-isareti-basladi/)
 - [GPT-4’lü Bing yayında](https://wolkanca.com/gpt-4lu-bing-yayinda/)
 - [The Last of Us izlenme sayısı](https://wolkanca.com/the-last-of-us-izlenme-sayisi/)
 - [GPT-4 duyuruldu](https://wolkanca.com/gpt-4-duyuruldu/)
@@ -31,7 +32,6 @@
 - [Tamir edilebilir Nokia G22](https://wolkanca.com/tamir-edilebilir-nokia-g22/)
 - [Sansür sonrası Ekşi Sözlük’ün trafiği](https://wolkanca.com/sansur-sonrasi-eksi-sozlukun-trafigi/)
 - [Twitter benzeri uygulama Bluesky App Store’da](https://wolkanca.com/twitter-benzeri-uygulama-bluesky-app-storeda/)
-- [Daha uzun uyumak ister misin? Arnavutluk’a taşın](https://wolkanca.com/daha-uzun-uyumak-ister-misin-arnavutluka-tasin/)
 <!-- BLOG-POST-LIST:END -->
 
 
