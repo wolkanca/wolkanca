@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DC Evreni’nin en iyi filmleri](https://wolkanca.com/dc-evreninin-en-iyi-filmleri/)
 - [Amazon uydu internet cihazlarını tanıttı](https://wolkanca.com/amazon-uydu-internet-cihazlarini-tanitti/)
 - [Meta ücretli onay işareti başladı](https://wolkanca.com/meta-ucretli-onay-isareti-basladi/)
 - [GPT-4’lü Bing yayında](https://wolkanca.com/gpt-4lu-bing-yayinda/)
@@ -31,7 +32,6 @@
 - [WhatsApp’da bilinmeyen numaraları sessize almak mümkün oluyor](https://wolkanca.com/whatsappda-bilinmeyen-numaralari-sessize-almak-mumkun-oluyor/)
 - [Google Arama 2 yıl içinde bitebilir](https://wolkanca.com/google-arama-2-yil-icinde-bitebilir/)
 - [Tamir edilebilir Nokia G22](https://wolkanca.com/tamir-edilebilir-nokia-g22/)
-- [Sansür sonrası Ekşi Sözlük’ün trafiği](https://wolkanca.com/sansur-sonrasi-eksi-sozlukun-trafigi/)
 <!-- BLOG-POST-LIST:END -->
 
 
