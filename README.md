@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon uydu internet cihazlarını tanıttı](https://wolkanca.com/amazon-uydu-internet-cihazlarini-tanitti/)
 - [Meta ücretli onay işareti başladı](https://wolkanca.com/meta-ucretli-onay-isareti-basladi/)
 - [GPT-4’lü Bing yayında](https://wolkanca.com/gpt-4lu-bing-yayinda/)
 - [The Last of Us izlenme sayısı](https://wolkanca.com/the-last-of-us-izlenme-sayisi/)
@@ -31,7 +32,6 @@
 - [Google Arama 2 yıl içinde bitebilir](https://wolkanca.com/google-arama-2-yil-icinde-bitebilir/)
 - [Tamir edilebilir Nokia G22](https://wolkanca.com/tamir-edilebilir-nokia-g22/)
 - [Sansür sonrası Ekşi Sözlük’ün trafiği](https://wolkanca.com/sansur-sonrasi-eksi-sozlukun-trafigi/)
-- [Twitter benzeri uygulama Bluesky App Store’da](https://wolkanca.com/twitter-benzeri-uygulama-bluesky-app-storeda/)
 <!-- BLOG-POST-LIST:END -->
 
 
