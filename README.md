@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İnternette gördüklerinizin kontrolünü nasıl geri alırsınız?](https://wolkanca.com/internette-gorduklerinizin-kontrolunu-nasil-geri-alirsiniz/)
 - [WhatsApp mesaj sabitleme](https://wolkanca.com/whatsapp-mesaj-sabitleme/)
 - [Elon Musk belgeseli çekiliyor](https://wolkanca.com/elon-musk-belgeseli-cekiliyor/)
 - [DC Evreni’nin en iyi filmleri](https://wolkanca.com/dc-evreninin-en-iyi-filmleri/)
@@ -31,7 +32,6 @@
 - [Sosyal medya uygulamaları görsel boyutları](https://wolkanca.com/sosyal-medya-uygulamalari-gorsel-boyutlari/)
 - [Twitter Blue Türkiye’de açıldı](https://wolkanca.com/twitter-blue-turkiyede-acildi/)
 - [Google One VPN hizmeti herkese açık](https://wolkanca.com/google-one-vpn-hizmeti-herkese-acik/)
-- [WhatsApp’da bilinmeyen numaraları sessize almak mümkün oluyor](https://wolkanca.com/whatsappda-bilinmeyen-numaralari-sessize-almak-mumkun-oluyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
