@@ -19,6 +19,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [İnternette gördüklerinizin kontrolünü nasıl geri alırsınız?](https://wolkanca.com/internette-gorduklerinizin-kontrolunu-nasil-geri-alirsiniz/)
 - [WhatsApp mesaj sabitleme](https://wolkanca.com/whatsapp-mesaj-sabitleme/)
+- [Dünya Su Günü](https://wolkanca.com/dunya-su-gunu/)
 - [Elon Musk belgeseli çekiliyor](https://wolkanca.com/elon-musk-belgeseli-cekiliyor/)
 - [DC Evreni’nin en iyi filmleri](https://wolkanca.com/dc-evreninin-en-iyi-filmleri/)
 - [Amazon uydu internet cihazlarını tanıttı](https://wolkanca.com/amazon-uydu-internet-cihazlarini-tanitti/)
@@ -31,7 +32,6 @@
 - [Apple’ın bilim kurgu dizisi Silo](https://wolkanca.com/applein-bilim-kurgu-dizisi-silo/)
 - [Sosyal medya uygulamaları görsel boyutları](https://wolkanca.com/sosyal-medya-uygulamalari-gorsel-boyutlari/)
 - [Twitter Blue Türkiye’de açıldı](https://wolkanca.com/twitter-blue-turkiyede-acildi/)
-- [Google One VPN hizmeti herkese açık](https://wolkanca.com/google-one-vpn-hizmeti-herkese-acik/)
 <!-- BLOG-POST-LIST:END -->
 
 
