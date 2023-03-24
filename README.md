@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Document.designMode](https://wolkanca.com/document-designmode/)
 - [DALL·E, Bing’e entegre edildi](https://wolkanca.com/dall%c2%b7e-binge-entegre-edildi/)
 - [İnternette gördüklerinizin kontrolünü nasıl geri alırsınız?](https://wolkanca.com/internette-gorduklerinizin-kontrolunu-nasil-geri-alirsiniz/)
 - [WhatsApp mesaj sabitleme](https://wolkanca.com/whatsapp-mesaj-sabitleme/)
@@ -31,7 +32,6 @@
 - [MyHeritage Deep Nostalgia](https://wolkanca.com/myheritage-deep-nostalgia/)
 - [Google: ‘Bard arama değildir’](https://wolkanca.com/google-bard-arama-degildir/)
 - [Apple’ın bilim kurgu dizisi Silo](https://wolkanca.com/applein-bilim-kurgu-dizisi-silo/)
-- [Sosyal medya uygulamaları görsel boyutları](https://wolkanca.com/sosyal-medya-uygulamalari-gorsel-boyutlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
