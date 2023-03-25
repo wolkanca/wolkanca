@@ -18,7 +18,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Document.designMode](https://wolkanca.com/document-designmode/)
-- [DALL·E, Bing’e entegre edildi](https://wolkanca.com/dall%c2%b7e-binge-entegre-edildi/)
+- [DALL·E, Bing’e entegre edildi](https://wolkanca.com/dall-e-binge-entegre-edildi/)
 - [İnternette gördüklerinizin kontrolünü nasıl geri alırsınız?](https://wolkanca.com/internette-gorduklerinizin-kontrolunu-nasil-geri-alirsiniz/)
 - [WhatsApp mesaj sabitleme](https://wolkanca.com/whatsapp-mesaj-sabitleme/)
 - [Dünya Su Günü](https://wolkanca.com/dunya-su-gunu/)
