@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dünya mutluluk haritası 2023](https://wolkanca.com/dunya-mutluluk-haritasi-2023/)
 - [Renfield, Nicolas Cage Dracula rolünde](https://wolkanca.com/renfield-nicolas-cage-dracula-rolunde/)
 - [Document.designMode](https://wolkanca.com/document-designmode/)
 - [DALL·E, Bing’e entegre edildi](https://wolkanca.com/dall-e-binge-entegre-edildi/)
@@ -31,7 +32,6 @@
 - [The Last of Us izlenme sayısı](https://wolkanca.com/the-last-of-us-izlenme-sayisi/)
 - [GPT-4 duyuruldu](https://wolkanca.com/gpt-4-duyuruldu/)
 - [MyHeritage Deep Nostalgia](https://wolkanca.com/myheritage-deep-nostalgia/)
-- [Google: ‘Bard arama değildir’](https://wolkanca.com/google-bard-arama-degildir/)
 <!-- BLOG-POST-LIST:END -->
 
 
