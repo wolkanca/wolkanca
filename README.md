@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter; parayı veren düdüğü çalar](https://wolkanca.com/twitter-parayi-veren-dudugu-calar/)
 - [Ramazan Ayı ve Oruç &lpar;kamuoyu araştırması&rpar;](https://wolkanca.com/ramazan-ayi-ve-oruc-kamuoyu-arastirmasi/)
 - [Google Arama’da bilgileri doğrulamak için yeni özellikler](https://wolkanca.com/google-aramada-bilgileri-dogrulamak-icin-yeni-ozellikler/)
 - [Dünya mutluluk haritası 2023](https://wolkanca.com/dunya-mutluluk-haritasi-2023/)
@@ -31,7 +32,6 @@
 - [Amazon uydu internet cihazlarını tanıttı](https://wolkanca.com/amazon-uydu-internet-cihazlarini-tanitti/)
 - [Meta ücretli onay işareti başladı](https://wolkanca.com/meta-ucretli-onay-isareti-basladi/)
 - [GPT-4’lü Bing yayında](https://wolkanca.com/gpt-4lu-bing-yayinda/)
-- [The Last of Us izlenme sayısı](https://wolkanca.com/the-last-of-us-izlenme-sayisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
