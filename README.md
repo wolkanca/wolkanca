@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dünyanın en varlıklı şehirleri](https://wolkanca.com/dunyanin-en-varlikli-sehirleri/)
 - [Up &lpar;Yukarı Bak&rpar; devam filmi 16 Haziran’da](https://wolkanca.com/up-yukari-bak-devam-filmi-16-haziranda/)
 - [İş hayatında 22 görgü kuralı](https://wolkanca.com/is-hayatinda-22-gorgu-kurali/)
 - [Twitter; parayı veren düdüğü çalar](https://wolkanca.com/twitter-parayi-veren-dudugu-calar/)
@@ -31,7 +32,6 @@
 - [Dünya Su Günü](https://wolkanca.com/dunya-su-gunu/)
 - [Elon Musk belgeseli çekiliyor](https://wolkanca.com/elon-musk-belgeseli-cekiliyor/)
 - [DC Evreni’nin en iyi filmleri](https://wolkanca.com/dc-evreninin-en-iyi-filmleri/)
-- [Amazon uydu internet cihazlarını tanıttı](https://wolkanca.com/amazon-uydu-internet-cihazlarini-tanitti/)
 <!-- BLOG-POST-LIST:END -->
 
 
