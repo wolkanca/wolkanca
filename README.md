@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Farklı evrenleri sevenler için bilim kurgu filmleri](https://wolkanca.com/farkli-evrenleri-sevenler-icin-bilim-kurgu-filmleri/)
 - [Windows’da sürücü simgesini değiştirmek](https://wolkanca.com/windowsda-surucu-simgesini-degistirmek/)
 - [Dünyanın en varlıklı şehirleri](https://wolkanca.com/dunyanin-en-varlikli-sehirleri/)
 - [Up &lpar;Yukarı Bak&rpar; devam filmi 16 Haziran’da](https://wolkanca.com/up-yukari-bak-devam-filmi-16-haziranda/)
@@ -31,7 +32,6 @@
 - [İnternette gördüklerinizin kontrolünü nasıl geri alırsınız?](https://wolkanca.com/internette-gorduklerinizin-kontrolunu-nasil-geri-alirsiniz/)
 - [WhatsApp mesaj sabitleme](https://wolkanca.com/whatsapp-mesaj-sabitleme/)
 - [Dünya Su Günü](https://wolkanca.com/dunya-su-gunu/)
-- [Elon Musk belgeseli çekiliyor](https://wolkanca.com/elon-musk-belgeseli-cekiliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
