@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iOS 17 alacak cihazlar](https://wolkanca.com/ios-17-alacak-cihazlar/)
+- [Bir Zamanlar Gelecek: 2121](https://wolkanca.com/bir-zamanlar-gelecek-2121/)
 - [Farklı evrenleri sevenler için bilim kurgu filmleri](https://wolkanca.com/farkli-evrenleri-sevenler-icin-bilim-kurgu-filmleri/)
 - [Windows’da sürücü simgesini değiştirmek](https://wolkanca.com/windowsda-surucu-simgesini-degistirmek/)
 - [Dünyanın en varlıklı şehirleri](https://wolkanca.com/dunyanin-en-varlikli-sehirleri/)
@@ -30,8 +32,6 @@
 - [Document.designMode](https://wolkanca.com/document-designmode/)
 - [DALL·E, Bing’e entegre edildi](https://wolkanca.com/dall-e-binge-entegre-edildi/)
 - [İnternette gördüklerinizin kontrolünü nasıl geri alırsınız?](https://wolkanca.com/internette-gorduklerinizin-kontrolunu-nasil-geri-alirsiniz/)
-- [WhatsApp mesaj sabitleme](https://wolkanca.com/whatsapp-mesaj-sabitleme/)
-- [Dünya Su Günü](https://wolkanca.com/dunya-su-gunu/)
 <!-- BLOG-POST-LIST:END -->
 
 
