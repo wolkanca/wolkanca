@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dünyanın en zengin 25 ülkesi](https://wolkanca.com/dunyanin-en-zengin-25-ulkesi/)
 - [iOS 17 alacak cihazlar](https://wolkanca.com/ios-17-alacak-cihazlar/)
 - [Bir Zamanlar Gelecek: 2121](https://wolkanca.com/bir-zamanlar-gelecek-2121/)
 - [Farklı evrenleri sevenler için bilim kurgu filmleri](https://wolkanca.com/farkli-evrenleri-sevenler-icin-bilim-kurgu-filmleri/)
@@ -31,7 +32,6 @@
 - [Renfield, Nicolas Cage Dracula rolünde](https://wolkanca.com/renfield-nicolas-cage-dracula-rolunde/)
 - [Document.designMode](https://wolkanca.com/document-designmode/)
 - [DALL·E, Bing’e entegre edildi](https://wolkanca.com/dall-e-binge-entegre-edildi/)
-- [İnternette gördüklerinizin kontrolünü nasıl geri alırsınız?](https://wolkanca.com/internette-gorduklerinizin-kontrolunu-nasil-geri-alirsiniz/)
 <!-- BLOG-POST-LIST:END -->
 
 
