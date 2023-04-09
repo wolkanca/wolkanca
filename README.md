@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yeni süpersonik, yıldız yumurtlayan kara delik](https://wolkanca.com/yeni-supersonik-yildiz-yumurtlayan-kara-delik/)
 - [Dünyanın en zengin 25 ülkesi](https://wolkanca.com/dunyanin-en-zengin-25-ulkesi/)
 - [iOS 17 alacak cihazlar](https://wolkanca.com/ios-17-alacak-cihazlar/)
 - [Bir Zamanlar Gelecek: 2121](https://wolkanca.com/bir-zamanlar-gelecek-2121/)
@@ -31,7 +32,6 @@
 - [Dünya mutluluk haritası 2023](https://wolkanca.com/dunya-mutluluk-haritasi-2023/)
 - [Renfield, Nicolas Cage Dracula rolünde](https://wolkanca.com/renfield-nicolas-cage-dracula-rolunde/)
 - [Document.designMode](https://wolkanca.com/document-designmode/)
-- [DALL·E, Bing’e entegre edildi](https://wolkanca.com/dall-e-binge-entegre-edildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
