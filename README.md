@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge Image Creator aracı](https://wolkanca.com/microsoft-edge-image-creator-araci/)
 - [Yapay Zekâ ve SEO](https://wolkanca.com/yapay-zeka-ve-seo/)
 - [Yeni süpersonik, yıldız yumurtlayan kara delik](https://wolkanca.com/yeni-supersonik-yildiz-yumurtlayan-kara-delik/)
 - [Dünyanın en zengin 25 ülkesi](https://wolkanca.com/dunyanin-en-zengin-25-ulkesi/)
@@ -31,7 +32,6 @@
 - [Ramazan Ayı ve Oruç &lpar;kamuoyu araştırması&rpar;](https://wolkanca.com/ramazan-ayi-ve-oruc-kamuoyu-arastirmasi/)
 - [Google Arama’da bilgileri doğrulamak için yeni özellikler](https://wolkanca.com/google-aramada-bilgileri-dogrulamak-icin-yeni-ozellikler/)
 - [Dünya mutluluk haritası 2023](https://wolkanca.com/dunya-mutluluk-haritasi-2023/)
-- [Renfield, Nicolas Cage Dracula rolünde](https://wolkanca.com/renfield-nicolas-cage-dracula-rolunde/)
 <!-- BLOG-POST-LIST:END -->
 
 
