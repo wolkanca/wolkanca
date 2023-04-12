@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT’li insansı robot Ameca](https://wolkanca.com/chatgptli-insansi-robot-ameca/)
 - [Microsoft Edge Image Creator aracı](https://wolkanca.com/microsoft-edge-image-creator-araci/)
 - [Yapay Zekâ ve SEO](https://wolkanca.com/yapay-zeka-ve-seo/)
 - [Yeni süpersonik, yıldız yumurtlayan kara delik](https://wolkanca.com/yeni-supersonik-yildiz-yumurtlayan-kara-delik/)
@@ -31,7 +32,6 @@
 - [Twitter; parayı veren düdüğü çalar](https://wolkanca.com/twitter-parayi-veren-dudugu-calar/)
 - [Ramazan Ayı ve Oruç &lpar;kamuoyu araştırması&rpar;](https://wolkanca.com/ramazan-ayi-ve-oruc-kamuoyu-arastirmasi/)
 - [Google Arama’da bilgileri doğrulamak için yeni özellikler](https://wolkanca.com/google-aramada-bilgileri-dogrulamak-icin-yeni-ozellikler/)
-- [Dünya mutluluk haritası 2023](https://wolkanca.com/dunya-mutluluk-haritasi-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
