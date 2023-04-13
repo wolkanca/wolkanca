@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Continental Eylül‘de](https://wolkanca.com/the-continental-eylulde/)
+- [Opera iOS ücretsiz VPN](https://wolkanca.com/opera-ios-ucretsiz-vpn/)
 - [ChatGPT’li insansı robot Ameca](https://wolkanca.com/chatgptli-insansi-robot-ameca/)
 - [Microsoft Edge Image Creator aracı](https://wolkanca.com/microsoft-edge-image-creator-araci/)
 - [Yapay Zekâ ve SEO](https://wolkanca.com/yapay-zeka-ve-seo/)
@@ -30,8 +32,6 @@
 - [Up &lpar;Yukarı Bak&rpar; devam filmi 16 Haziran’da](https://wolkanca.com/up-yukari-bak-devam-filmi-16-haziranda/)
 - [İş hayatında 22 görgü kuralı](https://wolkanca.com/is-hayatinda-22-gorgu-kurali/)
 - [Twitter; parayı veren düdüğü çalar](https://wolkanca.com/twitter-parayi-veren-dudugu-calar/)
-- [Ramazan Ayı ve Oruç &lpar;kamuoyu araştırması&rpar;](https://wolkanca.com/ramazan-ayi-ve-oruc-kamuoyu-arastirmasi/)
-- [Google Arama’da bilgileri doğrulamak için yeni özellikler](https://wolkanca.com/google-aramada-bilgileri-dogrulamak-icin-yeni-ozellikler/)
 <!-- BLOG-POST-LIST:END -->
 
 
