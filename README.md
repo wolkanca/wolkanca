@@ -17,7 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Continental Eylül‘de](https://wolkanca.com/the-continental-eylulde/)
+- [Twitter Blue karakter limiti ve Bold İtalik](https://wolkanca.com/twitter-blue-karakter-limiti-ve-bold-italik/)
+- [The Continental Eylül’de](https://wolkanca.com/the-continental-eylulde/)
 - [Opera iOS ücretsiz VPN](https://wolkanca.com/opera-ios-ucretsiz-vpn/)
 - [ChatGPT’li insansı robot Ameca](https://wolkanca.com/chatgptli-insansi-robot-ameca/)
 - [Microsoft Edge Image Creator aracı](https://wolkanca.com/microsoft-edge-image-creator-araci/)
@@ -31,7 +32,6 @@
 - [Dünyanın en varlıklı şehirleri](https://wolkanca.com/dunyanin-en-varlikli-sehirleri/)
 - [Up &lpar;Yukarı Bak&rpar; devam filmi 16 Haziran’da](https://wolkanca.com/up-yukari-bak-devam-filmi-16-haziranda/)
 - [İş hayatında 22 görgü kuralı](https://wolkanca.com/is-hayatinda-22-gorgu-kurali/)
-- [Twitter; parayı veren düdüğü çalar](https://wolkanca.com/twitter-parayi-veren-dudugu-calar/)
 <!-- BLOG-POST-LIST:END -->
 
 
