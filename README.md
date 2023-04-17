@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Takvim dark-mode](https://wolkanca.com/google-takvim-dark-mode/)
 - [WordPress dashboard kontrolü](https://wolkanca.com/wordpress-dashboard-kontrolu/)
 - [Twitter Blue karakter limiti ve Bold İtalik](https://wolkanca.com/twitter-blue-karakter-limiti-ve-bold-italik/)
 - [The Continental Eylül’de](https://wolkanca.com/the-continental-eylulde/)
@@ -31,7 +32,6 @@
 - [Farklı evrenleri sevenler için bilim kurgu filmleri](https://wolkanca.com/farkli-evrenleri-sevenler-icin-bilim-kurgu-filmleri/)
 - [Windows’da sürücü simgesini değiştirmek](https://wolkanca.com/windowsda-surucu-simgesini-degistirmek/)
 - [Dünyanın en varlıklı şehirleri](https://wolkanca.com/dunyanin-en-varlikli-sehirleri/)
-- [Up &lpar;Yukarı Bak&rpar; devam filmi 16 Haziran’da](https://wolkanca.com/up-yukari-bak-devam-filmi-16-haziranda/)
 <!-- BLOG-POST-LIST:END -->
 
 
