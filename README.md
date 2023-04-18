@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Antipod haritası](https://wolkanca.com/antipod-haritasi/)
 - [WP Reset WordPress eklentisi](https://wolkanca.com/wp-reset-wordpress-eklentisi/)
 - [Google Takvim dark-mode](https://wolkanca.com/google-takvim-dark-mode/)
 - [WordPress dashboard kontrolü](https://wolkanca.com/wordpress-dashboard-kontrolu/)
@@ -31,7 +32,6 @@
 - [iOS 17 alacak cihazlar](https://wolkanca.com/ios-17-alacak-cihazlar/)
 - [Bir Zamanlar Gelecek: 2121](https://wolkanca.com/bir-zamanlar-gelecek-2121/)
 - [Farklı evrenleri sevenler için bilim kurgu filmleri](https://wolkanca.com/farkli-evrenleri-sevenler-icin-bilim-kurgu-filmleri/)
-- [Windows’da sürücü simgesini değiştirmek](https://wolkanca.com/windowsda-surucu-simgesini-degistirmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
