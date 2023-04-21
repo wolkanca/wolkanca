@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky Android’e geldi](https://wolkanca.com/bluesky-androide-geldi/)
 - [Instagram profiline birden fazla link](https://wolkanca.com/instagram-profiline-birden-fazla-link/)
 - [Antipod haritası](https://wolkanca.com/antipod-haritasi/)
 - [WP Reset WordPress eklentisi](https://wolkanca.com/wp-reset-wordpress-eklentisi/)
@@ -31,7 +32,6 @@
 - [Yeni süpersonik, yıldız yumurtlayan kara delik](https://wolkanca.com/yeni-supersonik-yildiz-yumurtlayan-kara-delik/)
 - [Dünyanın en zengin 25 ülkesi](https://wolkanca.com/dunyanin-en-zengin-25-ulkesi/)
 - [iOS 17 alacak cihazlar](https://wolkanca.com/ios-17-alacak-cihazlar/)
-- [Bir Zamanlar Gelecek: 2121](https://wolkanca.com/bir-zamanlar-gelecek-2121/)
 <!-- BLOG-POST-LIST:END -->
 
 
