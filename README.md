@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [En iyi Türk korku filmleri](https://wolkanca.com/en-iyi-turk-korku-filmleri/)
 - [23 Nisan 2023](https://wolkanca.com/23-nisan-2023/)
 - [En iyi dinî filmler](https://wolkanca.com/en-iyi-dini-filmler/)
 - [Bluesky Android’e geldi](https://wolkanca.com/bluesky-androide-geldi/)
@@ -31,7 +32,6 @@
 - [ChatGPT’li insansı robot Ameca](https://wolkanca.com/chatgptli-insansi-robot-ameca/)
 - [Microsoft Edge Image Creator aracı](https://wolkanca.com/microsoft-edge-image-creator-araci/)
 - [Yapay Zekâ ve SEO](https://wolkanca.com/yapay-zeka-ve-seo/)
-- [Yeni süpersonik, yıldız yumurtlayan kara delik](https://wolkanca.com/yeni-supersonik-yildiz-yumurtlayan-kara-delik/)
 <!-- BLOG-POST-LIST:END -->
 
 
