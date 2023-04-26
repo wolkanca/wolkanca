@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yeni “Opera One” tarayıcı](https://wolkanca.com/yeni-opera-one-tarayici/)
 - [Amazon Prime ücretine yüzde 400 zam!](https://wolkanca.com/amazon-prime-ucretine-yuzde-400-zam/)
 - [En iyi Türk korku filmleri](https://wolkanca.com/en-iyi-turk-korku-filmleri/)
 - [23 Nisan 2023](https://wolkanca.com/23-nisan-2023/)
@@ -31,7 +32,6 @@
 - [The Continental Eylül’de](https://wolkanca.com/the-continental-eylulde/)
 - [Opera iOS ücretsiz VPN](https://wolkanca.com/opera-ios-ucretsiz-vpn/)
 - [ChatGPT’li insansı robot Ameca](https://wolkanca.com/chatgptli-insansi-robot-ameca/)
-- [Microsoft Edge Image Creator aracı](https://wolkanca.com/microsoft-edge-image-creator-araci/)
 <!-- BLOG-POST-LIST:END -->
 
 
