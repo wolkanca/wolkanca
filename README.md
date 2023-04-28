@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [En iyi kıyamet filmleri](https://wolkanca.com/en-iyi-kiyamet-filmleri/)
 - [İnternet Kampanyalarında Nelere Dikkat Edilmeli?](https://wolkanca.com/internet-kampanyalarinda-nelere-dikkat-edilmeli/)
 - [Yeni “Opera One” tarayıcı](https://wolkanca.com/yeni-opera-one-tarayici/)
 - [Amazon Prime ücretine yüzde 400 zam!](https://wolkanca.com/amazon-prime-ucretine-yuzde-400-zam/)
@@ -31,7 +32,6 @@
 - [WordPress dashboard kontrolü](https://wolkanca.com/wordpress-dashboard-kontrolu/)
 - [Twitter Blue karakter limiti ve Bold İtalik](https://wolkanca.com/twitter-blue-karakter-limiti-ve-bold-italik/)
 - [The Continental Eylül’de](https://wolkanca.com/the-continental-eylulde/)
-- [Opera iOS ücretsiz VPN](https://wolkanca.com/opera-ios-ucretsiz-vpn/)
 <!-- BLOG-POST-LIST:END -->
 
 
