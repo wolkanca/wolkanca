@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Black Mirror 6. sezon](https://wolkanca.com/black-mirror-6-sezon/)
 - [Microsoft Designer Edge’e entegre edildi](https://wolkanca.com/microsoft-designer-edgee-entegre-edildi/)
 - [En iyi kıyamet filmleri](https://wolkanca.com/en-iyi-kiyamet-filmleri/)
 - [İnternet Kampanyalarında Nelere Dikkat Edilmeli?](https://wolkanca.com/internet-kampanyalarinda-nelere-dikkat-edilmeli/)
@@ -31,7 +32,6 @@
 - [WP Reset WordPress eklentisi](https://wolkanca.com/wp-reset-wordpress-eklentisi/)
 - [Google Takvim dark-mode](https://wolkanca.com/google-takvim-dark-mode/)
 - [WordPress dashboard kontrolü](https://wolkanca.com/wordpress-dashboard-kontrolu/)
-- [Twitter Blue karakter limiti ve Bold İtalik](https://wolkanca.com/twitter-blue-karakter-limiti-ve-bold-italik/)
 <!-- BLOG-POST-LIST:END -->
 
 
