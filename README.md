@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WiFi şifresi öğrenme](https://wolkanca.com/wifi-sifresi-ogrenme/)
 - [WhatsApp transkript özelliği](https://wolkanca.com/whatsapp-transkript-ozelligi/)
 - [Black Mirror 6. sezon](https://wolkanca.com/black-mirror-6-sezon/)
 - [Microsoft Designer Edge’e entegre edildi](https://wolkanca.com/microsoft-designer-edgee-entegre-edildi/)
@@ -31,7 +32,6 @@
 - [Instagram profiline birden fazla link](https://wolkanca.com/instagram-profiline-birden-fazla-link/)
 - [Antipod haritası](https://wolkanca.com/antipod-haritasi/)
 - [WP Reset WordPress eklentisi](https://wolkanca.com/wp-reset-wordpress-eklentisi/)
-- [Google Takvim dark-mode](https://wolkanca.com/google-takvim-dark-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 
