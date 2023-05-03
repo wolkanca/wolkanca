@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Haber robotlarının  yükselişi](https://wolkanca.com/haber-robotlarinin-yukselisi/)
 - [WiFi şifresi öğrenme](https://wolkanca.com/wifi-sifresi-ogrenme/)
 - [WhatsApp transkript özelliği](https://wolkanca.com/whatsapp-transkript-ozelligi/)
 - [Black Mirror 6. sezon](https://wolkanca.com/black-mirror-6-sezon/)
@@ -31,7 +32,6 @@
 - [Bluesky Android’e geldi](https://wolkanca.com/bluesky-androide-geldi/)
 - [Instagram profiline birden fazla link](https://wolkanca.com/instagram-profiline-birden-fazla-link/)
 - [Antipod haritası](https://wolkanca.com/antipod-haritasi/)
-- [WP Reset WordPress eklentisi](https://wolkanca.com/wp-reset-wordpress-eklentisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
