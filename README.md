@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dune: Part 2 fragmanı](https://wolkanca.com/dune-part-2-fragmani/)
 - [Haber robotlarının  yükselişi](https://wolkanca.com/haber-robotlarinin-yukselisi/)
 - [WiFi şifresi öğrenme](https://wolkanca.com/wifi-sifresi-ogrenme/)
 - [WhatsApp transkript özelliği](https://wolkanca.com/whatsapp-transkript-ozelligi/)
@@ -31,7 +32,6 @@
 - [En iyi dinî filmler](https://wolkanca.com/en-iyi-dini-filmler/)
 - [Bluesky Android’e geldi](https://wolkanca.com/bluesky-androide-geldi/)
 - [Instagram profiline birden fazla link](https://wolkanca.com/instagram-profiline-birden-fazla-link/)
-- [Antipod haritası](https://wolkanca.com/antipod-haritasi/)
 <!-- BLOG-POST-LIST:END -->
 
 
