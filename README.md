@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Arcade yeni oyunlar](https://wolkanca.com/apple-arcade-yeni-oyunlar/)
 - [Dune: Part 2 fragmanı](https://wolkanca.com/dune-part-2-fragmani/)
 - [Haber robotlarının  yükselişi](https://wolkanca.com/haber-robotlarinin-yukselisi/)
 - [WiFi şifresi öğrenme](https://wolkanca.com/wifi-sifresi-ogrenme/)
@@ -31,7 +32,6 @@
 - [23 Nisan 2023](https://wolkanca.com/23-nisan-2023/)
 - [En iyi dinî filmler](https://wolkanca.com/en-iyi-dini-filmler/)
 - [Bluesky Android’e geldi](https://wolkanca.com/bluesky-androide-geldi/)
-- [Instagram profiline birden fazla link](https://wolkanca.com/instagram-profiline-birden-fazla-link/)
 <!-- BLOG-POST-LIST:END -->
 
 
