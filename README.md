@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Domains’de yeni alan adları](https://wolkanca.com/google-domainsde-yeni-alan-adlari/)
 - [Apple Arcade yeni oyunlar](https://wolkanca.com/apple-arcade-yeni-oyunlar/)
 - [Dune: Part 2 fragmanı](https://wolkanca.com/dune-part-2-fragmani/)
 - [Haber robotlarının  yükselişi](https://wolkanca.com/haber-robotlarinin-yukselisi/)
@@ -31,7 +32,6 @@
 - [En iyi Türk korku filmleri](https://wolkanca.com/en-iyi-turk-korku-filmleri/)
 - [23 Nisan 2023](https://wolkanca.com/23-nisan-2023/)
 - [En iyi dinî filmler](https://wolkanca.com/en-iyi-dini-filmler/)
-- [Bluesky Android’e geldi](https://wolkanca.com/bluesky-androide-geldi/)
 <!-- BLOG-POST-LIST:END -->
 
 
