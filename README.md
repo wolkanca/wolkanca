@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TRT’nin dijital platformu tabii.com](https://wolkanca.com/trtnin-dijital-platformu-tabii-com/)
 - [Gmail doğrulanmış e-posta adresleri](https://wolkanca.com/gmail-dogrulanmis-e-posta-adresleri/)
 - [Google Domains’de yeni alan adları](https://wolkanca.com/google-domainsde-yeni-alan-adlari/)
 - [Apple Arcade yeni oyunlar](https://wolkanca.com/apple-arcade-yeni-oyunlar/)
@@ -31,7 +32,6 @@
 - [Yeni “Opera One” tarayıcı](https://wolkanca.com/yeni-opera-one-tarayici/)
 - [Amazon Prime ücretine yüzde 400 zam!](https://wolkanca.com/amazon-prime-ucretine-yuzde-400-zam/)
 - [En iyi Türk korku filmleri](https://wolkanca.com/en-iyi-turk-korku-filmleri/)
-- [23 Nisan 2023](https://wolkanca.com/23-nisan-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
