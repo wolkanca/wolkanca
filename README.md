@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Geçmişin ilginç reklam dünyası](https://wolkanca.com/gecmisin-ilginc-reklam-dunyasi/)
 - [2023 korku filmleri](https://wolkanca.com/2023-korku-filmleri/)
 - [TRT’nin dijital platformu tabii.com](https://wolkanca.com/trtnin-dijital-platformu-tabii-com/)
 - [Gmail doğrulanmış e-posta adresleri](https://wolkanca.com/gmail-dogrulanmis-e-posta-adresleri/)
@@ -31,7 +32,6 @@
 - [En iyi kıyamet filmleri](https://wolkanca.com/en-iyi-kiyamet-filmleri/)
 - [İnternet Kampanyalarında Nelere Dikkat Edilmeli?](https://wolkanca.com/internet-kampanyalarinda-nelere-dikkat-edilmeli/)
 - [Yeni “Opera One” tarayıcı](https://wolkanca.com/yeni-opera-one-tarayici/)
-- [Amazon Prime ücretine yüzde 400 zam!](https://wolkanca.com/amazon-prime-ucretine-yuzde-400-zam/)
 <!-- BLOG-POST-LIST:END -->
 
 
