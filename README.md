@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Bard kullanıma açıldı](https://wolkanca.com/google-bard-kullanima-acildi/)
 - [Geçmişin ilginç reklam dünyası](https://wolkanca.com/gecmisin-ilginc-reklam-dunyasi/)
 - [2023 korku filmleri](https://wolkanca.com/2023-korku-filmleri/)
 - [TRT’nin dijital platformu tabii.com](https://wolkanca.com/trtnin-dijital-platformu-tabii-com/)
@@ -31,7 +32,6 @@
 - [Microsoft Designer Edge’e entegre edildi](https://wolkanca.com/microsoft-designer-edgee-entegre-edildi/)
 - [En iyi kıyamet filmleri](https://wolkanca.com/en-iyi-kiyamet-filmleri/)
 - [İnternet Kampanyalarında Nelere Dikkat Edilmeli?](https://wolkanca.com/internet-kampanyalarinda-nelere-dikkat-edilmeli/)
-- [Yeni “Opera One” tarayıcı](https://wolkanca.com/yeni-opera-one-tarayici/)
 <!-- BLOG-POST-LIST:END -->
 
 
