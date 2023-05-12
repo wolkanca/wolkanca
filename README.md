@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube 1080p Premium çözünürlük](https://wolkanca.com/youtube-1080p-premium-cozunurluk/)
 - [Google Bard kullanıma açıldı](https://wolkanca.com/google-bard-kullanima-acildi/)
 - [Geçmişin ilginç reklam dünyası](https://wolkanca.com/gecmisin-ilginc-reklam-dunyasi/)
 - [2023 korku filmleri](https://wolkanca.com/2023-korku-filmleri/)
@@ -31,7 +32,6 @@
 - [Black Mirror 6. sezon](https://wolkanca.com/black-mirror-6-sezon/)
 - [Microsoft Designer Edge’e entegre edildi](https://wolkanca.com/microsoft-designer-edgee-entegre-edildi/)
 - [En iyi kıyamet filmleri](https://wolkanca.com/en-iyi-kiyamet-filmleri/)
-- [İnternet Kampanyalarında Nelere Dikkat Edilmeli?](https://wolkanca.com/internet-kampanyalarinda-nelere-dikkat-edilmeli/)
 <!-- BLOG-POST-LIST:END -->
 
 
