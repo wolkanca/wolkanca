@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Black Mirror bölümleri belli oldu](https://wolkanca.com/black-mirror-bolumleri-belli-oldu/)
 - [Google Perspektifler](https://wolkanca.com/google-perspektifler/)
 - [YouTube 1080p Premium çözünürlük](https://wolkanca.com/youtube-1080p-premium-cozunurluk/)
 - [Google Bard kullanıma açıldı](https://wolkanca.com/google-bard-kullanima-acildi/)
@@ -31,7 +32,6 @@
 - [WiFi şifresi öğrenme](https://wolkanca.com/wifi-sifresi-ogrenme/)
 - [WhatsApp transkript özelliği](https://wolkanca.com/whatsapp-transkript-ozelligi/)
 - [Black Mirror 6. sezon](https://wolkanca.com/black-mirror-6-sezon/)
-- [Microsoft Designer Edge’e entegre edildi](https://wolkanca.com/microsoft-designer-edgee-entegre-edildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
