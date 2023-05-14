@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ücretsiz ChatGPT](https://wolkanca.com/ucretsiz-chatgpt/)
 - [Black Mirror bölümleri belli oldu](https://wolkanca.com/black-mirror-bolumleri-belli-oldu/)
 - [Google Perspektifler](https://wolkanca.com/google-perspektifler/)
 - [YouTube 1080p Premium çözünürlük](https://wolkanca.com/youtube-1080p-premium-cozunurluk/)
@@ -31,7 +32,6 @@
 - [Haber robotlarının  yükselişi](https://wolkanca.com/haber-robotlarinin-yukselisi/)
 - [WiFi şifresi öğrenme](https://wolkanca.com/wifi-sifresi-ogrenme/)
 - [WhatsApp transkript özelliği](https://wolkanca.com/whatsapp-transkript-ozelligi/)
-- [Black Mirror 6. sezon](https://wolkanca.com/black-mirror-6-sezon/)
 <!-- BLOG-POST-LIST:END -->
 
 
