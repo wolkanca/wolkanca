@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Platform devam filmi](https://wolkanca.com/the-platform-devam-filmi/)
 - [Ücretsiz ChatGPT](https://wolkanca.com/ucretsiz-chatgpt/)
 - [Black Mirror bölümleri belli oldu](https://wolkanca.com/black-mirror-bolumleri-belli-oldu/)
 - [Google Perspektifler](https://wolkanca.com/google-perspektifler/)
@@ -31,7 +32,6 @@
 - [Dune: Part 2 fragmanı](https://wolkanca.com/dune-part-2-fragmani/)
 - [Haber robotlarının  yükselişi](https://wolkanca.com/haber-robotlarinin-yukselisi/)
 - [WiFi şifresi öğrenme](https://wolkanca.com/wifi-sifresi-ogrenme/)
-- [WhatsApp transkript özelliği](https://wolkanca.com/whatsapp-transkript-ozelligi/)
 <!-- BLOG-POST-LIST:END -->
 
 
