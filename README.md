@@ -17,7 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WooCommerce: Öne çıkan ürünlere göre filtreleme](https://wolkanca.com/woocommerce-one-cikan-urunlere-gore-filtreleme/)
+- [WooCommerce: Öne çıkan ürünlere göre filtreleme](https://wolkanca.com/?p=3343)
 - [The Platform devam filmi](https://wolkanca.com/the-platform-devam-filmi/)
 - [Ücretsiz ChatGPT](https://wolkanca.com/ucretsiz-chatgpt/)
 - [Black Mirror bölümleri belli oldu](https://wolkanca.com/black-mirror-bolumleri-belli-oldu/)
