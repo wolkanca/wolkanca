@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WooCommerce: Öne çıkan ürünlere göre filtreleme](https://wolkanca.com/woocommerce-one-cikan-urunlere-gore-filtreleme/)
 - [The Platform devam filmi](https://wolkanca.com/the-platform-devam-filmi/)
 - [Ücretsiz ChatGPT](https://wolkanca.com/ucretsiz-chatgpt/)
 - [Black Mirror bölümleri belli oldu](https://wolkanca.com/black-mirror-bolumleri-belli-oldu/)
@@ -31,7 +32,6 @@
 - [Apple Arcade yeni oyunlar](https://wolkanca.com/apple-arcade-yeni-oyunlar/)
 - [Dune: Part 2 fragmanı](https://wolkanca.com/dune-part-2-fragmani/)
 - [Haber robotlarının  yükselişi](https://wolkanca.com/haber-robotlarinin-yukselisi/)
-- [WiFi şifresi öğrenme](https://wolkanca.com/wifi-sifresi-ogrenme/)
 <!-- BLOG-POST-LIST:END -->
 
 
