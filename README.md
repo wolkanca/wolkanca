@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pasif Google hesapları](https://wolkanca.com/pasif-google-hesaplari/)
 - [WooCommerce: Öne çıkan ürünlere göre filtreleme](https://wolkanca.com/woocommerce-one-cikan-urunlere-gore-filtreleme/)
 - [The Platform devam filmi](https://wolkanca.com/the-platform-devam-filmi/)
 - [Ücretsiz ChatGPT](https://wolkanca.com/ucretsiz-chatgpt/)
@@ -31,7 +32,6 @@
 - [Google Domains’de yeni alan adları](https://wolkanca.com/google-domainsde-yeni-alan-adlari/)
 - [Apple Arcade yeni oyunlar](https://wolkanca.com/apple-arcade-yeni-oyunlar/)
 - [Dune: Part 2 fragmanı](https://wolkanca.com/dune-part-2-fragmani/)
-- [Haber robotlarının  yükselişi](https://wolkanca.com/haber-robotlarinin-yukselisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
