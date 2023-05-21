@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress kategorilere görsel eklemek](https://wolkanca.com/wordpress-kategorilere-gorsel-eklemek/)
 - [WordPress tag count ve post count](https://wolkanca.com/wordpress-tag-count-ve-post-count/)
 - [ChatGPT resmi iOS uygulaması](https://wolkanca.com/chatgpt-resmi-ios-uygulamasi/)
 - [19 Mayıs reklam filmleri](https://wolkanca.com/19-mayis-reklam-filmleri/)
@@ -31,7 +32,6 @@
 - [Geçmişin ilginç reklam dünyası](https://wolkanca.com/gecmisin-ilginc-reklam-dunyasi/)
 - [2023 korku filmleri](https://wolkanca.com/2023-korku-filmleri/)
 - [TRT’nin dijital platformu tabii.com](https://wolkanca.com/trtnin-dijital-platformu-tabii-com/)
-- [Gmail doğrulanmış e-posta adresleri](https://wolkanca.com/gmail-dogrulanmis-e-posta-adresleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
