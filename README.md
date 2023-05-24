@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bill Gates’in yakın gelecek öngörüleri](https://wolkanca.com/bill-gatesin-yakin-gelecek-ongoruleri/)
 - [Instagram, Twitter’a rakip oluyor](https://wolkanca.com/instagram-twittera-rakip-oluyor/)
 - [WordPress kategorilere görsel eklemek](https://wolkanca.com/wordpress-kategorilere-gorsel-eklemek/)
 - [WordPress tag count ve post count](https://wolkanca.com/wordpress-tag-count-ve-post-count/)
@@ -31,7 +32,6 @@
 - [YouTube 1080p Premium çözünürlük](https://wolkanca.com/youtube-1080p-premium-cozunurluk/)
 - [Google Bard kullanıma açıldı](https://wolkanca.com/google-bard-kullanima-acildi/)
 - [Geçmişin ilginç reklam dünyası](https://wolkanca.com/gecmisin-ilginc-reklam-dunyasi/)
-- [2023 korku filmleri](https://wolkanca.com/2023-korku-filmleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
