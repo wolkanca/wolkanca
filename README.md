@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows “Acil Yeniden Başlatma”](https://wolkanca.com/windows-acil-yeniden-baslatma/)
 - [WhatsApp kullanıcı adları](https://wolkanca.com/whatsapp-kullanici-adlari/)
 - [Bill Gates’in yakın gelecek öngörüleri](https://wolkanca.com/bill-gatesin-yakin-gelecek-ongoruleri/)
 - [Instagram, Twitter’a rakip oluyor](https://wolkanca.com/instagram-twittera-rakip-oluyor/)
@@ -31,7 +32,6 @@
 - [Black Mirror bölümleri belli oldu](https://wolkanca.com/black-mirror-bolumleri-belli-oldu/)
 - [Google Perspektifler](https://wolkanca.com/google-perspektifler/)
 - [YouTube 1080p Premium çözünürlük](https://wolkanca.com/youtube-1080p-premium-cozunurluk/)
-- [Google Bard kullanıma açıldı](https://wolkanca.com/google-bard-kullanima-acildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
