@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp ekran paylaşımı](https://wolkanca.com/whatsapp-ekran-paylasimi/)
 - [Youtube Hikayeler kapanıyor](https://wolkanca.com/youtube-hikayeler-kapaniyor/)
 - [Windows “Acil Yeniden Başlatma”](https://wolkanca.com/windows-acil-yeniden-baslatma/)
 - [WhatsApp kullanıcı adları](https://wolkanca.com/whatsapp-kullanici-adlari/)
@@ -31,7 +32,6 @@
 - [The Platform devam filmi](https://wolkanca.com/the-platform-devam-filmi/)
 - [Ücretsiz ChatGPT](https://wolkanca.com/ucretsiz-chatgpt/)
 - [Black Mirror bölümleri belli oldu](https://wolkanca.com/black-mirror-bolumleri-belli-oldu/)
-- [Google Perspektifler](https://wolkanca.com/google-perspektifler/)
 <!-- BLOG-POST-LIST:END -->
 
 
