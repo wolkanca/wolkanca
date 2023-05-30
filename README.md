@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dünyanın en eski insan ayak izi bulundu](https://wolkanca.com/dunyanin-en-eski-insan-ayak-izi-bulundu/)
 - [Her WordPress sitesinde olması gereken eklentiler](https://wolkanca.com/her-wordpress-sitesinde-olmasi-gereken-eklentiler/)
 - [Bilgisayarda görünmez klasör oluşturmak](https://wolkanca.com/bilgisayarda-gorunmez-klasor-olusturmak/)
 - [WhatsApp ekran paylaşımı](https://wolkanca.com/whatsapp-ekran-paylasimi/)
@@ -31,7 +32,6 @@
 - [19 Mayıs reklam filmleri](https://wolkanca.com/19-mayis-reklam-filmleri/)
 - [Pasif Google hesapları](https://wolkanca.com/pasif-google-hesaplari/)
 - [WooCommerce: Öne çıkan ürünlere göre filtreleme](https://wolkanca.com/woocommerce-one-cikan-urunlere-gore-filtreleme/)
-- [The Platform devam filmi](https://wolkanca.com/the-platform-devam-filmi/)
 <!-- BLOG-POST-LIST:END -->
 
 
