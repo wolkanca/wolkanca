@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft PC Yöneticisi](https://wolkanca.com/microsoft-pc-yoneticisi/)
+- [NASA UFO görüntülerini paylaştı](https://wolkanca.com/nasa-ufo-goruntulerini-paylasti/)
 - [ChatGPT iOS uygulaması Türkiye’ye açıldı](https://wolkanca.com/chatgpt-ios-uygulamasi-turkiyeye-acildi/)
 - [Dünyanın en eski insan ayak izi bulundu](https://wolkanca.com/dunyanin-en-eski-insan-ayak-izi-bulundu/)
 - [Her WordPress sitesinde olması gereken eklentiler](https://wolkanca.com/her-wordpress-sitesinde-olmasi-gereken-eklentiler/)
@@ -30,8 +32,6 @@
 - [WordPress kategorilere görsel eklemek](https://wolkanca.com/wordpress-kategorilere-gorsel-eklemek/)
 - [WordPress tag count ve post count](https://wolkanca.com/wordpress-tag-count-ve-post-count/)
 - [ChatGPT resmi iOS uygulaması](https://wolkanca.com/chatgpt-resmi-ios-uygulamasi/)
-- [19 Mayıs reklam filmleri](https://wolkanca.com/19-mayis-reklam-filmleri/)
-- [Pasif Google hesapları](https://wolkanca.com/pasif-google-hesaplari/)
 <!-- BLOG-POST-LIST:END -->
 
 
