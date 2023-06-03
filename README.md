@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chrome 115 yenilikler](https://wolkanca.com/chrome-115-yenilikler/)
 - [Microsoft PC Yöneticisi](https://wolkanca.com/microsoft-pc-yoneticisi/)
 - [NASA UFO görüntülerini paylaştı](https://wolkanca.com/nasa-ufo-goruntulerini-paylasti/)
 - [ChatGPT iOS uygulaması Türkiye’ye açıldı](https://wolkanca.com/chatgpt-ios-uygulamasi-turkiyeye-acildi/)
@@ -31,7 +32,6 @@
 - [Instagram, Twitter’a rakip oluyor](https://wolkanca.com/instagram-twittera-rakip-oluyor/)
 - [WordPress kategorilere görsel eklemek](https://wolkanca.com/wordpress-kategorilere-gorsel-eklemek/)
 - [WordPress tag count ve post count](https://wolkanca.com/wordpress-tag-count-ve-post-count/)
-- [ChatGPT resmi iOS uygulaması](https://wolkanca.com/chatgpt-resmi-ios-uygulamasi/)
 <!-- BLOG-POST-LIST:END -->
 
 
