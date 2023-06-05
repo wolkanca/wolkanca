@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gmail’e yapay zeka desteği](https://wolkanca.com/gmaile-yapay-zeka-destegi/)
 - [Getir, n11’i satın aldı](https://wolkanca.com/getir-n11i-satin-aldi/)
 - [Chrome 115 yenilikler](https://wolkanca.com/chrome-115-yenilikler/)
 - [Microsoft PC Yöneticisi](https://wolkanca.com/microsoft-pc-yoneticisi/)
@@ -31,7 +32,6 @@
 - [WhatsApp kullanıcı adları](https://wolkanca.com/whatsapp-kullanici-adlari/)
 - [Bill Gates’in yakın gelecek öngörüleri](https://wolkanca.com/bill-gatesin-yakin-gelecek-ongoruleri/)
 - [Instagram, Twitter’a rakip oluyor](https://wolkanca.com/instagram-twittera-rakip-oluyor/)
-- [WordPress kategorilere görsel eklemek](https://wolkanca.com/wordpress-kategorilere-gorsel-eklemek/)
 <!-- BLOG-POST-LIST:END -->
 
 
