@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 Apple Tasarım Ödülleri](https://wolkanca.com/2023-apple-tasarim-odulleri/)
+- [Photoshop Generative Fill](https://wolkanca.com/photoshop-generative-fill/)
 - [WhatsApp mesaj düzenleme](https://wolkanca.com/whatsapp-mesaj-duzenleme/)
 - [Gmail’e yapay zeka desteği](https://wolkanca.com/gmaile-yapay-zeka-destegi/)
 - [Getir, n11’i satın aldı](https://wolkanca.com/getir-n11i-satin-aldi/)
@@ -30,8 +32,6 @@
 - [WhatsApp ekran paylaşımı](https://wolkanca.com/whatsapp-ekran-paylasimi/)
 - [Youtube Hikayeler kapanıyor](https://wolkanca.com/youtube-hikayeler-kapaniyor/)
 - [Windows “Acil Yeniden Başlatma”](https://wolkanca.com/windows-acil-yeniden-baslatma/)
-- [WhatsApp kullanıcı adları](https://wolkanca.com/whatsapp-kullanici-adlari/)
-- [Bill Gates’in yakın gelecek öngörüleri](https://wolkanca.com/bill-gatesin-yakin-gelecek-ongoruleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
