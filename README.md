@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yayında olan en iyi Türk filmleri](https://wolkanca.com/yayinda-olan-en-iyi-turk-filmleri/)
 - [Transformers: Canavarların Yükselişi](https://wolkanca.com/transformers-canavarlarin-yukselisi/)
 - [2023 Apple Tasarım Ödülleri](https://wolkanca.com/2023-apple-tasarim-odulleri/)
 - [Photoshop Generative Fill](https://wolkanca.com/photoshop-generative-fill/)
@@ -31,7 +32,6 @@
 - [Her WordPress sitesinde olması gereken eklentiler](https://wolkanca.com/her-wordpress-sitesinde-olmasi-gereken-eklentiler/)
 - [Bilgisayarda görünmez klasör oluşturmak](https://wolkanca.com/bilgisayarda-gorunmez-klasor-olusturmak/)
 - [WhatsApp ekran paylaşımı](https://wolkanca.com/whatsapp-ekran-paylasimi/)
-- [Youtube Hikayeler kapanıyor](https://wolkanca.com/youtube-hikayeler-kapaniyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
