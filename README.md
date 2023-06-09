@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Transformers: Canavarların Yükselişi](https://wolkanca.com/transformers-canavarlarin-yukselisi/)
 - [2023 Apple Tasarım Ödülleri](https://wolkanca.com/2023-apple-tasarim-odulleri/)
 - [Photoshop Generative Fill](https://wolkanca.com/photoshop-generative-fill/)
 - [WhatsApp mesaj düzenleme](https://wolkanca.com/whatsapp-mesaj-duzenleme/)
@@ -31,7 +32,6 @@
 - [Bilgisayarda görünmez klasör oluşturmak](https://wolkanca.com/bilgisayarda-gorunmez-klasor-olusturmak/)
 - [WhatsApp ekran paylaşımı](https://wolkanca.com/whatsapp-ekran-paylasimi/)
 - [Youtube Hikayeler kapanıyor](https://wolkanca.com/youtube-hikayeler-kapaniyor/)
-- [Windows “Acil Yeniden Başlatma”](https://wolkanca.com/windows-acil-yeniden-baslatma/)
 <!-- BLOG-POST-LIST:END -->
 
 
