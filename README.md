@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Otomobil markalarını nasıl algılamış](https://wolkanca.com/ai-otomobil-markalarini-nasil-algilamis/)
 - [Yayında olan en iyi Türk filmleri](https://wolkanca.com/yayinda-olan-en-iyi-turk-filmleri/)
 - [Transformers: Canavarların Yükselişi](https://wolkanca.com/transformers-canavarlarin-yukselisi/)
 - [2023 Apple Tasarım Ödülleri](https://wolkanca.com/2023-apple-tasarim-odulleri/)
@@ -31,7 +32,6 @@
 - [Dünyanın en eski insan ayak izi bulundu](https://wolkanca.com/dunyanin-en-eski-insan-ayak-izi-bulundu/)
 - [Her WordPress sitesinde olması gereken eklentiler](https://wolkanca.com/her-wordpress-sitesinde-olmasi-gereken-eklentiler/)
 - [Bilgisayarda görünmez klasör oluşturmak](https://wolkanca.com/bilgisayarda-gorunmez-klasor-olusturmak/)
-- [WhatsApp ekran paylaşımı](https://wolkanca.com/whatsapp-ekran-paylasimi/)
 <!-- BLOG-POST-LIST:END -->
 
 
