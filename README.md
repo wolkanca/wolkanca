@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 haziran 2023 Reddit protestoları](https://wolkanca.com/12-haziran-2023-reddit-protestolari/)
 - [Windows 11 yeni Dosya Gezgini ve RGB kontrolü](https://wolkanca.com/windows-11-yeni-dosya-gezgini-ve-rgb-kontrolu/)
 - [The Space Solar Power Project](https://wolkanca.com/the-space-solar-power-project/)
 - [AI Otomobil markalarını nasıl algılamış](https://wolkanca.com/ai-otomobil-markalarini-nasil-algilamis/)
@@ -31,7 +32,6 @@
 - [Microsoft PC Yöneticisi](https://wolkanca.com/microsoft-pc-yoneticisi/)
 - [NASA UFO görüntülerini paylaştı](https://wolkanca.com/nasa-ufo-goruntulerini-paylasti/)
 - [ChatGPT iOS uygulaması Türkiye’ye açıldı](https://wolkanca.com/chatgpt-ios-uygulamasi-turkiyeye-acildi/)
-- [Dünyanın en eski insan ayak izi bulundu](https://wolkanca.com/dunyanin-en-eski-insan-ayak-izi-bulundu/)
 <!-- BLOG-POST-LIST:END -->
 
 
