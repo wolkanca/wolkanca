@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AB Yapay zeka yasası](https://wolkanca.com/ab-yapay-zeka-yasasi/)
 - [12 haziran 2023 Reddit protestoları](https://wolkanca.com/12-haziran-2023-reddit-protestolari/)
 - [Windows 11 yeni Dosya Gezgini ve RGB kontrolü](https://wolkanca.com/windows-11-yeni-dosya-gezgini-ve-rgb-kontrolu/)
 - [The Space Solar Power Project](https://wolkanca.com/the-space-solar-power-project/)
@@ -31,7 +32,6 @@
 - [Chrome 115 yenilikler](https://wolkanca.com/chrome-115-yenilikler/)
 - [Microsoft PC Yöneticisi](https://wolkanca.com/microsoft-pc-yoneticisi/)
 - [NASA UFO görüntülerini paylaştı](https://wolkanca.com/nasa-ufo-goruntulerini-paylasti/)
-- [ChatGPT iOS uygulaması Türkiye’ye açıldı](https://wolkanca.com/chatgpt-ios-uygulamasi-turkiyeye-acildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
