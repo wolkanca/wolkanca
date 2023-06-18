@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Domains kapanıyor](https://wolkanca.com/google-domains-kapaniyor/)
 - [Filmden oyuna](https://wolkanca.com/filmden-oyuna/)
 - [Yeni Forza Motorsport görüntüleri](https://wolkanca.com/yeni-forza-motorsport-goruntuleri/)
 - [AB Yapay zeka yasası](https://wolkanca.com/ab-yapay-zeka-yasasi/)
@@ -31,7 +32,6 @@
 - [WhatsApp mesaj düzenleme](https://wolkanca.com/whatsapp-mesaj-duzenleme/)
 - [Gmail’e yapay zeka desteği](https://wolkanca.com/gmaile-yapay-zeka-destegi/)
 - [Getir, n11’i satın aldı](https://wolkanca.com/getir-n11i-satin-aldi/)
-- [Chrome 115 yenilikler](https://wolkanca.com/chrome-115-yenilikler/)
 <!-- BLOG-POST-LIST:END -->
 
 
