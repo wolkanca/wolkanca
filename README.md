@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yapay Zeka Aramalarındaki Hızlı Artış: Türkiye’de Öne Çıkanlar](https://wolkanca.com/yapay-zeka-aramalarindaki-hizli-artis-turkiyede-one-cikanlar/)
 - [Microsoft Teams Windows 11’den kaldırılıyor](https://wolkanca.com/microsoft-teams-windows-11den-kaldiriliyor/)
 - [Google Domains kapanıyor](https://wolkanca.com/google-domains-kapaniyor/)
 - [Filmden oyuna](https://wolkanca.com/filmden-oyuna/)
@@ -31,7 +32,6 @@
 - [2023 Apple Tasarım Ödülleri](https://wolkanca.com/2023-apple-tasarim-odulleri/)
 - [Photoshop Generative Fill](https://wolkanca.com/photoshop-generative-fill/)
 - [WhatsApp mesaj düzenleme](https://wolkanca.com/whatsapp-mesaj-duzenleme/)
-- [Gmail’e yapay zeka desteği](https://wolkanca.com/gmaile-yapay-zeka-destegi/)
 <!-- BLOG-POST-LIST:END -->
 
 
