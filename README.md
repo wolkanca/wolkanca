@@ -17,7 +17,6 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VotTak uygulaması](https://wolkanca.com/vottak-uygulamasi/)
 - [Yapay zekâ ile Windows etkinleştirme kodu](https://wolkanca.com/yapay-zeka-ile-windows-etkinlestirme-kodu/)
 - [Yapay Zeka Aramalarındaki Hızlı Artış: Türkiye’de Öne Çıkanlar](https://wolkanca.com/yapay-zeka-aramalarindaki-hizli-artis-turkiyede-one-cikanlar/)
 - [Microsoft Teams Windows 11’den kaldırılıyor](https://wolkanca.com/microsoft-teams-windows-11den-kaldiriliyor/)
@@ -32,6 +31,7 @@
 - [Yayında olan en iyi Türk filmleri](https://wolkanca.com/yayinda-olan-en-iyi-turk-filmleri/)
 - [Transformers: Canavarların Yükselişi](https://wolkanca.com/transformers-canavarlarin-yukselisi/)
 - [2023 Apple Tasarım Ödülleri](https://wolkanca.com/2023-apple-tasarim-odulleri/)
+- [Photoshop Generative Fill](https://wolkanca.com/photoshop-generative-fill/)
 <!-- BLOG-POST-LIST:END -->
 
 
