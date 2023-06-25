@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube için yapay zeka destekli dublaj özelliği](https://wolkanca.com/youtube-icin-yapay-zeka-destekli-dublaj-ozelligi/)
 - [Dropbox Dash](https://wolkanca.com/dropbox-dash/)
 - [Jetpack Photon devre dışı bırakmak](https://wolkanca.com/jetpack-photon-devre-disi-birakmak/)
 - [VotTak uygulaması](https://wolkanca.com/vottak-uygulamasi/)
@@ -31,7 +32,6 @@
 - [12 haziran 2023 Reddit protestoları](https://wolkanca.com/12-haziran-2023-reddit-protestolari/)
 - [Windows 11 yeni Dosya Gezgini ve RGB kontrolü](https://wolkanca.com/windows-11-yeni-dosya-gezgini-ve-rgb-kontrolu/)
 - [The Space Solar Power Project](https://wolkanca.com/the-space-solar-power-project/)
-- [AI Otomobil markalarını nasıl algılamış](https://wolkanca.com/ai-otomobil-markalarini-nasil-algilamis/)
 <!-- BLOG-POST-LIST:END -->
 
 
