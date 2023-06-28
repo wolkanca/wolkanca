@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yapay zeka ses klonlama aracı](https://wolkanca.com/yapay-zeka-ses-klonlama-araci/)
 - [FlexClip, yapay zekalı online video üretimi](https://wolkanca.com/flexclip-yapay-zekali-online-video-uretimi/)
 - [En iyi Süpermen filmleri](https://wolkanca.com/en-iyi-supermen-filmleri/)
 - [YouTube için yapay zeka destekli dublaj özelliği](https://wolkanca.com/youtube-icin-yapay-zeka-destekli-dublaj-ozelligi/)
@@ -31,7 +32,6 @@
 - [Filmden oyuna](https://wolkanca.com/filmden-oyuna/)
 - [Yeni Forza Motorsport görüntüleri](https://wolkanca.com/yeni-forza-motorsport-goruntuleri/)
 - [AB Yapay zeka yasası](https://wolkanca.com/ab-yapay-zeka-yasasi/)
-- [12 haziran 2023 Reddit protestoları](https://wolkanca.com/12-haziran-2023-reddit-protestolari/)
 <!-- BLOG-POST-LIST:END -->
 
 
