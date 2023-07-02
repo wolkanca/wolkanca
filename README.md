@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Komut isteminde Star Wars nasıl izlenir](https://wolkanca.com/komut-isteminde-star-wars-nasil-izlenir/)
 - [Apple dizinin ilk bölümünü Twitter’da yayınladı](https://wolkanca.com/apple-dizinin-ilk-bolumunu-twitterda-yayinladi/)
 - [Yapay zeka ses klonlama aracı](https://wolkanca.com/yapay-zeka-ses-klonlama-araci/)
 - [FlexClip, yapay zekalı online video üretimi](https://wolkanca.com/flexclip-yapay-zekali-online-video-uretimi/)
@@ -31,7 +32,6 @@
 - [Microsoft Teams Windows 11’den kaldırılıyor](https://wolkanca.com/microsoft-teams-windows-11den-kaldiriliyor/)
 - [Google Domains kapanıyor](https://wolkanca.com/google-domains-kapaniyor/)
 - [Filmden oyuna](https://wolkanca.com/filmden-oyuna/)
-- [Yeni Forza Motorsport görüntüleri](https://wolkanca.com/yeni-forza-motorsport-goruntuleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
