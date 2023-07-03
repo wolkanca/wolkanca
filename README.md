@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress çıkışta temizle](https://wolkanca.com/wordpress-cikista-temizle/)
 - [10 çığır açan teknoloji 2023](https://wolkanca.com/10-cigir-acan-teknoloji-2023/)
 - [Komut isteminde Star Wars nasıl izlenir](https://wolkanca.com/komut-isteminde-star-wars-nasil-izlenir/)
 - [Apple dizinin ilk bölümünü Twitter’da yayınladı](https://wolkanca.com/apple-dizinin-ilk-bolumunu-twitterda-yayinladi/)
@@ -31,7 +32,6 @@
 - [Yapay zekâ ile Windows etkinleştirme kodu](https://wolkanca.com/yapay-zeka-ile-windows-etkinlestirme-kodu/)
 - [Yapay Zeka Aramalarındaki Hızlı Artış: Türkiye’de Öne Çıkanlar](https://wolkanca.com/yapay-zeka-aramalarindaki-hizli-artis-turkiyede-one-cikanlar/)
 - [Microsoft Teams Windows 11’den kaldırılıyor](https://wolkanca.com/microsoft-teams-windows-11den-kaldiriliyor/)
-- [Google Domains kapanıyor](https://wolkanca.com/google-domains-kapaniyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
