@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevTools Tips](https://wolkanca.com/devtools-tips/)
 - [Threads açıldı](https://wolkanca.com/threads-acildi/)
 - [iPhone 15 serisi batarya kapasiteleri](https://wolkanca.com/iphone-15-serisi-batarya-kapasiteleri/)
 - [Reuters Institute Digital News Report 2023](https://wolkanca.com/reuters-institute-digital-news-report-2023/)
@@ -31,7 +32,6 @@
 - [Dropbox Dash](https://wolkanca.com/dropbox-dash/)
 - [Jetpack Photon devre dışı bırakmak](https://wolkanca.com/jetpack-photon-devre-disi-birakmak/)
 - [VotTak uygulaması](https://wolkanca.com/vottak-uygulamasi/)
-- [iOS için Google Chrome’a gelen yenilikler](https://wolkanca.com/ios-icin-google-chromea-gelen-yenilikler/)
 <!-- BLOG-POST-LIST:END -->
 
 
