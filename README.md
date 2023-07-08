@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bekarlık vergisi](https://wolkanca.com/bekarlik-vergisi/)
 - [DevTools Tips](https://wolkanca.com/devtools-tips/)
 - [Threads açıldı](https://wolkanca.com/threads-acildi/)
 - [iPhone 15 serisi batarya kapasiteleri](https://wolkanca.com/iphone-15-serisi-batarya-kapasiteleri/)
@@ -31,7 +32,6 @@
 - [YouTube için yapay zeka destekli dublaj özelliği](https://wolkanca.com/youtube-icin-yapay-zeka-destekli-dublaj-ozelligi/)
 - [Dropbox Dash](https://wolkanca.com/dropbox-dash/)
 - [Jetpack Photon devre dışı bırakmak](https://wolkanca.com/jetpack-photon-devre-disi-birakmak/)
-- [VotTak uygulaması](https://wolkanca.com/vottak-uygulamasi/)
 <!-- BLOG-POST-LIST:END -->
 
 
