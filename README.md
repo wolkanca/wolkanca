@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Buharlı motosiklet](https://wolkanca.com/buharli-motosiklet/)
 - [Bekarlık vergisi](https://wolkanca.com/bekarlik-vergisi/)
 - [DevTools Tips](https://wolkanca.com/devtools-tips/)
 - [Threads açıldı](https://wolkanca.com/threads-acildi/)
@@ -31,7 +32,6 @@
 - [En iyi Süpermen filmleri](https://wolkanca.com/en-iyi-supermen-filmleri/)
 - [YouTube için yapay zeka destekli dublaj özelliği](https://wolkanca.com/youtube-icin-yapay-zeka-destekli-dublaj-ozelligi/)
 - [Dropbox Dash](https://wolkanca.com/dropbox-dash/)
-- [Jetpack Photon devre dışı bırakmak](https://wolkanca.com/jetpack-photon-devre-disi-birakmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
