@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UA ile GA4 arasındaki temel farklar](https://wolkanca.com/ua-ile-ga4-arasindaki-temel-farklar/)
 - [Buharlı motosiklet](https://wolkanca.com/buharli-motosiklet/)
 - [Bekarlık vergisi](https://wolkanca.com/bekarlik-vergisi/)
 - [DevTools Tips](https://wolkanca.com/devtools-tips/)
@@ -31,7 +32,6 @@
 - [FlexClip, yapay zekalı online video üretimi](https://wolkanca.com/flexclip-yapay-zekali-online-video-uretimi/)
 - [En iyi Süpermen filmleri](https://wolkanca.com/en-iyi-supermen-filmleri/)
 - [YouTube için yapay zeka destekli dublaj özelliği](https://wolkanca.com/youtube-icin-yapay-zeka-destekli-dublaj-ozelligi/)
-- [Dropbox Dash](https://wolkanca.com/dropbox-dash/)
 <!-- BLOG-POST-LIST:END -->
 
 
