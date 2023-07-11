@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT’nin trafiği ilk kez düştü!](https://wolkanca.com/chatgptnin-trafigi-ilk-kez-dustu/)
 - [UA ile GA4 arasındaki temel farklar](https://wolkanca.com/ua-ile-ga4-arasindaki-temel-farklar/)
 - [Buharlı motosiklet](https://wolkanca.com/buharli-motosiklet/)
 - [Bekarlık vergisi](https://wolkanca.com/bekarlik-vergisi/)
@@ -31,7 +32,6 @@
 - [Yapay zeka ses klonlama aracı](https://wolkanca.com/yapay-zeka-ses-klonlama-araci/)
 - [FlexClip, yapay zekalı online video üretimi](https://wolkanca.com/flexclip-yapay-zekali-online-video-uretimi/)
 - [En iyi Süpermen filmleri](https://wolkanca.com/en-iyi-supermen-filmleri/)
-- [YouTube için yapay zeka destekli dublaj özelliği](https://wolkanca.com/youtube-icin-yapay-zeka-destekli-dublaj-ozelligi/)
 <!-- BLOG-POST-LIST:END -->
 
 
