@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Bard Türkçe oldu](https://wolkanca.com/google-bard-turkce-oldu/)
 - [Ahsoka 23 Ağustos’ta](https://wolkanca.com/ahsoka-23-agustosta/)
 - [ChatGPT’nin trafiği ilk kez düştü!](https://wolkanca.com/chatgptnin-trafigi-ilk-kez-dustu/)
 - [UA ile GA4 arasındaki temel farklar](https://wolkanca.com/ua-ile-ga4-arasindaki-temel-farklar/)
@@ -31,7 +32,6 @@
 - [Komut isteminde Star Wars nasıl izlenir](https://wolkanca.com/komut-isteminde-star-wars-nasil-izlenir/)
 - [Apple dizinin ilk bölümünü Twitter’da yayınladı](https://wolkanca.com/apple-dizinin-ilk-bolumunu-twitterda-yayinladi/)
 - [Yapay zeka ses klonlama aracı](https://wolkanca.com/yapay-zeka-ses-klonlama-araci/)
-- [FlexClip, yapay zekalı online video üretimi](https://wolkanca.com/flexclip-yapay-zekali-online-video-uretimi/)
 <!-- BLOG-POST-LIST:END -->
 
 
