@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2023/2024 yeni emojiler](https://wolkanca.com/2023-2024-yeni-emojiler/)
 - [Google Bard Türkçe oldu](https://wolkanca.com/google-bard-turkce-oldu/)
 - [Ahsoka 23 Ağustos’ta](https://wolkanca.com/ahsoka-23-agustosta/)
 - [ChatGPT’nin trafiği ilk kez düştü!](https://wolkanca.com/chatgptnin-trafigi-ilk-kez-dustu/)
@@ -31,7 +32,6 @@
 - [10 çığır açan teknoloji 2023](https://wolkanca.com/10-cigir-acan-teknoloji-2023/)
 - [Komut isteminde Star Wars nasıl izlenir](https://wolkanca.com/komut-isteminde-star-wars-nasil-izlenir/)
 - [Apple dizinin ilk bölümünü Twitter’da yayınladı](https://wolkanca.com/apple-dizinin-ilk-bolumunu-twitterda-yayinladi/)
-- [Yapay zeka ses klonlama aracı](https://wolkanca.com/yapay-zeka-ses-klonlama-araci/)
 <!-- BLOG-POST-LIST:END -->
 
 
