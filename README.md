@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter DM ayarları değiştirildi, kontrol edin](https://wolkanca.com/twitter-dm-ayarlari-degistirildi-kontrol-edin/)
 - [Windows 11’de formata gerek kalmayacak](https://wolkanca.com/windows-11de-formata-gerek-kalmayacak/)
 - [2023/2024 yeni emojiler](https://wolkanca.com/2023-2024-yeni-emojiler/)
 - [Google Bard Türkçe oldu](https://wolkanca.com/google-bard-turkce-oldu/)
@@ -31,7 +32,6 @@
 - [Reuters Institute Digital News Report 2023](https://wolkanca.com/reuters-institute-digital-news-report-2023/)
 - [WordPress çıkışta temizle](https://wolkanca.com/wordpress-cikista-temizle/)
 - [10 çığır açan teknoloji 2023](https://wolkanca.com/10-cigir-acan-teknoloji-2023/)
-- [Komut isteminde Star Wars nasıl izlenir](https://wolkanca.com/komut-isteminde-star-wars-nasil-izlenir/)
 <!-- BLOG-POST-LIST:END -->
 
 
