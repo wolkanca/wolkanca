@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ölümlü Dünya 2](https://wolkanca.com/olumlu-dunya-2/)
 - [Bilinmeyen numaralarla Whatsapp’dan görüşmek](https://wolkanca.com/bilinmeyen-numaralarla-whatsappdan-gorusmek/)
 - [301 yönlendirmelerini sık değiştirmeyin](https://wolkanca.com/301-yonlendirmelerini-sik-degistirmeyin/)
 - [Dünyada en çok kullanılan emojiler](https://wolkanca.com/dunyada-en-cok-kullanilan-emojiler/)
@@ -31,7 +32,6 @@
 - [Bekarlık vergisi](https://wolkanca.com/bekarlik-vergisi/)
 - [DevTools Tips](https://wolkanca.com/devtools-tips/)
 - [Threads açıldı](https://wolkanca.com/threads-acildi/)
-- [iPhone 15 serisi batarya kapasiteleri](https://wolkanca.com/iphone-15-serisi-batarya-kapasiteleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
