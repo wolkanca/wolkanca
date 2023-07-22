@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Edge EPUB dosyalarını açabiliyor](https://wolkanca.com/edge-epub-dosyalarini-acabiliyor/)
+- [Twitter Hiring iş arama özelliği](https://wolkanca.com/twitter-hiring-is-arama-ozelligi/)
 - [Ölümlü Dünya 2](https://wolkanca.com/olumlu-dunya-2/)
 - [Bilinmeyen numaralarla Whatsapp’dan görüşmek](https://wolkanca.com/bilinmeyen-numaralarla-whatsappdan-gorusmek/)
 - [301 yönlendirmelerini sık değiştirmeyin](https://wolkanca.com/301-yonlendirmelerini-sik-degistirmeyin/)
@@ -30,8 +32,6 @@
 - [UA ile GA4 arasındaki temel farklar](https://wolkanca.com/ua-ile-ga4-arasindaki-temel-farklar/)
 - [Buharlı motosiklet](https://wolkanca.com/buharli-motosiklet/)
 - [Bekarlık vergisi](https://wolkanca.com/bekarlik-vergisi/)
-- [DevTools Tips](https://wolkanca.com/devtools-tips/)
-- [Threads açıldı](https://wolkanca.com/threads-acildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
