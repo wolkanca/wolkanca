@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11’de Dosya Gezgini yeniden başlatma](https://wolkanca.com/windows-11de-dosya-gezgini-yeniden-baslatma/)
 - [Edge EPUB dosyalarını açabiliyor](https://wolkanca.com/edge-epub-dosyalarini-acabiliyor/)
 - [Twitter Hiring iş arama özelliği](https://wolkanca.com/twitter-hiring-is-arama-ozelligi/)
 - [Ölümlü Dünya 2](https://wolkanca.com/olumlu-dunya-2/)
@@ -31,7 +32,6 @@
 - [ChatGPT’nin trafiği ilk kez düştü!](https://wolkanca.com/chatgptnin-trafigi-ilk-kez-dustu/)
 - [UA ile GA4 arasındaki temel farklar](https://wolkanca.com/ua-ile-ga4-arasindaki-temel-farklar/)
 - [Buharlı motosiklet](https://wolkanca.com/buharli-motosiklet/)
-- [Bekarlık vergisi](https://wolkanca.com/bekarlik-vergisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
