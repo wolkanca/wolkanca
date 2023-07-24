@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter, X olarak yeniden adlandırıldı](https://wolkanca.com/twitter-x-olarak-yeniden-adlandirildi/)
 - [Windows 11’de Dosya Gezgini yeniden başlatma](https://wolkanca.com/windows-11de-dosya-gezgini-yeniden-baslatma/)
 - [Edge EPUB dosyalarını açabiliyor](https://wolkanca.com/edge-epub-dosyalarini-acabiliyor/)
 - [Twitter Hiring iş arama özelliği](https://wolkanca.com/twitter-hiring-is-arama-ozelligi/)
@@ -31,7 +32,6 @@
 - [Ahsoka 23 Ağustos’ta](https://wolkanca.com/ahsoka-23-agustosta/)
 - [ChatGPT’nin trafiği ilk kez düştü!](https://wolkanca.com/chatgptnin-trafigi-ilk-kez-dustu/)
 - [UA ile GA4 arasındaki temel farklar](https://wolkanca.com/ua-ile-ga4-arasindaki-temel-farklar/)
-- [Buharlı motosiklet](https://wolkanca.com/buharli-motosiklet/)
 <!-- BLOG-POST-LIST:END -->
 
 
