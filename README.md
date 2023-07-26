@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TikTok metin yayınlama başlıyor](https://wolkanca.com/tiktok-metin-yayinlama-basliyor/)
+- [Control Panel for Twitter uzantısı](https://wolkanca.com/control-panel-for-twitter-uzantisi/)
 - [Evliya Çelebi’nin Seyahatnâme Google haritalarda](https://wolkanca.com/evliya-celebinin-seyahatname-google-haritalarda/)
 - [Twitter, X olarak yeniden adlandırıldı](https://wolkanca.com/twitter-x-olarak-yeniden-adlandirildi/)
 - [Windows 11’de Dosya Gezgini yeniden başlatma](https://wolkanca.com/windows-11de-dosya-gezgini-yeniden-baslatma/)
@@ -30,8 +32,6 @@
 - [Windows 11’de formata gerek kalmayacak](https://wolkanca.com/windows-11de-formata-gerek-kalmayacak/)
 - [2023/2024 yeni emojiler](https://wolkanca.com/2023-2024-yeni-emojiler/)
 - [Google Bard Türkçe oldu](https://wolkanca.com/google-bard-turkce-oldu/)
-- [Ahsoka 23 Ağustos’ta](https://wolkanca.com/ahsoka-23-agustosta/)
-- [ChatGPT’nin trafiği ilk kez düştü!](https://wolkanca.com/chatgptnin-trafigi-ilk-kez-dustu/)
 <!-- BLOG-POST-LIST:END -->
 
 
