@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JS ile görsellere alt etiketi eklemek](https://wolkanca.com/js-ile-gorsellere-alt-etiketi-eklemek/)
 - [TikTok metin yayınlama başlıyor](https://wolkanca.com/tiktok-metin-yayinlama-basliyor/)
 - [Control Panel for Twitter uzantısı](https://wolkanca.com/control-panel-for-twitter-uzantisi/)
 - [Evliya Çelebi’nin Seyahatnâme Google haritalarda](https://wolkanca.com/evliya-celebinin-seyahatname-google-haritalarda/)
@@ -31,7 +32,6 @@
 - [Twitter DM ayarları değiştirildi, kontrol edin](https://wolkanca.com/twitter-dm-ayarlari-degistirildi-kontrol-edin/)
 - [Windows 11’de formata gerek kalmayacak](https://wolkanca.com/windows-11de-formata-gerek-kalmayacak/)
 - [2023/2024 yeni emojiler](https://wolkanca.com/2023-2024-yeni-emojiler/)
-- [Google Bard Türkçe oldu](https://wolkanca.com/google-bard-turkce-oldu/)
 <!-- BLOG-POST-LIST:END -->
 
 
