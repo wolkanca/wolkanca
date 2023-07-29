@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Youtube video ID almak JS](https://wolkanca.com/youtube-video-id-almak-js/)
 - [JS ile görsellere alt etiketi eklemek](https://wolkanca.com/js-ile-gorsellere-alt-etiketi-eklemek/)
 - [TikTok metin yayınlama başlıyor](https://wolkanca.com/tiktok-metin-yayinlama-basliyor/)
 - [Control Panel for Twitter uzantısı](https://wolkanca.com/control-panel-for-twitter-uzantisi/)
@@ -31,7 +32,6 @@
 - [Dünyada en çok kullanılan emojiler](https://wolkanca.com/dunyada-en-cok-kullanilan-emojiler/)
 - [Twitter DM ayarları değiştirildi, kontrol edin](https://wolkanca.com/twitter-dm-ayarlari-degistirildi-kontrol-edin/)
 - [Windows 11’de formata gerek kalmayacak](https://wolkanca.com/windows-11de-formata-gerek-kalmayacak/)
-- [2023/2024 yeni emojiler](https://wolkanca.com/2023-2024-yeni-emojiler/)
 <!-- BLOG-POST-LIST:END -->
 
 
