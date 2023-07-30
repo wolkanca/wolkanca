@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Voyager 2 ile iletişim kesildi](https://wolkanca.com/voyager-2-ile-iletisim-kesildi/)
+- [TikTok online pazar yerini açıyor](https://wolkanca.com/tiktok-online-pazar-yerini-aciyor/)
 - [Youtube video ID almak JS](https://wolkanca.com/youtube-video-id-almak-js/)
 - [JS ile görsellere alt etiketi eklemek](https://wolkanca.com/js-ile-gorsellere-alt-etiketi-eklemek/)
 - [TikTok metin yayınlama başlıyor](https://wolkanca.com/tiktok-metin-yayinlama-basliyor/)
@@ -30,8 +32,6 @@
 - [Bilinmeyen numaralarla Whatsapp’dan görüşmek](https://wolkanca.com/bilinmeyen-numaralarla-whatsappdan-gorusmek/)
 - [301 yönlendirmelerini sık değiştirmeyin](https://wolkanca.com/301-yonlendirmelerini-sik-degistirmeyin/)
 - [Dünyada en çok kullanılan emojiler](https://wolkanca.com/dunyada-en-cok-kullanilan-emojiler/)
-- [Twitter DM ayarları değiştirildi, kontrol edin](https://wolkanca.com/twitter-dm-ayarlari-degistirildi-kontrol-edin/)
-- [Windows 11’de formata gerek kalmayacak](https://wolkanca.com/windows-11de-formata-gerek-kalmayacak/)
 <!-- BLOG-POST-LIST:END -->
 
 
