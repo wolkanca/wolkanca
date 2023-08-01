@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Disney+ Atatürk dizisi](https://wolkanca.com/disney-ataturk-dizisi/)
 - [Loki 2. sezon](https://wolkanca.com/loki-2-sezon/)
 - [Voyager 2 ile iletişim kesildi](https://wolkanca.com/voyager-2-ile-iletisim-kesildi/)
 - [TikTok online pazar yerini açıyor](https://wolkanca.com/tiktok-online-pazar-yerini-aciyor/)
@@ -31,7 +32,6 @@
 - [Twitter Hiring iş arama özelliği](https://wolkanca.com/twitter-hiring-is-arama-ozelligi/)
 - [Ölümlü Dünya 2](https://wolkanca.com/olumlu-dunya-2/)
 - [Bilinmeyen numaralarla Whatsapp’dan görüşmek](https://wolkanca.com/bilinmeyen-numaralarla-whatsappdan-gorusmek/)
-- [301 yönlendirmelerini sık değiştirmeyin](https://wolkanca.com/301-yonlendirmelerini-sik-degistirmeyin/)
 <!-- BLOG-POST-LIST:END -->
 
 
