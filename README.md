@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Domains’den WordPress.com’a transfer](https://wolkanca.com/google-domainsden-wordpress-coma-transfer/)
 - [Disney+ Atatürk dizisi](https://wolkanca.com/disney-ataturk-dizisi/)
 - [Loki 2. sezon](https://wolkanca.com/loki-2-sezon/)
 - [Voyager 2 ile iletişim kesildi](https://wolkanca.com/voyager-2-ile-iletisim-kesildi/)
@@ -31,7 +32,6 @@
 - [Edge EPUB dosyalarını açabiliyor](https://wolkanca.com/edge-epub-dosyalarini-acabiliyor/)
 - [Twitter Hiring iş arama özelliği](https://wolkanca.com/twitter-hiring-is-arama-ozelligi/)
 - [Ölümlü Dünya 2](https://wolkanca.com/olumlu-dunya-2/)
-- [Bilinmeyen numaralarla Whatsapp’dan görüşmek](https://wolkanca.com/bilinmeyen-numaralarla-whatsappdan-gorusmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
