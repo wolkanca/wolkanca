@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Disney Plus abonelik iptali ve para iadesi](https://wolkanca.com/disney-plus-abonelik-iptali-ve-para-iadesi/)
 - [Öklid teleskobu ilk fotoğraflarını gönderdi](https://wolkanca.com/oklid-teleskobu-ilk-fotograflarini-gonderdi/)
 - [Google Domains’den WordPress.com’a transfer](https://wolkanca.com/google-domainsden-wordpress-coma-transfer/)
 - [Disney+ Atatürk dizisi](https://wolkanca.com/disney-ataturk-dizisi/)
@@ -31,7 +32,6 @@
 - [Twitter, X olarak yeniden adlandırıldı](https://wolkanca.com/twitter-x-olarak-yeniden-adlandirildi/)
 - [Windows 11’de Dosya Gezgini yeniden başlatma](https://wolkanca.com/windows-11de-dosya-gezgini-yeniden-baslatma/)
 - [Edge EPUB dosyalarını açabiliyor](https://wolkanca.com/edge-epub-dosyalarini-acabiliyor/)
-- [Twitter Hiring iş arama özelliği](https://wolkanca.com/twitter-hiring-is-arama-ozelligi/)
 <!-- BLOG-POST-LIST:END -->
 
 
