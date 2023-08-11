@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ekoanksiyete](https://wolkanca.com/ekoanksiyete/)
 - [Call of Duty: Modern Warfare 3 fragmanı](https://wolkanca.com/call-of-duty-modern-warfare-3-fragmani/)
 - [Google E-Tablolarda yenilenen değerleri bulmak](https://wolkanca.com/google-e-tablolarda-yenilenen-degerleri-bulmak/)
 - [Türkiye Süper Lig 2023/2024 araştırması](https://wolkanca.com/turkiye-super-lig-2023-2024-arastirmasi/)
@@ -31,7 +32,6 @@
 - [Loki 2. sezon](https://wolkanca.com/loki-2-sezon/)
 - [Voyager 2 ile iletişim kesildi](https://wolkanca.com/voyager-2-ile-iletisim-kesildi/)
 - [TikTok online pazar yerini açıyor](https://wolkanca.com/tiktok-online-pazar-yerini-aciyor/)
-- [Youtube video ID almak JS](https://wolkanca.com/youtube-video-id-almak-js/)
 <!-- BLOG-POST-LIST:END -->
 
 
