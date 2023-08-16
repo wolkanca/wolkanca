@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 Copilot](https://wolkanca.com/windows-11-copilot/)
 - [Google Chrome yan panel aramayı kapatmak](https://wolkanca.com/google-chrome-yan-panel-aramayi-kapatmak/)
 - [Nüzhet Gökdoğan](https://wolkanca.com/nuzhet-gokdogan/)
 - [Ekoanksiyete](https://wolkanca.com/ekoanksiyete/)
@@ -31,7 +32,6 @@
 - [Öklid teleskobu ilk fotoğraflarını gönderdi](https://wolkanca.com/oklid-teleskobu-ilk-fotograflarini-gonderdi/)
 - [Google Domains’den WordPress.com’a transfer](https://wolkanca.com/google-domainsden-wordpress-coma-transfer/)
 - [Disney+ Atatürk dizisi](https://wolkanca.com/disney-ataturk-dizisi/)
-- [Loki 2. sezon](https://wolkanca.com/loki-2-sezon/)
 <!-- BLOG-POST-LIST:END -->
 
 
