@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#17Agustos1999 #DepremiUnutmaUnutturma](https://wolkanca.com/17agustos1999-depremiunutmaunutturma/)
 - [Windows 11 Copilot](https://wolkanca.com/windows-11-copilot/)
 - [Google Chrome yan panel aramayı kapatmak](https://wolkanca.com/google-chrome-yan-panel-aramayi-kapatmak/)
 - [Nüzhet Gökdoğan](https://wolkanca.com/nuzhet-gokdogan/)
@@ -31,7 +32,6 @@
 - [Disney Plus abonelik iptali ve para iadesi](https://wolkanca.com/disney-plus-abonelik-iptali-ve-para-iadesi/)
 - [Öklid teleskobu ilk fotoğraflarını gönderdi](https://wolkanca.com/oklid-teleskobu-ilk-fotograflarini-gonderdi/)
 - [Google Domains’den WordPress.com’a transfer](https://wolkanca.com/google-domainsden-wordpress-coma-transfer/)
-- [Disney+ Atatürk dizisi](https://wolkanca.com/disney-ataturk-dizisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
