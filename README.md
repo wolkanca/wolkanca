@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp yüksek kalite fotoğraf gönderme başladı](https://wolkanca.com/whatsapp-yuksek-kalite-fotograf-gonderme-basladi/)
 - [#17Agustos1999 #DepremiUnutmaUnutturma](https://wolkanca.com/17agustos1999-depremiunutmaunutturma/)
 - [Windows 11 Copilot](https://wolkanca.com/windows-11-copilot/)
 - [Google Chrome yan panel aramayı kapatmak](https://wolkanca.com/google-chrome-yan-panel-aramayi-kapatmak/)
@@ -31,7 +32,6 @@
 - [WhatsApp bilinmeyen numaraları engellemek](https://wolkanca.com/whatsapp-bilinmeyen-numaralari-engellemek/)
 - [Disney Plus abonelik iptali ve para iadesi](https://wolkanca.com/disney-plus-abonelik-iptali-ve-para-iadesi/)
 - [Öklid teleskobu ilk fotoğraflarını gönderdi](https://wolkanca.com/oklid-teleskobu-ilk-fotograflarini-gonderdi/)
-- [Google Domains’den WordPress.com’a transfer](https://wolkanca.com/google-domainsden-wordpress-coma-transfer/)
 <!-- BLOG-POST-LIST:END -->
 
 
