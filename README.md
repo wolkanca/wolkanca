@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Film yapımı hakkında filmler](https://wolkanca.com/film-yapimi-hakkinda-filmler/)
 - [Barbie filmi ABD’de rekor kırdı](https://wolkanca.com/barbie-filmi-abdde-rekor-kirdi/)
 - [WhatsApp yüksek kalite fotoğraf gönderme başladı](https://wolkanca.com/whatsapp-yuksek-kalite-fotograf-gonderme-basladi/)
 - [#17Agustos1999 #DepremiUnutmaUnutturma](https://wolkanca.com/17agustos1999-depremiunutmaunutturma/)
@@ -31,7 +32,6 @@
 - [Enpara banka oldu](https://wolkanca.com/enpara-banka-oldu/)
 - [Erkin Koray](https://wolkanca.com/erkin-koray/)
 - [WhatsApp bilinmeyen numaraları engellemek](https://wolkanca.com/whatsapp-bilinmeyen-numaralari-engellemek/)
-- [Disney Plus abonelik iptali ve para iadesi](https://wolkanca.com/disney-plus-abonelik-iptali-ve-para-iadesi/)
 <!-- BLOG-POST-LIST:END -->
 
 
