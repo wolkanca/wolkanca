@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Paint dark mode](https://wolkanca.com/microsoft-paint-dark-mode/)
 - [Film yapımı hakkında filmler](https://wolkanca.com/film-yapimi-hakkinda-filmler/)
 - [Barbie filmi ABD’de rekor kırdı](https://wolkanca.com/barbie-filmi-abdde-rekor-kirdi/)
 - [WhatsApp yüksek kalite fotoğraf gönderme başladı](https://wolkanca.com/whatsapp-yuksek-kalite-fotograf-gonderme-basladi/)
@@ -31,7 +32,6 @@
 - [Elon Musk vs. Mark Zuckerberg kafes dövüşü](https://wolkanca.com/elon-musk-vs-mark-zuckerberg-kafes-dovusu/)
 - [Enpara banka oldu](https://wolkanca.com/enpara-banka-oldu/)
 - [Erkin Koray](https://wolkanca.com/erkin-koray/)
-- [WhatsApp bilinmeyen numaraları engellemek](https://wolkanca.com/whatsapp-bilinmeyen-numaralari-engellemek/)
 <!-- BLOG-POST-LIST:END -->
 
 
