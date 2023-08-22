@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Akıllı priz deneyimim](https://wolkanca.com/akilli-priz-deneyimim/)
+- [Threads web sürümü geliyor](https://wolkanca.com/threads-web-surumu-geliyor/)
 - [Microsoft Paint dark mode](https://wolkanca.com/microsoft-paint-dark-mode/)
 - [Film yapımı hakkında filmler](https://wolkanca.com/film-yapimi-hakkinda-filmler/)
 - [Barbie filmi ABD’de rekor kırdı](https://wolkanca.com/barbie-filmi-abdde-rekor-kirdi/)
@@ -30,8 +32,6 @@
 - [Google E-Tablolarda yenilenen değerleri bulmak](https://wolkanca.com/google-e-tablolarda-yenilenen-degerleri-bulmak/)
 - [Türkiye Süper Lig 2023/2024 araştırması](https://wolkanca.com/turkiye-super-lig-2023-2024-arastirmasi/)
 - [Elon Musk vs. Mark Zuckerberg kafes dövüşü](https://wolkanca.com/elon-musk-vs-mark-zuckerberg-kafes-dovusu/)
-- [Enpara banka oldu](https://wolkanca.com/enpara-banka-oldu/)
-- [Erkin Koray](https://wolkanca.com/erkin-koray/)
 <!-- BLOG-POST-LIST:END -->
 
 
