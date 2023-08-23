@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitch “Discovery Feed”](https://wolkanca.com/twitch-discovery-feed/)
 - [Akıllı priz deneyimim](https://wolkanca.com/akilli-priz-deneyimim/)
 - [Threads web sürümü geliyor](https://wolkanca.com/threads-web-surumu-geliyor/)
 - [Microsoft Paint dark mode](https://wolkanca.com/microsoft-paint-dark-mode/)
@@ -31,7 +32,6 @@
 - [Call of Duty: Modern Warfare 3 fragmanı](https://wolkanca.com/call-of-duty-modern-warfare-3-fragmani/)
 - [Google E-Tablolarda yenilenen değerleri bulmak](https://wolkanca.com/google-e-tablolarda-yenilenen-degerleri-bulmak/)
 - [Türkiye Süper Lig 2023/2024 araştırması](https://wolkanca.com/turkiye-super-lig-2023-2024-arastirmasi/)
-- [Elon Musk vs. Mark Zuckerberg kafes dövüşü](https://wolkanca.com/elon-musk-vs-mark-zuckerberg-kafes-dovusu/)
 <!-- BLOG-POST-LIST:END -->
 
 
