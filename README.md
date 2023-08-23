@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Fotoğraflar web sürümü yenilikler](https://wolkanca.com/google-fotograflar-web-surumu-yenilikler/)
 - [iPhone 15 USB-C kabloları](https://wolkanca.com/iphone-15-usb-c-kablolari/)
 - [Twitch “Discovery Feed”](https://wolkanca.com/twitch-discovery-feed/)
 - [Akıllı priz deneyimim](https://wolkanca.com/akilli-priz-deneyimim/)
@@ -31,7 +32,6 @@
 - [Nüzhet Gökdoğan](https://wolkanca.com/nuzhet-gokdogan/)
 - [Ekoanksiyete](https://wolkanca.com/ekoanksiyete/)
 - [Call of Duty: Modern Warfare 3 fragmanı](https://wolkanca.com/call-of-duty-modern-warfare-3-fragmani/)
-- [Google E-Tablolarda yenilenen değerleri bulmak](https://wolkanca.com/google-e-tablolarda-yenilenen-degerleri-bulmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
