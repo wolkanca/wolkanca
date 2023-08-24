@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Corsair ayakta çalışma masası](https://wolkanca.com/corsair-ayakta-calisma-masasi/)
 - [Google Fotoğraflar web sürümü yenilikler](https://wolkanca.com/google-fotograflar-web-surumu-yenilikler/)
 - [iPhone 15 USB-C kabloları](https://wolkanca.com/iphone-15-usb-c-kablolari/)
 - [Twitch “Discovery Feed”](https://wolkanca.com/twitch-discovery-feed/)
@@ -31,7 +32,6 @@
 - [Google Chrome yan panel aramayı kapatmak](https://wolkanca.com/google-chrome-yan-panel-aramayi-kapatmak/)
 - [Nüzhet Gökdoğan](https://wolkanca.com/nuzhet-gokdogan/)
 - [Ekoanksiyete](https://wolkanca.com/ekoanksiyete/)
-- [Call of Duty: Modern Warfare 3 fragmanı](https://wolkanca.com/call-of-duty-modern-warfare-3-fragmani/)
 <!-- BLOG-POST-LIST:END -->
 
 
