@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dünyanın son 1 milyar yılını 40 saniyede izle](https://wolkanca.com/dunyanin-son-1-milyar-yilini-40-saniyede-izle/)
 - [Atari 2600 geri döndü](https://wolkanca.com/atari-2600-geri-dondu/)
 - [Web sitesi hızı arama motoru optimizasyonunu &lpar;SEO&rpar; nasıl artırır?](https://wolkanca.com/web-sitesi-hizi-arama-motoru-optimizasyonunu-seo-nasil-artirir/)
 - [Corsair ayakta çalışma masası](https://wolkanca.com/corsair-ayakta-calisma-masasi/)
@@ -31,7 +32,6 @@
 - [WhatsApp yüksek kalite fotoğraf gönderme başladı](https://wolkanca.com/whatsapp-yuksek-kalite-fotograf-gonderme-basladi/)
 - [#17Agustos1999 #DepremiUnutmaUnutturma](https://wolkanca.com/17agustos1999-depremiunutmaunutturma/)
 - [Windows 11 Copilot](https://wolkanca.com/windows-11-copilot/)
-- [Google Chrome yan panel aramayı kapatmak](https://wolkanca.com/google-chrome-yan-panel-aramayi-kapatmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
