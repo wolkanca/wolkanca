@@ -17,6 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome Video karesini kopyala](https://wolkanca.com/google-chrome/)
+- [En popüler biyografi filmleri](https://wolkanca.com/en-populer-biyografi-filmleri/)
+- [Google Arama uygunsuz görselleri bulanıklaştırıyor](https://wolkanca.com/google-arama-uygunsuz-gorselleri-bulaniklastiriyor/)
 - [YouTube Music yorumları açıldı](https://wolkanca.com/youtube-music-yorumlari-acildi/)
 - [AdSense boş reklam alanını gizlemek](https://wolkanca.com/adsense-bos-reklam-alanin-gizlemek/)
 - [Dünyanın son 1 milyar yılını 40 saniyede izle](https://wolkanca.com/dunyanin-son-1-milyar-yilini-40-saniyede-izle/)
@@ -29,9 +32,6 @@
 - [Akıllı priz deneyimim](https://wolkanca.com/akilli-priz-deneyimim/)
 - [Threads web sürümü geliyor](https://wolkanca.com/threads-web-surumu-geliyor/)
 - [Microsoft Paint dark mode](https://wolkanca.com/microsoft-paint-dark-mode/)
-- [Film yapımı hakkında filmler](https://wolkanca.com/film-yapimi-hakkinda-filmler/)
-- [Barbie filmi ABD’de rekor kırdı](https://wolkanca.com/barbie-filmi-abdde-rekor-kirdi/)
-- [WhatsApp yüksek kalite fotoğraf gönderme başladı](https://wolkanca.com/whatsapp-yuksek-kalite-fotograf-gonderme-basladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
