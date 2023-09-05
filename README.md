@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Telefonunuz kaç yıl daha güncelleme alacak?](https://wolkanca.com/telefonunuz-kac-yil-daha-guncelleme-alacak/)
 - [Google Chrome Video karesini kopyala](https://wolkanca.com/google-chrome/)
 - [En popüler biyografi filmleri](https://wolkanca.com/en-populer-biyografi-filmleri/)
 - [Google Arama uygunsuz görselleri bulanıklaştırıyor](https://wolkanca.com/google-arama-uygunsuz-gorselleri-bulaniklastiriyor/)
@@ -31,7 +32,6 @@
 - [Twitch “Discovery Feed”](https://wolkanca.com/twitch-discovery-feed/)
 - [Akıllı priz deneyimim](https://wolkanca.com/akilli-priz-deneyimim/)
 - [Threads web sürümü geliyor](https://wolkanca.com/threads-web-surumu-geliyor/)
-- [Microsoft Paint dark mode](https://wolkanca.com/microsoft-paint-dark-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 
