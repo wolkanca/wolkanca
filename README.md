@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp HD video göndermek](https://wolkanca.com/whatsapp-hd-video-gondermek/)
 - [Telefonunuz kaç yıl daha güncelleme alacak?](https://wolkanca.com/telefonunuz-kac-yil-daha-guncelleme-alacak/)
 - [Google Chrome Video karesini kopyala](https://wolkanca.com/google-chrome/)
 - [En popüler biyografi filmleri](https://wolkanca.com/en-populer-biyografi-filmleri/)
@@ -31,7 +32,6 @@
 - [iPhone 15 USB-C kabloları](https://wolkanca.com/iphone-15-usb-c-kablolari/)
 - [Twitch “Discovery Feed”](https://wolkanca.com/twitch-discovery-feed/)
 - [Akıllı priz deneyimim](https://wolkanca.com/akilli-priz-deneyimim/)
-- [Threads web sürümü geliyor](https://wolkanca.com/threads-web-surumu-geliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
