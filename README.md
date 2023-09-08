@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Starfield anlık 1 milyon oyuncu sayısını aştı](https://wolkanca.com/starfield-anlik-1-milyon-oyuncu-sayisini-asti/)
 - [WhatsApp HD video göndermek](https://wolkanca.com/whatsapp-hd-video-gondermek/)
 - [Telefonunuz kaç yıl daha güncelleme alacak?](https://wolkanca.com/telefonunuz-kac-yil-daha-guncelleme-alacak/)
 - [Google Chrome Video karesini kopyala](https://wolkanca.com/google-chrome/)
@@ -31,7 +32,6 @@
 - [Google Fotoğraflar web sürümü yenilikler](https://wolkanca.com/google-fotograflar-web-surumu-yenilikler/)
 - [iPhone 15 USB-C kabloları](https://wolkanca.com/iphone-15-usb-c-kablolari/)
 - [Twitch “Discovery Feed”](https://wolkanca.com/twitch-discovery-feed/)
-- [Akıllı priz deneyimim](https://wolkanca.com/akilli-priz-deneyimim/)
 <!-- BLOG-POST-LIST:END -->
 
 
