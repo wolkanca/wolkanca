@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google, yeni reklamıyla Apple ile dalga geçti](https://wolkanca.com/google-yeni-reklamiyla-apple-ile-dalga-gecti/)
 - [Starfield anlık 1 milyon oyuncu sayısını aştı](https://wolkanca.com/starfield-anlik-1-milyon-oyuncu-sayisini-asti/)
 - [WhatsApp HD video göndermek](https://wolkanca.com/whatsapp-hd-video-gondermek/)
 - [Telefonunuz kaç yıl daha güncelleme alacak?](https://wolkanca.com/telefonunuz-kac-yil-daha-guncelleme-alacak/)
@@ -31,7 +32,6 @@
 - [Corsair ayakta çalışma masası](https://wolkanca.com/corsair-ayakta-calisma-masasi/)
 - [Google Fotoğraflar web sürümü yenilikler](https://wolkanca.com/google-fotograflar-web-surumu-yenilikler/)
 - [iPhone 15 USB-C kabloları](https://wolkanca.com/iphone-15-usb-c-kablolari/)
-- [Twitch “Discovery Feed”](https://wolkanca.com/twitch-discovery-feed/)
 <!-- BLOG-POST-LIST:END -->
 
 
