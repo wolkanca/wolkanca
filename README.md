@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yüzüklerin Efendisi filmleri yeniden sinemalarda!](https://wolkanca.com/yuzuklerin-efendisi-filmleri-yeniden-sinemalarda/)
 - [WordPress üst kategori varsa](https://wolkanca.com/wordpress-ust-kategori-varsa/)
 - [Meta mesajlaşma uygulamalarını WhatsApp’ta birleşiyor](https://wolkanca.com/meta-mesajlasma-uygulamalarini-whatsappta-birlesiyor/)
 - [Bilgisayarda web sitesi engelleme](https://wolkanca.com/bilgisayarda-web-sitesi-engelleme/)
@@ -31,7 +32,6 @@
 - [AdSense boş reklam alanını gizlemek](https://wolkanca.com/adsense-bos-reklam-alanin-gizlemek/)
 - [Dünyanın son 1 milyar yılını 40 saniyede izle](https://wolkanca.com/dunyanin-son-1-milyar-yilini-40-saniyede-izle/)
 - [Atari 2600 geri döndü](https://wolkanca.com/atari-2600-geri-dondu/)
-- [Web sitesi hızı arama motoru optimizasyonunu &lpar;SEO&rpar; nasıl artırır?](https://wolkanca.com/web-sitesi-hizi-arama-motoru-optimizasyonunu-seo-nasil-artirir/)
 <!-- BLOG-POST-LIST:END -->
 
 
