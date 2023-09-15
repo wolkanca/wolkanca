@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cem Yılmaz filmi Do Not Disturb fragmanı yayınlandı](https://wolkanca.com/cem-yilmaz-filmi-do-not-disturb-fragmani-yayinlandi/)
 - [Threads’da yenilikler](https://wolkanca.com/threadsda-yenilikler/)
 - [Daha sağlıklı batarya için](https://wolkanca.com/daha-saglikli-batarya-icin/)
 - [Yapı işleri için değişik fikirler](https://wolkanca.com/yapi-isleri-icin-degisik-fikirler/)
@@ -31,7 +32,6 @@
 - [Google Chrome Video karesini kopyala](https://wolkanca.com/google-chrome/)
 - [En popüler biyografi filmleri](https://wolkanca.com/en-populer-biyografi-filmleri/)
 - [Google Arama uygunsuz görselleri bulanıklaştırıyor](https://wolkanca.com/google-arama-uygunsuz-gorselleri-bulaniklastiriyor/)
-- [YouTube Music yorumları açıldı](https://wolkanca.com/youtube-music-yorumlari-acildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
