@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Threads’da yenilikler](https://wolkanca.com/threadsda-yenilikler/)
 - [Daha sağlıklı batarya için](https://wolkanca.com/daha-saglikli-batarya-icin/)
 - [Yapı işleri için değişik fikirler](https://wolkanca.com/yapi-isleri-icin-degisik-fikirler/)
 - [Yüzüklerin Efendisi filmleri yeniden sinemalarda!](https://wolkanca.com/yuzuklerin-efendisi-filmleri-yeniden-sinemalarda/)
@@ -31,7 +32,6 @@
 - [En popüler biyografi filmleri](https://wolkanca.com/en-populer-biyografi-filmleri/)
 - [Google Arama uygunsuz görselleri bulanıklaştırıyor](https://wolkanca.com/google-arama-uygunsuz-gorselleri-bulaniklastiriyor/)
 - [YouTube Music yorumları açıldı](https://wolkanca.com/youtube-music-yorumlari-acildi/)
-- [AdSense boş reklam alanını gizlemek](https://wolkanca.com/adsense-bos-reklam-alanin-gizlemek/)
 <!-- BLOG-POST-LIST:END -->
 
 
