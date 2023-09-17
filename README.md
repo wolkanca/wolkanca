@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Atatürk dizisi Netflix ve Amazon’da](https://wolkanca.com/ataturk-dizisi-netflix-ve-amazonda/)
 - [Cem Yılmaz filmi Do Not Disturb fragmanı yayınlandı](https://wolkanca.com/cem-yilmaz-filmi-do-not-disturb-fragmani-yayinlandi/)
 - [Threads’da yenilikler](https://wolkanca.com/threadsda-yenilikler/)
 - [Daha sağlıklı batarya için](https://wolkanca.com/daha-saglikli-batarya-icin/)
@@ -31,7 +32,6 @@
 - [Telefonunuz kaç yıl daha güncelleme alacak?](https://wolkanca.com/telefonunuz-kac-yil-daha-guncelleme-alacak/)
 - [Google Chrome Video karesini kopyala](https://wolkanca.com/google-chrome/)
 - [En popüler biyografi filmleri](https://wolkanca.com/en-populer-biyografi-filmleri/)
-- [Google Arama uygunsuz görselleri bulanıklaştırıyor](https://wolkanca.com/google-arama-uygunsuz-gorselleri-bulaniklastiriyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
