@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iPhone 15 Pro almak](https://wolkanca.com/iphone-15-pro-almak/)
 - [Atatürk dizisi Netflix ve Amazon’da](https://wolkanca.com/ataturk-dizisi-netflix-ve-amazonda/)
 - [Cem Yılmaz filmi Do Not Disturb fragmanı yayınlandı](https://wolkanca.com/cem-yilmaz-filmi-do-not-disturb-fragmani-yayinlandi/)
 - [Threads’da yenilikler](https://wolkanca.com/threadsda-yenilikler/)
@@ -31,7 +32,6 @@
 - [WhatsApp HD video göndermek](https://wolkanca.com/whatsapp-hd-video-gondermek/)
 - [Telefonunuz kaç yıl daha güncelleme alacak?](https://wolkanca.com/telefonunuz-kac-yil-daha-guncelleme-alacak/)
 - [Google Chrome Video karesini kopyala](https://wolkanca.com/google-chrome/)
-- [En popüler biyografi filmleri](https://wolkanca.com/en-populer-biyografi-filmleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
