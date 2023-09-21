@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Facebook logo ve rengi değiştirdi](https://wolkanca.com/facebook-logo-ve-rengi-degistirdi/)
 - [iPhone 15 serisi incelemeleri](https://wolkanca.com/iphone-15-serisi-incelemeleri/)
 - [iPhone 15 Pro almak](https://wolkanca.com/iphone-15-pro-almak/)
 - [Atatürk dizisi Netflix ve Amazon’da](https://wolkanca.com/ataturk-dizisi-netflix-ve-amazonda/)
@@ -31,7 +32,6 @@
 - [Google, yeni reklamıyla Apple ile dalga geçti](https://wolkanca.com/google-yeni-reklamiyla-apple-ile-dalga-gecti/)
 - [Starfield anlık 1 milyon oyuncu sayısını aştı](https://wolkanca.com/starfield-anlik-1-milyon-oyuncu-sayisini-asti/)
 - [WhatsApp HD video göndermek](https://wolkanca.com/whatsapp-hd-video-gondermek/)
-- [Telefonunuz kaç yıl daha güncelleme alacak?](https://wolkanca.com/telefonunuz-kac-yil-daha-guncelleme-alacak/)
 <!-- BLOG-POST-LIST:END -->
 
 
