@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google CSS içeriğinin indekslendiğini onayladı](https://wolkanca.com/google-css-iceriginin-indekslendigini-onayladi/)
 - [Kırık görsel linklerini değiştirmek](https://wolkanca.com/kirik-gorsel-linklerini-degistirmek/)
 - [Facebook logo ve rengi değiştirdi](https://wolkanca.com/facebook-logo-ve-rengi-degistirdi/)
 - [iPhone 15 serisi incelemeleri](https://wolkanca.com/iphone-15-serisi-incelemeleri/)
@@ -31,7 +32,6 @@
 - [Meta mesajlaşma uygulamalarını WhatsApp’ta birleşiyor](https://wolkanca.com/meta-mesajlasma-uygulamalarini-whatsappta-birlesiyor/)
 - [Bilgisayarda web sitesi engelleme](https://wolkanca.com/bilgisayarda-web-sitesi-engelleme/)
 - [Google, yeni reklamıyla Apple ile dalga geçti](https://wolkanca.com/google-yeni-reklamiyla-apple-ile-dalga-gecti/)
-- [Starfield anlık 1 milyon oyuncu sayısını aştı](https://wolkanca.com/starfield-anlik-1-milyon-oyuncu-sayisini-asti/)
 <!-- BLOG-POST-LIST:END -->
 
 
