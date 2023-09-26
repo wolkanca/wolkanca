@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Youtube “Premium Lite” kapatıldı](https://wolkanca.com/youtube-premium-lite-kapatildi/)
 - [.TR alan adları hakkında](https://wolkanca.com/tr-alan-adlari-hakkinda/)
 - [İyi kahve nasıl yapılır?](https://wolkanca.com/iyi-kahve-nasil-yapilir/)
 - [Google CSS içeriğinin indekslendiğini onayladı](https://wolkanca.com/google-css-iceriginin-indekslendigini-onayladi/)
@@ -31,7 +32,6 @@
 - [Yapı işleri için değişik fikirler](https://wolkanca.com/yapi-isleri-icin-degisik-fikirler/)
 - [Yüzüklerin Efendisi filmleri yeniden sinemalarda!](https://wolkanca.com/yuzuklerin-efendisi-filmleri-yeniden-sinemalarda/)
 - [WordPress üst kategori varsa](https://wolkanca.com/wordpress-ust-kategori-varsa/)
-- [Meta mesajlaşma uygulamalarını WhatsApp’ta birleşiyor](https://wolkanca.com/meta-mesajlasma-uygulamalarini-whatsappta-birlesiyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
