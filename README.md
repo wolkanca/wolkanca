@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web için Photoshop](https://wolkanca.com/web-icin-photoshop/)
+- [Counter-Strike 2 çıktı](https://wolkanca.com/counter-strike-2-cikti/)
 - [Google 25. doğum günü](https://wolkanca.com/google-25-dogum-gunu/)
 - [Youtube “Premium Lite” kapatıldı](https://wolkanca.com/youtube-premium-lite-kapatildi/)
 - [.TR alan adları hakkında](https://wolkanca.com/tr-alan-adlari-hakkinda/)
@@ -30,8 +32,6 @@
 - [Cem Yılmaz filmi Do Not Disturb fragmanı yayınlandı](https://wolkanca.com/cem-yilmaz-filmi-do-not-disturb-fragmani-yayinlandi/)
 - [Threads’da yenilikler](https://wolkanca.com/threadsda-yenilikler/)
 - [Daha sağlıklı batarya için](https://wolkanca.com/daha-saglikli-batarya-icin/)
-- [Yapı işleri için değişik fikirler](https://wolkanca.com/yapi-isleri-icin-degisik-fikirler/)
-- [Yüzüklerin Efendisi filmleri yeniden sinemalarda!](https://wolkanca.com/yuzuklerin-efendisi-filmleri-yeniden-sinemalarda/)
 <!-- BLOG-POST-LIST:END -->
 
 
