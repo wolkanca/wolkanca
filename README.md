@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 12 ile ChromeOS’a rakip olacak](https://wolkanca.com/windows-12-ile-chromeosa-rakip-olacak/)
 - [Paint yapay zekâ özellikleri](https://wolkanca.com/paint-yapay-zeka-ozellikleri/)
 - [X, Twitch alternatifi mi olacak?](https://wolkanca.com/x-twitch-alternatifi-mi-olacak/)
 - [Monitör tercihiniz hangisi?](https://wolkanca.com/monitor-tercihiniz-hangisi/)
@@ -31,7 +32,6 @@
 - [Kırık görsel linklerini değiştirmek](https://wolkanca.com/kirik-gorsel-linklerini-degistirmek/)
 - [Facebook logo ve rengi değiştirdi](https://wolkanca.com/facebook-logo-ve-rengi-degistirdi/)
 - [iPhone 15 serisi incelemeleri](https://wolkanca.com/iphone-15-serisi-incelemeleri/)
-- [iPhone 15 Pro almak](https://wolkanca.com/iphone-15-pro-almak/)
 <!-- BLOG-POST-LIST:END -->
 
 
