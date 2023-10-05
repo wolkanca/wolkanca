@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google masaüstü sonsuz kaydırma](https://wolkanca.com/google-masaustu-sonsuz-kaydirma/)
 - [Windows 12 ile ChromeOS’a rakip olacak](https://wolkanca.com/windows-12-ile-chromeosa-rakip-olacak/)
 - [Paint yapay zekâ özellikleri](https://wolkanca.com/paint-yapay-zeka-ozellikleri/)
 - [X, Twitch alternatifi mi olacak?](https://wolkanca.com/x-twitch-alternatifi-mi-olacak/)
@@ -31,7 +32,6 @@
 - [Google CSS içeriğinin indekslendiğini onayladı](https://wolkanca.com/google-css-iceriginin-indekslendigini-onayladi/)
 - [Kırık görsel linklerini değiştirmek](https://wolkanca.com/kirik-gorsel-linklerini-degistirmek/)
 - [Facebook logo ve rengi değiştirdi](https://wolkanca.com/facebook-logo-ve-rengi-degistirdi/)
-- [iPhone 15 serisi incelemeleri](https://wolkanca.com/iphone-15-serisi-incelemeleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
