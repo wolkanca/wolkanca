@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [X için 3 farklı Premium seçeneği](https://wolkanca.com/x-icin-3-farkli-premium-secenegi/)
 - [Google masaüstü sonsuz kaydırma](https://wolkanca.com/google-masaustu-sonsuz-kaydirma/)
 - [Windows 12 ile ChromeOS’a rakip olacak](https://wolkanca.com/windows-12-ile-chromeosa-rakip-olacak/)
 - [Paint yapay zekâ özellikleri](https://wolkanca.com/paint-yapay-zeka-ozellikleri/)
@@ -31,7 +32,6 @@
 - [İyi kahve nasıl yapılır?](https://wolkanca.com/iyi-kahve-nasil-yapilir/)
 - [Google CSS içeriğinin indekslendiğini onayladı](https://wolkanca.com/google-css-iceriginin-indekslendigini-onayladi/)
 - [Kırık görsel linklerini değiştirmek](https://wolkanca.com/kirik-gorsel-linklerini-degistirmek/)
-- [Facebook logo ve rengi değiştirdi](https://wolkanca.com/facebook-logo-ve-rengi-degistirdi/)
 <!-- BLOG-POST-LIST:END -->
 
 
