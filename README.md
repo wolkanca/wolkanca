@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [21. yüzyılın en iyi dizileri](https://wolkanca.com/21-yuzyilin-en-iyi-dizileri/)
+- [Windows 12 abonelik](https://wolkanca.com/windows-12-abonelik/)
 - [Google My Business’da sosyal medya linkleri](https://wolkanca.com/google-my-businessda-sosyal-medya-linkleri/)
 - [X için 3 farklı Premium seçeneği](https://wolkanca.com/x-icin-3-farkli-premium-secenegi/)
 - [Google masaüstü sonsuz kaydırma](https://wolkanca.com/google-masaustu-sonsuz-kaydirma/)
@@ -30,8 +32,6 @@
 - [Google 25. doğum günü](https://wolkanca.com/google-25-dogum-gunu/)
 - [Youtube “Premium Lite” kapatıldı](https://wolkanca.com/youtube-premium-lite-kapatildi/)
 - [.TR alan adları hakkında](https://wolkanca.com/tr-alan-adlari-hakkinda/)
-- [İyi kahve nasıl yapılır?](https://wolkanca.com/iyi-kahve-nasil-yapilir/)
-- [Google CSS içeriğinin indekslendiğini onayladı](https://wolkanca.com/google-css-iceriginin-indekslendigini-onayladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
