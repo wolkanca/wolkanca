@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VDS ile VPS farkları](https://wolkanca.com/vds-ile-vps-farklari/)
 - [21. yüzyılın en iyi dizileri](https://wolkanca.com/21-yuzyilin-en-iyi-dizileri/)
 - [Windows 12 abonelik](https://wolkanca.com/windows-12-abonelik/)
 - [Google My Business’da sosyal medya linkleri](https://wolkanca.com/google-my-businessda-sosyal-medya-linkleri/)
@@ -31,7 +32,6 @@
 - [Counter-Strike 2 çıktı](https://wolkanca.com/counter-strike-2-cikti/)
 - [Google 25. doğum günü](https://wolkanca.com/google-25-dogum-gunu/)
 - [Youtube “Premium Lite” kapatıldı](https://wolkanca.com/youtube-premium-lite-kapatildi/)
-- [.TR alan adları hakkında](https://wolkanca.com/tr-alan-adlari-hakkinda/)
 <!-- BLOG-POST-LIST:END -->
 
 
