@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Online PHP editörler](https://wolkanca.com/online-php-editorler/)
 - [Chrome SERP Counter uzantısı](https://wolkanca.com/chrome-serp-counter-uzantisi/)
 - [Rusya VPN’i yasaklıyor](https://wolkanca.com/rusya-vpni-yasakliyor/)
 - [VDS ile VPS farkları](https://wolkanca.com/vds-ile-vps-farklari/)
@@ -31,7 +32,6 @@
 - [Monitör tercihiniz hangisi?](https://wolkanca.com/monitor-tercihiniz-hangisi/)
 - [Adobe logo yapıcı](https://wolkanca.com/adobe-logo-yapici/)
 - [Web için Photoshop](https://wolkanca.com/web-icin-photoshop/)
-- [Counter-Strike 2 çıktı](https://wolkanca.com/counter-strike-2-cikti/)
 <!-- BLOG-POST-LIST:END -->
 
 
