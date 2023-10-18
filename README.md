@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evden verimli çalışmak için 7 öneri](https://wolkanca.com/evden-verimli-calismak-icin-7-oneri/)
 - [Marvel izleme klavuzu](https://wolkanca.com/marvel-izleme-klavuzu/)
 - [İnsanlık tarihinin en önemli 10 buluşu](https://wolkanca.com/insanlik-tarihinin-en-onemli-10-bulusu/)
 - [Monarch: Legacy of Monsters](https://wolkanca.com/monarch-legacy-of-monsters/)
@@ -31,7 +32,6 @@
 - [Google My Business’da sosyal medya linkleri](https://wolkanca.com/google-my-businessda-sosyal-medya-linkleri/)
 - [X için 3 farklı Premium seçeneği](https://wolkanca.com/x-icin-3-farkli-premium-secenegi/)
 - [Google masaüstü sonsuz kaydırma](https://wolkanca.com/google-masaustu-sonsuz-kaydirma/)
-- [Windows 12 ile ChromeOS’a rakip olacak](https://wolkanca.com/windows-12-ile-chromeosa-rakip-olacak/)
 <!-- BLOG-POST-LIST:END -->
 
 
