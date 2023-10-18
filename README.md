@@ -17,6 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Marvel izleme klavuzu](https://wolkanca.com/marvel-izleme-klavuzu/)
+- [İnsanlık tarihinin en önemli 10 buluşu](https://wolkanca.com/insanlik-tarihinin-en-onemli-10-bulusu/)
+- [Monarch: Legacy of Monsters](https://wolkanca.com/monarch-legacy-of-monsters/)
 - [Konuşmaları 20 farklı dile çeviren araç](https://wolkanca.com/konusmalari-20-farkli-dile-ceviren-arac/)
 - [AI destekli Google Arama](https://wolkanca.com/ai-destekli-google-arama/)
 - [Online PHP editörler](https://wolkanca.com/online-php-editorler/)
@@ -29,9 +32,6 @@
 - [X için 3 farklı Premium seçeneği](https://wolkanca.com/x-icin-3-farkli-premium-secenegi/)
 - [Google masaüstü sonsuz kaydırma](https://wolkanca.com/google-masaustu-sonsuz-kaydirma/)
 - [Windows 12 ile ChromeOS’a rakip olacak](https://wolkanca.com/windows-12-ile-chromeosa-rakip-olacak/)
-- [Paint yapay zekâ özellikleri](https://wolkanca.com/paint-yapay-zeka-ozellikleri/)
-- [X, Twitch alternatifi mi olacak?](https://wolkanca.com/x-twitch-alternatifi-mi-olacak/)
-- [Monitör tercihiniz hangisi?](https://wolkanca.com/monitor-tercihiniz-hangisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
