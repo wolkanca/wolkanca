@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vehbi Koç’tan 7 öğüt](https://wolkanca.com/vehbi-koctan-7-ogut/)
+- [ChatGPT web’den bilgi arama](https://wolkanca.com/chatgpt-webden-bilgi-arama/)
 - [Evden verimli çalışmak için 7 öneri](https://wolkanca.com/evden-verimli-calismak-icin-7-oneri/)
 - [Marvel izleme klavuzu](https://wolkanca.com/marvel-izleme-klavuzu/)
 - [İnsanlık tarihinin en önemli 10 buluşu](https://wolkanca.com/insanlik-tarihinin-en-onemli-10-bulusu/)
@@ -30,8 +32,6 @@
 - [21. yüzyılın en iyi dizileri](https://wolkanca.com/21-yuzyilin-en-iyi-dizileri/)
 - [Windows 12 abonelik](https://wolkanca.com/windows-12-abonelik/)
 - [Google My Business’da sosyal medya linkleri](https://wolkanca.com/google-my-businessda-sosyal-medya-linkleri/)
-- [X için 3 farklı Premium seçeneği](https://wolkanca.com/x-icin-3-farkli-premium-secenegi/)
-- [Google masaüstü sonsuz kaydırma](https://wolkanca.com/google-masaustu-sonsuz-kaydirma/)
 <!-- BLOG-POST-LIST:END -->
 
 
