@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cities: Skylines II bugün çıkıyor](https://wolkanca.com/cities-skylines-ii-bugun-cikiyor/)
 - [“Türkiye’nin Hazineleri” Google Arts &amp; Culture](https://wolkanca.com/turkiyenin-hazineleri-google-arts-culture/)
 - [Twitch’den eş zamanlı yayına izin](https://wolkanca.com/twitchden-es-zamanli-yayina-izin/)
 - [Vehbi Koç’tan 7 öğüt](https://wolkanca.com/vehbi-koctan-7-ogut/)
@@ -31,7 +32,6 @@
 - [Chrome SERP Counter uzantısı](https://wolkanca.com/chrome-serp-counter-uzantisi/)
 - [Rusya VPN’i yasaklıyor](https://wolkanca.com/rusya-vpni-yasakliyor/)
 - [VDS ile VPS farkları](https://wolkanca.com/vds-ile-vps-farklari/)
-- [21. yüzyılın en iyi dizileri](https://wolkanca.com/21-yuzyilin-en-iyi-dizileri/)
 <!-- BLOG-POST-LIST:END -->
 
 
