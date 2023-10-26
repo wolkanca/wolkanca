@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cumhuriyet’in 100. yılı reklam filmleri](https://wolkanca.com/cumhuriyetin-100-yili-reklam-filmleri/)
 - [Tech Vault – soru bankası](https://wolkanca.com/tech-vault-soru-bankasi/)
 - [Mynet el değiştirdi](https://wolkanca.com/mynet-el-degistirdi/)
 - [Cities: Skylines II bugün çıkıyor](https://wolkanca.com/cities-skylines-ii-bugun-cikiyor/)
@@ -31,7 +32,6 @@
 - [Konuşmaları 20 farklı dile çeviren araç](https://wolkanca.com/konusmalari-20-farkli-dile-ceviren-arac/)
 - [AI destekli Google Arama](https://wolkanca.com/ai-destekli-google-arama/)
 - [Online PHP editörler](https://wolkanca.com/online-php-editorler/)
-- [Chrome SERP Counter uzantısı](https://wolkanca.com/chrome-serp-counter-uzantisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
