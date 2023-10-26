@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tech Vault 🛠️ soru bankası](https://wolkanca.com/tech-vault-%f0%9f%9b%a0%ef%b8%8f-soru-bankasi/)
+- [Mynet el değiştirdi](https://wolkanca.com/mynet-el-degistirdi/)
 - [Cities: Skylines II bugün çıkıyor](https://wolkanca.com/cities-skylines-ii-bugun-cikiyor/)
 - [“Türkiye’nin Hazineleri” Google Arts &amp; Culture](https://wolkanca.com/turkiyenin-hazineleri-google-arts-culture/)
 - [Twitch’den eş zamanlı yayına izin](https://wolkanca.com/twitchden-es-zamanli-yayina-izin/)
@@ -30,8 +32,6 @@
 - [AI destekli Google Arama](https://wolkanca.com/ai-destekli-google-arama/)
 - [Online PHP editörler](https://wolkanca.com/online-php-editorler/)
 - [Chrome SERP Counter uzantısı](https://wolkanca.com/chrome-serp-counter-uzantisi/)
-- [Rusya VPN’i yasaklıyor](https://wolkanca.com/rusya-vpni-yasakliyor/)
-- [VDS ile VPS farkları](https://wolkanca.com/vds-ile-vps-farklari/)
 <!-- BLOG-POST-LIST:END -->
 
 
