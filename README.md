@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gmail emoji tepkileri](https://wolkanca.com/gmail-emoji-tepkileri/)
 - [Cumhuriyet’in 100. yılı reklam filmleri](https://wolkanca.com/cumhuriyetin-100-yili-reklam-filmleri/)
 - [Cumhuriyet Anıtı](https://wolkanca.com/cumhuriyet-aniti/)
 - [Dünyada trafik yönü](https://wolkanca.com/dunyada-trafik-yonu/)
@@ -31,7 +32,6 @@
 - [Marvel izleme klavuzu](https://wolkanca.com/marvel-izleme-klavuzu/)
 - [İnsanlık tarihinin en önemli 10 buluşu](https://wolkanca.com/insanlik-tarihinin-en-onemli-10-bulusu/)
 - [Monarch: Legacy of Monsters](https://wolkanca.com/monarch-legacy-of-monsters/)
-- [Konuşmaları 20 farklı dile çeviren araç](https://wolkanca.com/konusmalari-20-farkli-dile-ceviren-arac/)
 <!-- BLOG-POST-LIST:END -->
 
 
