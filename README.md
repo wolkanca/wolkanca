@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple M3 işlemcili yeni modellerini tanıttı](https://wolkanca.com/apple-m3-islemcili-yeni-modellerini-tanitti/)
 - [Gmail emoji tepkileri](https://wolkanca.com/gmail-emoji-tepkileri/)
 - [Cumhuriyet’in 100. yılı reklam filmleri](https://wolkanca.com/cumhuriyetin-100-yili-reklam-filmleri/)
 - [Cumhuriyet Anıtı](https://wolkanca.com/cumhuriyet-aniti/)
@@ -31,7 +32,6 @@
 - [Evden verimli çalışmak için 7 öneri](https://wolkanca.com/evden-verimli-calismak-icin-7-oneri/)
 - [Marvel izleme klavuzu](https://wolkanca.com/marvel-izleme-klavuzu/)
 - [İnsanlık tarihinin en önemli 10 buluşu](https://wolkanca.com/insanlik-tarihinin-en-onemli-10-bulusu/)
-- [Monarch: Legacy of Monsters](https://wolkanca.com/monarch-legacy-of-monsters/)
 <!-- BLOG-POST-LIST:END -->
 
 
