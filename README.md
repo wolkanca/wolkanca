@@ -17,6 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yeni Marvel dizisi Echo](https://wolkanca.com/yeni-marvel-dizisi-echo/)
+- [Google Arama matematik problemlerini çözüyor](https://wolkanca.com/google-arama-matematik-problemlerini-cozuyor/)
+- [En ilginç fobiler](https://wolkanca.com/en-ilginc-fobiler/)
 - [Apple M3 işlemcili yeni modellerini tanıttı](https://wolkanca.com/apple-m3-islemcili-yeni-modellerini-tanitti/)
 - [Gmail emoji tepkileri](https://wolkanca.com/gmail-emoji-tepkileri/)
 - [Cumhuriyet’in 100. yılı reklam filmleri](https://wolkanca.com/cumhuriyetin-100-yili-reklam-filmleri/)
@@ -29,9 +32,6 @@
 - [Twitch’den eş zamanlı yayına izin](https://wolkanca.com/twitchden-es-zamanli-yayina-izin/)
 - [Vehbi Koç’tan 7 öğüt](https://wolkanca.com/vehbi-koctan-7-ogut/)
 - [ChatGPT web’den bilgi arama](https://wolkanca.com/chatgpt-webden-bilgi-arama/)
-- [Evden verimli çalışmak için 7 öneri](https://wolkanca.com/evden-verimli-calismak-icin-7-oneri/)
-- [Marvel izleme klavuzu](https://wolkanca.com/marvel-izleme-klavuzu/)
-- [İnsanlık tarihinin en önemli 10 buluşu](https://wolkanca.com/insanlik-tarihinin-en-onemli-10-bulusu/)
 <!-- BLOG-POST-LIST:END -->
 
 
