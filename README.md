@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Neden hıçkırırız?](https://wolkanca.com/neden-hickiririz/)
+- [Neden hapşırırız?](https://wolkanca.com/neden-hapsiririz/)
 - [Yeni Marvel dizisi Echo](https://wolkanca.com/yeni-marvel-dizisi-echo/)
 - [Google Arama matematik problemlerini çözüyor](https://wolkanca.com/google-arama-matematik-problemlerini-cozuyor/)
 - [En ilginç fobiler](https://wolkanca.com/en-ilginc-fobiler/)
@@ -30,8 +32,6 @@
 - [Cities: Skylines II bugün çıkıyor](https://wolkanca.com/cities-skylines-ii-bugun-cikiyor/)
 - [“Türkiye’nin Hazineleri” Google Arts &amp; Culture](https://wolkanca.com/turkiyenin-hazineleri-google-arts-culture/)
 - [Twitch’den eş zamanlı yayına izin](https://wolkanca.com/twitchden-es-zamanli-yayina-izin/)
-- [Vehbi Koç’tan 7 öğüt](https://wolkanca.com/vehbi-koctan-7-ogut/)
-- [ChatGPT web’den bilgi arama](https://wolkanca.com/chatgpt-webden-bilgi-arama/)
 <!-- BLOG-POST-LIST:END -->
 
 
