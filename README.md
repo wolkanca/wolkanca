@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2 günlük Cloudflare kesintisi](https://wolkanca.com/2-gunluk-cloudflare-kesintisi/)
 - [Nefes: Yer Eksi İki](https://wolkanca.com/nefes-yer-eksi-iki/)
 - [Neden hıçkırırız?](https://wolkanca.com/neden-hickiririz/)
 - [Neden hapşırırız?](https://wolkanca.com/neden-hapsiririz/)
@@ -31,7 +32,6 @@
 - [Tech Vault – soru bankası](https://wolkanca.com/tech-vault-soru-bankasi/)
 - [Mynet el değiştirdi](https://wolkanca.com/mynet-el-degistirdi/)
 - [Cities: Skylines II bugün çıkıyor](https://wolkanca.com/cities-skylines-ii-bugun-cikiyor/)
-- [“Türkiye’nin Hazineleri” Google Arts &amp; Culture](https://wolkanca.com/turkiyenin-hazineleri-google-arts-culture/)
 <!-- BLOG-POST-LIST:END -->
 
 
