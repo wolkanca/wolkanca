@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nefes: Yer Eksi İki](https://wolkanca.com/nefes-yer-eksi-iki/)
 - [Neden hıçkırırız?](https://wolkanca.com/neden-hickiririz/)
 - [Neden hapşırırız?](https://wolkanca.com/neden-hapsiririz/)
 - [Yeni Marvel dizisi Echo](https://wolkanca.com/yeni-marvel-dizisi-echo/)
@@ -31,7 +32,6 @@
 - [Mynet el değiştirdi](https://wolkanca.com/mynet-el-degistirdi/)
 - [Cities: Skylines II bugün çıkıyor](https://wolkanca.com/cities-skylines-ii-bugun-cikiyor/)
 - [“Türkiye’nin Hazineleri” Google Arts &amp; Culture](https://wolkanca.com/turkiyenin-hazineleri-google-arts-culture/)
-- [Twitch’den eş zamanlı yayına izin](https://wolkanca.com/twitchden-es-zamanli-yayina-izin/)
 <!-- BLOG-POST-LIST:END -->
 
 
