@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge kaldırmak](https://wolkanca.com/microsoft-edge-kaldirmak/)
 - [M3 işlemcili cihazlar için incelemeler](https://wolkanca.com/m3-islemcili-cihazlar-icin-incelemeler/)
 - [2 günlük Cloudflare kesintisi](https://wolkanca.com/2-gunluk-cloudflare-kesintisi/)
 - [Nefes: Yer Eksi İki](https://wolkanca.com/nefes-yer-eksi-iki/)
@@ -31,7 +32,6 @@
 - [Cumhuriyet Anıtı](https://wolkanca.com/cumhuriyet-aniti/)
 - [Dünyada trafik yönü](https://wolkanca.com/dunyada-trafik-yonu/)
 - [Tech Vault – soru bankası](https://wolkanca.com/tech-vault-soru-bankasi/)
-- [Mynet el değiştirdi](https://wolkanca.com/mynet-el-degistirdi/)
 <!-- BLOG-POST-LIST:END -->
 
 
