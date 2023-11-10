@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fakespot Chat](https://wolkanca.com/fakespot-chat/)
 - [Microsoft Edge kaldırmak](https://wolkanca.com/microsoft-edge-kaldirmak/)
 - [M3 işlemcili cihazlar için incelemeler](https://wolkanca.com/m3-islemcili-cihazlar-icin-incelemeler/)
 - [2 günlük Cloudflare kesintisi](https://wolkanca.com/2-gunluk-cloudflare-kesintisi/)
@@ -31,7 +32,6 @@
 - [Cumhuriyet’in 100. yılı reklam filmleri](https://wolkanca.com/cumhuriyetin-100-yili-reklam-filmleri/)
 - [Cumhuriyet Anıtı](https://wolkanca.com/cumhuriyet-aniti/)
 - [Dünyada trafik yönü](https://wolkanca.com/dunyada-trafik-yonu/)
-- [Tech Vault – soru bankası](https://wolkanca.com/tech-vault-soru-bankasi/)
 <!-- BLOG-POST-LIST:END -->
 
 
