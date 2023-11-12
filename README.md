@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Formatsız Windows 11’e geçiş](https://wolkanca.com/formatsiz-windows-11e-gecis/)
 - [Call of Duty: Modern Warfare III 2023 çıktı](https://wolkanca.com/call-of-duty-modern-warfare-iii-2023-cikti/)
 - [NASA Plus açıldı](https://wolkanca.com/nasa-plus-acildi/)
 - [Fakespot Chat](https://wolkanca.com/fakespot-chat/)
@@ -31,7 +32,6 @@
 - [En ilginç fobiler](https://wolkanca.com/en-ilginc-fobiler/)
 - [Apple M3 işlemcili yeni modellerini tanıttı](https://wolkanca.com/apple-m3-islemcili-yeni-modellerini-tanitti/)
 - [Gmail emoji tepkileri](https://wolkanca.com/gmail-emoji-tepkileri/)
-- [Cumhuriyet’in 100. yılı reklam filmleri](https://wolkanca.com/cumhuriyetin-100-yili-reklam-filmleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
