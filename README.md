@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vave BG – ücretsiz arka plan görselleri](https://wolkanca.com/vave-bg-ucretsiz-arka-plan-gorselleri/)
 - [Grand Theft Auto 6 fragmanı ile rekorlar kırıyor](https://wolkanca.com/grand-theft-auto-6-fragmani-ile-rekorlar-kiriyor/)
 - [Formatsız Windows 11’e geçiş](https://wolkanca.com/formatsiz-windows-11e-gecis/)
 - [Call of Duty: Modern Warfare III 2023 çıktı](https://wolkanca.com/call-of-duty-modern-warfare-iii-2023-cikti/)
@@ -31,7 +32,6 @@
 - [Yeni Marvel dizisi Echo](https://wolkanca.com/yeni-marvel-dizisi-echo/)
 - [Google Arama matematik problemlerini çözüyor](https://wolkanca.com/google-arama-matematik-problemlerini-cozuyor/)
 - [En ilginç fobiler](https://wolkanca.com/en-ilginc-fobiler/)
-- [Apple M3 işlemcili yeni modellerini tanıttı](https://wolkanca.com/apple-m3-islemcili-yeni-modellerini-tanitti/)
 <!-- BLOG-POST-LIST:END -->
 
 
