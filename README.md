@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google, arama sonuçlarında notlar ve takip](https://wolkanca.com/google-arama-sonuclarinda-notlar-ve-takip/)
 - [Ölümlü Dünya 2 Fragmanı](https://wolkanca.com/olumlu-dunya-2-fragmani/)
 - [Vave BG – ücretsiz arka plan görselleri](https://wolkanca.com/vave-bg-ucretsiz-arka-plan-gorselleri/)
 - [Grand Theft Auto 6 fragmanı ile rekorlar kırıyor](https://wolkanca.com/grand-theft-auto-6-fragmani-ile-rekorlar-kiriyor/)
@@ -31,7 +32,6 @@
 - [Neden hıçkırırız?](https://wolkanca.com/neden-hickiririz/)
 - [Neden hapşırırız?](https://wolkanca.com/neden-hapsiririz/)
 - [Yeni Marvel dizisi Echo](https://wolkanca.com/yeni-marvel-dizisi-echo/)
-- [Google Arama matematik problemlerini çözüyor](https://wolkanca.com/google-arama-matematik-problemlerini-cozuyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
