@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [X İş İlanları platformu açıldı](https://wolkanca.com/x-is-ilanlari-platformu-acildi/)
 - [Half-Life bir süre ücretsiz oldu](https://wolkanca.com/half-life-bir-sure-ucretsiz-oldu/)
 - [Google, arama sonuçlarında notlar ve takip](https://wolkanca.com/google-arama-sonuclarinda-notlar-ve-takip/)
 - [Ölümlü Dünya 2 Fragmanı](https://wolkanca.com/olumlu-dunya-2-fragmani/)
@@ -31,7 +32,6 @@
 - [2 günlük Cloudflare kesintisi](https://wolkanca.com/2-gunluk-cloudflare-kesintisi/)
 - [Nefes: Yer Eksi İki](https://wolkanca.com/nefes-yer-eksi-iki/)
 - [Neden hıçkırırız?](https://wolkanca.com/neden-hickiririz/)
-- [Neden hapşırırız?](https://wolkanca.com/neden-hapsiririz/)
 <!-- BLOG-POST-LIST:END -->
 
 
