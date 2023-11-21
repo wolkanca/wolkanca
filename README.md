@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Steam dolara geçti](https://wolkanca.com/steam-dolara-gecti/)
 - [Google Haritalar yeni renkler](https://wolkanca.com/google-haritalar-yeni-renkler/)
 - [X İş İlanları platformu açıldı](https://wolkanca.com/x-is-ilanlari-platformu-acildi/)
 - [Half-Life bir süre ücretsiz oldu](https://wolkanca.com/half-life-bir-sure-ucretsiz-oldu/)
@@ -31,7 +32,6 @@
 - [Microsoft Edge kaldırmak](https://wolkanca.com/microsoft-edge-kaldirmak/)
 - [M3 işlemcili cihazlar için incelemeler](https://wolkanca.com/m3-islemcili-cihazlar-icin-incelemeler/)
 - [2 günlük Cloudflare kesintisi](https://wolkanca.com/2-gunluk-cloudflare-kesintisi/)
-- [Nefes: Yer Eksi İki](https://wolkanca.com/nefes-yer-eksi-iki/)
 <!-- BLOG-POST-LIST:END -->
 
 
