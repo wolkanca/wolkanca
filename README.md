@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dünyanın en iyi 100 markası](https://wolkanca.com/dunyanin-en-iyi-100-markasi/)
 - [WhatsApp’da, e-posta ile hesap doğrulama](https://wolkanca.com/whatsappda-e-posta-ile-hesap-dogrulama/)
 - [En iyi 250 film listesi – 2023](https://wolkanca.com/en-iyi-250-film-listesi-2023/)
 - [Steam dolara geçti](https://wolkanca.com/steam-dolara-gecti/)
@@ -31,7 +32,6 @@
 - [Call of Duty: Modern Warfare III 2023 çıktı](https://wolkanca.com/call-of-duty-modern-warfare-iii-2023-cikti/)
 - [NASA Plus açıldı](https://wolkanca.com/nasa-plus-acildi/)
 - [Fakespot Chat](https://wolkanca.com/fakespot-chat/)
-- [Microsoft Edge kaldırmak](https://wolkanca.com/microsoft-edge-kaldirmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
