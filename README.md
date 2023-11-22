@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [En iyi 250 film listesi – 2023](https://wolkanca.com/en-iyi-250-film-listesi-2023/)
 - [Steam dolara geçti](https://wolkanca.com/steam-dolara-gecti/)
 - [Google Haritalar yeni renkler](https://wolkanca.com/google-haritalar-yeni-renkler/)
 - [X İş İlanları platformu açıldı](https://wolkanca.com/x-is-ilanlari-platformu-acildi/)
@@ -31,7 +32,6 @@
 - [Fakespot Chat](https://wolkanca.com/fakespot-chat/)
 - [Microsoft Edge kaldırmak](https://wolkanca.com/microsoft-edge-kaldirmak/)
 - [M3 işlemcili cihazlar için incelemeler](https://wolkanca.com/m3-islemcili-cihazlar-icin-incelemeler/)
-- [2 günlük Cloudflare kesintisi](https://wolkanca.com/2-gunluk-cloudflare-kesintisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
