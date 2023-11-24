@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Search Console robots.txt raporu](https://wolkanca.com/google-search-console-robots-txt-raporu/)
 - [Bard Youtube videolarını izliyor ve anlıyor](https://wolkanca.com/bard-youtube-videolarini-izliyor-ve-anliyor/)
 - [Dünyanın en iyi 100 markası](https://wolkanca.com/dunyanin-en-iyi-100-markasi/)
 - [WhatsApp’da, e-posta ile hesap doğrulama](https://wolkanca.com/whatsappda-e-posta-ile-hesap-dogrulama/)
@@ -31,7 +32,6 @@
 - [Grand Theft Auto 6 fragmanı ile rekorlar kırıyor](https://wolkanca.com/grand-theft-auto-6-fragmani-ile-rekorlar-kiriyor/)
 - [Formatsız Windows 11’e geçiş](https://wolkanca.com/formatsiz-windows-11e-gecis/)
 - [Call of Duty: Modern Warfare III 2023 çıktı](https://wolkanca.com/call-of-duty-modern-warfare-iii-2023-cikti/)
-- [NASA Plus açıldı](https://wolkanca.com/nasa-plus-acildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
