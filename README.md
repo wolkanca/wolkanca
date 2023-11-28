@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ücretsiz Assassin’s Creed](https://wolkanca.com/ucretsiz-assassins-creed/)
 - [Aquaman 2 yeni fragman](https://wolkanca.com/aquaman-2-yeni-fragman/)
 - [ChatGPT artık sesli cevap verebiliyor](https://wolkanca.com/chatgpt-artik-sesli-cevap-verebiliyor/)
 - [Google Search Console robots.txt raporu](https://wolkanca.com/google-search-console-robots-txt-raporu/)
@@ -31,7 +32,6 @@
 - [Google, arama sonuçlarında notlar ve takip](https://wolkanca.com/google-arama-sonuclarinda-notlar-ve-takip/)
 - [Ölümlü Dünya 2 Fragmanı](https://wolkanca.com/olumlu-dunya-2-fragmani/)
 - [Vave BG – ücretsiz arka plan görselleri](https://wolkanca.com/vave-bg-ucretsiz-arka-plan-gorselleri/)
-- [Grand Theft Auto 6 fragmanı ile rekorlar kırıyor](https://wolkanca.com/grand-theft-auto-6-fragmani-ile-rekorlar-kiriyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
