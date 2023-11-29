@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’dan “.meme” alan adı](https://wolkanca.com/googledan-meme-alan-adi/)
 - [Stable Video Diffusion](https://wolkanca.com/stable-video-diffusion/)
 - [Ücretsiz Assassin’s Creed](https://wolkanca.com/ucretsiz-assassins-creed/)
 - [Aquaman 2 yeni fragman](https://wolkanca.com/aquaman-2-yeni-fragman/)
@@ -31,7 +32,6 @@
 - [X İş İlanları platformu açıldı](https://wolkanca.com/x-is-ilanlari-platformu-acildi/)
 - [Half-Life bir süre ücretsiz oldu](https://wolkanca.com/half-life-bir-sure-ucretsiz-oldu/)
 - [Google, arama sonuçlarında notlar ve takip](https://wolkanca.com/google-arama-sonuclarinda-notlar-ve-takip/)
-- [Ölümlü Dünya 2 Fragmanı](https://wolkanca.com/olumlu-dunya-2-fragmani/)
 <!-- BLOG-POST-LIST:END -->
 
 
