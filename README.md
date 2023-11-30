@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [En iyi mobil uygulama ve oyunlar 2023](https://wolkanca.com/en-iyi-mobil-uygulama-ve-oyunlar-2023/)
 - [Google’dan “.meme” alan adı](https://wolkanca.com/googledan-meme-alan-adi/)
 - [Stable Video Diffusion](https://wolkanca.com/stable-video-diffusion/)
 - [Ücretsiz Assassin’s Creed](https://wolkanca.com/ucretsiz-assassins-creed/)
@@ -31,7 +32,6 @@
 - [Google Haritalar yeni renkler](https://wolkanca.com/google-haritalar-yeni-renkler/)
 - [X İş İlanları platformu açıldı](https://wolkanca.com/x-is-ilanlari-platformu-acildi/)
 - [Half-Life bir süre ücretsiz oldu](https://wolkanca.com/half-life-bir-sure-ucretsiz-oldu/)
-- [Google, arama sonuçlarında notlar ve takip](https://wolkanca.com/google-arama-sonuclarinda-notlar-ve-takip/)
 <!-- BLOG-POST-LIST:END -->
 
 
