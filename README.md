@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İlber Ortaylı’nın tavsiye ettiği kitaplar](https://wolkanca.com/ilber-ortaylinin-tavsiye-ettigi-kitaplar/)
 - [Reddit logo ve fontu değiştirdi](https://wolkanca.com/reddit-logo-ve-fontu-degistirdi/)
 - [Google’dan “.meme” alan adı](https://wolkanca.com/googledan-meme-alan-adi/)
 - [Stable Video Diffusion](https://wolkanca.com/stable-video-diffusion/)
@@ -31,7 +32,6 @@
 - [Steam dolara geçti](https://wolkanca.com/steam-dolara-gecti/)
 - [Google Haritalar yeni renkler](https://wolkanca.com/google-haritalar-yeni-renkler/)
 - [X İş İlanları platformu açıldı](https://wolkanca.com/x-is-ilanlari-platformu-acildi/)
-- [Half-Life bir süre ücretsiz oldu](https://wolkanca.com/half-life-bir-sure-ucretsiz-oldu/)
 <!-- BLOG-POST-LIST:END -->
 
 
