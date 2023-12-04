@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GTA 6 şehir görüntüleri](https://wolkanca.com/gta-6-sehir-goruntuleri/)
 - [İlber Ortaylı’nın tavsiye ettiği kitaplar](https://wolkanca.com/ilber-ortaylinin-tavsiye-ettigi-kitaplar/)
 - [Reddit logo ve fontu değiştirdi](https://wolkanca.com/reddit-logo-ve-fontu-degistirdi/)
 - [Google’dan “.meme” alan adı](https://wolkanca.com/googledan-meme-alan-adi/)
@@ -31,7 +32,6 @@
 - [En iyi 250 film listesi – 2023](https://wolkanca.com/en-iyi-250-film-listesi-2023/)
 - [Steam dolara geçti](https://wolkanca.com/steam-dolara-gecti/)
 - [Google Haritalar yeni renkler](https://wolkanca.com/google-haritalar-yeni-renkler/)
-- [X İş İlanları platformu açıldı](https://wolkanca.com/x-is-ilanlari-platformu-acildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
