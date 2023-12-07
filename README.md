@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cem Yılmaz CMXXIV – 2024](https://wolkanca.com/cem-yilmaz-cmxxiv-2024/)
 - [Gibi 5. sezon çekimleri başladı](https://wolkanca.com/gibi-5-sezon-cekimleri-basladi/)
 - [GTA 6 fragmanı yayınlandı](https://wolkanca.com/gta-6-fragmani-yayinlandi/)
 - [GTA 6 şehir görüntüleri](https://wolkanca.com/gta-6-sehir-goruntuleri/)
@@ -31,7 +32,6 @@
 - [Bard Youtube videolarını izliyor ve anlıyor](https://wolkanca.com/bard-youtube-videolarini-izliyor-ve-anliyor/)
 - [Dünyanın en iyi 100 markası](https://wolkanca.com/dunyanin-en-iyi-100-markasi/)
 - [WhatsApp’da, e-posta ile hesap doğrulama](https://wolkanca.com/whatsappda-e-posta-ile-hesap-dogrulama/)
-- [En iyi 250 film listesi – 2023](https://wolkanca.com/en-iyi-250-film-listesi-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
