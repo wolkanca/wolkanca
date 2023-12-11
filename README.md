@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Year in Search 2023 – Google](https://wolkanca.com/year-in-search-2023-google/)
 - [WhatsApp tek kullanımlık gönderi özelliği](https://wolkanca.com/whatsapp-tek-kullanimlik-gonderi-ozelligi/)
 - [Vize istemeyen ülkeler](https://wolkanca.com/vize-istemeyen-ulkeler/)
 - [Diller nereden geliyor?](https://wolkanca.com/diller-nereden-geliyor/)
@@ -31,7 +32,6 @@
 - [Ücretsiz Assassin’s Creed](https://wolkanca.com/ucretsiz-assassins-creed/)
 - [Aquaman 2 yeni fragman](https://wolkanca.com/aquaman-2-yeni-fragman/)
 - [ChatGPT artık sesli cevap verebiliyor](https://wolkanca.com/chatgpt-artik-sesli-cevap-verebiliyor/)
-- [Google Search Console robots.txt raporu](https://wolkanca.com/google-search-console-robots-txt-raporu/)
 <!-- BLOG-POST-LIST:END -->
 
 
