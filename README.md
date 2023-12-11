@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp tek kullanımlık gönderi özelliği](https://wolkanca.com/whatsapp-tek-kullanimlik-gonderi-ozelligi/)
 - [Vize istemeyen ülkeler](https://wolkanca.com/vize-istemeyen-ulkeler/)
 - [Diller nereden geliyor?](https://wolkanca.com/diller-nereden-geliyor/)
 - [Cem Yılmaz CMXXIV – 2024](https://wolkanca.com/cem-yilmaz-cmxxiv-2024/)
@@ -31,7 +32,6 @@
 - [Aquaman 2 yeni fragman](https://wolkanca.com/aquaman-2-yeni-fragman/)
 - [ChatGPT artık sesli cevap verebiliyor](https://wolkanca.com/chatgpt-artik-sesli-cevap-verebiliyor/)
 - [Google Search Console robots.txt raporu](https://wolkanca.com/google-search-console-robots-txt-raporu/)
-- [Bard Youtube videolarını izliyor ve anlıyor](https://wolkanca.com/bard-youtube-videolarini-izliyor-ve-anliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
