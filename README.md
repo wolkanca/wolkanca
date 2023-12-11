@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vize istemeyen ülkeler](https://wolkanca.com/vize-istemeyen-ulkeler/)
 - [Diller nereden geliyor?](https://wolkanca.com/diller-nereden-geliyor/)
 - [Cem Yılmaz CMXXIV – 2024](https://wolkanca.com/cem-yilmaz-cmxxiv-2024/)
 - [Gibi 5. sezon çekimleri başladı](https://wolkanca.com/gibi-5-sezon-cekimleri-basladi/)
@@ -31,7 +32,6 @@
 - [ChatGPT artık sesli cevap verebiliyor](https://wolkanca.com/chatgpt-artik-sesli-cevap-verebiliyor/)
 - [Google Search Console robots.txt raporu](https://wolkanca.com/google-search-console-robots-txt-raporu/)
 - [Bard Youtube videolarını izliyor ve anlıyor](https://wolkanca.com/bard-youtube-videolarini-izliyor-ve-anliyor/)
-- [Dünyanın en iyi 100 markası](https://wolkanca.com/dunyanin-en-iyi-100-markasi/)
 <!-- BLOG-POST-LIST:END -->
 
 
