@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimus – Gen 2](https://wolkanca.com/optimus-gen-2/)
 - [Year in Search 2023 – Google](https://wolkanca.com/year-in-search-2023-google/)
 - [WhatsApp tek kullanımlık gönderi özelliği](https://wolkanca.com/whatsapp-tek-kullanimlik-gonderi-ozelligi/)
 - [Vize istemeyen ülkeler](https://wolkanca.com/vize-istemeyen-ulkeler/)
@@ -31,7 +32,6 @@
 - [Google’dan “.meme” alan adı](https://wolkanca.com/googledan-meme-alan-adi/)
 - [Stable Video Diffusion](https://wolkanca.com/stable-video-diffusion/)
 - [Ücretsiz Assassin’s Creed](https://wolkanca.com/ucretsiz-assassins-creed/)
-- [Aquaman 2 yeni fragman](https://wolkanca.com/aquaman-2-yeni-fragman/)
 <!-- BLOG-POST-LIST:END -->
 
 
