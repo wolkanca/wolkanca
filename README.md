@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitch’te “Legal Müstehcenlik” dönemi](https://wolkanca.com/twitchte-legal-mustehcenlik-donemi/)
 - [“Dünyayı Ardında Bırak” filmi](https://wolkanca.com/dunyayi-ardinda-birak-filmi/)
 - [Optimus – Gen 2](https://wolkanca.com/optimus-gen-2/)
 - [Year in Search 2023 – Google](https://wolkanca.com/year-in-search-2023-google/)
@@ -31,7 +32,6 @@
 - [Reddit logo ve fontu değiştirdi](https://wolkanca.com/reddit-logo-ve-fontu-degistirdi/)
 - [En iyi mobil uygulama ve oyunlar 2023](https://wolkanca.com/en-iyi-mobil-uygulama-ve-oyunlar-2023/)
 - [Google’dan “.meme” alan adı](https://wolkanca.com/googledan-meme-alan-adi/)
-- [Stable Video Diffusion](https://wolkanca.com/stable-video-diffusion/)
 <!-- BLOG-POST-LIST:END -->
 
 
