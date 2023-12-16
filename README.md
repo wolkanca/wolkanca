@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BTK 15 VPN servisini engelleyecek mi?](https://wolkanca.com/btk-15-vpn-servisini-engelleyecek-mi/)
 - [Twitch’te “Legal Müstehcenlik” dönemi](https://wolkanca.com/twitchte-legal-mustehcenlik-donemi/)
 - [“Dünyayı Ardında Bırak” filmi](https://wolkanca.com/dunyayi-ardinda-birak-filmi/)
 - [Optimus – Gen 2](https://wolkanca.com/optimus-gen-2/)
@@ -31,7 +32,6 @@
 - [İlber Ortaylı’nın tavsiye ettiği kitaplar](https://wolkanca.com/ilber-ortaylinin-tavsiye-ettigi-kitaplar/)
 - [Reddit logo ve fontu değiştirdi](https://wolkanca.com/reddit-logo-ve-fontu-degistirdi/)
 - [En iyi mobil uygulama ve oyunlar 2023](https://wolkanca.com/en-iyi-mobil-uygulama-ve-oyunlar-2023/)
-- [Google’dan “.meme” alan adı](https://wolkanca.com/googledan-meme-alan-adi/)
 <!-- BLOG-POST-LIST:END -->
 
 
