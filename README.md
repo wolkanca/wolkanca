@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2024’ün en çok beklenen filmleri](https://wolkanca.com/2024un-en-cok-beklenen-filmleri/)
 - [Headless SEO nedir?](https://wolkanca.com/headless-seo-nedir/)
 - [Out of Darkness: Taş Devri’nden Gelen Korku](https://wolkanca.com/out-of-darkness-tas-devrinden-gelen-korku/)
 - [Dünyanın en yaşanabilir şehirleri 2023](https://wolkanca.com/dunyanin-en-yasanabilir-sehirleri-2023/)
@@ -31,7 +32,6 @@
 - [Cem Yılmaz CMXXIV – 2024](https://wolkanca.com/cem-yilmaz-cmxxiv-2024/)
 - [Gibi 5. sezon çekimleri başladı](https://wolkanca.com/gibi-5-sezon-cekimleri-basladi/)
 - [GTA 6 fragmanı yayınlandı](https://wolkanca.com/gta-6-fragmani-yayinlandi/)
-- [GTA 6 şehir görüntüleri](https://wolkanca.com/gta-6-sehir-goruntuleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
