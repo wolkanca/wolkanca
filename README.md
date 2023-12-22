@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yapay zeka ile kediler](https://wolkanca.com/yapay-zeka-ile-kediler/)
 - [Sıfır tıklama saldırısı ne demek](https://wolkanca.com/sifir-tiklama-saldirisi-ne-demek/)
 - [2024’ün en çok beklenen filmleri](https://wolkanca.com/2024un-en-cok-beklenen-filmleri/)
 - [Headless SEO nedir?](https://wolkanca.com/headless-seo-nedir/)
@@ -31,7 +32,6 @@
 - [Vize istemeyen ülkeler](https://wolkanca.com/vize-istemeyen-ulkeler/)
 - [Diller nereden geliyor?](https://wolkanca.com/diller-nereden-geliyor/)
 - [Cem Yılmaz CMXXIV – 2024](https://wolkanca.com/cem-yilmaz-cmxxiv-2024/)
-- [Gibi 5. sezon çekimleri başladı](https://wolkanca.com/gibi-5-sezon-cekimleri-basladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
