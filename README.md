@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Uranüs’ün en ayrıntılı fotoğrafı](https://wolkanca.com/uranusun-en-ayrintili-fotografi/)
 - [Yapay zeka ile kediler](https://wolkanca.com/yapay-zeka-ile-kediler/)
 - [Sıfır tıklama saldırısı ne demek](https://wolkanca.com/sifir-tiklama-saldirisi-ne-demek/)
 - [2024’ün en çok beklenen filmleri](https://wolkanca.com/2024un-en-cok-beklenen-filmleri/)
@@ -31,7 +32,6 @@
 - [WhatsApp tek kullanımlık gönderi özelliği](https://wolkanca.com/whatsapp-tek-kullanimlik-gonderi-ozelligi/)
 - [Vize istemeyen ülkeler](https://wolkanca.com/vize-istemeyen-ulkeler/)
 - [Diller nereden geliyor?](https://wolkanca.com/diller-nereden-geliyor/)
-- [Cem Yılmaz CMXXIV – 2024](https://wolkanca.com/cem-yilmaz-cmxxiv-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 
