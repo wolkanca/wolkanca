@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Android’den iOS’a geçmek](https://wolkanca.com/androidden-iosa-gecmek/)
 - [Uranüs’ün en ayrıntılı fotoğrafı](https://wolkanca.com/uranusun-en-ayrintili-fotografi/)
 - [Yapay zeka ile kediler](https://wolkanca.com/yapay-zeka-ile-kediler/)
 - [Sıfır tıklama saldırısı ne demek](https://wolkanca.com/sifir-tiklama-saldirisi-ne-demek/)
@@ -31,7 +32,6 @@
 - [Year in Search 2023 – Google](https://wolkanca.com/year-in-search-2023-google/)
 - [WhatsApp tek kullanımlık gönderi özelliği](https://wolkanca.com/whatsapp-tek-kullanimlik-gonderi-ozelligi/)
 - [Vize istemeyen ülkeler](https://wolkanca.com/vize-istemeyen-ulkeler/)
-- [Diller nereden geliyor?](https://wolkanca.com/diller-nereden-geliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
