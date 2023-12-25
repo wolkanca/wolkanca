@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple’ın yapay zeka aracı Ferret](https://wolkanca.com/applein-yapay-zeka-araci-ferret/)
 - [Android’den iOS’a geçmek](https://wolkanca.com/androidden-iosa-gecmek/)
 - [Uranüs’ün en ayrıntılı fotoğrafı](https://wolkanca.com/uranusun-en-ayrintili-fotografi/)
 - [Yapay zeka ile kediler](https://wolkanca.com/yapay-zeka-ile-kediler/)
@@ -31,7 +32,6 @@
 - [Optimus – Gen 2](https://wolkanca.com/optimus-gen-2/)
 - [Year in Search 2023 – Google](https://wolkanca.com/year-in-search-2023-google/)
 - [WhatsApp tek kullanımlık gönderi özelliği](https://wolkanca.com/whatsapp-tek-kullanimlik-gonderi-ozelligi/)
-- [Vize istemeyen ülkeler](https://wolkanca.com/vize-istemeyen-ulkeler/)
 <!-- BLOG-POST-LIST:END -->
 
 
