@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Warner Bros. Discovery, BluTV’yi satın aldı](https://wolkanca.com/warner-bros-discovery-blutvyi-satin-aldi/)
 - [Ölümlü Dünya filmi izlemek](https://wolkanca.com/olumlu-dunya-filmi-izlemek/)
 - [Apple’ın yapay zeka aracı Ferret](https://wolkanca.com/applein-yapay-zeka-araci-ferret/)
 - [Android’den iOS’a geçmek](https://wolkanca.com/androidden-iosa-gecmek/)
@@ -31,7 +32,6 @@
 - [Twitch’te “Legal Müstehcenlik” dönemi](https://wolkanca.com/twitchte-legal-mustehcenlik-donemi/)
 - [“Dünyayı Ardında Bırak” filmi](https://wolkanca.com/dunyayi-ardinda-birak-filmi/)
 - [Optimus – Gen 2](https://wolkanca.com/optimus-gen-2/)
-- [Year in Search 2023 – Google](https://wolkanca.com/year-in-search-2023-google/)
 <!-- BLOG-POST-LIST:END -->
 
 
