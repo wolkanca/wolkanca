@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4 ve DALL-E 3 ücretsiz oldu](https://wolkanca.com/gpt-4-ve-dall-e-3-ucretsiz-oldu/)
 - [Işığı maddeye dönüştürmek](https://wolkanca.com/isigi-maddeye-donusturmek/)
 - [Google Chrome gizlilik ihlalinden cezalandırıldı](https://wolkanca.com/google-chrome-gizlilik-ihlalinden-cezalandirildi/)
 - [Amazon Prime Video reklam gösterecek](https://wolkanca.com/amazon-prime-video-reklam-gosterecek/)
@@ -31,7 +32,6 @@
 - [Headless SEO nedir?](https://wolkanca.com/headless-seo-nedir/)
 - [Out of Darkness: Taş Devri’nden Gelen Korku](https://wolkanca.com/out-of-darkness-tas-devrinden-gelen-korku/)
 - [Dünyanın en yaşanabilir şehirleri 2023](https://wolkanca.com/dunyanin-en-yasanabilir-sehirleri-2023/)
-- [BTK 15 VPN servisini engelleyecek mi?](https://wolkanca.com/btk-15-vpn-servisini-engelleyecek-mi/)
 <!-- BLOG-POST-LIST:END -->
 
 
