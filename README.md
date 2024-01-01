@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 sinemalarda en çok izlenen filmler](https://wolkanca.com/2023-sinemalarda-en-cok-izlenen-filmler/)
 - [Merhaba 2024, mutlu yıllar!](https://wolkanca.com/merhaba-2024-mutlu-yillar/)
 - [GPT-4 ve DALL-E 3 ücretsiz oldu](https://wolkanca.com/gpt-4-ve-dall-e-3-ucretsiz-oldu/)
 - [Işığı maddeye dönüştürmek](https://wolkanca.com/isigi-maddeye-donusturmek/)
@@ -31,7 +32,6 @@
 - [Sıfır tıklama saldırısı ne demek](https://wolkanca.com/sifir-tiklama-saldirisi-ne-demek/)
 - [2024’ün en çok beklenen filmleri](https://wolkanca.com/2024un-en-cok-beklenen-filmleri/)
 - [Headless SEO nedir?](https://wolkanca.com/headless-seo-nedir/)
-- [Out of Darkness: Taş Devri’nden Gelen Korku](https://wolkanca.com/out-of-darkness-tas-devrinden-gelen-korku/)
 <!-- BLOG-POST-LIST:END -->
 
 
