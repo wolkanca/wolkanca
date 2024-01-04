@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beni anlatan belgesel](https://wolkanca.com/beni-anlatan-belgesel/)
 - [Sahibinden.com’a ne oldu?](https://wolkanca.com/sahibinden-coma-ne-oldu/)
 - [2023 sinemalarda en çok izlenen filmler](https://wolkanca.com/2023-sinemalarda-en-cok-izlenen-filmler/)
 - [Merhaba 2024, mutlu yıllar!](https://wolkanca.com/merhaba-2024-mutlu-yillar/)
@@ -31,7 +32,6 @@
 - [Uranüs’ün en ayrıntılı fotoğrafı](https://wolkanca.com/uranusun-en-ayrintili-fotografi/)
 - [Yapay zeka ile kediler](https://wolkanca.com/yapay-zeka-ile-kediler/)
 - [Sıfır tıklama saldırısı ne demek](https://wolkanca.com/sifir-tiklama-saldirisi-ne-demek/)
-- [2024’ün en çok beklenen filmleri](https://wolkanca.com/2024un-en-cok-beklenen-filmleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
