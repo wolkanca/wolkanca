@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cem Yılmaz CMXXIV başladı](https://wolkanca.com/cem-yilmaz-cmxxiv-basladi/)
 - [Excel’de joker karakter](https://wolkanca.com/excelde-joker-karakter/)
 - [Türkiye’de en çok satılan otomobiller &lpar;2023&rpar;](https://wolkanca.com/turkiyede-en-cok-satilan-otomobiller-2023/)
 - [LinkedIn profiliniz maaşınızı artırabilir mi?](https://wolkanca.com/linkedin-profiliniz-maasinizi-artirabilir-mi/)
@@ -31,7 +32,6 @@
 - [Amazon Prime Video reklam gösterecek](https://wolkanca.com/amazon-prime-video-reklam-gosterecek/)
 - [Warner Bros. Discovery, BluTV’yi satın aldı](https://wolkanca.com/warner-bros-discovery-blutvyi-satin-aldi/)
 - [Ölümlü Dünya filmi izlemek](https://wolkanca.com/olumlu-dunya-filmi-izlemek/)
-- [Apple’ın yapay zeka aracı Ferret](https://wolkanca.com/applein-yapay-zeka-araci-ferret/)
 <!-- BLOG-POST-LIST:END -->
 
 
