@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Napolyon filmi, Apple TV+’da ücretsiz](https://wolkanca.com/napolyon-filmi-apple-tvda-ucretsiz/)
+- [Wi-R bağlantısı](https://wolkanca.com/wi-r-baglantisi/)
 - [Echo dizisi Disney+’ta başladı](https://wolkanca.com/echo-dizisi-disneyta-basladi/)
 - [The Walking Dead 2024](https://wolkanca.com/the-walking-dead-2024/)
 - [Cem Yılmaz CMXXIV başladı](https://wolkanca.com/cem-yilmaz-cmxxiv-basladi/)
@@ -30,8 +32,6 @@
 - [Merhaba 2024, mutlu yıllar!](https://wolkanca.com/merhaba-2024-mutlu-yillar/)
 - [GPT-4 ve DALL-E 3 ücretsiz oldu](https://wolkanca.com/gpt-4-ve-dall-e-3-ucretsiz-oldu/)
 - [Işığı maddeye dönüştürmek](https://wolkanca.com/isigi-maddeye-donusturmek/)
-- [Google Chrome gizlilik ihlalinden cezalandırıldı](https://wolkanca.com/google-chrome-gizlilik-ihlalinden-cezalandirildi/)
-- [Amazon Prime Video reklam gösterecek](https://wolkanca.com/amazon-prime-video-reklam-gosterecek/)
 <!-- BLOG-POST-LIST:END -->
 
 
