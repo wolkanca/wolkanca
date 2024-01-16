@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deepfake’den korunma yolları](https://wolkanca.com/deepfakeden-korunma-yollari/)
 - [Michael &lpar;2025&rpar;](https://wolkanca.com/michael-2025/)
 - [YouTube Music menü tasarımı değişiyor](https://wolkanca.com/youtube-music-menu-tasarimi-degisiyor/)
 - [Napolyon filmi, Apple TV+’da ücretsiz](https://wolkanca.com/napolyon-filmi-apple-tvda-ucretsiz/)
@@ -31,7 +32,6 @@
 - [Beni anlatan belgesel](https://wolkanca.com/beni-anlatan-belgesel/)
 - [Sahibinden.com’a ne oldu?](https://wolkanca.com/sahibinden-coma-ne-oldu/)
 - [2023 sinemalarda en çok izlenen filmler](https://wolkanca.com/2023-sinemalarda-en-cok-izlenen-filmler/)
-- [Merhaba 2024, mutlu yıllar!](https://wolkanca.com/merhaba-2024-mutlu-yillar/)
 <!-- BLOG-POST-LIST:END -->
 
 
