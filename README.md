@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turkcell kullanım bildirimi](https://wolkanca.com/turkcell-kullanim-bildirimi/)
 - [Evreni Yutan Çocuk – Netflix](https://wolkanca.com/evreni-yutan-cocuk-netflix/)
 - [Deepfake’den korunma yolları](https://wolkanca.com/deepfakeden-korunma-yollari/)
 - [Michael &lpar;2025&rpar;](https://wolkanca.com/michael-2025/)
@@ -31,7 +32,6 @@
 - [LinkedIn profiliniz maaşınızı artırabilir mi?](https://wolkanca.com/linkedin-profiliniz-maasinizi-artirabilir-mi/)
 - [Atatürk Adana gezisi](https://wolkanca.com/ataturk-adana-gezisi/)
 - [Beni anlatan belgesel](https://wolkanca.com/beni-anlatan-belgesel/)
-- [Sahibinden.com’a ne oldu?](https://wolkanca.com/sahibinden-coma-ne-oldu/)
 <!-- BLOG-POST-LIST:END -->
 
 
