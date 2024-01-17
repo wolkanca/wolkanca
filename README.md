@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evreni Yutan Çocuk – Netflix](https://wolkanca.com/evreni-yutan-cocuk-netflix/)
 - [Deepfake’den korunma yolları](https://wolkanca.com/deepfakeden-korunma-yollari/)
 - [Michael &lpar;2025&rpar;](https://wolkanca.com/michael-2025/)
 - [YouTube Music menü tasarımı değişiyor](https://wolkanca.com/youtube-music-menu-tasarimi-degisiyor/)
@@ -31,7 +32,6 @@
 - [Atatürk Adana gezisi](https://wolkanca.com/ataturk-adana-gezisi/)
 - [Beni anlatan belgesel](https://wolkanca.com/beni-anlatan-belgesel/)
 - [Sahibinden.com’a ne oldu?](https://wolkanca.com/sahibinden-coma-ne-oldu/)
-- [2023 sinemalarda en çok izlenen filmler](https://wolkanca.com/2023-sinemalarda-en-cok-izlenen-filmler/)
 <!-- BLOG-POST-LIST:END -->
 
 
