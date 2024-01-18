@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Uzaya çıktık](https://wolkanca.com/uzaya-ciktik/)
 - [Turkcell kullanım bildirimi](https://wolkanca.com/turkcell-kullanim-bildirimi/)
 - [Evreni Yutan Çocuk – Netflix](https://wolkanca.com/evreni-yutan-cocuk-netflix/)
 - [Deepfake’den korunma yolları](https://wolkanca.com/deepfakeden-korunma-yollari/)
@@ -31,7 +32,6 @@
 - [Türkiye’de en çok satılan otomobiller &lpar;2023&rpar;](https://wolkanca.com/turkiyede-en-cok-satilan-otomobiller-2023/)
 - [LinkedIn profiliniz maaşınızı artırabilir mi?](https://wolkanca.com/linkedin-profiliniz-maasinizi-artirabilir-mi/)
 - [Atatürk Adana gezisi](https://wolkanca.com/ataturk-adana-gezisi/)
-- [Beni anlatan belgesel](https://wolkanca.com/beni-anlatan-belgesel/)
 <!-- BLOG-POST-LIST:END -->
 
 
