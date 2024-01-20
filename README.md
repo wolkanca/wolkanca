@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Grand Test Auto XXIV](https://wolkanca.com/grand-test-auto-xxiv/)
 - [Uzaya çıktık](https://wolkanca.com/uzaya-ciktik/)
 - [Turkcell kullanım bildirimi](https://wolkanca.com/turkcell-kullanim-bildirimi/)
 - [Evreni Yutan Çocuk – Netflix](https://wolkanca.com/evreni-yutan-cocuk-netflix/)
@@ -31,7 +32,6 @@
 - [Excel’de joker karakter](https://wolkanca.com/excelde-joker-karakter/)
 - [Türkiye’de en çok satılan otomobiller &lpar;2023&rpar;](https://wolkanca.com/turkiyede-en-cok-satilan-otomobiller-2023/)
 - [LinkedIn profiliniz maaşınızı artırabilir mi?](https://wolkanca.com/linkedin-profiliniz-maasinizi-artirabilir-mi/)
-- [Atatürk Adana gezisi](https://wolkanca.com/ataturk-adana-gezisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
