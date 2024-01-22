@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iOS 17.3 bu hafta geliyor](https://wolkanca.com/ios-17-3-bu-hafta-geliyor/)
 - [Bard kod yazabiliyor](https://wolkanca.com/bard-kod-yazabiliyor/)
 - [Grand Test Auto XXIV](https://wolkanca.com/grand-test-auto-xxiv/)
 - [Uzaya çıktık](https://wolkanca.com/uzaya-ciktik/)
@@ -31,7 +32,6 @@
 - [The Walking Dead 2024](https://wolkanca.com/the-walking-dead-2024/)
 - [Cem Yılmaz CMXXIV başladı](https://wolkanca.com/cem-yilmaz-cmxxiv-basladi/)
 - [Excel’de joker karakter](https://wolkanca.com/excelde-joker-karakter/)
-- [Türkiye’de en çok satılan otomobiller &lpar;2023&rpar;](https://wolkanca.com/turkiyede-en-cok-satilan-otomobiller-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
