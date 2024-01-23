@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ayşen Gruda](https://wolkanca.com/aysen-gruda/)
 - [iOS 17.3 bu hafta geliyor](https://wolkanca.com/ios-17-3-bu-hafta-geliyor/)
 - [Bard kod yazabiliyor](https://wolkanca.com/bard-kod-yazabiliyor/)
 - [Grand Test Auto XXIV](https://wolkanca.com/grand-test-auto-xxiv/)
@@ -31,7 +32,6 @@
 - [Echo dizisi Disney+’ta başladı](https://wolkanca.com/echo-dizisi-disneyta-basladi/)
 - [The Walking Dead 2024](https://wolkanca.com/the-walking-dead-2024/)
 - [Cem Yılmaz CMXXIV başladı](https://wolkanca.com/cem-yilmaz-cmxxiv-basladi/)
-- [Excel’de joker karakter](https://wolkanca.com/excelde-joker-karakter/)
 <!-- BLOG-POST-LIST:END -->
 
 
