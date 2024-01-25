@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ücretsiz HTML hosting](https://wolkanca.com/ucretsiz-html-hosting/)
 - [Gogole Chrome AI özellikleri](https://wolkanca.com/gogole-chrome-ai-ozellikleri/)
 - [Ayşen Gruda](https://wolkanca.com/aysen-gruda/)
 - [iOS 17.3 bu hafta geliyor](https://wolkanca.com/ios-17-3-bu-hafta-geliyor/)
@@ -31,7 +32,6 @@
 - [Napolyon filmi, Apple TV+’da ücretsiz](https://wolkanca.com/napolyon-filmi-apple-tvda-ucretsiz/)
 - [Wi-R bağlantısı](https://wolkanca.com/wi-r-baglantisi/)
 - [Echo dizisi Disney+’ta başladı](https://wolkanca.com/echo-dizisi-disneyta-basladi/)
-- [The Walking Dead 2024](https://wolkanca.com/the-walking-dead-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 
