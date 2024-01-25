@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Şu an saat kaç – UTC](https://wolkanca.com/su-an-saat-kac-utc/)
 - [Ücretsiz HTML hosting](https://wolkanca.com/ucretsiz-html-hosting/)
 - [Gogole Chrome AI özellikleri](https://wolkanca.com/gogole-chrome-ai-ozellikleri/)
 - [Ayşen Gruda](https://wolkanca.com/aysen-gruda/)
@@ -31,7 +32,6 @@
 - [YouTube Music menü tasarımı değişiyor](https://wolkanca.com/youtube-music-menu-tasarimi-degisiyor/)
 - [Napolyon filmi, Apple TV+’da ücretsiz](https://wolkanca.com/napolyon-filmi-apple-tvda-ucretsiz/)
 - [Wi-R bağlantısı](https://wolkanca.com/wi-r-baglantisi/)
-- [Echo dizisi Disney+’ta başladı](https://wolkanca.com/echo-dizisi-disneyta-basladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
