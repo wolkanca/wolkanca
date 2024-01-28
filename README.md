@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Avrupa maçları TRT’de](https://wolkanca.com/avrupa-maclari-trtde/)
 - [Google Lumiere](https://wolkanca.com/google-lumiere/)
 - [Şu an saat kaç – UTC](https://wolkanca.com/su-an-saat-kac-utc/)
 - [Ücretsiz HTML hosting](https://wolkanca.com/ucretsiz-html-hosting/)
@@ -31,7 +32,6 @@
 - [Deepfake’den korunma yolları](https://wolkanca.com/deepfakeden-korunma-yollari/)
 - [Michael &lpar;2025&rpar;](https://wolkanca.com/michael-2025/)
 - [YouTube Music menü tasarımı değişiyor](https://wolkanca.com/youtube-music-menu-tasarimi-degisiyor/)
-- [Napolyon filmi, Apple TV+’da ücretsiz](https://wolkanca.com/napolyon-filmi-apple-tvda-ucretsiz/)
 <!-- BLOG-POST-LIST:END -->
 
 
