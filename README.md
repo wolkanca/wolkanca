@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bankalarda “Ödeme İste sistemi” başladı](https://wolkanca.com/bankalarda-odeme-iste-sistemi-basladi/)
 - [Avrupa maçları TRT’de](https://wolkanca.com/avrupa-maclari-trtde/)
 - [Google Lumiere](https://wolkanca.com/google-lumiere/)
 - [Şu an saat kaç – UTC](https://wolkanca.com/su-an-saat-kac-utc/)
@@ -31,7 +32,6 @@
 - [Evreni Yutan Çocuk – Netflix](https://wolkanca.com/evreni-yutan-cocuk-netflix/)
 - [Deepfake’den korunma yolları](https://wolkanca.com/deepfakeden-korunma-yollari/)
 - [Michael &lpar;2025&rpar;](https://wolkanca.com/michael-2025/)
-- [YouTube Music menü tasarımı değişiyor](https://wolkanca.com/youtube-music-menu-tasarimi-degisiyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
