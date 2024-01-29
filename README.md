@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google SEO Başlangıç Kılavuzu değişiyor](https://wolkanca.com/google-seo-baslangic-kilavuzu-degisiyor/)
 - [Bankalarda “Ödeme İste sistemi” başladı](https://wolkanca.com/bankalarda-odeme-iste-sistemi-basladi/)
 - [Avrupa maçları TRT’de](https://wolkanca.com/avrupa-maclari-trtde/)
 - [Google Lumiere](https://wolkanca.com/google-lumiere/)
@@ -31,7 +32,6 @@
 - [Turkcell kullanım bildirimi](https://wolkanca.com/turkcell-kullanim-bildirimi/)
 - [Evreni Yutan Çocuk – Netflix](https://wolkanca.com/evreni-yutan-cocuk-netflix/)
 - [Deepfake’den korunma yolları](https://wolkanca.com/deepfakeden-korunma-yollari/)
-- [Michael &lpar;2025&rpar;](https://wolkanca.com/michael-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 
