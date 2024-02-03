@@ -17,7 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google’da Önbelleği göster bağlantısı kaldırıldı](https://wolkanca.com/googleda-onbellegi-goster-baglantisi-kaldirildi/)
+- [Google Haritalar yapay zeka](https://wolkanca.com/google-haritalar-yapay-zeka/)
+- [Google’da önbelleği göster bağlantısı kaldırıldı](https://wolkanca.com/googleda-onbellegi-goster-baglantisi-kaldirildi/)
 - [The Day the Earth Caught Fire](https://wolkanca.com/the-day-the-earth-caught-fire/)
 - [Şubat’ta Netflix’e eklenecekler](https://wolkanca.com/subatta-netflixe-eklenecekler/)
 - [Google SEO Başlangıç Kılavuzu değişiyor](https://wolkanca.com/google-seo-baslangic-kilavuzu-degisiyor/)
@@ -31,7 +32,6 @@
 - [iOS 17.3 bu hafta geliyor](https://wolkanca.com/ios-17-3-bu-hafta-geliyor/)
 - [Bard kod yazabiliyor](https://wolkanca.com/bard-kod-yazabiliyor/)
 - [Grand Test Auto XXIV](https://wolkanca.com/grand-test-auto-xxiv/)
-- [Uzaya çıktık](https://wolkanca.com/uzaya-ciktik/)
 <!-- BLOG-POST-LIST:END -->
 
 
