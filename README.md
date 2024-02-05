@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yapay zeka kontrollü hiper uydu](https://wolkanca.com/yapay-zeka-kontrollu-hiper-uydu/)
 - [iOS 18 alacak iPhone modelleri](https://wolkanca.com/ios-18-alacak-iphone-modelleri/)
 - [Google Haritalar yapay zeka](https://wolkanca.com/google-haritalar-yapay-zeka/)
 - [Google’da önbelleği göster bağlantısı kaldırıldı](https://wolkanca.com/googleda-onbellegi-goster-baglantisi-kaldirildi/)
@@ -31,7 +32,6 @@
 - [Google Chrome AI özellikleri](https://wolkanca.com/google-chrome-ai-ozellikleri/)
 - [Ayşen Gruda](https://wolkanca.com/aysen-gruda/)
 - [iOS 17.3 bu hafta geliyor](https://wolkanca.com/ios-17-3-bu-hafta-geliyor/)
-- [Bard kod yazabiliyor](https://wolkanca.com/bard-kod-yazabiliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
