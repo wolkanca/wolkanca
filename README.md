@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Şubat Kahramanmaraş Depremleri](https://wolkanca.com/6-subat-kahramanmaras-depremleri/)
 - [Yapay zeka kontrollü hiper uydu](https://wolkanca.com/yapay-zeka-kontrollu-hiper-uydu/)
 - [iOS 18 alacak iPhone modelleri](https://wolkanca.com/ios-18-alacak-iphone-modelleri/)
 - [Google Haritalar yapay zeka](https://wolkanca.com/google-haritalar-yapay-zeka/)
@@ -31,7 +32,6 @@
 - [Ücretsiz HTML hosting](https://wolkanca.com/ucretsiz-html-hosting/)
 - [Google Chrome AI özellikleri](https://wolkanca.com/google-chrome-ai-ozellikleri/)
 - [Ayşen Gruda](https://wolkanca.com/aysen-gruda/)
-- [iOS 17.3 bu hafta geliyor](https://wolkanca.com/ios-17-3-bu-hafta-geliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
