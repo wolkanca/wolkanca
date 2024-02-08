@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alper Dünyaya dönüyor](https://wolkanca.com/alper-dunyaya-donuyor/)
+- [WhatsApp third-party chats](https://wolkanca.com/whatsapp-third-party-chats/)
 - [6 Şubat Kahramanmaraş Depremleri](https://wolkanca.com/6-subat-kahramanmaras-depremleri/)
 - [Yapay zeka kontrollü hiper uydu](https://wolkanca.com/yapay-zeka-kontrollu-hiper-uydu/)
 - [iOS 18 alacak iPhone modelleri](https://wolkanca.com/ios-18-alacak-iphone-modelleri/)
@@ -30,8 +32,6 @@
 - [Google Lumiere](https://wolkanca.com/google-lumiere/)
 - [Şu an saat kaç – UTC](https://wolkanca.com/su-an-saat-kac-utc/)
 - [Ücretsiz HTML hosting](https://wolkanca.com/ucretsiz-html-hosting/)
-- [Google Chrome AI özellikleri](https://wolkanca.com/google-chrome-ai-ozellikleri/)
-- [Ayşen Gruda](https://wolkanca.com/aysen-gruda/)
 <!-- BLOG-POST-LIST:END -->
 
 
