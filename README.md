@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky herkese açıldı!](https://wolkanca.com/bluesky-herkese-acildi/)
 - [Alper Dünyaya dönüyor](https://wolkanca.com/alper-dunyaya-donuyor/)
 - [WhatsApp third-party chats](https://wolkanca.com/whatsapp-third-party-chats/)
 - [6 Şubat Kahramanmaraş Depremleri](https://wolkanca.com/6-subat-kahramanmaras-depremleri/)
@@ -31,7 +32,6 @@
 - [Avrupa maçları TRT’de](https://wolkanca.com/avrupa-maclari-trtde/)
 - [Google Lumiere](https://wolkanca.com/google-lumiere/)
 - [Şu an saat kaç – UTC](https://wolkanca.com/su-an-saat-kac-utc/)
-- [Ücretsiz HTML hosting](https://wolkanca.com/ucretsiz-html-hosting/)
 <!-- BLOG-POST-LIST:END -->
 
 
