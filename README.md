@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İstanbul binaların yaşı](https://wolkanca.com/istanbul-binalarin-yasi/)
 - [B sınıfı ehliyet ile motosiklet](https://wolkanca.com/b-sinifi-ehliyet-ile-motosiklet/)
 - [Bard’ın Yeni Kimliği: Gemini!](https://wolkanca.com/bardin-yeni-kimligi-gemini/)
 - [Bluesky herkese açıldı!](https://wolkanca.com/bluesky-herkese-acildi/)
@@ -31,7 +32,6 @@
 - [Şubat’ta Netflix’e eklenecekler](https://wolkanca.com/subatta-netflixe-eklenecekler/)
 - [Google SEO Başlangıç Kılavuzu değişiyor](https://wolkanca.com/google-seo-baslangic-kilavuzu-degisiyor/)
 - [Bankalarda “Ödeme İste sistemi” başladı](https://wolkanca.com/bankalarda-odeme-iste-sistemi-basladi/)
-- [Avrupa maçları TRT’de](https://wolkanca.com/avrupa-maclari-trtde/)
 <!-- BLOG-POST-LIST:END -->
 
 
