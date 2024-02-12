@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deadpool &amp; Wolverine fragman](https://wolkanca.com/deadpool-wolverine-fragman/)
 - [İstanbul binaların yaşı](https://wolkanca.com/istanbul-binalarin-yasi/)
 - [B sınıfı ehliyet ile motosiklet](https://wolkanca.com/b-sinifi-ehliyet-ile-motosiklet/)
 - [Bard’ın Yeni Kimliği: Gemini!](https://wolkanca.com/bardin-yeni-kimligi-gemini/)
@@ -31,7 +32,6 @@
 - [The Day the Earth Caught Fire](https://wolkanca.com/the-day-the-earth-caught-fire/)
 - [Şubat’ta Netflix’e eklenecekler](https://wolkanca.com/subatta-netflixe-eklenecekler/)
 - [Google SEO Başlangıç Kılavuzu değişiyor](https://wolkanca.com/google-seo-baslangic-kilavuzu-degisiyor/)
-- [Bankalarda “Ödeme İste sistemi” başladı](https://wolkanca.com/bankalarda-odeme-iste-sistemi-basladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
