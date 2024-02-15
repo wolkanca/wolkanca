@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Macar fotoğraf arşivinden 1800’lü yılların İstanbul’u](https://wolkanca.com/macar-fotograf-arsivinden-1800lu-yillarin-istanbulu/)
 - [Windows 10 ve 11’de Bing aramalarını Google’a yönlendirmek](https://wolkanca.com/windows-10-ve-11de-bing-aramalarini-googlea-yonlendirmek/)
 - [Kurtlar Vadisi Kaos](https://wolkanca.com/kurtlar-vadisi-kaos/)
 - [Deadpool &amp; Wolverine fragman](https://wolkanca.com/deadpool-wolverine-fragman/)
@@ -31,7 +32,6 @@
 - [iOS 18 alacak iPhone modelleri](https://wolkanca.com/ios-18-alacak-iphone-modelleri/)
 - [Google Haritalar yapay zeka](https://wolkanca.com/google-haritalar-yapay-zeka/)
 - [Google’da önbelleği göster bağlantısı kaldırıldı](https://wolkanca.com/googleda-onbellegi-goster-baglantisi-kaldirildi/)
-- [The Day the Earth Caught Fire](https://wolkanca.com/the-day-the-earth-caught-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 
