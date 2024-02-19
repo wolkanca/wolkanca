@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’dan 404 hatalarına dair](https://wolkanca.com/googledan-404-hatalarina-dair/)
 - [Windows 10 ve 11’e ücretsiz geçiş artık yok](https://wolkanca.com/windows-10-ve-11e-ucretsiz-gecis-artik-yok/)
 - [OpenAI “Sora” tanıtıldı](https://wolkanca.com/openai-sora-tanitildi/)
 - [Macar fotoğraf arşivinden 1800’lü yılların İstanbul’u](https://wolkanca.com/macar-fotograf-arsivinden-1800lu-yillarin-istanbulu/)
@@ -31,7 +32,6 @@
 - [WhatsApp third-party chats](https://wolkanca.com/whatsapp-third-party-chats/)
 - [6 Şubat Kahramanmaraş Depremleri](https://wolkanca.com/6-subat-kahramanmaras-depremleri/)
 - [Yapay zeka kontrollü hiper uydu](https://wolkanca.com/yapay-zeka-kontrollu-hiper-uydu/)
-- [iOS 18 alacak iPhone modelleri](https://wolkanca.com/ios-18-alacak-iphone-modelleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
