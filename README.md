@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kick vs Twitch](https://wolkanca.com/kick-vs-twitch/)
 - [Sinemaseverler için bir hazine](https://wolkanca.com/sinemaseverler-icin-bir-hazine/)
 - [Google’dan 404 hatalarına dair](https://wolkanca.com/googledan-404-hatalarina-dair/)
 - [Windows 10 ve 11’e ücretsiz geçiş artık yok](https://wolkanca.com/windows-10-ve-11e-ucretsiz-gecis-artik-yok/)
@@ -31,7 +32,6 @@
 - [Bluesky herkese açıldı!](https://wolkanca.com/bluesky-herkese-acildi/)
 - [Alper Dünyaya dönüyor](https://wolkanca.com/alper-dunyaya-donuyor/)
 - [WhatsApp third-party chats](https://wolkanca.com/whatsapp-third-party-chats/)
-- [6 Şubat Kahramanmaraş Depremleri](https://wolkanca.com/6-subat-kahramanmaras-depremleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
