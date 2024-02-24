@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitch’e erişim engeli](https://wolkanca.com/twitche-erisim-engeli/)
 - [Kick vs Twitch](https://wolkanca.com/kick-vs-twitch/)
 - [Sinemaseverler için bir hazine](https://wolkanca.com/sinemaseverler-icin-bir-hazine/)
 - [Google’dan 404 hatalarına dair](https://wolkanca.com/googledan-404-hatalarina-dair/)
@@ -31,7 +32,6 @@
 - [Bard’ın Yeni Kimliği: Gemini!](https://wolkanca.com/bardin-yeni-kimligi-gemini/)
 - [Bluesky herkese açıldı!](https://wolkanca.com/bluesky-herkese-acildi/)
 - [Alper Dünyaya dönüyor](https://wolkanca.com/alper-dunyaya-donuyor/)
-- [WhatsApp third-party chats](https://wolkanca.com/whatsapp-third-party-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 
