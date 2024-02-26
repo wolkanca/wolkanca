@@ -17,7 +17,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mükemmel bedava PC oyunları](https://wolkanca.com/mukemmel-bedava-pc-oyunlari/)
+- [ABD Adalet Bakanlığı Yapay Zekâ Baş Sorumlusu](https://wolkanca.com/abd-adalet-bakanligi-yapay-zeka-bas-sorumlusu/)
+- [Roblox oyunları – 2024](https://wolkanca.com/roblox-oyunlari-2024/)
 - [Twitch’e erişim engeli](https://wolkanca.com/twitche-erisim-engeli/)
+- [Youtube Theater Mode fix](https://wolkanca.com/youtube-theater-mode-fix/)
 - [Kick vs Twitch](https://wolkanca.com/kick-vs-twitch/)
 - [Sinemaseverler için bir hazine](https://wolkanca.com/sinemaseverler-icin-bir-hazine/)
 - [Google’dan 404 hatalarına dair](https://wolkanca.com/googledan-404-hatalarina-dair/)
@@ -28,10 +32,6 @@
 - [Kurtlar Vadisi Kaos](https://wolkanca.com/kurtlar-vadisi-kaos/)
 - [Deadpool &amp; Wolverine fragman](https://wolkanca.com/deadpool-wolverine-fragman/)
 - [İstanbul binaların yaşı](https://wolkanca.com/istanbul-binalarin-yasi/)
-- [B sınıfı ehliyet ile motosiklet](https://wolkanca.com/b-sinifi-ehliyet-ile-motosiklet/)
-- [Bard’ın Yeni Kimliği: Gemini!](https://wolkanca.com/bardin-yeni-kimligi-gemini/)
-- [Bluesky herkese açıldı!](https://wolkanca.com/bluesky-herkese-acildi/)
-- [Alper Dünyaya dönüyor](https://wolkanca.com/alper-dunyaya-donuyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
