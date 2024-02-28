@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iOS 18’e dair bilinenler](https://wolkanca.com/ios-18e-dair-bilinenler/)
 - [Mükemmel bedava PC oyunları](https://wolkanca.com/mukemmel-bedava-pc-oyunlari/)
 - [ABD Adalet Bakanlığı Yapay Zekâ Baş Sorumlusu](https://wolkanca.com/abd-adalet-bakanligi-yapay-zeka-bas-sorumlusu/)
 - [Roblox oyunları – 2024](https://wolkanca.com/roblox-oyunlari-2024/)
@@ -31,7 +32,6 @@
 - [Windows 10 ve 11’de Bing aramalarını Google’a yönlendirmek](https://wolkanca.com/windows-10-ve-11de-bing-aramalarini-googlea-yonlendirmek/)
 - [Kurtlar Vadisi Kaos](https://wolkanca.com/kurtlar-vadisi-kaos/)
 - [Deadpool &amp; Wolverine fragman](https://wolkanca.com/deadpool-wolverine-fragman/)
-- [İstanbul binaların yaşı](https://wolkanca.com/istanbul-binalarin-yasi/)
 <!-- BLOG-POST-LIST:END -->
 
 
