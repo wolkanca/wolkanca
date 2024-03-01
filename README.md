@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tumblr ve WordPress verilerini yapay zeka araçlarına açtı](https://wolkanca.com/tumblr-ve-wordpress-verilerini-yapay-zeka-araclarina-acti/)
+- [Tüm polislere yaka kamerası](https://wolkanca.com/tum-polislere-yaka-kamerasi/)
 - [iOS 18’e dair bilinenler](https://wolkanca.com/ios-18e-dair-bilinenler/)
 - [Sondaj Kuleleri Sondaj İşlemleri Sırasında Ne Yapar?](https://wolkanca.com/sondaj-kuleleri-sondaj-islemleri-sirasinda-ne-yapar/)
 - [Mükemmel bedava PC oyunları](https://wolkanca.com/mukemmel-bedava-pc-oyunlari/)
@@ -30,8 +32,6 @@
 - [Windows 10 ve 11’e ücretsiz geçiş artık yok](https://wolkanca.com/windows-10-ve-11e-ucretsiz-gecis-artik-yok/)
 - [OpenAI “Sora” tanıtıldı](https://wolkanca.com/openai-sora-tanitildi/)
 - [Macar fotoğraf arşivinden 1800’lü yılların İstanbul’u](https://wolkanca.com/macar-fotograf-arsivinden-1800lu-yillarin-istanbulu/)
-- [Windows 10 ve 11’de Bing aramalarını Google’a yönlendirmek](https://wolkanca.com/windows-10-ve-11de-bing-aramalarini-googlea-yonlendirmek/)
-- [Kurtlar Vadisi Kaos](https://wolkanca.com/kurtlar-vadisi-kaos/)
 <!-- BLOG-POST-LIST:END -->
 
 
