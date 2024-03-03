@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kitaplardan bilimkurgu filmine](https://wolkanca.com/kitaplardan-bilimkurgu-filmine/)
 - [Dünyanın en değerli 3. şirketi Nvidia](https://wolkanca.com/dunyanin-en-degerli-3-sirketi-nvidia/)
 - [Tumblr ve WordPress verilerini yapay zeka araçlarına açtı](https://wolkanca.com/tumblr-ve-wordpress-verilerini-yapay-zeka-araclarina-acti/)
 - [Tüm polislere yaka kamerası](https://wolkanca.com/tum-polislere-yaka-kamerasi/)
@@ -31,7 +32,6 @@
 - [Sinemaseverler için bir hazine](https://wolkanca.com/sinemaseverler-icin-bir-hazine/)
 - [Google’dan 404 hatalarına dair](https://wolkanca.com/googledan-404-hatalarina-dair/)
 - [Windows 10 ve 11’e ücretsiz geçiş artık yok](https://wolkanca.com/windows-10-ve-11e-ucretsiz-gecis-artik-yok/)
-- [OpenAI “Sora” tanıtıldı](https://wolkanca.com/openai-sora-tanitildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
