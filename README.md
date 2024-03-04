@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [M3 işlemcili MacBook Air çıktı](https://wolkanca.com/m3-islemcili-macbook-air-cikti/)
 - [Google Drive’ın iOS uygulamasında arama filtreleri güncellendi](https://wolkanca.com/google-drivein-ios-uygulamasinda-arama-filtreleri-guncellendi/)
 - [Kitaplardan bilimkurgu filmine](https://wolkanca.com/kitaplardan-bilimkurgu-filmine/)
 - [Dünyanın en değerli 3. şirketi Nvidia](https://wolkanca.com/dunyanin-en-degerli-3-sirketi-nvidia/)
@@ -31,7 +32,6 @@
 - [Youtube Theater Mode fix](https://wolkanca.com/youtube-theater-mode-fix/)
 - [Kick vs Twitch](https://wolkanca.com/kick-vs-twitch/)
 - [Sinemaseverler için bir hazine](https://wolkanca.com/sinemaseverler-icin-bir-hazine/)
-- [Google’dan 404 hatalarına dair](https://wolkanca.com/googledan-404-hatalarina-dair/)
 <!-- BLOG-POST-LIST:END -->
 
 
