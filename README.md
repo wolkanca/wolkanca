@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [X Makaleler özelliği açıldı](https://wolkanca.com/x-makaleler-ozelligi-acildi/)
+- [LinkedIn Premium rekor kırdı](https://wolkanca.com/linkedin-premium-rekor-kirdi/)
 - [Amazon’un artık nükleer enerjili veri merkezi de var](https://wolkanca.com/amazonun-artik-nukleer-enerjili-veri-merkezi-de-var/)
 - [Apple ürünlerine zam](https://wolkanca.com/apple-urunlerine-zam/)
 - [M3 işlemcili MacBook Air çıktı](https://wolkanca.com/m3-islemcili-macbook-air-cikti/)
@@ -30,8 +32,6 @@
 - [Mükemmel bedava PC oyunları](https://wolkanca.com/mukemmel-bedava-pc-oyunlari/)
 - [ABD Adalet Bakanlığı Yapay Zekâ Baş Sorumlusu](https://wolkanca.com/abd-adalet-bakanligi-yapay-zeka-bas-sorumlusu/)
 - [Roblox oyunları – 2024](https://wolkanca.com/roblox-oyunlari-2024/)
-- [Twitch’e erişim engeli](https://wolkanca.com/twitche-erisim-engeli/)
-- [Youtube Theater Mode fix](https://wolkanca.com/youtube-theater-mode-fix/)
 <!-- BLOG-POST-LIST:END -->
 
 
