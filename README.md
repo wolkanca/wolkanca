@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Teröris tanıma, terörist testi oyunu: terorist-quiz](https://wolkanca.com/teroris-tanima-terorist-testi-oyunu-terorist-quiz/)
 - [X Makaleler özelliği açıldı](https://wolkanca.com/x-makaleler-ozelligi-acildi/)
 - [LinkedIn Premium rekor kırdı](https://wolkanca.com/linkedin-premium-rekor-kirdi/)
 - [Amazon’un artık nükleer enerjili veri merkezi de var](https://wolkanca.com/amazonun-artik-nukleer-enerjili-veri-merkezi-de-var/)
@@ -31,7 +32,6 @@
 - [Sondaj Kuleleri Sondaj İşlemleri Sırasında Ne Yapar?](https://wolkanca.com/sondaj-kuleleri-sondaj-islemleri-sirasinda-ne-yapar/)
 - [Mükemmel bedava PC oyunları](https://wolkanca.com/mukemmel-bedava-pc-oyunlari/)
 - [ABD Adalet Bakanlığı Yapay Zekâ Baş Sorumlusu](https://wolkanca.com/abd-adalet-bakanligi-yapay-zeka-bas-sorumlusu/)
-- [Roblox oyunları – 2024](https://wolkanca.com/roblox-oyunlari-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 
