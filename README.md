@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Grok açık kaynak oluyor](https://wolkanca.com/grok-acik-kaynak-oluyor/)
 - [Terörist tanıma, terörist testi oyunu: terorist-quiz](https://wolkanca.com/terorist-tanima-terorist-testi-oyunu-terorist-quiz/)
 - [X Makaleler özelliği açıldı](https://wolkanca.com/x-makaleler-ozelligi-acildi/)
 - [LinkedIn Premium rekor kırdı](https://wolkanca.com/linkedin-premium-rekor-kirdi/)
@@ -31,7 +32,6 @@
 - [iOS 18’e dair bilinenler](https://wolkanca.com/ios-18e-dair-bilinenler/)
 - [Sondaj Kuleleri Sondaj İşlemleri Sırasında Ne Yapar?](https://wolkanca.com/sondaj-kuleleri-sondaj-islemleri-sirasinda-ne-yapar/)
 - [Mükemmel bedava PC oyunları](https://wolkanca.com/mukemmel-bedava-pc-oyunlari/)
-- [ABD Adalet Bakanlığı Yapay Zekâ Baş Sorumlusu](https://wolkanca.com/abd-adalet-bakanligi-yapay-zeka-bas-sorumlusu/)
 <!-- BLOG-POST-LIST:END -->
 
 
