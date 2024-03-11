@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2024 Oscar Ödülleri sonuçlar](https://wolkanca.com/2024-oscar-odulleri-sonuclar/)
 - [Grok açık kaynak oluyor](https://wolkanca.com/grok-acik-kaynak-oluyor/)
 - [Terörist tanıma, terörist testi oyunu: terorist-quiz](https://wolkanca.com/terorist-tanima-terorist-testi-oyunu-terorist-quiz/)
 - [X Makaleler özelliği açıldı](https://wolkanca.com/x-makaleler-ozelligi-acildi/)
@@ -31,7 +32,6 @@
 - [Tüm polislere yaka kamerası](https://wolkanca.com/tum-polislere-yaka-kamerasi/)
 - [iOS 18’e dair bilinenler](https://wolkanca.com/ios-18e-dair-bilinenler/)
 - [Sondaj Kuleleri Sondaj İşlemleri Sırasında Ne Yapar?](https://wolkanca.com/sondaj-kuleleri-sondaj-islemleri-sirasinda-ne-yapar/)
-- [Mükemmel bedava PC oyunları](https://wolkanca.com/mukemmel-bedava-pc-oyunlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
