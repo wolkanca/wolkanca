@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 95 ve önemi](https://wolkanca.com/windows-95-ve-onemi/)
 - [PayPal artık Türkiye’de çalışabilir mi?](https://wolkanca.com/paypal-artik-turkiyede-calisabilir-mi/)
 - [2024 Oscar Ödülleri sonuçlar](https://wolkanca.com/2024-oscar-odulleri-sonuclar/)
 - [Grok açık kaynak oluyor](https://wolkanca.com/grok-acik-kaynak-oluyor/)
@@ -31,7 +32,6 @@
 - [Dünyanın en değerli 3. şirketi Nvidia](https://wolkanca.com/dunyanin-en-degerli-3-sirketi-nvidia/)
 - [Tumblr ve WordPress verilerini yapay zeka araçlarına açtı](https://wolkanca.com/tumblr-ve-wordpress-verilerini-yapay-zeka-araclarina-acti/)
 - [Tüm polislere yaka kamerası](https://wolkanca.com/tum-polislere-yaka-kamerasi/)
-- [iOS 18’e dair bilinenler](https://wolkanca.com/ios-18e-dair-bilinenler/)
 <!-- BLOG-POST-LIST:END -->
 
 
