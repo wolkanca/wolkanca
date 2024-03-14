@@ -17,8 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Venom: The Last Dance](https://wolkanca.com/venom-the-last-dance/)
 - [Windows 95 ve önemi](https://wolkanca.com/windows-95-ve-onemi/)
-- [PayPal artık Türkiye’de çalışabilir mi?](https://wolkanca.com/paypal-artik-turkiyede-calisabilir-mi/)
+- [PayPal artık Türkiye’de çalışabilir mi?](https://wolkanca.com/paypal-artik-turkiyede-calisabilir-mi/)
 - [2024 Oscar Ödülleri sonuçlar](https://wolkanca.com/2024-oscar-odulleri-sonuclar/)
 - [Grok açık kaynak oluyor](https://wolkanca.com/grok-acik-kaynak-oluyor/)
 - [Terörist tanıma, terörist testi oyunu: terorist-quiz](https://wolkanca.com/terorist-tanima-terorist-testi-oyunu-terorist-quiz/)
@@ -31,7 +32,6 @@
 - [Kitaplardan bilimkurgu filmine](https://wolkanca.com/kitaplardan-bilimkurgu-filmine/)
 - [Dünyanın en değerli 3. şirketi Nvidia](https://wolkanca.com/dunyanin-en-degerli-3-sirketi-nvidia/)
 - [Tumblr ve WordPress verilerini yapay zeka araçlarına açtı](https://wolkanca.com/tumblr-ve-wordpress-verilerini-yapay-zeka-araclarina-acti/)
-- [Tüm polislere yaka kamerası](https://wolkanca.com/tum-polislere-yaka-kamerasi/)
 <!-- BLOG-POST-LIST:END -->
 
 
