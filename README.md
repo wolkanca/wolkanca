@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Proton Mail masaüstü çıktı](https://wolkanca.com/proton-mail-masaustu-cikti/)
+- [Microsoft Teams ile iPhone’lar telsiz oluyor](https://wolkanca.com/microsoft-teams-ile-iphonelar-telsiz-oluyor/)
 - [Venom: The Last Dance](https://wolkanca.com/venom-the-last-dance/)
 - [Windows 95 ve önemi](https://wolkanca.com/windows-95-ve-onemi/)
 - [PayPal artık Türkiye’de çalışabilir mi?](https://wolkanca.com/paypal-artik-turkiyede-calisabilir-mi/)
@@ -30,8 +32,6 @@
 - [M3 işlemcili MacBook Air çıktı](https://wolkanca.com/m3-islemcili-macbook-air-cikti/)
 - [Google Drive’ın iOS uygulamasında arama filtreleri güncellendi](https://wolkanca.com/google-drivein-ios-uygulamasinda-arama-filtreleri-guncellendi/)
 - [Kitaplardan bilimkurgu filmine](https://wolkanca.com/kitaplardan-bilimkurgu-filmine/)
-- [Dünyanın en değerli 3. şirketi Nvidia](https://wolkanca.com/dunyanin-en-degerli-3-sirketi-nvidia/)
-- [Tumblr ve WordPress verilerini yapay zeka araçlarına açtı](https://wolkanca.com/tumblr-ve-wordpress-verilerini-yapay-zeka-araclarina-acti/)
 <!-- BLOG-POST-LIST:END -->
 
 
