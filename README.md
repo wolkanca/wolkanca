@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Drive dark mod geldi](https://wolkanca.com/google-drive-dark-mod-geldi/)
+- [Google  “VLOGGER”](https://wolkanca.com/google-vlogger/)
 - [Proton Mail masaüstü çıktı](https://wolkanca.com/proton-mail-masaustu-cikti/)
 - [Microsoft Teams ile iPhone’lar telsiz oluyor](https://wolkanca.com/microsoft-teams-ile-iphonelar-telsiz-oluyor/)
 - [Venom: The Last Dance](https://wolkanca.com/venom-the-last-dance/)
@@ -30,8 +32,6 @@
 - [Amazon’un artık nükleer enerjili veri merkezi de var](https://wolkanca.com/amazonun-artik-nukleer-enerjili-veri-merkezi-de-var/)
 - [Apple ürünlerine zam](https://wolkanca.com/apple-urunlerine-zam/)
 - [M3 işlemcili MacBook Air çıktı](https://wolkanca.com/m3-islemcili-macbook-air-cikti/)
-- [Google Drive’ın iOS uygulamasında arama filtreleri güncellendi](https://wolkanca.com/google-drivein-ios-uygulamasinda-arama-filtreleri-guncellendi/)
-- [Kitaplardan bilimkurgu filmine](https://wolkanca.com/kitaplardan-bilimkurgu-filmine/)
 <!-- BLOG-POST-LIST:END -->
 
 
