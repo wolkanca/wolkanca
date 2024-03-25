@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iPhone’lar kutusundan çıkmadan güncellenecek](https://wolkanca.com/iphonelar-kutusundan-cikmadan-guncellenecek/)
 - [House of the Dragon 2. Sezon](https://wolkanca.com/house-of-the-dragon-2-sezon/)
 - [Reddit, Wall Street’e hızlı girdi](https://wolkanca.com/reddit-wall-streete-hizli-girdi/)
 - [Windows Tanrı modu](https://wolkanca.com/windows-tanri-modu/)
@@ -31,7 +32,6 @@
 - [2024 Oscar Ödülleri sonuçlar](https://wolkanca.com/2024-oscar-odulleri-sonuclar/)
 - [Grok açık kaynak oluyor](https://wolkanca.com/grok-acik-kaynak-oluyor/)
 - [Terörist tanıma, terörist testi oyunu: terorist-quiz](https://wolkanca.com/terorist-tanima-terorist-testi-oyunu-terorist-quiz/)
-- [X Makaleler özelliği açıldı](https://wolkanca.com/x-makaleler-ozelligi-acildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
