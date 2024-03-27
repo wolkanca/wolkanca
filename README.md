@@ -17,6 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kadınlar Gününde Sevgiliye Alınabilecek En Güzel Çiçekler](https://wolkanca.com/kadinlar-gununde-sevgiliye-alinabilecek-en-guzel-cicekler/)
+- [Apple WWDC 2024](https://wolkanca.com/apple-wwdc-2024/)
+- [Windows 11 ekran bilgileri](https://wolkanca.com/windows-11-ekran-bilgileri/)
 - [iPhone’lar kutusundan çıkmadan güncellenecek](https://wolkanca.com/iphonelar-kutusundan-cikmadan-guncellenecek/)
 - [House of the Dragon 2. Sezon](https://wolkanca.com/house-of-the-dragon-2-sezon/)
 - [Reddit, Wall Street’e hızlı girdi](https://wolkanca.com/reddit-wall-streete-hizli-girdi/)
@@ -29,9 +32,6 @@
 - [Venom: The Last Dance](https://wolkanca.com/venom-the-last-dance/)
 - [Windows 95 ve önemi](https://wolkanca.com/windows-95-ve-onemi/)
 - [PayPal artık Türkiye’de çalışabilir mi?](https://wolkanca.com/paypal-artik-turkiyede-calisabilir-mi/)
-- [2024 Oscar Ödülleri sonuçlar](https://wolkanca.com/2024-oscar-odulleri-sonuclar/)
-- [Grok açık kaynak oluyor](https://wolkanca.com/grok-acik-kaynak-oluyor/)
-- [Terörist tanıma, terörist testi oyunu: terorist-quiz](https://wolkanca.com/terorist-tanima-terorist-testi-oyunu-terorist-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 
