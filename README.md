@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sam Bankman-Fried’e 25 yıl](https://wolkanca.com/sam-bankman-friede-25-yil/)
 - [Krone Dorselerin Avantajları ve Farkları](https://wolkanca.com/krone-dorselerin-avantajlari-ve-farklari/)
 - [Kadınlar Gününde Sevgiliye Alınabilecek En Güzel Çiçekler](https://wolkanca.com/kadinlar-gununde-sevgiliye-alinabilecek-en-guzel-cicekler/)
 - [Apple WWDC 2024](https://wolkanca.com/apple-wwdc-2024/)
@@ -31,7 +32,6 @@
 - [Proton Mail masaüstü çıktı](https://wolkanca.com/proton-mail-masaustu-cikti/)
 - [Microsoft Teams ile iPhone’lar telsiz oluyor](https://wolkanca.com/microsoft-teams-ile-iphonelar-telsiz-oluyor/)
 - [Venom: The Last Dance](https://wolkanca.com/venom-the-last-dance/)
-- [Windows 95 ve önemi](https://wolkanca.com/windows-95-ve-onemi/)
 <!-- BLOG-POST-LIST:END -->
 
 
