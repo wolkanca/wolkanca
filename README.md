@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bad Boys yeniden](https://wolkanca.com/bad-boys-yeniden/)
 - [Photoshop ile WebP dosyaları](https://wolkanca.com/photoshop-ile-webp-dosyalari/)
 - [Sam Bankman-Fried’e 25 yıl](https://wolkanca.com/sam-bankman-friede-25-yil/)
 - [Krone Dorselerin Avantajları ve Farkları](https://wolkanca.com/krone-dorselerin-avantajlari-ve-farklari/)
@@ -31,7 +32,6 @@
 - [Google Drive dark mod geldi](https://wolkanca.com/google-drive-dark-mod-geldi/)
 - [Google  “VLOGGER”](https://wolkanca.com/google-vlogger/)
 - [Proton Mail masaüstü çıktı](https://wolkanca.com/proton-mail-masaustu-cikti/)
-- [Microsoft Teams ile iPhone’lar telsiz oluyor](https://wolkanca.com/microsoft-teams-ile-iphonelar-telsiz-oluyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
