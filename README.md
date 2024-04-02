@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kış Uykusu kamera arkası](https://wolkanca.com/kis-uykusu-kamera-arkasi/)
 - [Oppenheimer Amazon Prime](https://wolkanca.com/oppenheimer-amazon-prime/)
 - [Xbox Game Pass YouTube Premium veriyor](https://wolkanca.com/xbox-game-pass-youtube-premium-veriyor/)
 - [Bad Boys yeniden](https://wolkanca.com/bad-boys-yeniden/)
@@ -31,7 +32,6 @@
 - [Reddit, Wall Street’e hızlı girdi](https://wolkanca.com/reddit-wall-streete-hizli-girdi/)
 - [Windows Tanrı modu](https://wolkanca.com/windows-tanri-modu/)
 - [Düğmeler neden farklı yönde?](https://wolkanca.com/dugmeler-neden-farkli-yonde/)
-- [Google Drive dark mod geldi](https://wolkanca.com/google-drive-dark-mod-geldi/)
 <!-- BLOG-POST-LIST:END -->
 
 
