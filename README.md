@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Güvenli Arama Aracı Search Console’a taşındı](https://wolkanca.com/guvenli-arama-araci-search-consolea-tasindi/)
 - [X mavi tik yeniden ücretsiz](https://wolkanca.com/x-mavi-tik-yeniden-ucretsiz/)
 - [Kuantum hesaplamada gelişme](https://wolkanca.com/kuantum-hesaplamada-gelisme/)
 - [Kış Uykusu kamera arkası](https://wolkanca.com/kis-uykusu-kamera-arkasi/)
@@ -31,7 +32,6 @@
 - [Windows 11 ekran bilgileri](https://wolkanca.com/windows-11-ekran-bilgileri/)
 - [iPhone’lar kutusundan çıkmadan güncellenecek](https://wolkanca.com/iphonelar-kutusundan-cikmadan-guncellenecek/)
 - [House of the Dragon 2. Sezon](https://wolkanca.com/house-of-the-dragon-2-sezon/)
-- [Reddit, Wall Street’e hızlı girdi](https://wolkanca.com/reddit-wall-streete-hizli-girdi/)
 <!-- BLOG-POST-LIST:END -->
 
 
