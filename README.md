@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DNS nedir nasıl çalışır?](https://wolkanca.com/dns-nedir-nasil-calisir/)
 - [Güvenli Arama Aracı Search Console’a taşındı](https://wolkanca.com/guvenli-arama-araci-search-consolea-tasindi/)
 - [X mavi tik yeniden ücretsiz](https://wolkanca.com/x-mavi-tik-yeniden-ucretsiz/)
 - [Kuantum hesaplamada gelişme](https://wolkanca.com/kuantum-hesaplamada-gelisme/)
@@ -31,7 +32,6 @@
 - [Apple WWDC 2024](https://wolkanca.com/apple-wwdc-2024/)
 - [Windows 11 ekran bilgileri](https://wolkanca.com/windows-11-ekran-bilgileri/)
 - [iPhone’lar kutusundan çıkmadan güncellenecek](https://wolkanca.com/iphonelar-kutusundan-cikmadan-guncellenecek/)
-- [House of the Dragon 2. Sezon](https://wolkanca.com/house-of-the-dragon-2-sezon/)
 <!-- BLOG-POST-LIST:END -->
 
 
