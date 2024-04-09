@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gmail AI “e-posta özetleme”](https://wolkanca.com/gmail-ai-e-posta-ozetleme/)
 - [Chrome ile her site bir uygulama](https://wolkanca.com/chrome-ile-her-site-bir-uygulama/)
 - [DNS nedir nasıl çalışır?](https://wolkanca.com/dns-nedir-nasil-calisir/)
 - [Güvenli Arama Aracı Search Console’a taşındı](https://wolkanca.com/guvenli-arama-araci-search-consolea-tasindi/)
@@ -31,7 +32,6 @@
 - [Krone Dorselerin Avantajları ve Farkları](https://wolkanca.com/krone-dorselerin-avantajlari-ve-farklari/)
 - [Kadınlar Gününde Sevgiliye Alınabilecek En Güzel Çiçekler](https://wolkanca.com/kadinlar-gununde-sevgiliye-alinabilecek-en-guzel-cicekler/)
 - [Apple WWDC 2024](https://wolkanca.com/apple-wwdc-2024/)
-- [Windows 11 ekran bilgileri](https://wolkanca.com/windows-11-ekran-bilgileri/)
 <!-- BLOG-POST-LIST:END -->
 
 
