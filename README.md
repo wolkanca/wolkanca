@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [X, iOS Passkeys başladı](https://wolkanca.com/x-ios-passkeys-basladi/)
 - [Joker: İkili Delilik](https://wolkanca.com/joker-ikili-delilik/)
 - [Gmail AI “e-posta özetleme”](https://wolkanca.com/gmail-ai-e-posta-ozetleme/)
 - [Chrome ile her site bir uygulama](https://wolkanca.com/chrome-ile-her-site-bir-uygulama/)
@@ -31,7 +32,6 @@
 - [Photoshop ile WebP dosyaları](https://wolkanca.com/photoshop-ile-webp-dosyalari/)
 - [Sam Bankman-Fried’e 25 yıl](https://wolkanca.com/sam-bankman-friede-25-yil/)
 - [Krone Dorselerin Avantajları ve Farkları](https://wolkanca.com/krone-dorselerin-avantajlari-ve-farklari/)
-- [Kadınlar Gününde Sevgiliye Alınabilecek En Güzel Çiçekler](https://wolkanca.com/kadinlar-gununde-sevgiliye-alinabilecek-en-guzel-cicekler/)
 <!-- BLOG-POST-LIST:END -->
 
 
