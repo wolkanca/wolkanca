@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Fotoğraflar’da yapay zekâ araçları ücretsiz](https://wolkanca.com/google-fotograflarda-yapay-zeka-araclari-ucretsiz/)
 - [X, iOS Passkeys başladı](https://wolkanca.com/x-ios-passkeys-basladi/)
 - [Joker: İkili Delilik](https://wolkanca.com/joker-ikili-delilik/)
 - [Gmail AI “e-posta özetleme”](https://wolkanca.com/gmail-ai-e-posta-ozetleme/)
@@ -31,7 +32,6 @@
 - [Bad Boys yeniden](https://wolkanca.com/bad-boys-yeniden/)
 - [Photoshop ile WebP dosyaları](https://wolkanca.com/photoshop-ile-webp-dosyalari/)
 - [Sam Bankman-Fried’e 25 yıl](https://wolkanca.com/sam-bankman-friede-25-yil/)
-- [Krone Dorselerin Avantajları ve Farkları](https://wolkanca.com/krone-dorselerin-avantajlari-ve-farklari/)
 <!-- BLOG-POST-LIST:END -->
 
 
