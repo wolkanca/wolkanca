@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tekrar tekrar izlenebilir diziler](https://wolkanca.com/tekrar-tekrar-izlenebilir-diziler/)
 - [GTA 6 fragmanını gerçek hayata uyarladı](https://wolkanca.com/gta-6-fragmanini-gercek-hayata-uyarladi/)
 - [Google Fotoğraflar’da yapay zekâ araçları ücretsiz](https://wolkanca.com/google-fotograflarda-yapay-zeka-araclari-ucretsiz/)
 - [X, iOS Passkeys başladı](https://wolkanca.com/x-ios-passkeys-basladi/)
@@ -31,7 +32,6 @@
 - [Oppenheimer Amazon Prime](https://wolkanca.com/oppenheimer-amazon-prime/)
 - [Xbox Game Pass YouTube Premium veriyor](https://wolkanca.com/xbox-game-pass-youtube-premium-veriyor/)
 - [Bad Boys yeniden](https://wolkanca.com/bad-boys-yeniden/)
-- [Photoshop ile WebP dosyaları](https://wolkanca.com/photoshop-ile-webp-dosyalari/)
 <!-- BLOG-POST-LIST:END -->
 
 
