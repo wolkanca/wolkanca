@@ -17,6 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Maps şarj istasyonları](https://wolkanca.com/google-maps-sarj-istasyonlari/)
+- [WhatsApp online olanlar](https://wolkanca.com/whatsapp-online-olanlar/)
+- [WhatsApp sohbet filtreleri](https://wolkanca.com/whatsapp-sohbet-filtreleri/)
 - [Tekrar tekrar izlenebilir diziler](https://wolkanca.com/tekrar-tekrar-izlenebilir-diziler/)
 - [GTA 6 fragmanını gerçek hayata uyarladı](https://wolkanca.com/gta-6-fragmanini-gercek-hayata-uyarladi/)
 - [Google Fotoğraflar’da yapay zekâ araçları ücretsiz](https://wolkanca.com/google-fotograflarda-yapay-zeka-araclari-ucretsiz/)
@@ -29,9 +32,6 @@
 - [X mavi tik yeniden ücretsiz](https://wolkanca.com/x-mavi-tik-yeniden-ucretsiz/)
 - [Kuantum hesaplamada gelişme](https://wolkanca.com/kuantum-hesaplamada-gelisme/)
 - [Kış Uykusu kamera arkası](https://wolkanca.com/kis-uykusu-kamera-arkasi/)
-- [Oppenheimer Amazon Prime](https://wolkanca.com/oppenheimer-amazon-prime/)
-- [Xbox Game Pass YouTube Premium veriyor](https://wolkanca.com/xbox-game-pass-youtube-premium-veriyor/)
-- [Bad Boys yeniden](https://wolkanca.com/bad-boys-yeniden/)
 <!-- BLOG-POST-LIST:END -->
 
 
