@@ -17,6 +17,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress güvenlik raporu](https://wolkanca.com/wordpress-guvenlik-raporu/)
+- [En iyi hayatta kalma filmleri](https://wolkanca.com/en-iyi-hayatta-kalma-filmleri/)
+- [The Platform 2 ilk görseller](https://wolkanca.com/the-platform-2-ilk-gorseller/)
 - [AltStore PAL kullanımda](https://wolkanca.com/altstore-pal-kullanimda/)
 - [Google Maps şarj istasyonları](https://wolkanca.com/google-maps-sarj-istasyonlari/)
 - [WhatsApp online olanlar](https://wolkanca.com/whatsapp-online-olanlar/)
@@ -29,9 +32,6 @@
 - [Gmail AI “e-posta özetleme”](https://wolkanca.com/gmail-ai-e-posta-ozetleme/)
 - [Chrome ile her site bir uygulama](https://wolkanca.com/chrome-ile-her-site-bir-uygulama/)
 - [DNS nedir nasıl çalışır?](https://wolkanca.com/dns-nedir-nasil-calisir/)
-- [Güvenli Arama Aracı Search Console’a taşındı](https://wolkanca.com/guvenli-arama-araci-search-consolea-tasindi/)
-- [X mavi tik yeniden ücretsiz](https://wolkanca.com/x-mavi-tik-yeniden-ucretsiz/)
-- [Kuantum hesaplamada gelişme](https://wolkanca.com/kuantum-hesaplamada-gelisme/)
 <!-- BLOG-POST-LIST:END -->
 
 
