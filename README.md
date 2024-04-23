@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yeni sekmede açılmasın](https://wolkanca.com/yeni-sekmede-acilmasin/)
+- [İlk başarılı yapay zekâ it dalaşı](https://wolkanca.com/ilk-basarili-yapay-zeka-it-dalasi/)
 - [WordPress güvenlik raporu](https://wolkanca.com/wordpress-guvenlik-raporu/)
 - [En iyi hayatta kalma filmleri](https://wolkanca.com/en-iyi-hayatta-kalma-filmleri/)
 - [The Platform 2 ilk görseller](https://wolkanca.com/the-platform-2-ilk-gorseller/)
@@ -30,8 +32,6 @@
 - [X, iOS Passkeys başladı](https://wolkanca.com/x-ios-passkeys-basladi/)
 - [Joker: İkili Delilik](https://wolkanca.com/joker-ikili-delilik/)
 - [Gmail AI “e-posta özetleme”](https://wolkanca.com/gmail-ai-e-posta-ozetleme/)
-- [Chrome ile her site bir uygulama](https://wolkanca.com/chrome-ile-her-site-bir-uygulama/)
-- [DNS nedir nasıl çalışır?](https://wolkanca.com/dns-nedir-nasil-calisir/)
 <!-- BLOG-POST-LIST:END -->
 
 
