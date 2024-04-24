@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Farklı çeşitlerde buldozerler ve kullanım alanları](https://wolkanca.com/farkli-cesitlerde-buldozerler-ve-kullanim-alanlari/)
 - [Yeni sekmede açılmasın](https://wolkanca.com/yeni-sekmede-acilmasin/)
 - [İlk başarılı yapay zekâ it dalaşı](https://wolkanca.com/ilk-basarili-yapay-zeka-it-dalasi/)
 - [WordPress güvenlik raporu](https://wolkanca.com/wordpress-guvenlik-raporu/)
@@ -31,7 +32,6 @@
 - [Google Fotoğraflar’da yapay zekâ araçları ücretsiz](https://wolkanca.com/google-fotograflarda-yapay-zeka-araclari-ucretsiz/)
 - [X, iOS Passkeys başladı](https://wolkanca.com/x-ios-passkeys-basladi/)
 - [Joker: İkili Delilik](https://wolkanca.com/joker-ikili-delilik/)
-- [Gmail AI “e-posta özetleme”](https://wolkanca.com/gmail-ai-e-posta-ozetleme/)
 <!-- BLOG-POST-LIST:END -->
 
 
