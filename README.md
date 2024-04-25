@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yapay zekâ, siyasi görüşü de tahmin edebilecek](https://wolkanca.com/yapay-zeka-siyasi-gorusu-de-tahmin-edebilecek/)
 - [Farklı çeşitlerde buldozerler ve kullanım alanları](https://wolkanca.com/farkli-cesitlerde-buldozerler-ve-kullanim-alanlari/)
 - [Yeni sekmede açılmasın](https://wolkanca.com/yeni-sekmede-acilmasin/)
 - [İlk başarılı yapay zekâ it dalaşı](https://wolkanca.com/ilk-basarili-yapay-zeka-it-dalasi/)
@@ -31,7 +32,6 @@
 - [GTA 6 fragmanını gerçek hayata uyarladı](https://wolkanca.com/gta-6-fragmanini-gercek-hayata-uyarladi/)
 - [Google Fotoğraflar’da yapay zekâ araçları ücretsiz](https://wolkanca.com/google-fotograflarda-yapay-zeka-araclari-ucretsiz/)
 - [X, iOS Passkeys başladı](https://wolkanca.com/x-ios-passkeys-basladi/)
-- [Joker: İkili Delilik](https://wolkanca.com/joker-ikili-delilik/)
 <!-- BLOG-POST-LIST:END -->
 
 
