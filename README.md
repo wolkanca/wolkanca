@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cep telefonu tarifelerine zam](https://wolkanca.com/cep-telefonu-tarifelerine-zam/)
 - [Ölümlü Dünya 2 Netflix’te](https://wolkanca.com/olumlu-dunya-2-netflixte/)
 - [Yapay zekâ, siyasi görüşü de tahmin edebilecek](https://wolkanca.com/yapay-zeka-siyasi-gorusu-de-tahmin-edebilecek/)
 - [Farklı çeşitlerde buldozerler ve kullanım alanları](https://wolkanca.com/farkli-cesitlerde-buldozerler-ve-kullanim-alanlari/)
@@ -31,7 +32,6 @@
 - [WhatsApp sohbet filtreleri](https://wolkanca.com/whatsapp-sohbet-filtreleri/)
 - [Tekrar tekrar izlenebilir diziler](https://wolkanca.com/tekrar-tekrar-izlenebilir-diziler/)
 - [GTA 6 fragmanını gerçek hayata uyarladı](https://wolkanca.com/gta-6-fragmanini-gercek-hayata-uyarladi/)
-- [Google Fotoğraflar’da yapay zekâ araçları ücretsiz](https://wolkanca.com/google-fotograflarda-yapay-zeka-araclari-ucretsiz/)
 <!-- BLOG-POST-LIST:END -->
 
 
