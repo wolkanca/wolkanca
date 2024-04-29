@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CMXXIV – Single albüm çıktı](https://wolkanca.com/cmxxiv-single-album-cikti/)
 - [Cep telefonu tarifelerine zam](https://wolkanca.com/cep-telefonu-tarifelerine-zam/)
 - [Ölümlü Dünya 2 Netflix’te](https://wolkanca.com/olumlu-dunya-2-netflixte/)
 - [Yapay zekâ, siyasi görüşü de tahmin edebilecek](https://wolkanca.com/yapay-zeka-siyasi-gorusu-de-tahmin-edebilecek/)
@@ -31,7 +32,6 @@
 - [WhatsApp online olanlar](https://wolkanca.com/whatsapp-online-olanlar/)
 - [WhatsApp sohbet filtreleri](https://wolkanca.com/whatsapp-sohbet-filtreleri/)
 - [Tekrar tekrar izlenebilir diziler](https://wolkanca.com/tekrar-tekrar-izlenebilir-diziler/)
-- [GTA 6 fragmanını gerçek hayata uyarladı](https://wolkanca.com/gta-6-fragmanini-gercek-hayata-uyarladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
