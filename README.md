@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İlk Göktürk – Alper Çağlar](https://wolkanca.com/ilk-gokturk-alper-caglar/)
 - [CMXXIV – Single albüm çıktı](https://wolkanca.com/cmxxiv-single-album-cikti/)
 - [Cep telefonu tarifelerine zam](https://wolkanca.com/cep-telefonu-tarifelerine-zam/)
 - [Ölümlü Dünya 2 Netflix’te](https://wolkanca.com/olumlu-dunya-2-netflixte/)
@@ -31,7 +32,6 @@
 - [Google Maps şarj istasyonları](https://wolkanca.com/google-maps-sarj-istasyonlari/)
 - [WhatsApp online olanlar](https://wolkanca.com/whatsapp-online-olanlar/)
 - [WhatsApp sohbet filtreleri](https://wolkanca.com/whatsapp-sohbet-filtreleri/)
-- [Tekrar tekrar izlenebilir diziler](https://wolkanca.com/tekrar-tekrar-izlenebilir-diziler/)
 <!-- BLOG-POST-LIST:END -->
 
 
