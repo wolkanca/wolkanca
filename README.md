@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İllegal Hayatlar 2](https://wolkanca.com/illegal-hayatlar-2/)
 - [Rabbit’s R1 ve Humane’s Ai Pin](https://wolkanca.com/rabbits-r1-ve-humanes-ai-pin/)
 - [İlk Göktürk – Alper Çağlar](https://wolkanca.com/ilk-gokturk-alper-caglar/)
 - [CMXXIV – Single albüm çıktı](https://wolkanca.com/cmxxiv-single-album-cikti/)
@@ -31,7 +32,6 @@
 - [The Platform 2 ilk görseller](https://wolkanca.com/the-platform-2-ilk-gorseller/)
 - [AltStore PAL kullanımda](https://wolkanca.com/altstore-pal-kullanimda/)
 - [Google Maps şarj istasyonları](https://wolkanca.com/google-maps-sarj-istasyonlari/)
-- [WhatsApp online olanlar](https://wolkanca.com/whatsapp-online-olanlar/)
 <!-- BLOG-POST-LIST:END -->
 
 
