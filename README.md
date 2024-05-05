@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Düşmanımın düşmanı dostumdur” sözü doğrulandı](https://wolkanca.com/dusmanimin-dusmani-dostumdur-sozu-dogrulandi/)
+- [Gemini uzantıları Türkiye’de](https://wolkanca.com/gemini-uzantilari-turkiyede/)
 - [Yeni He-Man 2026’da](https://wolkanca.com/yeni-he-man-2026da/)
 - [İllegal Hayatlar 2](https://wolkanca.com/illegal-hayatlar-2/)
 - [Rabbit’s R1 ve Humane’s Ai Pin](https://wolkanca.com/rabbits-r1-ve-humanes-ai-pin/)
@@ -30,8 +32,6 @@
 - [İlk başarılı yapay zekâ it dalaşı](https://wolkanca.com/ilk-basarili-yapay-zeka-it-dalasi/)
 - [WordPress güvenlik raporu](https://wolkanca.com/wordpress-guvenlik-raporu/)
 - [En iyi hayatta kalma filmleri](https://wolkanca.com/en-iyi-hayatta-kalma-filmleri/)
-- [The Platform 2 ilk görseller](https://wolkanca.com/the-platform-2-ilk-gorseller/)
-- [AltStore PAL kullanımda](https://wolkanca.com/altstore-pal-kullanimda/)
 <!-- BLOG-POST-LIST:END -->
 
 
