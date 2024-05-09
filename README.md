@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İstediğini Grokla](https://wolkanca.com/istedigini-grokla/)
 - [OLED ekranlı iPad Pro tanıtıldı](https://wolkanca.com/oled-ekranli-ipad-pro-tanitildi/)
 - [UK Savunma Bakanlığı hacklendi](https://wolkanca.com/uk-savunma-bakanligi-hacklendi/)
 - [Amazon Prime Mayıs ücretsiz oyunlar](https://wolkanca.com/amazon-prime-mayis-ucretsiz-oyunlar/)
@@ -31,7 +32,6 @@
 - [Cep telefonu tarifelerine zam](https://wolkanca.com/cep-telefonu-tarifelerine-zam/)
 - [Ölümlü Dünya 2 Netflix’te](https://wolkanca.com/olumlu-dunya-2-netflixte/)
 - [Yapay zekâ, siyasi görüşü de tahmin edebilecek](https://wolkanca.com/yapay-zeka-siyasi-gorusu-de-tahmin-edebilecek/)
-- [Farklı çeşitlerde buldozerler ve kullanım alanları](https://wolkanca.com/farkli-cesitlerde-buldozerler-ve-kullanim-alanlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
