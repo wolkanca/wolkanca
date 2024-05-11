@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI arama motoru](https://wolkanca.com/openai-arama-motoru/)
 - [Yeni WhatsApp tasarımı](https://wolkanca.com/yeni-whatsapp-tasarimi/)
 - [İstediğini Grokla](https://wolkanca.com/istedigini-grokla/)
 - [OLED ekranlı iPad Pro tanıtıldı](https://wolkanca.com/oled-ekranli-ipad-pro-tanitildi/)
@@ -31,7 +32,6 @@
 - [İlk Göktürk – Alper Çağlar](https://wolkanca.com/ilk-gokturk-alper-caglar/)
 - [CMXXIV – Single albüm çıktı](https://wolkanca.com/cmxxiv-single-album-cikti/)
 - [Cep telefonu tarifelerine zam](https://wolkanca.com/cep-telefonu-tarifelerine-zam/)
-- [Ölümlü Dünya 2 Netflix’te](https://wolkanca.com/olumlu-dunya-2-netflixte/)
 <!-- BLOG-POST-LIST:END -->
 
 
