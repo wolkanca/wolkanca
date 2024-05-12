@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [God of War Ragnarök PC’de](https://wolkanca.com/god-of-war-ragnarok-pcde/)
 - [OpenAI arama motoru](https://wolkanca.com/openai-arama-motoru/)
 - [Yeni WhatsApp tasarımı](https://wolkanca.com/yeni-whatsapp-tasarimi/)
 - [İstediğini Grokla](https://wolkanca.com/istedigini-grokla/)
@@ -31,7 +32,6 @@
 - [Rabbit’s R1 ve Humane’s Ai Pin](https://wolkanca.com/rabbits-r1-ve-humanes-ai-pin/)
 - [İlk Göktürk – Alper Çağlar](https://wolkanca.com/ilk-gokturk-alper-caglar/)
 - [CMXXIV – Single albüm çıktı](https://wolkanca.com/cmxxiv-single-album-cikti/)
-- [Cep telefonu tarifelerine zam](https://wolkanca.com/cep-telefonu-tarifelerine-zam/)
 <!-- BLOG-POST-LIST:END -->
 
 
