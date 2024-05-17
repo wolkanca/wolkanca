@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2 yeni Googlebot](https://wolkanca.com/2-yeni-googlebot/)
 - [Assassin’s Creed Shadows](https://wolkanca.com/assassins-creed-shadows/)
 - [Google arama Web filtresi](https://wolkanca.com/google-arama-web-filtresi/)
 - [Yüzüklerin Efendisi 2. sezon](https://wolkanca.com/yuzuklerin-efendisi-2-sezon/)
@@ -31,7 +32,6 @@
 - [James Webb’den Atbaşı Nebulası’na bakış](https://wolkanca.com/james-webbden-atbasi-nebulasina-bakis/)
 - [“Düşmanımın düşmanı dostumdur” sözü doğrulandı](https://wolkanca.com/dusmanimin-dusmani-dostumdur-sozu-dogrulandi/)
 - [Gemini uzantıları Türkiye’de](https://wolkanca.com/gemini-uzantilari-turkiyede/)
-- [Yeni He-Man 2026’da](https://wolkanca.com/yeni-he-man-2026da/)
 <!-- BLOG-POST-LIST:END -->
 
 
