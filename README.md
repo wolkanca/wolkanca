@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Assassin’s Creed Shadows](https://wolkanca.com/assassins-creed-shadows/)
 - [Google arama Web filtresi](https://wolkanca.com/google-arama-web-filtresi/)
 - [Yüzüklerin Efendisi 2. sezon](https://wolkanca.com/yuzuklerin-efendisi-2-sezon/)
 - [GPT-4o tanıtıldı](https://wolkanca.com/gpt-4o-tanitildi/)
@@ -31,7 +32,6 @@
 - [“Düşmanımın düşmanı dostumdur” sözü doğrulandı](https://wolkanca.com/dusmanimin-dusmani-dostumdur-sozu-dogrulandi/)
 - [Gemini uzantıları Türkiye’de](https://wolkanca.com/gemini-uzantilari-turkiyede/)
 - [Yeni He-Man 2026’da](https://wolkanca.com/yeni-he-man-2026da/)
-- [İllegal Hayatlar 2](https://wolkanca.com/illegal-hayatlar-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
