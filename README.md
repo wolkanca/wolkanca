@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GORA 4 GORA Cem Yılmaz](https://wolkanca.com/gora-4-gora-cem-yilmaz/)
 - [2 yeni Googlebot](https://wolkanca.com/2-yeni-googlebot/)
 - [Assassin’s Creed Shadows](https://wolkanca.com/assassins-creed-shadows/)
 - [Google arama Web filtresi](https://wolkanca.com/google-arama-web-filtresi/)
@@ -31,7 +32,6 @@
 - [Amazon Prime Mayıs ücretsiz oyunlar](https://wolkanca.com/amazon-prime-mayis-ucretsiz-oyunlar/)
 - [James Webb’den Atbaşı Nebulası’na bakış](https://wolkanca.com/james-webbden-atbasi-nebulasina-bakis/)
 - [“Düşmanımın düşmanı dostumdur” sözü doğrulandı](https://wolkanca.com/dusmanimin-dusmani-dostumdur-sozu-dogrulandi/)
-- [Gemini uzantıları Türkiye’de](https://wolkanca.com/gemini-uzantilari-turkiyede/)
 <!-- BLOG-POST-LIST:END -->
 
 
