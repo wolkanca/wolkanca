@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Videolar için gerçek zamanlı ses çevirisi](https://wolkanca.com/videolar-icin-gercek-zamanli-ses-cevirisi/)
 - [GORA 4 GORA Cem Yılmaz](https://wolkanca.com/gora-4-gora-cem-yilmaz/)
 - [Komik ve fazlasıyla tanıdık patron meme’leri](https://wolkanca.com/komik-ve-fazlasiyla-tanidik-patron-memeleri/)
 - [2 yeni Googlebot](https://wolkanca.com/2-yeni-googlebot/)
@@ -31,7 +32,6 @@
 - [OLED ekranlı iPad Pro tanıtıldı](https://wolkanca.com/oled-ekranli-ipad-pro-tanitildi/)
 - [UK Savunma Bakanlığı hacklendi](https://wolkanca.com/uk-savunma-bakanligi-hacklendi/)
 - [Amazon Prime Mayıs ücretsiz oyunlar](https://wolkanca.com/amazon-prime-mayis-ucretsiz-oyunlar/)
-- [James Webb’den Atbaşı Nebulası’na bakış](https://wolkanca.com/james-webbden-atbasi-nebulasina-bakis/)
 <!-- BLOG-POST-LIST:END -->
 
 
