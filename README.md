@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [X, Türkiye’ye temsilci atadı](https://wolkanca.com/x-turkiyeye-temsilci-atadi/)
 - [Videolar için gerçek zamanlı ses çevirisi](https://wolkanca.com/videolar-icin-gercek-zamanli-ses-cevirisi/)
 - [GORA 4 GORA Cem Yılmaz](https://wolkanca.com/gora-4-gora-cem-yilmaz/)
 - [Komik ve fazlasıyla tanıdık patron meme’leri](https://wolkanca.com/komik-ve-fazlasiyla-tanidik-patron-memeleri/)
@@ -31,7 +32,6 @@
 - [İstediğini Grokla](https://wolkanca.com/istedigini-grokla/)
 - [OLED ekranlı iPad Pro tanıtıldı](https://wolkanca.com/oled-ekranli-ipad-pro-tanitildi/)
 - [UK Savunma Bakanlığı hacklendi](https://wolkanca.com/uk-savunma-bakanligi-hacklendi/)
-- [Amazon Prime Mayıs ücretsiz oyunlar](https://wolkanca.com/amazon-prime-mayis-ucretsiz-oyunlar/)
 <!-- BLOG-POST-LIST:END -->
 
 
