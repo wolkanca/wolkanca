@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Netflix 2023 ikinci yarısı izlenme raporu](https://wolkanca.com/netflix-2023-ikinci-yarisi-izlenme-raporu/)
 - [Şampiyon Galatasaray](https://wolkanca.com/sampiyon-galatasaray/)
 - [Yeniden CNBC-e](https://wolkanca.com/yeniden-cnbc-e/)
 - [YouTube Music için de “mırıldanarak” arama](https://wolkanca.com/youtube-music-icin-de-mirildanarak-arama/)
@@ -31,7 +32,6 @@
 - [GPT-4o tanıtıldı](https://wolkanca.com/gpt-4o-tanitildi/)
 - [God of War Ragnarök PC’de](https://wolkanca.com/god-of-war-ragnarok-pcde/)
 - [OpenAI arama motoru](https://wolkanca.com/openai-arama-motoru/)
-- [Yeni WhatsApp tasarımı](https://wolkanca.com/yeni-whatsapp-tasarimi/)
 <!-- BLOG-POST-LIST:END -->
 
 
