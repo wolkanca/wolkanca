@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Şampiyon Galatasaray](https://wolkanca.com/sampiyon-galatasaray/)
 - [Yeniden CNBC-e](https://wolkanca.com/yeniden-cnbc-e/)
 - [YouTube Music için de “mırıldanarak” arama](https://wolkanca.com/youtube-music-icin-de-mirildanarak-arama/)
 - [X, Türkiye’ye temsilci atadı](https://wolkanca.com/x-turkiyeye-temsilci-atadi/)
@@ -31,7 +32,6 @@
 - [God of War Ragnarök PC’de](https://wolkanca.com/god-of-war-ragnarok-pcde/)
 - [OpenAI arama motoru](https://wolkanca.com/openai-arama-motoru/)
 - [Yeni WhatsApp tasarımı](https://wolkanca.com/yeni-whatsapp-tasarimi/)
-- [İstediğini Grokla](https://wolkanca.com/istedigini-grokla/)
 <!-- BLOG-POST-LIST:END -->
 
 
