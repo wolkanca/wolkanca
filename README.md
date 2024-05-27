@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sosyal Medyanın modern pazarlama stratejilerine etkisi ve İK Uzmanlığı](https://wolkanca.com/sosyal-medyanin-modern-pazarlama-stratejilerine-etkisi-ve-ik-uzmanligi/)
 - [Netflix 2023 ikinci yarısı izlenme raporu](https://wolkanca.com/netflix-2023-ikinci-yarisi-izlenme-raporu/)
 - [Şampiyon Galatasaray](https://wolkanca.com/sampiyon-galatasaray/)
 - [Yeniden CNBC-e](https://wolkanca.com/yeniden-cnbc-e/)
@@ -31,7 +32,6 @@
 - [Yüzüklerin Efendisi 2. sezon](https://wolkanca.com/yuzuklerin-efendisi-2-sezon/)
 - [GPT-4o tanıtıldı](https://wolkanca.com/gpt-4o-tanitildi/)
 - [God of War Ragnarök PC’de](https://wolkanca.com/god-of-war-ragnarok-pcde/)
-- [OpenAI arama motoru](https://wolkanca.com/openai-arama-motoru/)
 <!-- BLOG-POST-LIST:END -->
 
 
