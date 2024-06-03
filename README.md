@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iOS 18 ile büyük değişiklikler](https://wolkanca.com/ios-18-ile-buyuk-degisiklikler/)
+- [Siri ile uygulamalar sesle yönetilebilecek](https://wolkanca.com/siri-ile-uygulamalar-sesle-yonetilebilecek/)
 - [Sosyal Medyanın modern pazarlama stratejilerine etkisi ve İK Uzmanlığı](https://wolkanca.com/sosyal-medyanin-modern-pazarlama-stratejilerine-etkisi-ve-ik-uzmanligi/)
 - [Netflix 2023 ikinci yarısı izlenme raporu](https://wolkanca.com/netflix-2023-ikinci-yarisi-izlenme-raporu/)
 - [Şampiyon Galatasaray](https://wolkanca.com/sampiyon-galatasaray/)
@@ -30,8 +32,6 @@
 - [Assassin’s Creed Shadows](https://wolkanca.com/assassins-creed-shadows/)
 - [Google arama Web filtresi](https://wolkanca.com/google-arama-web-filtresi/)
 - [Yüzüklerin Efendisi 2. sezon](https://wolkanca.com/yuzuklerin-efendisi-2-sezon/)
-- [GPT-4o tanıtıldı](https://wolkanca.com/gpt-4o-tanitildi/)
-- [God of War Ragnarök PC’de](https://wolkanca.com/god-of-war-ragnarok-pcde/)
 <!-- BLOG-POST-LIST:END -->
 
 
