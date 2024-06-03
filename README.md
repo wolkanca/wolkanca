@@ -17,8 +17,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Venom: The Last Dance filminin fragmanı yayınlandı](https://wolkanca.com/venom-the-last-dance-filminin-fragmani-yayinlandi/)
 - [iOS 18 ile büyük değişiklikler](https://wolkanca.com/ios-18-ile-buyuk-degisiklikler/)
 - [Siri ile uygulamalar sesle yönetilebilecek](https://wolkanca.com/siri-ile-uygulamalar-sesle-yonetilebilecek/)
+- [WhatsApp mavi tik kapatma](https://wolkanca.com/whatsapp-mavi-tik-kapatma/)
+- [Bu uygulamalara dikkat!](https://wolkanca.com/bu-uygulamalara-dikkat/)
 - [Sosyal Medyanın modern pazarlama stratejilerine etkisi ve İK Uzmanlığı](https://wolkanca.com/sosyal-medyanin-modern-pazarlama-stratejilerine-etkisi-ve-ik-uzmanligi/)
 - [Netflix 2023 ikinci yarısı izlenme raporu](https://wolkanca.com/netflix-2023-ikinci-yarisi-izlenme-raporu/)
 - [Şampiyon Galatasaray](https://wolkanca.com/sampiyon-galatasaray/)
@@ -29,9 +32,6 @@
 - [GORA 4 GORA Cem Yılmaz](https://wolkanca.com/gora-4-gora-cem-yilmaz/)
 - [Komik ve fazlasıyla tanıdık patron meme’leri](https://wolkanca.com/komik-ve-fazlasiyla-tanidik-patron-memeleri/)
 - [2 yeni Googlebot](https://wolkanca.com/2-yeni-googlebot/)
-- [Assassin’s Creed Shadows](https://wolkanca.com/assassins-creed-shadows/)
-- [Google arama Web filtresi](https://wolkanca.com/google-arama-web-filtresi/)
-- [Yüzüklerin Efendisi 2. sezon](https://wolkanca.com/yuzuklerin-efendisi-2-sezon/)
 <!-- BLOG-POST-LIST:END -->
 
 
