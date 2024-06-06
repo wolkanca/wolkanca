@@ -17,8 +17,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [@photomatt entry’mi beğendi](https://wolkanca.com/photomatt-entrymi-begendi/)
+- [Google Domain’den Squarespace’e transferler başladı](https://wolkanca.com/google-domainden-squarespacee-transferler-basladi/)
 - [Venom: The Last Dance filminin fragmanı yayınlandı](https://wolkanca.com/venom-the-last-dance-filminin-fragmani-yayinlandi/)
 - [iOS 18 ile büyük değişiklikler](https://wolkanca.com/ios-18-ile-buyuk-degisiklikler/)
+- [300 dizisi](https://wolkanca.com/300-dizisi/)
 - [Siri ile uygulamalar sesle yönetilebilecek](https://wolkanca.com/siri-ile-uygulamalar-sesle-yonetilebilecek/)
 - [WhatsApp mavi tik kapatma](https://wolkanca.com/whatsapp-mavi-tik-kapatma/)
 - [Bu uygulamalara dikkat!](https://wolkanca.com/bu-uygulamalara-dikkat/)
@@ -29,9 +32,6 @@
 - [YouTube Music için de “mırıldanarak” arama](https://wolkanca.com/youtube-music-icin-de-mirildanarak-arama/)
 - [X, Türkiye’ye temsilci atadı](https://wolkanca.com/x-turkiyeye-temsilci-atadi/)
 - [Videolar için gerçek zamanlı ses çevirisi](https://wolkanca.com/videolar-icin-gercek-zamanli-ses-cevirisi/)
-- [GORA 4 GORA Cem Yılmaz](https://wolkanca.com/gora-4-gora-cem-yilmaz/)
-- [Komik ve fazlasıyla tanıdık patron meme’leri](https://wolkanca.com/komik-ve-fazlasiyla-tanidik-patron-memeleri/)
-- [2 yeni Googlebot](https://wolkanca.com/2-yeni-googlebot/)
 <!-- BLOG-POST-LIST:END -->
 
 
