@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iPhone 16’nın bataryası metal](https://wolkanca.com/iphone-16nin-bataryasi-metal/)
+- [Windows 11 içinde Windows 10 Dosya Gezgini](https://wolkanca.com/windows-11-icinde-windows-10-dosya-gezgini/)
 - [Yapay Zeka Özetler’i hakkında](https://wolkanca.com/yapay-zeka-ozetleri-hakkinda/)
 - [Internetsiz Windows kurmak](https://wolkanca.com/internetsiz-windows-kurmak/)
 - [@photomatt entry’mi beğendi](https://wolkanca.com/photomatt-entrymi-begendi/)
@@ -30,8 +32,6 @@
 - [Sosyal Medyanın modern pazarlama stratejilerine etkisi ve İK Uzmanlığı](https://wolkanca.com/sosyal-medyanin-modern-pazarlama-stratejilerine-etkisi-ve-ik-uzmanligi/)
 - [Netflix 2023 ikinci yarısı izlenme raporu](https://wolkanca.com/netflix-2023-ikinci-yarisi-izlenme-raporu/)
 - [Şampiyon Galatasaray](https://wolkanca.com/sampiyon-galatasaray/)
-- [Yeniden CNBC-e](https://wolkanca.com/yeniden-cnbc-e/)
-- [YouTube Music için de “mırıldanarak” arama](https://wolkanca.com/youtube-music-icin-de-mirildanarak-arama/)
 <!-- BLOG-POST-LIST:END -->
 
 
