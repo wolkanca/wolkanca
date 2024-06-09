@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yapay Zeka Özetler’i hakkında](https://wolkanca.com/yapay-zeka-ozetleri-hakkinda/)
 - [Internetsiz Windows kurmak](https://wolkanca.com/internetsiz-windows-kurmak/)
 - [@photomatt entry’mi beğendi](https://wolkanca.com/photomatt-entrymi-begendi/)
 - [Google Domain’den Squarespace’e transferler başladı](https://wolkanca.com/google-domainden-squarespacee-transferler-basladi/)
@@ -31,7 +32,6 @@
 - [Şampiyon Galatasaray](https://wolkanca.com/sampiyon-galatasaray/)
 - [Yeniden CNBC-e](https://wolkanca.com/yeniden-cnbc-e/)
 - [YouTube Music için de “mırıldanarak” arama](https://wolkanca.com/youtube-music-icin-de-mirildanarak-arama/)
-- [X, Türkiye’ye temsilci atadı](https://wolkanca.com/x-turkiyeye-temsilci-atadi/)
 <!-- BLOG-POST-LIST:END -->
 
 
