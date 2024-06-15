@@ -17,8 +17,12 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Instagram hikayeleri Whatsapp’da paylaşılabilecek](https://wolkanca.com/instagram-hikayeleri-whatsappda-paylasilabilecek/)
+- [LinkedIn yapay zekâ araçları](https://wolkanca.com/linkedin-yapay-zeka-araclari/)
+- [Apple’a dava, sildiğim mesajlar nasıl ortaya çıktı?](https://wolkanca.com/applea-dava-sildigim-mesajlar-nasil-ortaya-cikti/)
 - [SEO ve GEO](https://wolkanca.com/seo-ve-geo/)
 - [WWDC24 özet](https://wolkanca.com/wwdc24-ozet/)
+- [JS click before veya after](https://wolkanca.com/js-click-before-veya-after/)
 - [iPhone 16’nın bataryası metal](https://wolkanca.com/iphone-16nin-bataryasi-metal/)
 - [Windows 11 içinde Windows 10 Dosya Gezgini](https://wolkanca.com/windows-11-icinde-windows-10-dosya-gezgini/)
 - [Yapay Zeka Özetler’i hakkında](https://wolkanca.com/yapay-zeka-ozetleri-hakkinda/)
@@ -28,10 +32,6 @@
 - [Venom: The Last Dance filminin fragmanı yayınlandı](https://wolkanca.com/venom-the-last-dance-filminin-fragmani-yayinlandi/)
 - [iOS 18 ile büyük değişiklikler](https://wolkanca.com/ios-18-ile-buyuk-degisiklikler/)
 - [300 dizisi](https://wolkanca.com/300-dizisi/)
-- [Siri ile uygulamalar sesle yönetilebilecek](https://wolkanca.com/siri-ile-uygulamalar-sesle-yonetilebilecek/)
-- [WhatsApp mavi tik kapatma](https://wolkanca.com/whatsapp-mavi-tik-kapatma/)
-- [Bu uygulamalara dikkat!](https://wolkanca.com/bu-uygulamalara-dikkat/)
-- [Sosyal Medyanın modern pazarlama stratejilerine etkisi ve İK Uzmanlığı](https://wolkanca.com/sosyal-medyanin-modern-pazarlama-stratejilerine-etkisi-ve-ik-uzmanligi/)
 <!-- BLOG-POST-LIST:END -->
 
 
