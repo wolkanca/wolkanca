@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress’te admin renk düzeni nasıl değiştirilir](https://wolkanca.com/wordpresste-admin-renk-duzeni-nasil-degistirilir/)
 - [Cloudflare Redirect Rules kullanımı](https://wolkanca.com/cloudflare-redirect-rules-kullanimi/)
 - [Instagram hikayeleri Whatsapp’da paylaşılabilecek](https://wolkanca.com/instagram-hikayeleri-whatsappda-paylasilabilecek/)
 - [LinkedIn yapay zekâ araçları](https://wolkanca.com/linkedin-yapay-zeka-araclari/)
@@ -31,7 +32,6 @@
 - [@photomatt entry’mi beğendi](https://wolkanca.com/photomatt-entrymi-begendi/)
 - [Google Domain’den Squarespace’e transferler başladı](https://wolkanca.com/google-domainden-squarespacee-transferler-basladi/)
 - [Venom: The Last Dance filminin fragmanı yayınlandı](https://wolkanca.com/venom-the-last-dance-filminin-fragmani-yayinlandi/)
-- [iOS 18 ile büyük değişiklikler](https://wolkanca.com/ios-18-ile-buyuk-degisiklikler/)
 <!-- BLOG-POST-LIST:END -->
 
 
