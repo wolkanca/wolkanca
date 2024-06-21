@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Otyken / 𐰇𐱅𐰜𐰤](https://wolkanca.com/otyken-%f0%90%b0%87%f0%90%b1%85%f0%90%b0%9c%f0%90%b0%a4/)
 - [A Knight of the Seven Kingdoms çekimleri başladı](https://wolkanca.com/a-knight-of-the-seven-kingdoms-cekimleri-basladi/)
 - [WordPress yorumlarda linkleri devre dışı bırakmak](https://wolkanca.com/wordpress-yorumlarda-linkleri-devre-disi-birakmak/)
 - [WordPress’te admin renk düzeni nasıl değiştirilir](https://wolkanca.com/wordpresste-admin-renk-duzeni-nasil-degistirilir/)
@@ -31,7 +32,6 @@
 - [Windows 11 içinde Windows 10 Dosya Gezgini](https://wolkanca.com/windows-11-icinde-windows-10-dosya-gezgini/)
 - [Yapay Zeka Özetler’i hakkında](https://wolkanca.com/yapay-zeka-ozetleri-hakkinda/)
 - [Internetsiz Windows kurmak](https://wolkanca.com/internetsiz-windows-kurmak/)
-- [@photomatt entry’mi beğendi](https://wolkanca.com/photomatt-entrymi-begendi/)
 <!-- BLOG-POST-LIST:END -->
 
 
