@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jüpiter’de Büyük Kırmızı Leke](https://wolkanca.com/jupiterde-buyuk-kirmizi-leke/)
 - [Google Translate’e büyük güncelleme](https://wolkanca.com/google-translatee-buyuk-guncelleme/)
 - [Laptoplarda cihazlara USB Type-C zorunluluğu](https://wolkanca.com/laptoplarda-cihazlara-usb-type-c-zorunlulugu/)
 - [Apple Watch Series 10 hakkında bilinenler](https://wolkanca.com/apple-watch-series-10-hakkinda-bilinenler/)
@@ -31,7 +32,6 @@
 - [Cloudflare Redirect Rules kullanımı](https://wolkanca.com/cloudflare-redirect-rules-kullanimi/)
 - [Instagram hikayeleri Whatsapp’da paylaşılabilecek](https://wolkanca.com/instagram-hikayeleri-whatsappda-paylasilabilecek/)
 - [LinkedIn yapay zekâ araçları](https://wolkanca.com/linkedin-yapay-zeka-araclari/)
-- [Apple’a dava, sildiğim mesajlar nasıl ortaya çıktı?](https://wolkanca.com/applea-dava-sildigim-mesajlar-nasil-ortaya-cikti/)
 <!-- BLOG-POST-LIST:END -->
 
 
