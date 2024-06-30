@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare URL normalization](https://wolkanca.com/cloudflare-url-normalization/)
 - [Jüpiter’de Büyük Kırmızı Leke](https://wolkanca.com/jupiterde-buyuk-kirmizi-leke/)
 - [Google Translate’e büyük güncelleme](https://wolkanca.com/google-translatee-buyuk-guncelleme/)
 - [Laptoplarda USB Type-C zorunluluğu](https://wolkanca.com/laptoplarda-usb-type-c-zorunlulugu/)
@@ -31,7 +32,6 @@
 - [WordPress’te admin renk düzeni nasıl değiştirilir](https://wolkanca.com/wordpresste-admin-renk-duzeni-nasil-degistirilir/)
 - [Cloudflare Redirect Rules kullanımı](https://wolkanca.com/cloudflare-redirect-rules-kullanimi/)
 - [Instagram hikayeleri Whatsapp’da paylaşılabilecek](https://wolkanca.com/instagram-hikayeleri-whatsappda-paylasilabilecek/)
-- [LinkedIn yapay zekâ araçları](https://wolkanca.com/linkedin-yapay-zeka-araclari/)
 <!-- BLOG-POST-LIST:END -->
 
 
