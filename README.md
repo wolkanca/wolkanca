@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Volkan Yılmaz grubu](https://wolkanca.com/volkan-yilmaz-grubu/)
 - [#BeFairEUFA](https://wolkanca.com/befaireufa/)
 - [Gladiator 2 ilk görseller](https://wolkanca.com/gladiator-2-ilk-gorseller/)
 - [Cloudflare URL normalization](https://wolkanca.com/cloudflare-url-normalization/)
@@ -31,7 +32,6 @@
 - [Otyken / 𐰇𐱅𐰜𐰤](https://wolkanca.com/otyken-%f0%90%b0%87%f0%90%b1%85%f0%90%b0%9c%f0%90%b0%a4/)
 - [A Knight of the Seven Kingdoms çekimleri başladı](https://wolkanca.com/a-knight-of-the-seven-kingdoms-cekimleri-basladi/)
 - [WordPress yorumlarda linkleri devre dışı bırakmak](https://wolkanca.com/wordpress-yorumlarda-linkleri-devre-disi-birakmak/)
-- [WordPress’te admin renk düzeni nasıl değiştirilir](https://wolkanca.com/wordpresste-admin-renk-duzeni-nasil-degistirilir/)
 <!-- BLOG-POST-LIST:END -->
 
 
