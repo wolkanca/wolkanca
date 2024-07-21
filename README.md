@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gerçek Youtube SEO](https://wolkanca.com/gercek-youtube-seo/)
 - [Volkan Yılmaz grubu](https://wolkanca.com/volkan-yilmaz-grubu/)
 - [#BeFairEUFA](https://wolkanca.com/befaireufa/)
 - [Gladiator 2 ilk görseller](https://wolkanca.com/gladiator-2-ilk-gorseller/)
@@ -31,7 +32,6 @@
 - [ChatGPT film senaryosu yazarsa?](https://wolkanca.com/chatgpt-film-senaryosu-yazarsa/)
 - [Otyken / 𐰇𐱅𐰜𐰤](https://wolkanca.com/otyken-%f0%90%b0%87%f0%90%b1%85%f0%90%b0%9c%f0%90%b0%a4/)
 - [A Knight of the Seven Kingdoms çekimleri başladı](https://wolkanca.com/a-knight-of-the-seven-kingdoms-cekimleri-basladi/)
-- [WordPress yorumlarda linkleri devre dışı bırakmak](https://wolkanca.com/wordpress-yorumlarda-linkleri-devre-disi-birakmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
