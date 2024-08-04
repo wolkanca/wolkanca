@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [$dikec](https://wolkanca.com/dikec/)
 - [Gerçek Youtube SEO](https://wolkanca.com/gercek-youtube-seo/)
 - [Volkan Yılmaz grubu](https://wolkanca.com/volkan-yilmaz-grubu/)
 - [#BeFairEUFA](https://wolkanca.com/befaireufa/)
@@ -31,7 +32,6 @@
 - [Elon Musk’a kızdı Cybertruck’ları boyadı](https://wolkanca.com/elon-muska-kizdi-cybertrucklari-boyadi/)
 - [ChatGPT film senaryosu yazarsa?](https://wolkanca.com/chatgpt-film-senaryosu-yazarsa/)
 - [Otyken / 𐰇𐱅𐰜𐰤](https://wolkanca.com/otyken-%f0%90%b0%87%f0%90%b1%85%f0%90%b0%9c%f0%90%b0%a4/)
-- [A Knight of the Seven Kingdoms çekimleri başladı](https://wolkanca.com/a-knight-of-the-seven-kingdoms-cekimleri-basladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
