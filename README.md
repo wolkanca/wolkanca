@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SimitciAI](https://wolkanca.com/simitciai/)
 - [Yüzüklerin Efendisi: Rohirrim Savaşı](https://wolkanca.com/yuzuklerin-efendisi-rohirrim-savasi/)
 - [$dikec](https://wolkanca.com/dikec/)
 - [Gerçek Youtube SEO](https://wolkanca.com/gercek-youtube-seo/)
@@ -31,7 +32,6 @@
 - [YouTube Hype butonu](https://wolkanca.com/youtube-hype-butonu/)
 - [Sıcak havalarda nasıl daha iyi uyunur?](https://wolkanca.com/sicak-havalarda-nasil-daha-iyi-uyunur/)
 - [Elon Musk’a kızdı Cybertruck’ları boyadı](https://wolkanca.com/elon-muska-kizdi-cybertrucklari-boyadi/)
-- [ChatGPT film senaryosu yazarsa?](https://wolkanca.com/chatgpt-film-senaryosu-yazarsa/)
 <!-- BLOG-POST-LIST:END -->
 
 
