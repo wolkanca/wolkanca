@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Platform 2 çıktı](https://wolkanca.com/the-platform-2-cikti/)
 - [.TR alan adları başladı](https://wolkanca.com/tr-alan-adlari-basladi/)
 - [SimitciAI](https://wolkanca.com/simitciai/)
 - [Yüzüklerin Efendisi: Rohirrim Savaşı](https://wolkanca.com/yuzuklerin-efendisi-rohirrim-savasi/)
@@ -31,7 +32,6 @@
 - [Laptoplarda USB Type-C zorunluluğu](https://wolkanca.com/laptoplarda-usb-type-c-zorunlulugu/)
 - [Apple Watch Series 10 hakkında bilinenler](https://wolkanca.com/apple-watch-series-10-hakkinda-bilinenler/)
 - [YouTube Hype butonu](https://wolkanca.com/youtube-hype-butonu/)
-- [Sıcak havalarda nasıl daha iyi uyunur?](https://wolkanca.com/sicak-havalarda-nasil-daha-iyi-uyunur/)
 <!-- BLOG-POST-LIST:END -->
 
 
