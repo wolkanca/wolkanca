@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Daron Acemoğlu Nobel Ödülü aldı](https://wolkanca.com/daron-acemoglu-nobel-odulu-aldi/)
+- [Erşan Kuneri 2. sezon &lpar;2024&rpar; çıktı](https://wolkanca.com/ersan-kuneri-2-sezon-2024-cikti/)
 - [The Platform 2 çıktı](https://wolkanca.com/the-platform-2-cikti/)
 - [.TR alan adları başladı](https://wolkanca.com/tr-alan-adlari-basladi/)
 - [SimitciAI](https://wolkanca.com/simitciai/)
@@ -30,8 +32,6 @@
 - [Jüpiter’de Büyük Kırmızı Leke](https://wolkanca.com/jupiterde-buyuk-kirmizi-leke/)
 - [Google Translate’e büyük güncelleme](https://wolkanca.com/google-translatee-buyuk-guncelleme/)
 - [Laptoplarda USB Type-C zorunluluğu](https://wolkanca.com/laptoplarda-usb-type-c-zorunlulugu/)
-- [Apple Watch Series 10 hakkında bilinenler](https://wolkanca.com/apple-watch-series-10-hakkinda-bilinenler/)
-- [YouTube Hype butonu](https://wolkanca.com/youtube-hype-butonu/)
 <!-- BLOG-POST-LIST:END -->
 
 
