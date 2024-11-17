@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Muazzez İlmiye Çığ 110 yaşında hayatını kaybetti.](https://wolkanca.com/muazzez-ilmiye-cig-110-yasinda-hayatini-kaybetti/)
 - [Daron Acemoğlu Nobel Ödülü aldı](https://wolkanca.com/daron-acemoglu-nobel-odulu-aldi/)
 - [Erşan Kuneri 2. sezon &lpar;2024&rpar; çıktı](https://wolkanca.com/ersan-kuneri-2-sezon-2024-cikti/)
 - [The Platform 2 çıktı](https://wolkanca.com/the-platform-2-cikti/)
@@ -31,7 +32,6 @@
 - [Cloudflare URL normalization](https://wolkanca.com/cloudflare-url-normalization/)
 - [Jüpiter’de Büyük Kırmızı Leke](https://wolkanca.com/jupiterde-buyuk-kirmizi-leke/)
 - [Google Translate’e büyük güncelleme](https://wolkanca.com/google-translatee-buyuk-guncelleme/)
-- [Laptoplarda USB Type-C zorunluluğu](https://wolkanca.com/laptoplarda-usb-type-c-zorunlulugu/)
 <!-- BLOG-POST-LIST:END -->
 
 
