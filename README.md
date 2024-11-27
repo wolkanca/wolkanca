@@ -18,6 +18,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Arabesk’in Babası Yapay Zekâda](https://wolkanca.com/arabeskin-babasi-yapay-zekada/)
+- [Squid Game 2 iddialı geliyor](https://wolkanca.com/squid-game-2-iddiali-geliyor/)
 - [Muazzez İlmiye Çığ 110 yaşında hayatını kaybetti.](https://wolkanca.com/muazzez-ilmiye-cig-110-yasinda-hayatini-kaybetti/)
 - [Daron Acemoğlu Nobel Ödülü aldı](https://wolkanca.com/daron-acemoglu-nobel-odulu-aldi/)
 - [Erşan Kuneri 2. sezon &lpar;2024&rpar; çıktı](https://wolkanca.com/ersan-kuneri-2-sezon-2024-cikti/)
@@ -31,7 +32,6 @@
 - [#BeFairEUFA](https://wolkanca.com/befaireufa/)
 - [Gladiator 2 ilk görseller](https://wolkanca.com/gladiator-2-ilk-gorseller/)
 - [Cloudflare URL normalization](https://wolkanca.com/cloudflare-url-normalization/)
-- [Jüpiter’de Büyük Kırmızı Leke](https://wolkanca.com/jupiterde-buyuk-kirmizi-leke/)
 <!-- BLOG-POST-LIST:END -->
 
 
