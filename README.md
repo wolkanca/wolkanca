@@ -17,6 +17,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Çinli AI Uygulaması DeepSeek](https://wolkanca.com/cinli-ai-uygulamasi-deepseek/)
+- [İçerik Pazarlamasında SEO Uzmanlarının Rolü](https://wolkanca.com/icerik-pazarlamasinda-seo-uzmanlarinin-rolu/)
+- [Python Programlama Dili sınavı](https://wolkanca.com/python-programlama-dili-sinavi/)
+- [Python blok kavramı](https://wolkanca.com/python-blok-kavrami/)
+- [Python öğreniyorum](https://wolkanca.com/python-ogreniyorum/)
 - [Arabesk’in Babası Yapay Zekâda](https://wolkanca.com/arabeskin-babasi-yapay-zekada/)
 - [Squid Game 2 iddialı geliyor](https://wolkanca.com/squid-game-2-iddiali-geliyor/)
 - [2024’te Yapay Zeka Alanındaki Son Gelişmeler ve Yeni Araçlar](https://wolkanca.com/2024te-yapay-zeka-alanindaki-son-gelismeler-ve-yeni-araclar/)
@@ -27,11 +32,6 @@
 - [.TR alan adları başladı](https://wolkanca.com/tr-alan-adlari-basladi/)
 - [SimitciAI](https://wolkanca.com/simitciai/)
 - [Yüzüklerin Efendisi: Rohirrim Savaşı](https://wolkanca.com/yuzuklerin-efendisi-rohirrim-savasi/)
-- [$dikec](https://wolkanca.com/dikec/)
-- [Gerçek Youtube SEO](https://wolkanca.com/gercek-youtube-seo/)
-- [Volkan Yılmaz grubu](https://wolkanca.com/volkan-yilmaz-grubu/)
-- [#BeFairEUFA](https://wolkanca.com/befaireufa/)
-- [Gladiator 2 ilk görseller](https://wolkanca.com/gladiator-2-ilk-gorseller/)
 <!-- BLOG-POST-LIST:END -->
 
 
