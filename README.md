@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Trabzon Haberlerinin Dinamik Adresi: Günebakış](https://wolkanca.com/trabzon-haberlerinin-dinamik-adresi-gunebakis/)
 - [Çinli AI Uygulaması DeepSeek](https://wolkanca.com/cinli-ai-uygulamasi-deepseek/)
 - [İçerik Pazarlamasında SEO Uzmanlarının Rolü](https://wolkanca.com/icerik-pazarlamasinda-seo-uzmanlarinin-rolu/)
 - [Python Programlama Dili sınavı](https://wolkanca.com/python-programlama-dili-sinavi/)
@@ -31,7 +32,6 @@
 - [The Platform 2 çıktı](https://wolkanca.com/the-platform-2-cikti/)
 - [.TR alan adları başladı](https://wolkanca.com/tr-alan-adlari-basladi/)
 - [SimitciAI](https://wolkanca.com/simitciai/)
-- [Yüzüklerin Efendisi: Rohirrim Savaşı](https://wolkanca.com/yuzuklerin-efendisi-rohirrim-savasi/)
 <!-- BLOG-POST-LIST:END -->
 
 
