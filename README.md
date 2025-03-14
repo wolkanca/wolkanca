@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Türkiye SVOD Pazar Verileri &lpar;2024 Yıl Sonu&rpar;](https://wolkanca.com/turkiye-svod-pazar-verileri-2024-yil-sonu/)
 - [Trabzon Haberlerinin Dinamik Adresi: Günebakış](https://wolkanca.com/trabzon-haberlerinin-dinamik-adresi-gunebakis/)
 - [Çinli AI Uygulaması DeepSeek](https://wolkanca.com/cinli-ai-uygulamasi-deepseek/)
 - [İçerik Pazarlamasında SEO Uzmanlarının Rolü](https://wolkanca.com/icerik-pazarlamasinda-seo-uzmanlarinin-rolu/)
@@ -31,7 +32,6 @@
 - [Erşan Kuneri 2. sezon &lpar;2024&rpar; çıktı](https://wolkanca.com/ersan-kuneri-2-sezon-2024-cikti/)
 - [The Platform 2 çıktı](https://wolkanca.com/the-platform-2-cikti/)
 - [.TR alan adları başladı](https://wolkanca.com/tr-alan-adlari-basladi/)
-- [SimitciAI](https://wolkanca.com/simitciai/)
 <!-- BLOG-POST-LIST:END -->
 
 
