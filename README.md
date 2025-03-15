@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Türkiye’nin İlk Yerli Elektrikli Motosikleti RAKUN City ile Tanışın!](https://wolkanca.com/turkiyenin-ilk-yerli-elektrikli-motosikleti-rakun-city-ile-tanisin/)
 - [Türkiye SVOD Pazar Verileri &lpar;2024 Yıl Sonu&rpar;](https://wolkanca.com/turkiye-svod-pazar-verileri-2024-yil-sonu/)
 - [Trabzon Haberlerinin Dinamik Adresi: Günebakış](https://wolkanca.com/trabzon-haberlerinin-dinamik-adresi-gunebakis/)
 - [Çinli AI Uygulaması DeepSeek](https://wolkanca.com/cinli-ai-uygulamasi-deepseek/)
@@ -31,7 +32,6 @@
 - [Daron Acemoğlu Nobel Ödülü aldı](https://wolkanca.com/daron-acemoglu-nobel-odulu-aldi/)
 - [Erşan Kuneri 2. sezon &lpar;2024&rpar; çıktı](https://wolkanca.com/ersan-kuneri-2-sezon-2024-cikti/)
 - [The Platform 2 çıktı](https://wolkanca.com/the-platform-2-cikti/)
-- [.TR alan adları başladı](https://wolkanca.com/tr-alan-adlari-basladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
