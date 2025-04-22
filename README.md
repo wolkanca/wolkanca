@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2025’in ilk çeyreğine ait Türkiye streaming pazarı verileri](https://wolkanca.com/2025in-ilk-ceyregine-ait-turkiye-streaming-pazari-verileri/)
 - [Türkiye’nin İlk Yerli Elektrikli Motosikleti RAKUN City ile Tanışın!](https://wolkanca.com/turkiyenin-ilk-yerli-elektrikli-motosikleti-rakun-city-ile-tanisin/)
 - [Türkiye SVOD Pazar Verileri &lpar;2024 Yıl Sonu&rpar;](https://wolkanca.com/turkiye-svod-pazar-verileri-2024-yil-sonu/)
 - [Trabzon Haberlerinin Dinamik Adresi: Günebakış](https://wolkanca.com/trabzon-haberlerinin-dinamik-adresi-gunebakis/)
@@ -31,7 +32,6 @@
 - [Muazzez İlmiye Çığ 110 yaşında hayatını kaybetti.](https://wolkanca.com/muazzez-ilmiye-cig-110-yasinda-hayatini-kaybetti/)
 - [Daron Acemoğlu Nobel Ödülü aldı](https://wolkanca.com/daron-acemoglu-nobel-odulu-aldi/)
 - [Erşan Kuneri 2. sezon &lpar;2024&rpar; çıktı](https://wolkanca.com/ersan-kuneri-2-sezon-2024-cikti/)
-- [The Platform 2 çıktı](https://wolkanca.com/the-platform-2-cikti/)
 <!-- BLOG-POST-LIST:END -->
 
 
