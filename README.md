@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kaiwi Kanalı’nı  geçen en genç Türk](https://wolkanca.com/kaiwi-kanalini-gecen-en-genc-turk/)
 - [2025’in ilk çeyreğine ait Türkiye streaming pazarı verileri](https://wolkanca.com/2025in-ilk-ceyregine-ait-turkiye-streaming-pazari-verileri/)
 - [Türkiye’nin İlk Yerli Elektrikli Motosikleti RAKUN City ile Tanışın!](https://wolkanca.com/turkiyenin-ilk-yerli-elektrikli-motosikleti-rakun-city-ile-tanisin/)
 - [Türkiye SVOD Pazar Verileri &lpar;2024 Yıl Sonu&rpar;](https://wolkanca.com/turkiye-svod-pazar-verileri-2024-yil-sonu/)
@@ -31,7 +32,6 @@
 - [2024’te Yapay Zeka Alanındaki Son Gelişmeler ve Yeni Araçlar](https://wolkanca.com/2024te-yapay-zeka-alanindaki-son-gelismeler-ve-yeni-araclar/)
 - [Muazzez İlmiye Çığ 110 yaşında hayatını kaybetti.](https://wolkanca.com/muazzez-ilmiye-cig-110-yasinda-hayatini-kaybetti/)
 - [Daron Acemoğlu Nobel Ödülü aldı](https://wolkanca.com/daron-acemoglu-nobel-odulu-aldi/)
-- [Erşan Kuneri 2. sezon &lpar;2024&rpar; çıktı](https://wolkanca.com/ersan-kuneri-2-sezon-2024-cikti/)
 <!-- BLOG-POST-LIST:END -->
 
 
