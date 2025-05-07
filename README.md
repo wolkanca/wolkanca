@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kahvenin Efsanevi Keşfi: Keçilerin Enerji Dopingi](https://wolkanca.com/kahvenin-efsanevi-kesfi-kecilerin-enerji-dopingi/)
 - [Liseli gençler Kodlama Festivali’nde buluştu](https://wolkanca.com/liseli-gencler-kodlama-festivalinde-bulustu/)
 - [Kaiwi Kanalı’nı  geçen en genç Türk](https://wolkanca.com/kaiwi-kanalini-gecen-en-genc-turk/)
 - [2025’in ilk çeyreğine ait Türkiye streaming pazarı verileri](https://wolkanca.com/2025in-ilk-ceyregine-ait-turkiye-streaming-pazari-verileri/)
@@ -31,7 +32,6 @@
 - [Arabesk’in Babası Yapay Zekâda](https://wolkanca.com/arabeskin-babasi-yapay-zekada/)
 - [Squid Game 2 iddialı geliyor](https://wolkanca.com/squid-game-2-iddiali-geliyor/)
 - [2024’te Yapay Zeka Alanındaki Son Gelişmeler ve Yeni Araçlar](https://wolkanca.com/2024te-yapay-zeka-alanindaki-son-gelismeler-ve-yeni-araclar/)
-- [Muazzez İlmiye Çığ 110 yaşında hayatını kaybetti.](https://wolkanca.com/muazzez-ilmiye-cig-110-yasinda-hayatini-kaybetti/)
 <!-- BLOG-POST-LIST:END -->
 
 
