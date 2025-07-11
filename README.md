@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aydınlatma Dünyasında Çığır Açan Keşif: Bu Teknoloji Evleri Geleceğe Taşıyor!](https://wolkanca.com/aydinlatma-dunyasinda-cigir-acan-kesif-bu-teknoloji-evleri-gelecege-tasiyor/)
 - [Siberkondri: İnternetin Tetiklediği Hastalık Hastalığı](https://wolkanca.com/siberkondri-internetin-tetikledigi-hastalik-hastaligi/)
 - [Kahvenin Efsanevi Keşfi: Keçilerin Enerji Dopingi](https://wolkanca.com/kahvenin-efsanevi-kesfi-kecilerin-enerji-dopingi/)
 - [Liseli gençler Kodlama Festivali’nde buluştu](https://wolkanca.com/liseli-gencler-kodlama-festivalinde-bulustu/)
@@ -31,7 +32,6 @@
 - [Python blok kavramı](https://wolkanca.com/python-blok-kavrami/)
 - [Python öğreniyorum](https://wolkanca.com/python-ogreniyorum/)
 - [Arabesk’in Babası Yapay Zekâda](https://wolkanca.com/arabeskin-babasi-yapay-zekada/)
-- [Squid Game 2 iddialı geliyor](https://wolkanca.com/squid-game-2-iddiali-geliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
