@@ -17,21 +17,21 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5 çıktı, hepimiz işsiz miyiz artık?](https://wolkanca.com/gpt-5-cikti-hepimiz-issiz-miyiz-artik/)
-- [Test Cihazları: Güvenlik, Kalite ve Verimliliğin Temel Taşı](https://wolkanca.com/test-cihazlari-guvenlik-kalite-ve-verimliligin-temel-tasi/)
-- [Aydınlatma Dünyasında Çığır Açan Keşif: Bu Teknoloji Evleri Geleceğe Taşıyor!](https://wolkanca.com/aydinlatma-dunyasinda-cigir-acan-kesif-bu-teknoloji-evleri-gelecege-tasiyor/)
-- [Güç Analizörü Nedir? Enerji Verimliliği ve Kalitesinin Sırrı](https://wolkanca.com/guc-analizoru-nedir-enerji-verimliligi-ve-kalitesinin-sirri/)
-- [Meger Nedir? İzolasyon Direnci Testi ile Elektrik Arızalarını Önleyin](https://wolkanca.com/meger-nedir-izolasyon-direnci-testi-ile-elektrik-arizalarini-onleyin/)
-- [Pensampermetre Nedir? Devreyi Kesmeden Akım Ölçmenin Kolay Yolu](https://wolkanca.com/pensampermetre-nedir-devreyi-kesmeden-akim-olcmenin-kolay-yolu/)
-- [Toprak Megeri Nedir? Etkin Topraklama Ölçümü ve Önemi](https://wolkanca.com/toprak-megeri-nedir-etkin-topraklama-olcumu-ve-onemi/)
-- [Akım Test Cihazı: Elektrik Güvenliğinin Hayati Koruyucusu](https://wolkanca.com/akim-test-cihazi-elektrik-guvenliginin-hayati-koruyucusu/)
-- [Proses Kalibratörü Nedir ve Endüstriyel Otomasyondaki Önemi](https://wolkanca.com/proses-kalibratoru-nedir-ve-endustriyel-otomasyondaki-onemi/)
-- [LCR Metre Nedir? Elektronik Bileşen Analizinin Temel Taşı](https://wolkanca.com/lcr-metre-nedir-elektronik-bilesen-analizinin-temel-tasi/)
-- [Siberkondri: İnternetin Tetiklediği Hastalık Hastalığı](https://wolkanca.com/siberkondri-internetin-tetikledigi-hastalik-hastaligi/)
-- [Kahvenin Efsanevi Keşfi: Keçilerin Enerji Dopingi](https://wolkanca.com/kahvenin-efsanevi-kesfi-kecilerin-enerji-dopingi/)
-- [Liseli gençler Kodlama Festivali’nde buluştu](https://wolkanca.com/liseli-gencler-kodlama-festivalinde-bulustu/)
-- [Kaiwi Kanalı’nı  geçen en genç Türk](https://wolkanca.com/kaiwi-kanalini-gecen-en-genc-turk/)
-- [2025’in ilk çeyreğine ait Türkiye streaming pazarı verileri](https://wolkanca.com/2025in-ilk-ceyregine-ait-turkiye-streaming-pazari-verileri/)
+- [Hioki Test ve Ölçüm Cihazları Endüstriyel Uygulamalarda Neden Önemli?](https://wolkanca.com/hioki-test-ve-olcum-cihazlari-endustriyel-uygulamalarda-neden-onemli)
+- [Endüstriyel Ölçümde Yokogawa Test Cihazları ve Doğru Ürün Seçimi](https://wolkanca.com/endustriyel-olcumde-yokogawa-test-cihazlari-ve-dogru-urun-secimi)
+- [Enerji Tesislerinde Test Devreye Alma ve Elektriksel Güvenlik Neden Önemli?](https://wolkanca.com/enerji-tesislerinde-test-devreye-alma-ve-elektriksel-guvenlik-neden-onemli)
+- [Kalibrasyon Nedir ve Endüstriyel Ölçümlerde Neden Bu Kadar Önemlidir?](https://wolkanca.com/kalibrasyon-nedir-ve-endustriyel-olcumlerde-neden-bu-kadar-onemlidir)
+- [Endüstriyel Ölçüm ve Test Cihazlarında Doğru Ekipman Seçimi Neden Önemli?](https://wolkanca.com/endustriyel-olcum-ve-test-cihazlarinda-dogru-ekipman-secimi-neden-onemli)
+- [Kalibrasyon Nedir? Kalibrasyon Süreci ve Önemi Hakkında Bilmeniz Gerekenler](https://wolkanca.com/kalibrasyon-nedir-kalibrasyon-sureci-ve-onemi-hakkinda-bilmeniz-gerekenler)
+- [Genel Servis, Hasar Sürecinde Sigortalı ve Acenteler İçin Şeffaf Hizmet Modelini Öne Çıkarıyor](https://wolkanca.com/genel-servis-hasar-surecinde-sigortali-ve-acenteler-icin-seffaf-hizmet-modelini-one-cikariyor)
+- [Apple Sports’a Süper Lig geldi](https://wolkanca.com/apple-sportsa-super-lig-geldi)
+- [Google hesabınıza selfie videosuyla giriş yapabileceksiniz](https://wolkanca.com/google-hesabiniza-selfie-videosuyla-giris-yapabileceksiniz)
+- [Disney+, Türkiye’de Amazon Prime Video’yu Zorluyor: 2026 İkinci Çeyrek Streaming Raporu Yayınlandı](https://wolkanca.com/disney-turkiyede-amazon-prime-videoyu-zorluyor-2026-ikinci-ceyrek-streaming-raporu-yayinlandi)
+- [Windows 11 cloud rebuild](https://wolkanca.com/windows-11-cloud-rebuild)
+- [2026 iPhone Fotoğrafçılık Ödülleri’nin kazananları açıklandı](https://wolkanca.com/2026-iphone-fotografcilik-odullerinin-kazananlari-aciklandi)
+- [Anthropic, ekipler için hazırladığı Claude Tag sistemini duyurdu](https://wolkanca.com/anthropic-ekipler-icin-hazirladigi-claude-tag-sistemini-duyurdu)
+- [Apple’ın üzerinde çalıştığı 20 yeni ürün](https://wolkanca.com/applein-uzerinde-calistigi-20-yeni-urun)
+- [Endüstriyel Tesisler İçin Güvenilir Elektriksel Bakım ve Test Hizmetleri: Jaka Enerji](https://wolkanca.com/endustriyel-tesisler-icin-guvenilir-elektriksel-bakim-ve-test-hizmetleri-jaka-enerji)
 <!-- BLOG-POST-LIST:END -->
 
 
