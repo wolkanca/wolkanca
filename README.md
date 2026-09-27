@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Black Mirror’ın yaratıcısı Charlie Brooker’dan yeni Netflix dizisi: Blackmere](https://wolkanca.com/black-mirrorin-yaraticisi-charlie-brookerdan-yeni-netflix-dizisi-blackmere)
 - [Hioki Test ve Ölçüm Cihazları Endüstriyel Uygulamalarda Neden Önemli?](https://wolkanca.com/hioki-test-ve-olcum-cihazlari-endustriyel-uygulamalarda-neden-onemli)
 - [Endüstriyel Ölçümde Yokogawa Test Cihazları ve Doğru Ürün Seçimi](https://wolkanca.com/endustriyel-olcumde-yokogawa-test-cihazlari-ve-dogru-urun-secimi)
 - [Enerji Tesislerinde Test Devreye Alma ve Elektriksel Güvenlik Neden Önemli?](https://wolkanca.com/enerji-tesislerinde-test-devreye-alma-ve-elektriksel-guvenlik-neden-onemli)
@@ -31,7 +32,6 @@
 - [2026 iPhone Fotoğrafçılık Ödülleri’nin kazananları açıklandı](https://wolkanca.com/2026-iphone-fotografcilik-odullerinin-kazananlari-aciklandi)
 - [Anthropic, ekipler için hazırladığı Claude Tag sistemini duyurdu](https://wolkanca.com/anthropic-ekipler-icin-hazirladigi-claude-tag-sistemini-duyurdu)
 - [Apple’ın üzerinde çalıştığı 20 yeni ürün](https://wolkanca.com/applein-uzerinde-calistigi-20-yeni-urun)
-- [Endüstriyel Tesisler İçin Güvenilir Elektriksel Bakım ve Test Hizmetleri: Jaka Enerji](https://wolkanca.com/endustriyel-tesisler-icin-guvenilir-elektriksel-bakim-ve-test-hizmetleri-jaka-enerji)
 <!-- BLOG-POST-LIST:END -->
 
 
