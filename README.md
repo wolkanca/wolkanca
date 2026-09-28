@@ -17,6 +17,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google 28 yaşında: Bir garajdan yapay zekâ çağına](https://wolkanca.com/google-28-yasinda-bir-garajdan-yapay-zeka-cagina)
+- [Ekim 2026’da başlayacak en dikkat çekici 10 dizi](https://wolkanca.com/ekim-2026da-baslayacak-en-dikkat-cekici-10-dizi)
 - [Black Mirror’ın yaratıcısı Charlie Brooker’dan yeni Netflix dizisi: Blackmere](https://wolkanca.com/black-mirrorin-yaraticisi-charlie-brookerdan-yeni-netflix-dizisi-blackmere)
 - [Hioki Test ve Ölçüm Cihazları Endüstriyel Uygulamalarda Neden Önemli?](https://wolkanca.com/hioki-test-ve-olcum-cihazlari-endustriyel-uygulamalarda-neden-onemli)
 - [Endüstriyel Ölçümde Yokogawa Test Cihazları ve Doğru Ürün Seçimi](https://wolkanca.com/endustriyel-olcumde-yokogawa-test-cihazlari-ve-dogru-urun-secimi)
@@ -30,8 +32,6 @@
 - [Disney+, Türkiye’de Amazon Prime Video’yu Zorluyor: 2026 İkinci Çeyrek Streaming Raporu Yayınlandı](https://wolkanca.com/disney-turkiyede-amazon-prime-videoyu-zorluyor-2026-ikinci-ceyrek-streaming-raporu-yayinlandi)
 - [Windows 11 cloud rebuild](https://wolkanca.com/windows-11-cloud-rebuild)
 - [2026 iPhone Fotoğrafçılık Ödülleri’nin kazananları açıklandı](https://wolkanca.com/2026-iphone-fotografcilik-odullerinin-kazananlari-aciklandi)
-- [Anthropic, ekipler için hazırladığı Claude Tag sistemini duyurdu](https://wolkanca.com/anthropic-ekipler-icin-hazirladigi-claude-tag-sistemini-duyurdu)
-- [Apple’ın üzerinde çalıştığı 20 yeni ürün](https://wolkanca.com/applein-uzerinde-calistigi-20-yeni-urun)
 <!-- BLOG-POST-LIST:END -->
 
 
