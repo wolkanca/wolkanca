@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Türkiye’de haftanın en popüler film ve dizileri &lpar;12 Ekim 2026&rpar;](https://wolkanca.com/turkiyede-haftanin-en-populer-film-ve-dizileri-12-ekim-2026)
 - [SEO’nun Yanına GEO Geliyor: Markaların Yeni Hedefi Yapay Zekâ Yanıtlarında Yer Almak](https://wolkanca.com/seonun-yanina-geo-geliyor-markalarin-yeni-hedefi-yapay-zeka-yanitlarinda-yer-almak)
 - [Google 28 yaşında: Bir garajdan yapay zekâ çağına](https://wolkanca.com/google-28-yasinda-bir-garajdan-yapay-zeka-cagina)
 - [Ekim 2026’da başlayacak en dikkat çekici 10 dizi](https://wolkanca.com/ekim-2026da-baslayacak-en-dikkat-cekici-10-dizi)
@@ -31,7 +32,6 @@
 - [Apple Sports’a Süper Lig geldi](https://wolkanca.com/apple-sportsa-super-lig-geldi)
 - [Google hesabınıza selfie videosuyla giriş yapabileceksiniz](https://wolkanca.com/google-hesabiniza-selfie-videosuyla-giris-yapabileceksiniz)
 - [Disney+, Türkiye’de Amazon Prime Video’yu Zorluyor: 2026 İkinci Çeyrek Streaming Raporu Yayınlandı](https://wolkanca.com/disney-turkiyede-amazon-prime-videoyu-zorluyor-2026-ikinci-ceyrek-streaming-raporu-yayinlandi)
-- [Windows 11 cloud rebuild](https://wolkanca.com/windows-11-cloud-rebuild)
 <!-- BLOG-POST-LIST:END -->
 
 
