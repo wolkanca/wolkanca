@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP2Shell alarmı: WordPress sitelerini tehdit eden kritik PHP güvenlik açığı](https://wolkanca.com/php2shell-alarmi-wordpress-sitelerini-tehdit-eden-kritik-php-guvenlik-acigi)
 - [GTA 6’nın Yeni Fragmanı Yayınlandı! Çıkış Tarihi ve Detaylar](https://wolkanca.com/gta-6nin-yeni-fragmani-yayinlandi-cikis-tarihi-ve-detaylar)
 - [Türkiye’de haftanın en popüler film ve dizileri &lpar;12 Ekim 2026&rpar;](https://wolkanca.com/turkiyede-haftanin-en-populer-film-ve-dizileri-12-ekim-2026)
 - [SEO’nun Yanına GEO Geliyor: Markaların Yeni Hedefi Yapay Zekâ Yanıtlarında Yer Almak](https://wolkanca.com/seonun-yanina-geo-geliyor-markalarin-yeni-hedefi-yapay-zeka-yanitlarinda-yer-almak)
@@ -31,7 +32,6 @@
 - [Kalibrasyon Nedir? Kalibrasyon Süreci ve Önemi Hakkında Bilmeniz Gerekenler](https://wolkanca.com/kalibrasyon-nedir-kalibrasyon-sureci-ve-onemi-hakkinda-bilmeniz-gerekenler)
 - [Genel Servis, Hasar Sürecinde Sigortalı ve Acenteler İçin Şeffaf Hizmet Modelini Öne Çıkarıyor](https://wolkanca.com/genel-servis-hasar-surecinde-sigortali-ve-acenteler-icin-seffaf-hizmet-modelini-one-cikariyor)
 - [Apple Sports’a Süper Lig geldi](https://wolkanca.com/apple-sportsa-super-lig-geldi)
-- [Google hesabınıza selfie videosuyla giriş yapabileceksiniz](https://wolkanca.com/google-hesabiniza-selfie-videosuyla-giris-yapabileceksiniz)
 <!-- BLOG-POST-LIST:END -->
 
 
