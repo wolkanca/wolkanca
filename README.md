@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chrome artık Gmail’den bilgi çekerek formları doldurabiliyor](https://wolkanca.com/chrome-artik-gmailden-bilgi-cekerek-formlari-doldurabiliyor)
 - [WordPress Jetpack alan adı engellendi](https://wolkanca.com/wordpress-jetpack-alan-adi-engellendi)
 - [The Rings of Power 3. sezon fragmanı yayınlandı: Tek Yüzük zamanı](https://wolkanca.com/the-rings-of-power-3-sezon-fragmani-yayinlandi-tek-yuzuk-zamani)
 - [PHP2Shell alarmı: WordPress sitelerini tehdit eden kritik PHP güvenlik açığı](https://wolkanca.com/php2shell-alarmi-wordpress-sitelerini-tehdit-eden-kritik-php-guvenlik-acigi)
@@ -31,7 +32,6 @@
 - [Enerji Tesislerinde Test Devreye Alma ve Elektriksel Güvenlik Neden Önemli?](https://wolkanca.com/enerji-tesislerinde-test-devreye-alma-ve-elektriksel-guvenlik-neden-onemli)
 - [Kalibrasyon Nedir ve Endüstriyel Ölçümlerde Neden Bu Kadar Önemlidir?](https://wolkanca.com/kalibrasyon-nedir-ve-endustriyel-olcumlerde-neden-bu-kadar-onemlidir)
 - [Endüstriyel Ölçüm ve Test Cihazlarında Doğru Ekipman Seçimi Neden Önemli?](https://wolkanca.com/endustriyel-olcum-ve-test-cihazlarinda-dogru-ekipman-secimi-neden-onemli)
-- [Kalibrasyon Nedir? Kalibrasyon Süreci ve Önemi Hakkında Bilmeniz Gerekenler](https://wolkanca.com/kalibrasyon-nedir-kalibrasyon-sureci-ve-onemi-hakkinda-bilmeniz-gerekenler)
 <!-- BLOG-POST-LIST:END -->
 
 
