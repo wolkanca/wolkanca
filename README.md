@@ -17,6 +17,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube’dan 24 saatlik GTA 6 canlı yayını](https://wolkanca.com/youtubedan-24-saatlik-gta-6-canli-yayini)
 - [David Rumsey: Eski haritalarla internette kaybolmanın güzel yolu](https://wolkanca.com/david-rumsey-eski-haritalarla-internette-kaybolmanin-guzel-yolu)
 - [Gmail’de 3 taraf e-posta desteği değişiyor](https://wolkanca.com/gmailde-3-taraf-e-posta-destegi-degisiyor)
 - [Chrome artık Gmail’den bilgi çekerek formları doldurabiliyor](https://wolkanca.com/chrome-artik-gmailden-bilgi-cekerek-formlari-doldurabiliyor)
@@ -31,7 +32,6 @@
 - [Black Mirror’ın yaratıcısı Charlie Brooker’dan yeni Netflix dizisi: Blackmere](https://wolkanca.com/black-mirrorin-yaraticisi-charlie-brookerdan-yeni-netflix-dizisi-blackmere)
 - [Hioki Test ve Ölçüm Cihazları Endüstriyel Uygulamalarda Neden Önemli?](https://wolkanca.com/hioki-test-ve-olcum-cihazlari-endustriyel-uygulamalarda-neden-onemli)
 - [Endüstriyel Ölçümde Yokogawa Test Cihazları ve Doğru Ürün Seçimi](https://wolkanca.com/endustriyel-olcumde-yokogawa-test-cihazlari-ve-dogru-urun-secimi)
-- [Enerji Tesislerinde Test Devreye Alma ve Elektriksel Güvenlik Neden Önemli?](https://wolkanca.com/enerji-tesislerinde-test-devreye-alma-ve-elektriksel-guvenlik-neden-onemli)
 <!-- BLOG-POST-LIST:END -->
 
 
