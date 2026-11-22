@@ -14,6 +14,14 @@
 - Linkedin: https://www.linkedin.com/in/wolkanca/
 
 
+## Oyunlar: 
+- https://wolkanca.com/gercek-haber-mi-uydurma-mi-bu-haberlerin-hangisine-inanirsin
+- https://wolkanca.com/gercek-mi-yapay-zeka-mi-quiz-oyun
+- https://wolkanca.com/yakinlastirilmis-nesneyi-bul-bu-gorselde-ne-var-oyun
+- https://wolkanca.com/turkiyeyi-ne-kadar-taniyorsun-sehir-tahmin-oyunu
+- https://wolkanca.com/terorist-tanima-terorist-testi-oyunu-terorist-quiz
+
+
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
