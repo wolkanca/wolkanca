@@ -25,6 +25,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hangi Oyun Bu? 3 Simgeden Video Oyununu Tahmin Et!](https://wolkanca.com/hangi-oyun-bu-3-simgeden-video-oyununu-tahmin-et)
 - [Gerçek Haber mi, Uydurma mı? Bu Haberlerin Hangisine İnanırsın?](https://wolkanca.com/gercek-haber-mi-uydurma-mi-bu-haberlerin-hangisine-inanirsin)
 - [Türkiye’yi Ne Kadar Tanıyorsun? Şehir Tahmin Oyunu](https://wolkanca.com/turkiyeyi-ne-kadar-taniyorsun-sehir-tahmin-oyunu)
 - [Gerçek mi, Yapay Zekâ mı? Quiz [Oyun]](https://wolkanca.com/gercek-mi-yapay-zeka-mi-quiz-oyun)
@@ -39,7 +40,6 @@
 - [PHP2Shell alarmı: WordPress sitelerini tehdit eden kritik PHP güvenlik açığı](https://wolkanca.com/php2shell-alarmi-wordpress-sitelerini-tehdit-eden-kritik-php-guvenlik-acigi)
 - [GTA 6’nın Yeni Fragmanı Yayınlandı! Çıkış Tarihi ve Detaylar](https://wolkanca.com/gta-6nin-yeni-fragmani-yayinlandi-cikis-tarihi-ve-detaylar)
 - [Türkiye’de haftanın en popüler film ve dizileri &lpar;12 Ekim 2026&rpar;](https://wolkanca.com/turkiyede-haftanin-en-populer-film-ve-dizileri-12-ekim-2026)
-- [SEO’nun Yanına GEO Geliyor: Markaların Yeni Hedefi Yapay Zekâ Yanıtlarında Yer Almak](https://wolkanca.com/seonun-yanina-geo-geliyor-markalarin-yeni-hedefi-yapay-zeka-yanitlarinda-yer-almak)
 <!-- BLOG-POST-LIST:END -->
 
 
